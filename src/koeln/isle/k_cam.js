@@ -12,6 +12,7 @@
     var fw = KCAM.dir || (KCAM.dir = new THREE.Vector3()); cam.getWorldDirection(fw); var fl = Math.hypot(fw.x, fw.z) || 1, d = (fw.x * dx + fw.z * dz) / (fl * L);
     var near = 1 - Math.max(0, Math.min(1, (L - 90) / 80)); return Math.max(0, Math.min(1, (d - 0.15) / 0.6)) * near; }
   var _tkCameraK = tkCamera; tkCamera = function (dt, snap) {
+    /* (V85) how fast she rises or sinks (a stair climbed asks the arm for its higher angles first: TKM.camOrder) */ if (TK && TK.id === 'koeln') { if (KCAM.py == null || snap) KCAM.py = pos.y; var vy = dt > 1e-4 ? (pos.y - KCAM.py) / dt : 0; KCAM.py = pos.y; TC.climb = snap ? 0 : (TC.climb || 0) + (Math.max(-3, Math.min(3, vy)) - (TC.climb || 0)) * Math.min(1, dt * 4); }
     if (TK && TK.id === 'koeln' && TC.zone === 'domPl') { var f0 = KCAM.f; TKV.domPl[1] = 0.26 - 0.14 * f0; TKV.domPl[0] = 8.2 + 1.6 * f0; }
     /* pressed against a wall with no room behind her (a passage's side, a pillar, a corner) while nobody steers the view: look round for the
        freest direction — along the passage or the stair first — and swing there */
@@ -25,8 +26,18 @@
     if (CAM.userT > 0) want *= 0.5; /* the player's own tilt is respected */
     KCAM.up += (want - KCAM.up) * (snap ? 1 : Math.min(1, dt * 1.6));
     if (KCAM.up > 0.02) { var tg = KCAM.tmp || (KCAM.tmp = new THREE.Vector3()); tg.set(CAM.tgt.x, CAM.tgt.y + KCAM.up, CAM.tgt.z); cam.lookAt(tg);
-      cam.getWorldDirection(TC.fw); KIT.U.uSeeC.value.copy(cam.position); KIT.U.uSeeP.value.copy(cam.position).addScaledVector(TC.fw, -0.01); } };
-  window.ISLE_x = window.ISLE_x || {}; window.ISLE_x.cam = function () { return { zone: TC.zone, d: TC.d && +TC.d.toFixed(2), p: TC.p && +TC.p.toFixed(2), up: +KCAM.up.toFixed(2), f: +KCAM.f.toFixed(2), yaw: +CAM.yaw.toFixed(2), vis: !!(luna && luna.root.visible), fov: +cam.fov.toFixed(1) }; };
+      cam.getWorldDirection(TC.fw); KIT.U.uSeeC.value.copy(cam.position); KIT.U.uSeeP.value.copy(cam.position).addScaledVector(TC.fw, -0.01); }
+    try { kcamOcc(); } catch (e) { if (window.ISLE_TEST) throw e; } };
+  /* (V85) people (and the dog) the camera has come up against, or who stand between it and Mira, step out of the picture —
+     a walker passing on a stair or in a passage used to fill the screen. Hidden only by this rule, and shown again as soon as they are clear. */
+  var KOCC = { p: new THREE.Vector3(), n: 0 };
+  function kcamOcc() { if (!TK || TK.id !== 'koeln' || typeof GS === 'undefined') return; var cp = cam.position, tx = pos.x, ty = pos.y + 1.0, tz = pos.z, dx = tx - cp.x, dy = ty - cp.y, dz = tz - cp.z, dh2 = dx * dx + dz * dz || 1, dl = Math.sqrt(dh2 + dy * dy), L = [], n = 0;
+    function add(o) { var r = o && (o.A ? o.A.root : o.root); if (r) L.push(r); } (GS.npcs || []).forEach(add); (GS.cops || []).forEach(add); (GS.talkers || []).forEach(add); if (typeof DOGS !== 'undefined' && DOGS.m) add(DOGS.m.D);
+    L.forEach(function (r) { var ud = r.userData, hide = false; if (r.visible || ud.kOcc) { r.getWorldPosition(KOCC.p); var p = KOCC.p, hy = Math.max(p.y, Math.min(p.y + 1.8, cp.y)), eh = Math.hypot(p.x - cp.x, p.z - cp.z);
+        if (Math.hypot(eh, hy - cp.y) < 0.9) hide = true; /* the lens in or against them */
+        else { var t = ((p.x - cp.x) * dx + (p.z - cp.z) * dz) / dh2; if (t > 0 && t < 1 && t * dl < dl - 0.7) { var qy = cp.y + dy * t; if (Math.hypot(p.x - cp.x - dx * t, p.z - cp.z - dz * t) < 0.42 && qy > p.y - 0.1 && qy < p.y + 1.9) hide = true; } } } /* in the line of sight (not beside her) */
+      if (hide) { n++; if (r.visible) { r.visible = false; ud.kOcc = true; } } else if (ud.kOcc) { ud.kOcc = false; r.visible = true; } }); KOCC.n = n; }
+  window.ISLE_x = window.ISLE_x || {}; window.ISLE_x.cam = function () { return { occ: KOCC.n, zone: TC.zone, d: TC.d && +TC.d.toFixed(2), p: TC.p && +TC.p.toFixed(2), up: +KCAM.up.toFixed(2), f: +KCAM.f.toFixed(2), yaw: +CAM.yaw.toFixed(2), vis: !!(luna && luna.root.visible), fov: +cam.fov.toFixed(1) }; };
   /* the view's depth: on a clear day the far bank, the bridge's whole length and the cathedral from Deutz stand sharp; cloud, rain, snow
      and fog close the distance in */
   var KVIEW = { fog: function () { if (!TK || TK.id !== 'koeln' || !W.wxState) return null; var s = W.wxState() || {}, k = Math.max(0, Math.min(1, (s.cloud || 0) * 0.2 + (s.rain || 0) * 0.55 + (s.fog || 0) * 1.1 + (s.snow || 0) * 0.6));

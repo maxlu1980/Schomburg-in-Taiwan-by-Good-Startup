@@ -5,6 +5,8 @@ var DOP_URL = 'https://www.schomburg.com/de/en/files/declaration-of-performance-
 var GUIDE_URL = 'https://www.schomburg.com/de/en/files/application-guide-book-constructive-waterproofing-and-restoration-works-ef75169c-a6ed-4572-857b-110c12dbebba';
 var POOL_URL = 'https://www.schomburg.com/de/en/files/swimming-pools-plan-and-construct-with-confidence-995f4875-ee77-40ac-807f-856e4e8f201c';
 var PRODUCT_URL = 'https://www.schomburg.com/de/en/products/aquafin-p4';
+/* the page's name: where the head names the site (application-name — the published site), a tab or a bookmark always reads that name */
+function siteTitle(t) { var m = document.querySelector('meta[name="application-name"]'); document.title = m && m.content ? m.content : t; }
 
 var T = {
 en: {
@@ -3409,7 +3411,7 @@ var Menu = (function () {
       '<div class="crumbs__switch" role="group" aria-label="' + tr('menu.switch') + '">' + G.subs.map(function (x) { return '<a href="' + x.hash + '" data-go="' + x.id + '" data-grp="' + G.id + '"' + (x.id === subId ? ' aria-current="page"' : '') + '>' + L(x) + '</a>'; }).join('') + '</div></div>';
     var sw = $('crumbs').querySelector('.crumbs__switch'), cur = sw && sw.querySelector('[aria-current]'); if (cur && sw.scrollWidth > sw.clientWidth + 2) sw.scrollLeft = Math.max(0, cur.offsetLeft - sw.offsetLeft - (sw.clientWidth - cur.offsetWidth) / 2); /* on narrow screens the row scrolls, so bring the current one into view */
     var fp = $('footProduct'), ft = $('footTds'); if (cat !== 'inj') { fp.href = sUrl; fp.textContent = tr('foot.product.' + cat); ft.textContent = tr('foot.tds.' + cat); } else { fp.href = SB + '/products/aquafin-p4'; fp.textContent = tr('foot.product'); ft.textContent = tr('foot.tdsdate'); }
-    document.title = tr('title.' + cat);
+    siteTitle(tr('title.' + cat));
     /* the guide takes the context of the group it was reached through: the kicker over its title and the links to its subgroup page */
     var M = mains()[cat]; if (M && cat !== 'inj') { var k = M.querySelector('.cover__kicker'); if (k) k.textContent = L(G) + ' · ' + sName; [].forEach.call(M.querySelectorAll('a[data-suburl]'), function (a) { a.href = sUrl; }); }
     renderPanel(); buildSpy();
@@ -14608,7 +14610,7 @@ var DocCenter = (function () {
     $('dcBarLbl').textContent = T.bar; $('dcKicker').textContent = T.kicker; $('dcTitle').textContent = T.title; $('dcSub').textContent = T.sub;
     $('dcSysH').textContent = T.step1; $('dcSysHint').textContent = T.step1Hint; $('dcGuide').textContent = T.guide;
     $('dcCloseLbl').textContent = T.close; $('dcClose').setAttribute('aria-label', T.closeAria);
-    if (isOpen) { tiles(); document.title = T.bar + ' · SCHOMBURG'; }
+    if (isOpen) { tiles(); siteTitle(T.bar + ' · SCHOMBURG'); }
   }
   function restore() { if (moved && slot && slot.parentNode) { slot.parentNode.insertBefore(moved, slot); slot.parentNode.removeChild(slot); } moved = null; slot = null; }
   function select(id) {
@@ -14617,7 +14619,7 @@ var DocCenter = (function () {
     restore(); sel = id; tiles();
     $('dcGuide').setAttribute('href', anchorOf(id));
     if (Menu.cat() !== id) Menu.show(id, { hash: false, scroll: false }); // starts the guide behind the centre, where it lays out normally
-    if (isOpen) document.title = XL().bar + ' · SCHOMBURG';
+    if (isOpen) siteTitle(XL().bar + ' · SCHOMBURG');
     var panel = $(id + 'Docs'), host = $('dcHost');
     if (!panel) { host.innerHTML = '<p class="muted">' + XL().loading + '</p>'; return; }
     slot = document.createElement('div'); slot.className = 'dc__slot'; slot.hidden = true; panel.parentNode.insertBefore(slot, panel);

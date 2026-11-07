@@ -40,7 +40,7 @@ patch('07_island_h', "if (W.fog) { W.fog.near = 70; W.fog.far = 460; } }\n", "if
 patch('27_island_c', "[['zh', '繁體中文'], ['en', 'English'], ['ja', '日本語']]", "[['en', 'English'], ['zh', '繁體中文'], ['de', 'Deutsch']]")
 
 # ---- the text agents' patches (exact strings, per part) ----
-for _pf in ['kpatch_ui.py', 'kpatch_world.py', 'kpatch_street.py', 'kpatch_fight.py', 'kpatch_k.py', 'kpatch_v80.py', 'kpatch_v83.py', 'kpatch_v84.py']:
+for _pf in ['kpatch_ui.py', 'kpatch_world.py', 'kpatch_street.py', 'kpatch_fight.py', 'kpatch_k.py', 'kpatch_v80.py', 'kpatch_v83.py', 'kpatch_v84.py', 'kpatch_v85.py']:
     if (ROOT / 'game' / 'tools' / _pf).exists(): exec(open(ROOT / 'game' / 'tools' / _pf, encoding='utf-8').read())
 
 def build():

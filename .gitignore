@@ -19,3 +19,4 @@ game/tts/vox/
 game/tts/out/
 # backups
 *.bak
+build/

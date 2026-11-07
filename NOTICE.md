@@ -28,7 +28,9 @@ Hohenzollernbrücke, Köln Hauptbahnhof and their surroundings; place names are 
 place names. All characters, models, textures, voices, music arrangements and sounds are
 original work generated for this project. The opening film's music is an original
 arrangement of *An der schönen blauen Donau*, op. 314 (Johann Strauss II, 1867, public
-domain), synthesised in the browser. Mira's German voice lines were synthesised offline
+domain), played by a sampled orchestra and recorded offline by `game/tools/mkscore85.py` (FluidSynth with the MuseScore
+General soundfont; the recording is embedded as MP3 in `src/koeln/score85.js`; the earlier in-browser synthesis remains the
+fallback). Mira's German voice lines were synthesised offline
 with the Supertonic text-to-speech model (Supertone Inc., OpenRAIL licence; run through
 sherpa-onnx by `game/tts/make_vox.py`) and are embedded as MP3 clips in
 `src/koeln/isle/k_vox.js`; the model itself is not part of the repository.
@@ -42,6 +44,7 @@ sherpa-onnx by `game/tts/make_vox.py`) and are embedded as MP3 clips in
 | docx | 9.11.0 | MIT — © Dolan Miu | same |
 | Jost | 3.710 | SIL Open Font License 1.1 — © 2020 The Jost Project Authors (indestructible-type) | subset in `fonts/jost-400.ttf`, `fonts/jost-700.ttf` |
 | Noto Sans TC | 2.004 | SIL Open Font License 1.1 — © 2014-2021 Adobe (with Reserved Font Name "Source") | subset in `fonts/noto-tc-400.ttf`, `fonts/noto-tc-700.ttf` |
+| MuseScore General soundfont | 0.2.1 (Debian/Ubuntu package `musescore-general-soundfont`) | MIT — © 2018-2021 S. Christian Collins; ensemble strings from the Versilian Studios Chamber Orchestra 2 CE and cymbals from the Versilian Community Sample Library (CC0, Sam Gossner et al.); Fluid (R3) Mono GM (MIT, © 2014-2017 Michael Cowgill) and Fluid (R3) GM (MIT, © 2000-2002, 2008 Frank Wen) | used to render the opening score; only the rendered recording is shipped (`src/koeln/score85.js`), not the soundfont |
 | Playwright, axe-core, html-validate, acorn | see `package.json` | Apache-2.0 / MPL-2.0 / MIT / MIT | development only (QA harness) |
 
 The full text of the SIL Open Font License 1.1 is in `fonts/OFL-1.1.txt`. The font files

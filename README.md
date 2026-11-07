@@ -106,6 +106,7 @@ i18n/en.json + i18n/de/*.json  ──assemble.py──▶  src/de.js
 game/css/isle_raw.css + src/koeln/isle/k_style.css + k_cis.css  ──mkcss.py──▶  src/koeln/isle.css
 src/koeln/city/*.js  ──mkcity.sh──▶  src/koeln/koeln3d.js
 game/ref/parts/*.js (reference engine, not included) + src/koeln/isle/*.js + kpatch_*.py  ──port.py──▶  src/koeln/kisle.js
+game/tools/mkscore85.py (FluidSynth + MuseScore General soundfont)  ──▶  src/koeln/score85.js (the opening film's recorded score)
 src/* + fonts/* (+ node_modules)  ──build.py──▶  dist/*
 ```
 
@@ -205,6 +206,7 @@ i18n/en.json + i18n/de/*.json  ──assemble.py──▶  src/de.js
 game/css/isle_raw.css + src/koeln/isle/k_style.css + k_cis.css  ──mkcss.py──▶  src/koeln/isle.css
 src/koeln/city/*.js  ──mkcity.sh──▶  src/koeln/koeln3d.js
 game/ref/parts/*.js（參考引擎，未收錄）+ src/koeln/isle/*.js + kpatch_*.py  ──port.py──▶  src/koeln/kisle.js
+game/tools/mkscore85.py（FluidSynth + MuseScore General 音色庫）  ──▶  src/koeln/score85.js（開場影片的錄製配樂）
 src/* + fonts/*（+ node_modules）  ──build.py──▶  dist/*
 ```
 

@@ -1,6 +1,6 @@
 {
   "name": "schomburg-in-taiwan-by-good-startup",
-  "version": "84.0.0",
+  "version": "85.0.0",
   "description": "Schomburg in Taiwan by Good Startup — SCHOMBURG application guides — six interactive construction-chemistry guides (crack injection, concrete restoration, mineral waterproofing, crystalline waterproofing, crystalline admixture, protective flooring) with hands-on 3D simulators, document generation (quotes, method statements, specifications, submittals, comparisons) and the Köln training game. One self-contained HTML page in English, Traditional Chinese (Taiwan) and German.",
   "homepage": "https://maxlu1980.github.io/Schomburg-in-Taiwan-by-Good-Startup/",
   "repository": {
@@ -34,7 +34,11 @@
     "test:game": "node qa/kplay.js qa/scenarios/ui_a_desk.json && node qa/kplay.js qa/scenarios/ui_a_phone.json && node qa/kplay.js qa/scenarios/col4.json && node qa/kplay.js qa/scenarios/smooth1.json && node qa/kplay.js qa/scenarios/gfx5.json && node qa/kplay.js qa/scenarios/indoor1.json",
     "test:game:a11y": "node qa/kplay.js qa/scenarios/axe_game.json && node qa/kplay.js qa/scenarios/axe_game_phone.json",
     "test:film": "node qa/kfull.js qa/scenarios/kfull82.json",
-    "validate:html": "html-validate dist/aquafin-p4-injection-guide.html"
+    "validate:html": "html-validate dist/aquafin-p4-injection-guide.html",
+    "test:stairs": "node qa/kplay.js qa/scenarios/stairs_up.json && node qa/kplay.js qa/scenarios/stairs_down.json",
+    "audit:coplanar": "node qa/coplanar.js station && node qa/coplanar.js city",
+    "audit:flicker": "node qa/flicker.js 8765 shots/flicker.json local && python3 qa/flicker_diff.py shots/flicker.json",
+    "score": "python3 game/tools/mkscore85.py"
   },
   "dependencies": {
     "docx": "9.11.0",

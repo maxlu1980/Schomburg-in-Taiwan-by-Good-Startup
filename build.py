@@ -21,7 +21,7 @@ de = rd(src / 'de.js') if (src / 'de.js').exists() else ''
 assert app.count('(function boot() {') == 1
 app = app.replace('(function boot() {', de + '\n(function boot() {', 1)  # the German dictionaries (src/de.js, generated from i18n/de) join the others before the page boots
 # V61: SCHOMBURG · KÖLN — the game of the guide in one city (Köln), on the reference ISLE engine (src/koeln, assembled by game/tools)
-KOELN = ['lib/SimAudio.js', 'lib/KIT.js', 'lib/LUNA.js', 'lib/PROPS.js', 'lib/DOG.js', 'lib/MAX.js', 'lib/BOSSM.js', 'lib/TOKYO3D.js', 'lib/TPE3D.js', 'lib/SKY.js', 'kw.js', 'koeln3d.js', 'isle/k_stubs.js', 'kisle.js']
+KOELN = ['lib/SimAudio.js', 'lib/KIT.js', 'lib/LUNA.js', 'lib/PROPS.js', 'lib/DOG.js', 'lib/MAX.js', 'lib/BOSSM.js', 'lib/TOKYO3D.js', 'lib/TPE3D.js', 'lib/SKY.js', 'kw.js', 'koeln3d.js', 'isle/k_stubs.js', 'score85.js', 'kisle.js']
 game = '\n'.join(rd(src / 'koeln' / f) for f in KOELN)
 app = app.replace("typeof JIB !== 'undefined') JIB.relabel()", "typeof ISLE !== 'undefined') ISLE.relabel()").replace("typeof JIB !== 'undefined') { try { JIB.boot()", "typeof ISLE !== 'undefined') { try { ISLE.boot()")  # Jobsite in Between (V58): core/i18n/input, sky+terrain, actors, audio, UI, world, main — before the site, after the simulators
 app = hsaudio + '\n' + hsim + '\n' + game + '\n' + app  # the jobsite sound (src/hsaudio.js), then the hands-on simulators (src/hsim.js), before the site runs its init  # the hands-on simulators (src/hsim.js) are defined before the site runs its init (the guides' shells insert the gates)
