@@ -1,0 +1,174 @@
+SLOT pf/B351 ASODUR-B351 — universal epoxy industrial floor coating, roller coat to self-smoothing thick coat
+competitors 9, listed 1, none: Xypex, Kryton, Penetron, Sobute
+
+== basis | OURS: two-component epoxy resin system
+   Sika                               Sikafloor®-264 N               : Epoxy (2-part coloured resin)
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : two-part epoxy, solvent-free, pre-filled and pigmented
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : solvent-free epoxy resin, self-smoothing, with fillers
+   Flowcrete (RPM)                    Flowcoat SF41                  : solvent-free epoxy coating system (low VOC)
+   Stonhard (RPM)                     Stonkote HB4                   : two-component, high-solids epoxy
+   Mapei                              MAPEFLOOR I 300 SL             : Two-component, high-solids epoxy resin
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : low-viscosity, VOC-free epoxy resin with hardener, pigments/fillers and additives; self-levelling
+   Denka                              Estogard S100e                 : epoxy resin binder (pigmented) with graded aggregates, four components
+   MC-Bauchemie                       MC-DUR 1200                    : two-component pigmented epoxy resin
+== mix_ratio | OURS: 100 : 24 parts by weight; thick coat + 50 parts quartz sand (resin : sand 2 : 1)
+   Sika                               Sikafloor®-264 N               : Part A : Part B = 79 : 21 (by weight)
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : A : B = 100 : 18 by weight; can be filled with sand up to 1 : 0.7 by weight
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : 16 L kit: base 6.4 L + hardener 3.1 L + fillers 14 kg + 2 × 500 g colour pots; ratio not printed
+   Flowcrete (RPM)                    Flowcoat SF41                  : None
+   Stonhard (RPM)                     Stonkote HB4                   : factory-proportioned unit (amine bags + resin pail); ratio not printed
+   Mapei                              MAPEFLOOR I 300 SL             : A : B = 3 : 1 (15 kg : 5 kg)
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : complete packs: colour pack into base, then hardener, then aggregate pack (no ratio printed)
+   MC-Bauchemie                       MC-DUR 1200                    : 3 : 1 by mass (base : hardener); for layers > 1 mm filled 1 : 0.5 pbw with oven-dried quartz sand 0.1–0.3 mm
+== viscosity | OURS: approx. 1,200 mPa·s
+   Sika                               Sikafloor®-264 N               : None
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : None
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : None
+   Flowcrete (RPM)                    Flowcoat SF41                  : None
+   Stonhard (RPM)                     Stonkote HB4                   : None
+   Mapei                              MAPEFLOOR I 300 SL             : 900–1,200 mPa·s at +23°C (#4, 50 rpm)
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : None
+   MC-Bauchemie                       MC-DUR 1200                    : approx. 1,900 mPa·s (20 °C, 50 % r.h.)
+== pot_life | OURS: approx. 30 minutes
+   Sika                               Sikafloor®-264 N               : +10 °C ~50 minutes; +20 °C ~25 minutes; +30 °C ~15 minutes
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : 30 min at +23 °C
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : 30 minutes at 20 °C
+   Flowcrete (RPM)                    Flowcoat SF41                  : None
+   Stonhard (RPM)                     Stonkote HB4                   : approx. 35 min at 77 °F / 25 °C
+   Mapei                              MAPEFLOOR I 300 SL             : 35 min at +23°C
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : < 90 min at 28 °C; workable time < 60 min
+   MC-Bauchemie                       MC-DUR 1200                    : 40 min (10 kg) / 30 min (30 kg) at 20 °C, 50 % r.h.
+== overcoat | OURS: min. 12 hours, max. 24 hours
+   Sika                               Sikafloor®-264 N               : +10 °C 30 hours min / 3 days max; +20 °C 24 hours / 2 days; +30 °C 16 hours / 1 day
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : +10 °C: min. 30 h, max. 3 days; +23 °C: min. 10 h, max. 2 days
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : anti-slip overcoat (FC150 HP) after initial cure; time not stated
+   Flowcrete (RPM)                    Flowcoat SF41                  : None
+   Stonhard (RPM)                     Stonkote HB4                   : second coat (if needed) within 24 h of the first; after 24 h sand with 80 grit and dedust
+   Mapei                              MAPEFLOOR I 300 SL             : On Primer SN broadcast in excess: min. 12 h, no maximum; on Primer SN lightly broadcast: 18–24 h
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : None
+   MC-Bauchemie                       MC-DUR 1200                    : applied 12–24 h after the MC-DUR 1200 VK scratch coat
+== cure | OURS: foot traffic approx. 12 hours; full resilience approx. 7 days
+   Sika                               Sikafloor®-264 N               : Foot traffic / light traffic / full cure: +10 °C ~72 hours / ~6 days / ~10 days; +20 °C ~24 hours / ~4 days / ~7 days; +30 °C ~18 hours / ~2 days / ~5 days
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : ready for use after 5 days at +23 °C
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : foot traffic 24 h; vehicular traffic 48 h; full cure 7 days
+   Flowcrete (RPM)                    Flowcoat SF41                  : light traffic 24 h, full traffic 48 h, full chemical cure 7 d at 20 °C (10 °C: 48 h / 72 h / 12 d; 30 °C: 18 h / 36 h / 6 d)
+   Stonhard (RPM)                     Stonkote HB4                   : tack-free 8 h, return to service 24 h, ultimate physical properties 7 days (77 °F / 25 °C)
+   Mapei                              MAPEFLOOR I 300 SL             : Dust dry 2–4 hours; light foot traffic approx. 24 hours; full cure approx. 7 days
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : foot traffic after 24–48 h at 25 °C; full cure / in service after 7 days
+   Denka                              Estogard S100e                 : initial cure 24 hours; final cure 7 days
+   MC-Bauchemie                       MC-DUR 1200                    : accessible after approx. 12 h; full resilience after 7 days (20 °C, 50 % r.h.)
+== compressive | OURS: approx. 70 N/mm²
+   Sika                               Sikafloor®-264 N               : ~53 N/mm2 (Resin filled 1:0,9 with F34) (28 days / +23 °C) (EN 196-1)
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : 79 N/mm² (28 days, +23 °C, EN 12190)
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : 90 MPa
+   Flowcrete (RPM)                    Flowcoat SF41                  : > 60 N/mm² (BS 6319)
+   Stonhard (RPM)                     Stonkote HB4                   : None
+   Mapei                              MAPEFLOOR I 300 SL             : 67 N/mm² (EN 196-1, 1:1 with Quartz 0.25)
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : 45–50 N/mm² (7 days, BS 6319 Part 2)
+   MC-Bauchemie                       MC-DUR 1200                    : None
+== flexural | OURS: approx. 44 N/mm² (DIN EN 196-1)
+   Sika                               Sikafloor®-264 N               : ~20 N/mm2 (Resin filled 1:0,9 with F34) (28 days / +23 °C) (EN 196-1)
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : None
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : 30 MPa
+   Flowcrete (RPM)                    Flowcoat SF41                  : > 40 N/mm² (BS 6319)
+   Stonhard (RPM)                     Stonkote HB4                   : None
+   Mapei                              MAPEFLOOR I 300 SL             : 28 N/mm² (EN 196-1, 1:1 with Quartz 0.25)
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : 30–40 N/mm² (7 days, BS 6319 Part 3)
+   MC-Bauchemie                       MC-DUR 1200                    : None
+== adhesion | OURS: ≥ 1.5 N/mm²
+   Sika                               Sikafloor®-264 N               : > 1,5 N/mm² (failure in concrete) (ISO 4624)
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : None
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : None
+   Flowcrete (RPM)                    Flowcoat SF41                  : > 1.5 MPa — greater than the cohesive strength of 25 N/mm² concrete
+   Stonhard (RPM)                     Stonkote HB4                   : None
+   Mapei                              MAPEFLOOR I 300 SL             : ≥ 2.5 N/mm² (EN 13892-8), with concrete failure
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : 1.5 N/mm², concrete failure (standard printed as ASTM D412)
+   MC-Bauchemie                       MC-DUR 1200                    : None
+== hardness | OURS: Shore D approx. 72
+   Sika                               Sikafloor®-264 N               : Shore D ~76 (7 days / +23 °C) (DIN 53 505)
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : Shore D 81 (7 days, +23 °C, EN ISO 868)
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : None
+   Flowcrete (RPM)                    Flowcoat SF41                  : Koenig hardness 180 s (no Shore D printed)
+   Stonhard (RPM)                     Stonkote HB4                   : None
+   Mapei                              MAPEFLOOR I 300 SL             : Shore D 78 (DIN 53505)
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : None
+   MC-Bauchemie                       MC-DUR 1200                    : None
+== fire | OURS: Bfl-s1 (DIN EN 13501-1)
+   Sika                               Sikafloor®-264 N               : EN 13501-1 test reports KB-Hoch-170619 and KB-Hoch-170625 (May 2017); class not stated on page
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : None
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : None
+   Flowcrete (RPM)                    Flowcoat SF41                  : Bfl-s1 (EN 13501-1)
+   Stonhard (RPM)                     Stonkote HB4                   : dry film self-extinguishing
+   Mapei                              MAPEFLOOR I 300 SL             : Class B-s1 (EN 13501-1)
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : None
+   MC-Bauchemie                       MC-DUR 1200                    : None
+== slip | OURS: R11 with quartz sand 0.5–1.0 mm; up to R12 (test report)
+   Sika                               Sikafloor®-264 N               : None
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : None
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : not rated; slip resistance by overcoating with FC150 HP and anti-slip aggregate
+   Flowcrete (RPM)                    Flowcoat SF41                  : BS 7976-2 (4-S slider): dry > 40; wet dependent on specification
+   Stonhard (RPM)                     Stonkote HB4                   : None
+   Mapei                              MAPEFLOOR I 300 SL             : None
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : None
+   MC-Bauchemie                       MC-DUR 1200                    : higher surface friction by broadcasting quartz sand 0.3–0.8 mm or coarser (no R class stated)
+== consumption | OURS: roller coat approx. 0.4–0.5 kg/m² per coat; thick coat approx. 1.6 kg/m² per mm with sand
+   Sika                               Sikafloor®-264 N               : High build roller coating ~0,25–0,3 kg/m²; self-smoothing finish ~0,9–1,2 kg/m²/mm; broadcast seal coat 0,6–0,8 kg/m²
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : body coat on smooth surfaces approx. 3.3–5.0 kg/m² (depending on filling ratio); top coat on broadcast surfaces approx. 0.8–1.0 kg/m² (roller); mixed density 1.60 g/cm³
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : 16 L kit covers 8 m² at 2 mm or 4 m² at 4 mm (theoretical; ≈ 2 L/m² per mm); primer Nitomortar 903 at 5 m²/L
+   Flowcrete (RPM)                    Flowcoat SF41                  : None
+   Stonhard (RPM)                     Stonkote HB4                   : 20–30 mil DFT in one coat; approx. 250 sq ft (23 m²) per unit at 30 mil
+   Mapei                              MAPEFLOOR I 300 SL             : Self-levelling 2 mm (System 33): resin 2.0 kg/m² + Quartz 0.25 2.0 kg/m² (1:1); multi-layer System 31 (0.8–1.2 mm): finish resin 0.4–0.6 kg/m²; System 32 (3.0–3.5 mm): in
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : topcoat 1 coat, 0.7 mm dry film; system: primer 0.1 mm + mortar mid-coat 1.9 mm + filler mid-coat 0.2 mm + topcoat 0.7 mm
+   Denka                              Estogard S100e                 : 7.0–7.5 m² per 8 L (12 kg) pack at 1 mm; application thickness 1.0–1.5 mm
+   MC-Bauchemie                       MC-DUR 1200                    : approx. 1.4 kg/m² per mm; bond coat approx. 1–1.5 kg/m²; broadcast approx. 5–6 kg/m² quartz sand
+== application_temp | OURS: 10–35 °C; ≥ 3 °C above the dew point; max. 80 % r.h.
+   Sika                               Sikafloor®-264 N               : Ambient and substrate +10 °C min. / +30 °C max.; 80 % r.h. max.; ≥ 3 °C above dew point
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : +10 to +30 °C (ambient and substrate); max. 75 % r.h.; substrate ≥ 3 K above dew point; substrate residual moisture ≤ 4 %
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : substrate and air > 10 °C; substrate RH ≤ 75 %; dry, no rising damp
+   Flowcrete (RPM)                    Flowcoat SF41                  : None
+   Stonhard (RPM)                     Stonkote HB4                   : 60–85 °F (16–29 °C) ambient; min. surface 16 °C; humidity < 80 %
+   Mapei                              MAPEFLOOR I 300 SL             : +8°C to +35°C (air, material, substrate)
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : epoxy does not cure below 5 °C; topcoat may blush / mottle above 85 % RH
+   Denka                              Estogard S100e                 : None
+   MC-Bauchemie                       MC-DUR 1200                    : air, substrate and material ≥ 8 °C and ≤ 30 °C; r.h. ≤ 85 %; ≥ 3 K above dew point
+== packaging | OURS: 15 kg combination container, 30 kg set
+   Sika                               Sikafloor®-264 N               : Part A 23,7 kg; Part B 6,3 kg; A+B 30 kg ready-to-mix units; 220 kg / 177 kg / 59 kg drums (279 kg and 837 kg sets)
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : 30 kg working packs; drums on demand
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : 16 L kit
+   Flowcrete (RPM)                    Flowcoat SF41                  : None
+   Stonhard (RPM)                     Stonkote HB4                   : one carton per unit (amine bags + 5 gal resin pail; text partly garbled)
+   Mapei                              MAPEFLOOR I 300 SL             : 20 kg units (A 15 kg, B 5 kg); HK page also 8 kg kits
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : 8 L (12 kg) pack; primer Estoprime LV 5 L
+   MC-Bauchemie                       MC-DUR 1200                    : 10 kg and 30 kg
+== shelf_life | OURS: 24 months
+   Sika                               Sikafloor®-264 N               : 24 months from date of production (+5 °C to +30 °C)
+   Master Builders Solutions (Sika)   Sikafloor® BC 372 (formerly Ma : 24 months (dry, +15 to +25 °C)
+   Fosroc (Saint-Gobain)              Nitoflor® SL                   : None
+   Flowcrete (RPM)                    Flowcoat SF41                  : None
+   Stonhard (RPM)                     Stonkote HB4                   : 1 year (original unopened container)
+   Mapei                              MAPEFLOOR I 300 SL             : 24 months in sealed original packaging, +5°C to +35°C
+   Caparol China (Oriental Yuhong)    Caparol Solvent-free Epoxy Sel : None
+   Denka                              Estogard S100e                 : 12 months, dry store, unopened
+   MC-Bauchemie                       MC-DUR 1200                    : 18 months, cool (below 20 °C), dry, frost-free
+## chart compressive (N/mm², higher) OURS 70 :: Sikafloor®-264 N=53, Sikafloor® BC 372 (for=79, Nitoflor® SL=90, Flowcoat SF41=60, MAPEFLOOR I 300 SL=67, Estogard S100e=47.5
+## chart flexural (N/mm², higher) OURS 44 :: Sikafloor®-264 N=20, Nitoflor® SL=30, Flowcoat SF41=40, MAPEFLOOR I 300 SL=28, Estogard S100e=35
+## chart overcoat (h, lower) OURS 12 :: Sikafloor®-264 N=24, Sikafloor® BC 372 (for=10, MAPEFLOOR I 300 SL=12, MC-DUR 1200=12
+
+WHY:
+  - Published flexural strength approx. 44 N/mm² and compressive approx. 70 N/mm² — the filled comparison values are approx. 20 / 53 N/mm² (Sikafloor-264 N) and 28 / 67 N/mm² (Mapefloor I 300 SL); test bodies differ and the figures are quoted as printed.
+  - Overcoatable after 12 hours (24 hours for Sikafloor-264 N at +20 °C): two coats in two days.
+  - Reaction to fire Bfl-s1 and slip resistance R11 to R12 with quartz sand are published in the technical data sheet.
+  - One product from the thin roller coat (0.4–0.5 kg/m²) to the self-smoothing thick coat (2 : 1 with quartz sand) and the broadcast slip system.
+
+LISTED: Bostik Ultralevel ESL 1000 / 2000 / 3000

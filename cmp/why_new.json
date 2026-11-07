@@ -1,0 +1,220 @@
+{
+ "inj/P4": {
+  "0": {
+   "en": "A true two-component, non-foaming elastic resin (1 : 1 by volume): the seal is a solid, soft-elastic body of resin in the crack — the single-component competitors (SikaInject-232, Nitofill PU150, DURAL AQUA-FIL, WPU20) react with water and seal with a foam or gel.",
+   "zh": "真正的雙組分、不發泡彈性樹脂（體積比 1 : 1）：裂縫內形成實心軟彈性樹脂體——單組分競品（SikaInject-232、Nitofill PU150、DURAL AQUA-FIL、WPU20）遇水反應，以泡沫或凝膠止水。",
+   "de": "Ein echtes zweikomponentiges, nicht schäumendes elastisches Harz (1 : 1 nach Volumen): die Abdichtung ist ein fester, weichelastischer Harzkörper im Riss — die einkomponentigen Wettbewerber (SikaInject-232, Nitofill PU150, DURAL AQUA-FIL, WPU20) reagieren mit Wasser und dichten mit einem Schaum oder Gel."
+  },
+  "2": {
+   "en": "Viscosity approx. 125 mPa·s reaches the fine branches of the crack — in the low class of the two-component resins compared (MC-Injekt 2300 top approx. 55, Sika Injection-201 CE ~100, Elastopack 201 approx. 160 mPa·s at 25 °C) and well below the 300–650 cps of the single-component resins.",
+   "zh": "黏度約 125 mPa·s 可達裂縫細小分支——與比較之雙組分樹脂同屬低黏度級（MC-Injekt 2300 top 約 55、Sika Injection-201 CE 約 100、Elastopack 201 約 160 mPa·s（25 °C）），遠低於單組分樹脂之 300–650 cps。",
+   "de": "Eine Viskosität von ca. 125 mPa·s erreicht die feinen Verästelungen des Risses — in der niedrigen Klasse der verglichenen zweikomponentigen Harze (MC-Injekt 2300 top ca. 55, Sika Injection-201 CE ~100, Elastopack 201 ca. 160 mPa·s bei 25 °C) und deutlich unter den 300–650 cps der einkomponentigen Harze."
+  }
+ },
+ "inj/P1": {
+  "0": {
+   "en": "One component, no accelerator to dose: the resin reacts with the water in the crack itself — SikaInject-233, Nitofill PU130, HA Cut AF and RESFOAM 1KM work with a catalyst or accelerator, Sika Injection-101 RC and PENETRON INJECTION FOAM are two-component systems.",
+   "zh": "單組分、無需配促進劑：樹脂直接與裂縫中的水反應——SikaInject-233、Nitofill PU130、HA Cut AF 與 RESFOAM 1KM 需搭配觸媒或促進劑，Sika Injection-101 RC 與 PENETRON INJECTION FOAM 為雙組分系統。",
+   "de": "Eine Komponente, kein Beschleuniger zu dosieren: das Harz reagiert mit dem Wasser im Riss selbst — SikaInject-233, Nitofill PU130, HA Cut AF und RESFOAM 1KM arbeiten mit Katalysator oder Beschleuniger, Sika Injection-101 RC und PENETRON INJECTION FOAM sind zweikomponentige Systeme."
+  },
+  "1": {
+   "en": "Foams to up to approx. 40 times its volume — in the upper range of the published values (Prime Flex 900 XLV up to 6×, PENETRON INJECTION FOAM 15–20×, OPU20 up to 22×, SikaInject-233 20–30×, Sika Injection-101 RC up to 40×, RESFOAM 1KM approx. 45×, MC-Injekt 2133 approx. 60–70×).",
+   "zh": "發泡倍率最高約 40 倍——位於公告值之上段（Prime Flex 900 XLV 最高 6 倍、PENETRON INJECTION FOAM 15–20 倍、OPU20 最高 22 倍、SikaInject-233 20–30 倍、Sika Injection-101 RC 最高 40 倍、RESFOAM 1KM 約 45 倍、MC-Injekt 2133 約 60–70 倍）。",
+   "de": "Schäumt bis zum ca. 40-Fachen seines Volumens auf — im oberen Bereich der veröffentlichten Werte (Prime Flex 900 XLV bis 6-fach, PENETRON INJECTION FOAM 15–20-fach, OPU20 bis 22-fach, SikaInject-233 20–30-fach, Sika Injection-101 RC bis 40-fach, RESFOAM 1KM ca. 45-fach, MC-Injekt 2133 ca. 60–70-fach)."
+  }
+ },
+ "cr/BIS540": {
+  "1": {
+   "en": "E-modulus approx. 20 GPa, at the low end of the published values (Sika MonoTop-4012 ≥ 20, Xypex Megamix II 20.4, Nafufill KM 250 22.6, Mapegrout Thixotropic 26, FIBROMIX 40 27.5, SikaEmaco S 5400 ≥ 29 GPa): a stiffness closer to the parent concrete, so the repair follows the structure instead of working against it.",
+   "zh": "彈性模數約 20 GPa，位於公告值低端（Sika MonoTop-4012 ≥ 20、Xypex Megamix II 20.4、Nafufill KM 250 22.6、Mapegrout Thixotropic 26、FIBROMIX 40 27.5、SikaEmaco S 5400 ≥ 29 GPa）：剛性更接近母體混凝土，修補隨結構變形而不相抗。",
+   "de": "E-Modul ca. 20 GPa, am unteren Ende der veröffentlichten Werte (Sika MonoTop-4012 ≥ 20, Xypex Megamix II 20,4, Nafufill KM 250 22,6, Mapegrout Thixotropic 26, FIBROMIX 40 27,5, SikaEmaco S 5400 ≥ 29 GPa): eine Steifigkeit näher am Altbeton, sodass die Reparatur dem Bauwerk folgt, statt gegen es zu arbeiten."
+  },
+  "2": {
+   "en": "Starts at 5 mm, like SikaEmaco S 5400, EUCOPATCH 20, PENETRON MULTI PATCH and RIS Finish Ace (Sika MonoTop-4012 and Nafufill KM 250 from 6 mm, Mapegrout Thixotropic, Xypex Megamix II and SRM-T from 10 mm) — thin breakouts are repaired with the same mortar.",
+   "zh": "最小厚度 5 mm，與 SikaEmaco S 5400、EUCOPATCH 20、PENETRON MULTI PATCH、RIS Finish Ace 相同（Sika MonoTop-4012 與 Nafufill KM 250 自 6 mm，Mapegrout Thixotropic、Xypex Megamix II 與 SRM-T 自 10 mm）——淺層破損亦以同一砂漿修補。",
+   "de": "Beginnt bei 5 mm, wie SikaEmaco S 5400, EUCOPATCH 20, PENETRON MULTI PATCH und RIS Finish Ace (Sika MonoTop-4012 und Nafufill KM 250 ab 6 mm, Mapegrout Thixotropic, Xypex Megamix II und SRM-T ab 10 mm) — dünne Ausbrüche werden mit demselben Mörtel instandgesetzt."
+  },
+  "3": {
+   "en": "Consumption approx. 1.8 kg/m² per mm — at the low end of the published range (RIS Finish Ace 1.75; FIBROMIX 40 and Nafufill KM 250 1.8; Sika MonoTop-4012, weber.rep R4 duo and Mapegrout Thixotropic 1.9; SRM-T 2.0 kg/m² per mm).",
+   "zh": "用量約每 m² 每 mm 1.8 kg——位於公告範圍低端（RIS Finish Ace 1.75；FIBROMIX 40 與 Nafufill KM 250 1.8；Sika MonoTop-4012、weber.rep R4 duo 與 Mapegrout Thixotropic 1.9；SRM-T 2.0 kg）。",
+   "de": "Verbrauch ca. 1,8 kg/m² je mm — am unteren Ende des veröffentlichten Bereichs (RIS Finish Ace 1,75; FIBROMIX 40 und Nafufill KM 250 1,8; Sika MonoTop-4012, weber.rep R4 duo und Mapegrout Thixotropic 1,9; SRM-T 2,0 kg/m² je mm)."
+  }
+ },
+ "cr/BIS16": {
+  "0": {
+   "en": "Compressive strength approx. 40 N/mm² at 28 days — at the top of the fine mortars compared (RENO C205 FINISH ≥ 10, Planitop 200 20, Xypex Megamix I 24.9, SikaEmaco N 5100 FC 25, Sika MonoTop-3020 34, PENETRON CR-90 34.5, Nafufill KM 110 38.9 N/mm²); only the R4 mortars also used as fine fillers (weber.rep R4 duo, FIBROeRASO) are stronger.",
+   "zh": "28 天抗壓強度約 40 N/mm²——位於比較之細緻砂漿最高段（RENO C205 FINISH ≥ 10、Planitop 200 20、Xypex Megamix I 24.9、SikaEmaco N 5100 FC 25、Sika MonoTop-3020 34、PENETRON CR-90 34.5、Nafufill KM 110 38.9 N/mm²）；僅兼作細修補之 R4 砂漿（weber.rep R4 duo、FIBROeRASO）較高。",
+   "de": "Druckfestigkeit ca. 40 N/mm² nach 28 Tagen — an der Spitze der verglichenen Feinspachtel (RENO C205 FINISH ≥ 10, Planitop 200 20, Xypex Megamix I 24,9, SikaEmaco N 5100 FC 25, Sika MonoTop-3020 34, PENETRON CR-90 34,5, Nafufill KM 110 38,9 N/mm²); nur die auch als Feinspachtel verwendeten R4-Mörtel (weber.rep R4 duo, FIBROeRASO) sind fester."
+  },
+  "1": {
+   "en": "1 to 6 mm in one step on walls and floors — the fine-smoothing range (Sika MonoTop-3020, weber.rep R4 duo as filler and RENO C205 FINISH up to 5 mm, Planitop 200, Renderoc FC and Estopatch Fine 3 mm per coat; SikaEmaco N 5100 FC, Nafufill KM 110, Xypex Megamix I, PENETRON CR-90, LANKOREP FACADE and FIBROeRASO go to 7–40 mm per layer).",
+   "zh": "牆面與地坪每道 1–6 mm——細緻整平之範圍（Sika MonoTop-3020、作細修補之 weber.rep R4 duo 與 RENO C205 FINISH 最厚 5 mm，Planitop 200、Renderoc FC 與 Estopatch Fine 每道 3 mm；SikaEmaco N 5100 FC、Nafufill KM 110、Xypex Megamix I、PENETRON CR-90、LANKOREP FACADE 與 FIBROeRASO 每層 7–40 mm）。",
+   "de": "1 bis 6 mm in einem Arbeitsgang auf Wand und Boden — der Bereich der Feinspachtelung (Sika MonoTop-3020, weber.rep R4 duo als Feinspachtel und RENO C205 FINISH bis 5 mm, Planitop 200, Renderoc FC und Estopatch Fine 3 mm je Lage; SikaEmaco N 5100 FC, Nafufill KM 110, Xypex Megamix I, PENETRON CR-90, LANKOREP FACADE und FIBROeRASO gehen bis 7–40 mm je Lage)."
+  }
+ },
+ "cr/IM": {
+  "0": {
+   "en": "A crystalline mortar: the active ingredients grow into the capillaries of the concrete around the chase and the cove — like PENECRETE MORTAR, Krystol Repair Grout and Xypex Concentrate packed as dry-pack; the other products compared are plugging binders (Lamposilex, SikaSet Waterplug, Renderoc Plug, ombran W, Cute-Tex TYPE-3, YHRepair-2516), non-crystalline cove or repair mortars (weber.tec 933, VANDEX UNI MORTAR 1) or a rigid slurry (SikaTop Seal-107).",
+   "zh": "結晶型砂漿：活性成分生長進入鑿溝與導角周圍混凝土之毛細孔——與 PENECRETE MORTAR、Krystol Repair Grout 及乾拌填塞之 Xypex Concentrate 相同；其餘比較產品為堵漏膠結料（Lamposilex、SikaSet Waterplug、Renderoc Plug、ombran W、Cute-Tex TYPE-3、YHRepair-2516）、非結晶型導角或修補砂漿（weber.tec 933、VANDEX UNI MORTAR 1）或剛性漿料（SikaTop Seal-107）。",
+   "de": "Ein kristalliner Mörtel: die Wirkstoffe wachsen in die Kapillaren des Betons rund um die Nut und die Kehle — wie PENECRETE MORTAR, Krystol Repair Grout und Xypex Concentrate als Dry-Pac; die übrigen Vergleichsprodukte sind Stopfbindemittel (Lamposilex, SikaSet Waterplug, Renderoc Plug, ombran W, Cute-Tex TYPE-3, YHRepair-2516), nicht kristalline Kehl- oder Reparaturmörtel (weber.tec 933, VANDEX UNI MORTAR 1) oder eine starre Schlämme (SikaTop Seal-107)."
+  }
+ },
+ "wp/AQ1K": {
+  "0": {
+   "en": "Positive and negative pressure values are both published (1 bar / 0.75 bar) with the test regulations (PG MDS/FPD, WTA 4-6); of the rigid slurries compared, YHCoat-1000 publishes a positive value (1.5 bar, EN 14891 A7) and weber.tec 930 a negative-side limit (3 m water column, by special agreement) — the others state the resistance without a figure.",
+   "zh": "正、負水壓值皆公告（1 bar／0.75 bar）並附試驗規程（PG MDS/FPD、WTA 4-6）；比較之剛性漿料中，YHCoat-1000 公告正水壓值（1.5 bar，EN 14891 A7），weber.tec 930 公告負水壓上限（3 m 水柱，需特別約定）——其餘僅說明可抗水壓而無數值。",
+   "de": "Positiver und rückseitiger Druck sind beide veröffentlicht (1 bar / 0,75 bar), mit den Prüfgrundsätzen (PG MDS/FPD, WTA 4-6); von den verglichenen starren Schlämmen veröffentlicht YHCoat-1000 einen positiven Wert (1,5 bar, EN 14891 A7) und weber.tec 930 eine Grenze für die Negativseite (3 m Wassersäule, nach Sondervereinbarung) — die übrigen nennen die Beständigkeit ohne Wert."
+  },
+  "1": {
+   "en": "One component — water is the only addition (SikaTop Seal-107, BETEC Seal SC, TREMproof M, Boscocem Slurry, YHCoat-1000 and Estokote Grey are two-component kits).",
+   "zh": "單組分——僅需加水（SikaTop Seal-107、BETEC Seal SC、TREMproof M、Boscocem Slurry、YHCoat-1000 與 Estokote Grey 為雙組分套件）。",
+   "de": "Eine Komponente — Wasser ist die einzige Zugabe (SikaTop Seal-107, BETEC Seal SC, TREMproof M, Boscocem Slurry, YHCoat-1000 und Estokote Grey sind zweikomponentige Sets)."
+  }
+ },
+ "wp/AQ2K": {
+  "0": {
+   "en": "Elongation approx. 192 % (ASTM D412) — together with BETEC Flex S150 (≥ 200 %, ASTM D412) at the top of the published values (YHCoat-1180 > 150 %, Estokote Flexi 150 %, TREMproof FCW 100 %, Xypex FCM 80 80 %, SikaTop-588 Seal approx. 40 %; methods as given in the table): the slurry stretches with the crack instead of tearing.",
+   "zh": "伸長率約 192 %（ASTM D412）——與 BETEC Flex S150（≥ 200 %，ASTM D412）同居公告值最高段（YHCoat-1180 > 150 %、Estokote Flexi 150 %、TREMproof FCW 100 %、Xypex FCM 80 80 %、SikaTop-588 Seal 約 40 %；試驗方法見表）：塗層隨裂縫伸展而不撕裂。",
+   "de": "Dehnung ca. 192 % (ASTM D412) — zusammen mit BETEC Flex S150 (≥ 200 %, ASTM D412) an der Spitze der veröffentlichten Werte (YHCoat-1180 > 150 %, Estokote Flexi 150 %, TREMproof FCW 100 %, Xypex FCM 80 80 %, SikaTop-588 Seal ca. 40 %; Methoden siehe Tabelle): die Schlämme dehnt sich mit dem Riss, statt zu reißen."
+  },
+  "1": {
+   "en": "Crack bridging published on three methods (EN 14891 > 0.75 mm, PG MDS/FPD 0.4 mm, ASTM C836 > 2.6 mm) — the figures are comparable method by method: BETEC Flex S150 2 mm (ASTM C836), SikaTop-588 Seal > 1.5 mm (EN 14891), Sikalastic-152 ~1.2 mm (EN 1062-7), VANDEX BB 75 E Z 0.8 mm, weberdry top ≥ 0.75 mm (EN 14891).",
+   "zh": "裂縫橋接依三種方法公告（EN 14891 > 0.75 mm、PG MDS/FPD 0.4 mm、ASTM C836 > 2.6 mm）——可依方法逐項比較：BETEC Flex S150 2 mm（ASTM C836）、SikaTop-588 Seal > 1.5 mm（EN 14891）、Sikalastic-152 約 1.2 mm（EN 1062-7）、VANDEX BB 75 E Z 0.8 mm、weberdry top ≥ 0.75 mm（EN 14891）。",
+   "de": "Rissüberbrückung nach drei Methoden veröffentlicht (EN 14891 > 0,75 mm, PG MDS/FPD 0,4 mm, ASTM C836 > 2,6 mm) — die Werte sind Methode für Methode vergleichbar: BETEC Flex S150 2 mm (ASTM C836), SikaTop-588 Seal > 1,5 mm (EN 14891), Sikalastic-152 ~1,2 mm (EN 1062-7), VANDEX BB 75 E Z 0,8 mm, weberdry top ≥ 0,75 mm (EN 14891)."
+  }
+ },
+ "wp/RB400": {
+  "0": {
+   "en": "A bitumen-free thick coating tested to the German regulation for bitumen thick coatings (PG MDS/FPD) — the category that replaces bitumen on the outside of basements under DIN 18533, shared by SikaTop-126 Pro, weber.tec Superflex D 24, VANDEX OS 5, BLOCK X911 TERRA TURBO LIGHT 2K, MC-Proof 800 Next and Mapelastic 2KR Plus.",
+   "zh": "不含瀝青之厚塗層，依德國瀝青厚塗規程（PG MDS/FPD）試驗——DIN 18533 下取代地下室外側瀝青之產品類別，同類者有 SikaTop-126 Pro、weber.tec Superflex D 24、VANDEX OS 5、BLOCK X911 TERRA TURBO LIGHT 2K、MC-Proof 800 Next 與 Mapelastic 2KR Plus。",
+   "de": "Eine bitumenfreie Dickbeschichtung, geprüft nach den Prüfgrundsätzen für kunststoffmodifizierte Bitumendickbeschichtungen (PG MDS/FPD) — die Kategorie, die nach DIN 18533 Bitumen an der Außenseite von Kellern ersetzt, wie SikaTop-126 Pro, weber.tec Superflex D 24, VANDEX OS 5, BLOCK X911 TERRA TURBO LIGHT 2K, MC-Proof 800 Next und Mapelastic 2KR Plus."
+  },
+  "2": {
+   "en": "Light: approx. 1.1 kg/m² per mm (density approx. 1.1 kg/dm³) — with weber.tec Superflex D 24 (≥ 1.07 kg/m² per mm) the lightest of the thick coatings compared; the others need 1.2–1.7 kg/m² per mm.",
+   "zh": "輕質：約每 m² 每 mm 1.1 kg（密度約 1.1 kg/dm³）——與 weber.tec Superflex D 24（≥ 1.07 kg）同為比較之厚塗層中最輕者；其餘需每 m² 每 mm 1.2–1.7 kg。",
+   "de": "Leicht: ca. 1,1 kg/m² je mm (Dichte ca. 1,1 kg/dm³) — mit weber.tec Superflex D 24 (≥ 1,07 kg/m² je mm) die leichteste der verglichenen Dickbeschichtungen; die übrigen brauchen 1,2–1,7 kg/m² je mm."
+  }
+ },
+ "wp/OS": {
+  "0": {
+   "en": "Classified as an OS 5b surface protection system (Rili-SIB / DIN V 18026) — the German class for crack-bridging protection of concrete; SikaTop-126 Pro, weber.tec Superflex OS 5b, VANDEX OS 5 and MC-Proof protect claim the same class, the other products are rated to EN 1504-2 or not classified.",
+   "zh": "分級為 OS 5b 表面保護系統（Rili-SIB／DIN V 18026）——德國混凝土可橋接裂縫保護之等級；SikaTop-126 Pro、weber.tec Superflex OS 5b、VANDEX OS 5 與 MC-Proof protect 聲明同一等級，其餘產品為 EN 1504-2 或未分級。",
+   "de": "Als Oberflächenschutzsystem OS 5b eingestuft (Rili-SIB / DIN V 18026) — die deutsche Klasse für den rissüberbrückenden Schutz von Beton; SikaTop-126 Pro, weber.tec Superflex OS 5b, VANDEX OS 5 und MC-Proof protect beanspruchen dieselbe Klasse, die übrigen Produkte sind nach EN 1504-2 oder nicht eingestuft."
+  },
+  "2": {
+   "en": "CO₂ diffusion Sd > 200 m — the highest published value, shared with weber.tec Superflex OS 5b and MC-Proof protect (Sikalastic-6100 FX 104 m, CP1 78 m, the others > 50 m): a strong carbonation brake.",
+   "zh": "CO₂ 擴散 Sd > 200 m——公告值最高段，與 weber.tec Superflex OS 5b 及 MC-Proof protect 相同（Sikalastic-6100 FX 104 m、CP1 78 m，其餘 > 50 m）：碳化阻隔效果佳。",
+   "de": "CO₂-Diffusion Sd > 200 m — der höchste veröffentlichte Wert, gleichauf mit weber.tec Superflex OS 5b und MC-Proof protect (Sikalastic-6100 FX 104 m, CP1 78 m, die übrigen > 50 m): eine starke Carbonatisierungsbremse."
+  }
+ },
+ "rc/IC": {
+  "0": {
+   "en": "The negative pressure resistance is a published figure (1.5 bar) and the impermeability a test value (14 bar, CRD-C 48-92). Of the crystalline slurries compared, BI MORTAR CONCRETE SEAL (9 bar, UNI EN 12390-8) and Estokote Crystalline (3 bar, DIN 1048) publish negative-side values, Krystol T1 and Xypex Concentrate CRD-C 48 results (13.8 / 12 bar, the latter the limit of the apparatus); BETEC M-5 (≥ 0.8 MPa) and Boscoseal Concentrate (30 m) give pressures without stating the side, the others describe application from either side without a value.",
+   "zh": "負水壓阻抗為公告數值（1.5 bar），不透水性為試驗值（14 bar，CRD-C 48-92）。比較之結晶型漿料中，BI MORTAR CONCRETE SEAL（9 bar，UNI EN 12390-8）與 Estokote Crystalline（3 bar，DIN 1048）公告負水壓值，Krystol T1 與 Xypex Concentrate 公告 CRD-C 48 結果（13.8／12 bar，後者為儀器上限）；BETEC M-5（≥ 0.8 MPa）與 Boscoseal Concentrate（30 m）公告水壓但未說明施作面，其餘僅說明正負面皆可施作而無數值。",
+   "de": "Die Beständigkeit gegen rückseitig drückendes Wasser ist ein veröffentlichter Wert (1,5 bar) und die Wasserundurchlässigkeit ein Prüfwert (14 bar, CRD-C 48-92). Von den verglichenen kristallinen Schlämmen veröffentlichen BI MORTAR CONCRETE SEAL (9 bar, UNI EN 12390-8) und Estokote Crystalline (3 bar, DIN 1048) Werte für die Negativseite, Krystol T1 und Xypex Concentrate Ergebnisse nach CRD-C 48 (13,8 / 12 bar, Letzteres die Grenze der Prüfapparatur); BETEC M-5 (≥ 0,8 MPa) und Boscoseal Concentrate (30 m) nennen Drücke ohne Angabe der Seite, die übrigen beschreiben eine Anwendung von beiden Seiten ohne Wert."
+  },
+  "2": {
+   "en": "Working time approx. 60 minutes — two to three times the 20–30 minutes of the crystalline slurries compared (the osmotic Planiseal 88 also gives 60 minutes).",
+   "zh": "工作時間約 60 分鐘——為比較之結晶型漿料（20–30 分鐘）的二至三倍（滲透型之 Planiseal 88 亦為 60 分鐘）。",
+   "de": "Verarbeitungszeit ca. 60 Minuten — zwei- bis dreimal so lang wie die 20–30 Minuten der verglichenen kristallinen Schlämmen (der osmotische Planiseal 88 nennt ebenfalls 60 Minuten)."
+  }
+ },
+ "rc/F20": {
+  "1": {
+   "en": "Strength development published at 1 hour, 24 hours and 28 days (approx. 3 / 15 / 30 N/mm²) and the yield per litre of void (approx. 2 kg/l), so the quantity follows the chase; Lamposilex, Renderoc Plug 1 and Cute-Tex TYPE-3 publish the same kind of figures, the fastest plugs reach 9–20 N/mm² within the first hour.",
+   "zh": "公告 1 小時、24 小時與 28 天強度發展（約 3／15／30 N/mm²）及每公升空隙用量（約 2 kg/l），用量依鑿溝計算；Lamposilex、Renderoc Plug 1 與 Cute-Tex TYPE-3 亦公告同類數據，最快之堵漏料 1 小時內達 9–20 N/mm²。",
+   "de": "Festigkeitsentwicklung nach 1 Stunde, 24 Stunden und 28 Tagen veröffentlicht (ca. 3 / 15 / 30 N/mm²) und die Ergiebigkeit je Liter Hohlraum (ca. 2 kg/l), sodass die Menge der Nut folgt; Lamposilex, Renderoc Plug 1 und Cute-Tex TYPE-3 veröffentlichen dieselbe Art von Werten, die schnellsten Stopfmörtel erreichen 9–20 N/mm² in der ersten Stunde."
+  }
+ },
+ "ca/CL170": {
+  "0": {
+   "en": "Two effects from one liquid: the crystalline waterproofing and a plasticising effect that reduces the water demand of the mix — of the liquids compared, Centrament Proof CL 1 (plasticiser, EN 934-2 T2), Estomix G15 (water-reducing) and CWA Liquid 200 (increases workability) state a similar effect; Sika WT-100 L, SikaControl-1200 WT, EUCON VANDEX AM-10L and PENETRON ADMIX LIQUID state none.",
+   "zh": "一種液體兩種作用：結晶型防水與減水塑化效果——比較之液態產品中，Centrament Proof CL 1（塑化劑，EN 934-2 T2）、Estomix G15（減水）與 CWA Liquid 200（提高工作性）載明類似效果；Sika WT-100 L、SikaControl-1200 WT、EUCON VANDEX AM-10L 與 PENETRON ADMIX LIQUID 未載明。",
+   "de": "Zwei Wirkungen aus einer Flüssigkeit: die kristalline Abdichtung und eine plastifizierende Wirkung, die den Wasseranspruch der Mischung senkt — von den verglichenen Flüssigkeiten nennen Centrament Proof CL 1 (Betonverflüssiger, EN 934-2 T2), Estomix G15 (wasserreduzierend) und CWA Liquid 200 (verbessert die Verarbeitbarkeit) eine ähnliche Wirkung; Sika WT-100 L, SikaControl-1200 WT, EUCON VANDEX AM-10L und PENETRON ADMIX LIQUID nennen keine."
+  },
+  "1": {
+   "en": "Minimum cement content 270 kg/m³ (CEM I), published; Estomix G15 requires 300 kg/m³, Sika WT-100 L and Centrament Proof CL 1 350 kg/m³ with a w/c ≤ 0.45.",
+   "zh": "公告最低水泥用量 270 kg/m³（CEM I）；Estomix G15 要求 300 kg/m³，Sika WT-100 L 與 Centrament Proof CL 1 要求 350 kg/m³ 且 w/c ≤ 0.45。",
+   "de": "Mindestzementgehalt 270 kg/m³ (CEM I), veröffentlicht; Estomix G15 verlangt 300 kg/m³, Sika WT-100 L und Centrament Proof CL 1 350 kg/m³ bei einem w/z-Wert ≤ 0,45."
+  }
+ },
+ "ca/CP360": {
+  "2": {
+   "en": "Minimum cement content from 270 kg/m³ (CEM I) is published; Sika WT-200 P, IDROCRETE KR 1000 and Centrament Proof CP 10 require 350 kg/m³.",
+   "zh": "公告最低水泥用量自 270 kg/m³（CEM I）起；Sika WT-200 P、IDROCRETE KR 1000 與 Centrament Proof CP 10 要求 350 kg/m³。",
+   "de": "Mindestzementgehalt ab 270 kg/m³ (CEM I) ist veröffentlicht; Sika WT-200 P, IDROCRETE KR 1000 und Centrament Proof CP 10 verlangen 350 kg/m³."
+  },
+  "3": {
+   "en": "The data sheet names the CEM types and blends for which the dosage applies; most comparable sheets give one general dosage per m³ or per 100 kg of cementitious material.",
+   "zh": "資料表載明摻量適用之 CEM 種類與混合水泥；多數同類資料表僅給每 m³ 或每 100 kg 膠結料之通用摻量。",
+   "de": "Das Datenblatt nennt die CEM-Arten und Mischungen, für die die Dosierung gilt; die meisten vergleichbaren Datenblätter geben eine allgemeine Dosierung je m³ oder je 100 kg Bindemittel an."
+  }
+ },
+ "pf/GBM": {
+  "1": {
+   "en": "Published tensile adhesion ≥ 1.5 N/mm² on concrete that is dry to matt damp; most comparable primers limit the substrate to a dry condition (≤ 4–5 CM-% or a stated relative humidity), Nitomortar 903 tolerates damp surfaces for small repairs only.",
+   "zh": "公告之拉拔黏結強度 ≥ 1.5 N/mm²，適用乾燥至微濕混凝土；多數同類底漆限乾燥基面（含水率 ≤ 4–5 CM-% 或規定之相對濕度），Nitomortar 903 僅小面積修補可用於潮濕面。",
+   "de": "Veröffentlichte Haftzugfestigkeit ≥ 1,5 N/mm² auf trockenem bis mattfeuchtem Beton; die meisten vergleichbaren Grundierungen verlangen einen trockenen Untergrund (≤ 4–5 CM-% oder eine angegebene relative Feuchte), Nitomortar 903 toleriert feuchte Flächen nur für kleine Reparaturen."
+  },
+  "2": {
+   "en": "Flexural strength approx. 35 N/mm² (DIN EN 196-1) — the highest of the published values (MC-DUR 1200 VK approx. 30, Sikafloor-156 mortar approx. 15, weber.floor 4712 approx. 10 N/mm²); the test bodies differ and the figures are quoted as printed.",
+   "zh": "抗彎強度約 35 N/mm²（DIN EN 196-1）——公告值最高（MC-DUR 1200 VK 約 30、Sikafloor-156 砂漿約 15、weber.floor 4712 約 10 N/mm²）；試體條件不同，依原文引用。",
+   "de": "Biegezugfestigkeit ca. 35 N/mm² (DIN EN 196-1) — der höchste der veröffentlichten Werte (MC-DUR 1200 VK ca. 30, Sikafloor-156-Mörtel ca. 15, weber.floor 4712 ca. 10 N/mm²); die Prüfkörper unterscheiden sich, die Werte sind wie gedruckt zitiert."
+  }
+ },
+ "pf/SG3": {
+  "0": {
+   "en": "A two-component resin primer — no cement component to batch (Sikafloor-81 EpoCem, Sikagard-385 EpoCem, Triblock P and Estogard EMB are epoxy-cement systems), mixed in one step at 100 : 52.",
+   "zh": "雙組分樹脂底漆——無需配水泥粉料（Sikafloor-81 EpoCem、Sikagard-385 EpoCem、Triblock P 與 Estogard EMB 為環氧水泥系統），100 : 52 一次混合。",
+   "de": "Eine zweikomponentige Harzgrundierung — keine Zementkomponente zu dosieren (Sikafloor-81 EpoCem, Sikagard-385 EpoCem, Triblock P und Estogard EMB sind Epoxid-Zement-Systeme), in einem Schritt im Verhältnis 100 : 52 gemischt."
+  },
+  "1": {
+   "en": "Published as watertight against negative pressing water up to 3 bar — the highest rating published (Sikagard-385 EpoCem up to 2.5 bar); the other products are described for damp or green concrete without a pressure rating.",
+   "zh": "公告對負水壓之水密性達 3 bar——公告等級最高（Sikagard-385 EpoCem 達 2.5 bar）；其餘產品僅說明適用潮濕或新澆混凝土，未載明壓力等級。",
+   "de": "Als wasserdicht gegen rückseitig drückendes Wasser bis 3 bar veröffentlicht — die höchste veröffentlichte Stufe (Sikagard-385 EpoCem bis 2,5 bar); die übrigen Produkte sind für feuchten oder jungen Beton beschrieben, ohne angegebene Druckstufe."
+  }
+ },
+ "pf/B351": {
+  "0": {
+   "en": "Published flexural strength approx. 44 N/mm² — the highest of the published flexural values (Flowcoat SF41 40, Estogard S100e 35, Nitoflor SL 30, Mapefloor I 300 SL 28, Sikafloor-264 N 20 N/mm²) — with a compressive strength of approx. 70 N/mm² within the range of the others (47.5–90 N/mm²); test bodies differ and the figures are quoted as printed.",
+   "zh": "公告抗彎強度約 44 N/mm²——公告抗彎值最高（Flowcoat SF41 40、Estogard S100e 35、Nitoflor SL 30、Mapefloor I 300 SL 28、Sikafloor-264 N 20 N/mm²）；抗壓約 70 N/mm²，位於其他產品範圍內（47.5–90 N/mm²）；試體條件不同，依原文引用。",
+   "de": "Veröffentlichte Biegezugfestigkeit ca. 44 N/mm² — der höchste der veröffentlichten Biegewerte (Flowcoat SF41 40, Estogard S100e 35, Nitoflor SL 30, Mapefloor I 300 SL 28, Sikafloor-264 N 20 N/mm²) — bei einer Druckfestigkeit von ca. 70 N/mm² im Bereich der übrigen (47,5–90 N/mm²); die Prüfkörper unterscheiden sich, die Werte sind wie gedruckt zitiert."
+  },
+  "1": {
+   "en": "Overcoatable after 12 hours (Sikafloor BC 372 from 10 hours at +23 °C, Mapefloor I 300 SL and MC-DUR 1200 12 hours, Sikafloor-264 N 24 hours at +20 °C): two coats in two days.",
+   "zh": "12 小時即可覆塗（Sikafloor BC 372 於 +23 °C 自 10 小時、Mapefloor I 300 SL 與 MC-DUR 1200 為 12 小時、Sikafloor-264 N 於 +20 °C 為 24 小時）：兩道塗層兩天完成。",
+   "de": "Überarbeitbar nach 12 Stunden (Sikafloor BC 372 ab 10 Stunden bei +23 °C, Mapefloor I 300 SL und MC-DUR 1200 12 Stunden, Sikafloor-264 N 24 Stunden bei +20 °C): zwei Lagen in zwei Tagen."
+  }
+ },
+ "pf/V360": {
+  "1": {
+   "en": "Published tensile adhesion ≥ 2.8 N/mm² on dry concrete; the comparable water-based seals publish 1.5–2.0 MPa (Flowseal EPW, Sikafloor TC 442 W) or no adhesion value.",
+   "zh": "公告對乾燥混凝土之拉拔黏結強度 ≥ 2.8 N/mm²；同類水性面封公告 1.5–2.0 MPa（Flowseal EPW、Sikafloor TC 442 W）或未載明。",
+   "de": "Veröffentlichte Haftzugfestigkeit ≥ 2,8 N/mm² auf trockenem Beton; die vergleichbaren wasserbasierten Versiegelungen veröffentlichen 1,5–2,0 MPa (Flowseal EPW, Sikafloor TC 442 W) oder keinen Haftwert."
+  },
+  "3": {
+   "en": "Fills with ASO-FF for pinholes and with quartz sand (1 : 0.5) as a levelling coat up to 2 mm — one product for the seal and the thin levelling.",
+   "zh": "可加 ASO-FF 填補針孔、加石英砂（1 : 0.5）作最厚 2 mm 之整平層——面封與薄層整平同一產品完成。",
+   "de": "Mit ASO-FF für Nadelstiche und mit Quarzsand (1 : 0,5) als Ausgleichsschicht bis 2 mm füllbar — ein Produkt für Versiegelung und dünnen Ausgleich."
+  }
+ },
+ "pf/V2370": {
+  "0": {
+   "en": "An elastic epoxy (Shore A approx. 80) for the sealing of tanks, channels and pits — it follows the small movements of the concrete; the comparable epoxy coatings are rigid (Shore D 70–90 where published).",
+   "zh": "彈性環氧（蕭氏 A 約 80），用於水槽、渠道與集水坑密封——可隨混凝土微小變形；同類環氧塗層為剛性（公告者蕭氏 D 70–90）。",
+   "de": "Ein elastisches Epoxid (Shore A ca. 80) für die Abdichtung von Becken, Gerinnen und Gruben — es folgt den kleinen Bewegungen des Betons; die vergleichbaren Epoxidbeschichtungen sind starr (Shore D 70–90, soweit veröffentlicht)."
+  },
+  "2": {
+   "en": "Pot life 45–55 minutes at +20 °C with a 7 : 1 ratio — the longest of the published working times (MC-PowerPro HCR approx. 45, Nitocote EP410 40, the others 20–35 minutes).",
+   "zh": "+20 °C 可使用時間 45–55 分鐘，混合比 7 : 1——公告工作時間最長（MC-PowerPro HCR 約 45、Nitocote EP410 40，其餘 20–35 分鐘）。",
+   "de": "Topfzeit 45–55 Minuten bei +20 °C bei einem Verhältnis von 7 : 1 — die längste der veröffentlichten Verarbeitungszeiten (MC-PowerPro HCR ca. 45, Nitocote EP410 40, die übrigen 20–35 Minuten)."
+  }
+ },
+ "pf/IPU": {
+  "1": {
+   "en": "Service temperature −40 to +80 °C, published — the upper value of the floor-joint sealants compared; Sikaflex PRO-3 and Nitoseal PU400 are published to +70 °C.",
+   "zh": "公告使用溫度 −40 至 +80 °C——比較之地坪接縫膠中之上限值；Sikaflex PRO-3 與 Nitoseal PU400 公告至 +70 °C。",
+   "de": "Gebrauchstemperatur −40 bis +80 °C, veröffentlicht — der obere Wert der verglichenen Bodenfugendichtstoffe; Sikaflex PRO-3 und Nitoseal PU400 sind bis +70 °C veröffentlicht."
+  }
+ }
+}

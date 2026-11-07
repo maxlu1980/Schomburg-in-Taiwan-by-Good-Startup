@@ -1,0 +1,50 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build-and-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: npm ci
+      - name: Static checks (ES5 parse, duplicate names, secrets, i18n)
+        run: |
+          node qa/parse_all.js
+          node qa/dup.js
+          python3 game/tools/namecheck.py
+          python3 i18n/assemble.py --strict
+          git diff --exit-code -- src/de.js   # the committed German must equal the one generated from i18n/
+      - name: Build
+        run: python3 build.py
+      - name: Audit the built page
+        run: python3 qa/static_audit.py
+      - name: Smoke test (every route × en/zh/de × light/night, no page errors)
+        run: |
+          npx playwright install --with-deps chromium
+          python3 -m http.server 8765 --bind 127.0.0.1 --directory . > /dev/null 2>&1 &
+          sleep 1
+          node qa/regress.js | tee regress.log
+          grep -q '^NO ERRORS' regress.log
+      - name: Accessibility (axe-core, WCAG 2.1 AA) on the guides
+        run: node qa/axe.js | tee axe.log
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: dist
+          path: |
+            dist/index.html
+            dist/aquafin-p4-injection-guide.html
+            shots/
+          retention-days: 14

@@ -1,0 +1,112 @@
+SLOT ca/CL170 BETOCRETE-CL170-P — liquid crystalline waterproofing admixture with liquefying (plasticising) properties
+competitors 8, listed 1, none: Mapei, Xypex, Kryton, Oriental Yuhong
+
+== form | OURS: liquid
+   Sika                               Sika WT-100 L                  : Liquid, white/translucent
+   Master Builders Solutions (Sika)   SikaControl®-1200 WT (MBS Mast : yellow liquid
+   Chryso (Saint-Gobain)              Chryso® CWA Liquid 200         : liquid, translucent (agitate before use)
+   Euclid Chemical (RPM)              EUCON VANDEX AM-10L            : liquid
+   Bostik (Arkema)                    Bostik Two in One              : liquid dispersion, brown (SDS: appearance 'dispersion', solids 37 %, pH 9)
+   Penetron                           PENETRON ADMIX® LIQUID         : Liquid
+   Denka                              Estomix G15                    : liquid (brown solution)
+   MC-Bauchemie                       Centrament Proof CL 1          : liquid (yellowish)
+== dosage | OURS: approx. 1.75–2.25 % of the cement weight; never above 2.25 %
+   Sika                               Sika WT-100 L                  : 1-2% of Sika WT-100 L by weight of cement
+   Master Builders Solutions (Sika)   SikaControl®-1200 WT (MBS Mast : 1–2.5 % of cementitious content recommended; typical dosage 2 %
+   Chryso (Saint-Gobain)              Chryso® CWA Liquid 200         : 0.8–1 L per 100 kg of total cementitious material; 2–3 L per 100 kg under certain conditions (precast section prints '2–3 kg per 100 kg')
+   Euclid Chemical (RPM)              EUCON VANDEX AM-10L            : optimal 28 oz per cwt (1825 mL per 100 kg) of cementitious material for most applications; min. 140 oz/yd³ (5.4 L/m³), max. 280 oz/yd³ (10.8 L/m³)
+   Bostik (Arkema)                    Bostik Two in One              : None
+   Penetron                           PENETRON ADMIX® LIQUID         : 16 oz per 100 lb of cementing materials (1.0 l per 100 kg); replaces an equivalent amount of mix water
+   Denka                              Estomix G15                    : typically 1.0 % (1 litre per 100 kg Portland cement); optimum by trial mixes
+   MC-Bauchemie                       Centrament Proof CL 1          : 15–25 g per kg cement (recommended range)
+== density | OURS: approx. 1.18 g/cm³
+   Sika                               Sika WT-100 L                  : 1.00 - 1.04 kg/l (at +20°C)
+   Master Builders Solutions (Sika)   SikaControl®-1200 WT (MBS Mast : 1.13 kg/l (printed as '1.13–0.02 kg/L', i.e. 1.13 ± 0.02)
+   Chryso (Saint-Gobain)              Chryso® CWA Liquid 200         : specific gravity approx. 1.21–1.23
+   Euclid Chemical (RPM)              EUCON VANDEX AM-10L            : specific gravity 1.10 (9.2 lb/gal)
+   Bostik (Arkema)                    Bostik Two in One              : 1.19 g/cm³ (SDS)
+   Penetron                           PENETRON ADMIX® LIQUID         : None
+   Denka                              Estomix G15                    : specific gravity 1.10 (20 °C)
+   MC-Bauchemie                       Centrament Proof CL 1          : approx. 1.1 ± 0.02 kg/dm³
+== chloride | OURS: ≤ 0.1 %
+   Sika                               Sika WT-100 L                  : Chloride-free; not quantified
+   Master Builders Solutions (Sika)   SikaControl®-1200 WT (MBS Mast : total chloride ion content < 0.1 %; 'chloride free' according to EN 934
+   Chryso (Saint-Gobain)              Chryso® CWA Liquid 200         : nil
+   Euclid Chemical (RPM)              EUCON VANDEX AM-10L            : no chlorides added (no content figure printed)
+   Bostik (Arkema)                    Bostik Two in One              : chloride-free
+   Penetron                           PENETRON ADMIX® LIQUID         : None
+   Denka                              Estomix G15                    : nil (BS 5075)
+   MC-Bauchemie                       Centrament Proof CL 1          : ≤ 0.1 % by mass
+== self_healing | OURS: cracks up to 0.4 mm (system statement)
+   Sika                               Sika WT-100 L                  : None
+   Master Builders Solutions (Sika)   SikaControl®-1200 WT (MBS Mast : can heal cracks below 0.4 mm
+   Chryso (Saint-Gobain)              Chryso® CWA Liquid 200         : seals hairline cracks up to 0.5 mm
+   Euclid Chemical (RPM)              EUCON VANDEX AM-10L            : seals cracks up to 0.5 mm (heals cracks in the presence of water)
+   Bostik (Arkema)                    Bostik Two in One              : None
+   Penetron                           PENETRON ADMIX® LIQUID         : Seals hairline cracks up to 0.5 mm (printed as 1/51") — stated for PENETRON ADMIX®
+   Denka                              Estomix G15                    : None
+   MC-Bauchemie                       Centrament Proof CL 1          : heals cracks up to 0.4 mm
+== setting_effect | OURS: liquefying: the admixture reduces the water demand (see technical data sheet)
+   Sika                               Sika WT-100 L                  : Setting time can be affected by material composition and by concrete and ambient temperature; laboratory trials recommended (no numeric values)
+   Master Builders Solutions (Sika)   SikaControl®-1200 WT (MBS Mast : None
+   Chryso (Saint-Gobain)              Chryso® CWA Liquid 200         : increases workability; may reduce the dosage of other admixtures; overdosing may accelerate set — check workability, slump retention and setting in trial mixes
+   Euclid Chemical (RPM)              EUCON VANDEX AM-10L            : reduce the design water content by a volume equal to the admixture batched; late addition may extend setting or cause premature stiffening; air-entrainer dosage may need 
+   Bostik (Arkema)                    Bostik Two in One              : water-reducing: increases workability, improves placing and compaction, improves cohesion and prevents segregation; 'blocks the capillary structure within concrete'
+   Penetron                           PENETRON ADMIX® LIQUID         : Retardation of set may occur, depending on mix design and dosage; may develop higher ultimate strengths; trial mixes under project conditions recommended (no numeric valu
+   Denka                              Estomix G15                    : water-reducing: lower w/c at the same workability; double overdose increases retardation and workability and reduces short-term strength
+   MC-Bauchemie                       Centrament Proof CL 1          : plasticising admixture (EN 934-2: T2): improved workability, similar or higher final compressive strength than the reference concrete
+== min_cement | OURS: CEM I 270 · CEM II 290 · CEM III/A 380 kg/m³
+   Sika                               Sika WT-100 L                  : Minimum cement content 350 kg/m³; maximum w/c ratio 0.45; minimum consistency S3/F4 (EN 206-1); SCM max 40% of total cement
+   Master Builders Solutions (Sika)   SikaControl®-1200 WT (MBS Mast : None
+   Chryso (Saint-Gobain)              Chryso® CWA Liquid 200         : None
+   Euclid Chemical (RPM)              EUCON VANDEX AM-10L            : None
+   Bostik (Arkema)                    Bostik Two in One              : None
+   Penetron                           PENETRON ADMIX® LIQUID         : None
+   Denka                              Estomix G15                    : ≥ 300 kg/m³ recommended; OPC only, no cement replacement materials
+   MC-Bauchemie                       Centrament Proof CL 1          : cement content ≥ 350 kg/m³ recommended (w/c ≤ 0.45 recommended)
+== dosing_point | OURS: concrete plant with the mixing water or into the finished mix; on site into the mixer drum (deduct from the mixing water); mixing > 45 s at the plant, > 5 min in the truck
+   Sika                               Sika WT-100 L                  : Added to the mixing water or together with it in the concrete mixer; minimum wet mixing time 60 seconds; final dosing only after 2/3 of wet mixing time has elapsed
+   Master Builders Solutions (Sika)   SikaControl®-1200 WT (MBS Mast : added at the batching plant, in a central or truck mixer; at least 5 minutes of mixing after addition
+   Chryso (Saint-Gobain)              Chryso® CWA Liquid 200         : automatic dispensers at batching; precast: onto aggregates and sand for 3 minutes before cement and water
+   Euclid Chemical (RPM)              EUCON VANDEX AM-10L            : during the initial batching sequence (not after the cementitious materials or at the end of batching); mix ≥ 10 minutes at normal mixing speed; drum-mixed and central-bat
+   Bostik (Arkema)                    Bostik Two in One              : None
+   Penetron                           PENETRON ADMIX® LIQUID         : Must be added at the time of batching, introduced into the concrete with the initial batch water
+   Denka                              Estomix G15                    : add to the gauging (mixing) water with a recommended dispenser; max. free w/c 0.50 before dosing; slump before dosing 50–70 mm (normal) / 60–80 mm (pump)
+   MC-Bauchemie                       Centrament Proof CL 1          : add at the end of the mixing process, with or after the last portion of mixing water; mix a further 60 s after all admixtures have been added
+== application_temp | OURS: approx. 8–40 °C
+   Sika                               Sika WT-100 L                  : None
+   Master Builders Solutions (Sika)   SikaControl®-1200 WT (MBS Mast : None
+   Chryso (Saint-Gobain)              Chryso® CWA Liquid 200         : None
+   Euclid Chemical (RPM)              EUCON VANDEX AM-10L            : None
+   Bostik (Arkema)                    Bostik Two in One              : None
+   Penetron                           PENETRON ADMIX® LIQUID         : Concrete mix temperature above 4 °C (40 °F)
+   Denka                              Estomix G15                    : None
+   MC-Bauchemie                       Centrament Proof CL 1          : None
+== packaging | OURS: 25 kg can, 220 kg drum, 1,000 kg IBC
+   Sika                               Sika WT-100 L                  : Drum 200 kg; plastic container 10 kg
+   Master Builders Solutions (Sika)   SikaControl®-1200 WT (MBS Mast : 1000 l IBC tank; bulk delivery
+   Chryso (Saint-Gobain)              Chryso® CWA Liquid 200         : 25 L jerry can, 200 L drum, 1000 L flow bin, bulk on request
+   Euclid Chemical (RPM)              EUCON VANDEX AM-10L            : 5 gal (18.8 L) pails, 55 gal (208 L) drums, 275 gal (1041 L) totes, bulk
+   Bostik (Arkema)                    Bostik Two in One              : 1 l, 5 l and 20 l buckets
+   Penetron                           PENETRON ADMIX® LIQUID         : 1000 l (264 gal) and 1041 l (275 gal) totes
+   Denka                              Estomix G15                    : 200 L drum, 20 L pail
+   MC-Bauchemie                       Centrament Proof CL 1          : 30 kg canister, 200 kg drum, 1,000 kg container
+== certification | OURS: EN 934-2; WGK 1
+   Sika                               Sika WT-100 L                  : None
+   Master Builders Solutions (Sika)   SikaControl®-1200 WT (MBS Mast : cements approved under ASTM and EN specifications; batching to ASTM C94/C94M; chloride classification to EN 934 (no EN 934-2 / ASTM C494 conformity printed)
+   Chryso (Saint-Gobain)              Chryso® CWA Liquid 200         : no EN 934-2 / ASTM C494 classification printed; durability tests to SANS 3001-C03 (OPI, sorptivity, chloride conductivity)
+   Euclid Chemical (RPM)              EUCON VANDEX AM-10L            : ASTM C494 Type S; ACI 212.3R (PRAH); ANSI/NSF Std 61
+   Bostik (Arkema)                    Bostik Two in One              : conforms to IS 2645-2003 (integral waterproofing compounds) and IS 9103-1999 (concrete admixtures)
+   Penetron                           PENETRON ADMIX® LIQUID         : Exceeds ASTM C494-S (specific performance admixtures); PRAH; NSF 61 certified for potable water (stated for PENETRON ADMIX®; sheet does not say whether it covers the liqu
+   Denka                              Estomix G15                    : water absorption < 1.5 % (BS 1881-122:1983) meets draft EN 934-2 water-absorption requirement; permeability < 15 mm (DIN 1048-5:1991); potable: MS 1583 Part 1:2003
+   MC-Bauchemie                       Centrament Proof CL 1          : EN 934-2: T2 (plasticising admixture); notified body KIT / MPA Karlsruhe 0754; production control EN ISO 9001
+## chart dosage (%, lower) OURS 2 :: Sika WT-100 L=1.5, SikaControl®-1200 WT (=2, Estomix G15=1.0, Centrament Proof CL 1=2.0
+## chart min_cement (kg/m³, lower) OURS 270 :: Sika WT-100 L=350, Estomix G15=300, Centrament Proof CL 1=350
+
+WHY:
+  - Two effects from one liquid: the crystalline waterproofing and a plasticising effect that reduces the water demand of the mix — the comparable liquids are pore blockers or crystalline admixtures without a stated plasticising action.
+  - Minimum cement content 270 kg/m³ (CEM I), published; Sika WT-100 L requires 350 kg/m³ and a w/c ≤ 0.45.
+  - Dosed with the mixing water at the plant or into the truck on site, with the mixing time per m³ stated — the procedure is written for the Taiwanese ready-mix practice (truck dosing).
+  - Minimum binder contents are published per cement type (CEM I / II / III), so the recipe check is part of the data sheet.
+
+LISTED: Sobute KLJ®-V Concrete Liquid Waterproofing Agent

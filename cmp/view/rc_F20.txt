@@ -1,0 +1,133 @@
+SLOT rc/F20 FIX-20-T — rapid plugging mortar, swellable
+competitors 14, listed 1, none: Sobute
+
+== components | OURS: 1 component, special cement; approx. 200–250 g water per kg
+   Sika                               Sika® Plug                     : 1 component, high-alumina-cement based powder; mixing ratio approx. 3 parts powder : 1 part water (by mass)
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : One-component, cement-based, fast-setting water-stop repair mortar
+   Fosroc (Saint-Gobain)              Renderoc® Plug 1 (Renderoc® Pl : 1 component, pre-bagged cementitious powder; 1 part clean water : 3 parts powder by volume, stiff consistency
+   Weber (Saint-Gobain)               weber.rep 760 Blitzzement      : 1 component quick-setting cement; 2–3 parts product : 1 part water by volume (3 : 1 plastic-stiff for sealing)
+   Xypex (Saint-Gobain)               Xypex Patch'n Plug             : 1 component powder; plugging: 1 part water to 3.25–3.5 parts powder by volume (stiff putty); patching: 1 part water to 3–3.5 parts powder by volume
+   Vandex (RPM)                       VANDEX PLUG                    : 1 component (grey powder); approx. 0.25 l water per 1 kg (20 °C); may also be used dry
+   Tremco (RPM)                       TREMproof SP                   : 1 component, ready to use; approx. 1.2–1.5 kg water per 5 kg
+   Bostik (Arkema)                    BLOCK C902 POWERPLUG (formerly : 1 component, cement-based powder mixed with water to cement-mortar consistency (water quantity not printed)
+   Mapei                              Lamposilex                     : None
+   Kryton                             Krystol Plug™ (K-620)          : None
+   Penetron                           PENEPLUG®                      : None
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : 1 component, dark-grey powder; powder : water = 1 : 0.27 (leaks, cracks), 1 : 0.27–0.4 (joint strengthening)
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : 1 component (special rapid-hardening cement + inorganic materials); water / Cute-Tex ratio 30 % (0.3 L water per 1.0 kg)
+   MC-Bauchemie                       ombran W                       : 1 component (cement-bound ready mix); powder : water = 1 : 0.2 by mass (approx. 0.2 L water per kg)
+== setting | OURS: start of solidification approx. 1–2 minutes
+   Sika                               Sika® Plug                     : initial set (by water temperature): 150 s at 5 °C, 110 s at 10 °C, 85 s at 15 °C, 70 s at 20 °C, 60 s at 25 °C, 50 s at 30 °C, 45 s at 35 °C
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : will set in approximately 3–5 minutes (at approximately 70 °F (21 °C))
+   Fosroc (Saint-Gobain)              Renderoc® Plug 1 (Renderoc® Pl : initial set approx. 1 minute at 20 °C (Renderoc Plug 20: approx. 20 minutes)
+   Weber (Saint-Gobain)               weber.rep 760 Blitzzement      : setting begins after approx. 3–8 minutes, ends after 12–15 minutes
+   Xypex (Saint-Gobain)               Xypex Patch'n Plug             : Initial set 1:30–4:00 min, final set 4:30–9:00 min (ASTM C266)
+   Vandex (RPM)                       VANDEX PLUG                    : sets approx. 30 seconds after mixing
+   Tremco (RPM)                       TREMproof SP                   : initial set 1–3 minutes; flash set 60–90 seconds after mixing
+   Bostik (Arkema)                    BLOCK C902 POWERPLUG (formerly : initial setting 2–3 minutes
+   Mapei                              Lamposilex                     : approximately 1 minute workability; setting time about one and a half minutes at +20°C
+   Kryton                             Krystol Plug™ (K-620)          : Hardening time 2 minutes (20°C / 68°F, 50% RH); sets hard within 2 minutes
+   Penetron                           PENEPLUG®                      : Sets in approximately 30 seconds after mixing (mixing approx. 15 seconds); setting time depends largely on the amount of mixing water used
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : initial set ≈ 2.3 min, final set ≈ 3.1 min (BS EN 196-3; 23 °C, w/p 0.27)
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : setting time 3 min 10 s (strength specimens) / 2 min 50 s (bond specimens) at W/B 30 %, 20 °C mixing water
+   MC-Bauchemie                       ombran W                       : None
+== pot_life | OURS: approx. 2 minutes
+   Sika                               Sika® Plug                     : no figure printed — mix only what can be applied immediately, in small batches
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : Place within 3 minutes under normal conditions; in hot weather place within 30–60 seconds of mixing; mix no longer than 30 seconds
+   Fosroc (Saint-Gobain)              Renderoc® Plug 1 (Renderoc® Pl : None
+   Weber (Saint-Gobain)               weber.rep 760 Blitzzement      : working time 3–8 minutes
+   Xypex (Saint-Gobain)               Xypex Patch'n Plug             : Mix no more than can be used in 3 minutes
+   Vandex (RPM)                       VANDEX PLUG                    : application time approx. 30 s after mixing (mixing time approx. 15 s)
+   Tremco (RPM)                       TREMproof SP                   : None
+   Bostik (Arkema)                    BLOCK C902 POWERPLUG (formerly : mix only as much as can be applied within 2 minutes
+   Mapei                              Lamposilex                     : Workability time: approximately 1 minute (at +20°C)
+   Kryton                             Krystol Plug™ (K-620)          : Working time 1 minute (20°C / 68°F, 50% RH)
+   Penetron                           PENEPLUG®                      : None
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : use the mix within 10 minutes (as printed)
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : None
+   MC-Bauchemie                       ombran W                       : working time approx. 60 seconds
+== compressive | OURS: approx. 3 N/mm² (1 h); approx. 15 N/mm² (24 h); approx. 30 N/mm² (28 d)
+   Sika                               Sika® Plug                     : approx. 10 MPa (6 h), approx. 12 MPa (1 day), approx. 18 MPa (7 days), approx. 25 MPa (28 days) (AS 1478.2-A, 50 mm cubes, 23 °C / 50 % r.h.)
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : ASTM C 109: 20–120 min 1,800 psi (12.4 MPa); 1 day 4,000 psi (27.6 MPa); 7 days 5,000 psi (34.5 MPa); 28 days 5,500 psi (37.9 MPa)
+   Fosroc (Saint-Gobain)              Renderoc® Plug 1 (Renderoc® Pl : 10 MPa (1 h); 10 MPa (1 d); 23 MPa (28 d) — tested at 20 °C
+   Weber (Saint-Gobain)               weber.rep 760 Blitzzement      : > 15 N/mm² (60 min); > 40 N/mm² (1 d); > 54 N/mm² (28 d)
+   Xypex (Saint-Gobain)               Xypex Patch'n Plug             : 12 MPa (24 h); 25 MPa (28 d) (ASTM C109)
+   Vandex (RPM)                       VANDEX PLUG                    : None
+   Tremco (RPM)                       TREMproof SP                   : 9.0 N/mm² (1 h); 25.0 N/mm² (1 d); 50.0 N/mm² (28 d) (test standard not stated)
+   Bostik (Arkema)                    BLOCK C902 POWERPLUG (formerly : 5 N/mm² (3 h); 25 N/mm² (28 days)
+   Mapei                              Lamposilex                     : 30 minutes 17 MPa; 1 hour 20 MPa; 3 hours 24 MPa; 24 hours 32 MPa; 7 days 44 MPa; 28 days 46 MPa (EN 12190) [TDS edition 204-3-2025, read for the restoration guide]
+   Kryton                             Krystol Plug™ (K-620)          : >40 MPa (5800 psi) at 7 days (no standard, no 1 h / 24 h / 28 d values)
+   Penetron                           PENEPLUG®                      : EN 1504-3 Class R3, ≥25 MPa (no 1 h / 24 h / 28 d values)
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : ≥ 12 MPa (1 h), ≥ 20 MPa (3 d), ≥ 40 MPa (28 d) (ASTM C109)
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : 2.9 N/mm² (1 h); 12.8 N/mm² (3 h); 14.8 N/mm² (1 d); 27.4 N/mm² (3 d); 35.8 N/mm² (7 d); 40.5 N/mm² (28 d) (JIS R 5201)
+   MC-Bauchemie                       ombran W                       : approx. 8 N/mm² (1 h); ≥ 16 N/mm² (24 h); ≥ 30 N/mm² (7 d); ≥ 30 N/mm² (28 d) (lab, 21 ± 2 °C, 50 % r.h.)
+== consumption | OURS: approx. 2 kg per litre of void
+   Sika                               Sika® Plug                     : mixed density approx. 2.0 kg/l (no consumption figure printed)
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : Yield per 1 lb (0.45 kg): 15.6 in³ (254 cm³); static cracks ¾ in × ¾ in × 28 in (1.9 cm × 1.9 cm × 70 cm)
+   Fosroc (Saint-Gobain)              Renderoc® Plug 1 (Renderoc® Pl : 6 kg bag yields approx. 3 litres (≈ 2 kg per litre of void); minimum thickness 15 mm
+   Weber (Saint-Gobain)               weber.rep 760 Blitzzement      : 0.8–1.8 kg/dm³ depending on use
+   Xypex (Saint-Gobain)               Xypex Patch'n Plug             : One 22.7 kg (50 lb) pail yields 0.0127 m³ (0.45 ft³) of mortar
+   Vandex (RPM)                       VANDEX PLUG                    : approx. 0.3 kg per water leak
+   Tremco (RPM)                       TREMproof SP                   : 5 kg yields approx. 0.0025 m³
+   Bostik (Arkema)                    BLOCK C902 POWERPLUG (formerly : None
+   Mapei                              Lamposilex                     : 1.8 kg/dm³ of cavities to be filled
+   Kryton                             Krystol Plug™ (K-620)          : None
+   Penetron                           PENEPLUG®                      : None
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : None
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : approx. 1,550 kg per m³ of filled volume, excluding loss (catalog, TYPE-100/-1/-3)
+   MC-Bauchemie                       ombran W                       : None
+== application_temp | OURS: approx. 5–30 °C; powder max. +23 °C
+   Sika                               Sika® Plug                     : None
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : Do not apply if ambient or surface temperatures are 40 °F (4 °C) or less; material not above 80 °F (26 °C)
+   Fosroc (Saint-Gobain)              Renderoc® Plug 1 (Renderoc® Pl : not when substrate or air ≤ 1 °C and falling; above 35 °C store in shade and use cool water
+   Weber (Saint-Gobain)               weber.rep 760 Blitzzement      : min. +1 °C (warm water below +5 °C)
+   Xypex (Saint-Gobain)               Xypex Patch'n Plug             : Do not use where the substrate is below 4 °C; mixing water ideally approx. 15–20 °C; hot weather: mixing water ≤ 32 °C, material ≤ 21 °C
+   Vandex (RPM)                       VANDEX PLUG                    : +5 to +25 °C
+   Tremco (RPM)                       TREMproof SP                   : None
+   Bostik (Arkema)                    BLOCK C902 POWERPLUG (formerly : None
+   Mapei                              Lamposilex                     : Minimum application temperature: +5°C
+   Kryton                             Krystol Plug™ (K-620)          : Air and surface temperatures must be at least 4°C (40°F)
+   Penetron                           PENEPLUG®                      : None
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : None
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : None
+   MC-Bauchemie                       ombran W                       : 5–30 °C (air, substrate and material)
+== packaging | OURS: bag / bucket (see technical data sheet)
+   Sika                               Sika® Plug                     : 10 kg plastic bucket
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : 2.5 lb (1.14 kg) cans; 10 lb (4.5 kg) cans; 50 lb (22.7 kg) pails
+   Fosroc (Saint-Gobain)              Renderoc® Plug 1 (Renderoc® Pl : 6 kg bag (Plug 1); 25 kg bag (Plug 20)
+   Weber (Saint-Gobain)               weber.rep 760 Blitzzement      : 1 kg cup, 5 kg bag, 15 kg pail
+   Xypex (Saint-Gobain)               Xypex Patch'n Plug             : 9.1 kg (20 lb) and 22.7 kg (50 lb) pails
+   Vandex (RPM)                       VANDEX PLUG                    : 5 kg and 15 kg resealable plastic buckets
+   Tremco (RPM)                       TREMproof SP                   : 5 kg plastic pails
+   Bostik (Arkema)                    BLOCK C902 POWERPLUG (formerly : 1 kg and 5 kg
+   Mapei                              Lamposilex                     : 5 kg drums (boxes of 4 bags of 5 kg)
+   Kryton                             Krystol Plug™ (K-620)          : 5 kg (11 lb.) and 25 kg (55 lb.) resealable pails
+   Penetron                           PENEPLUG®                      : 40-lb (18-kg) bags or 55-lb (25-kg) pails
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : 4 kg × 5 bags per carton
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : 20 kg can
+   MC-Bauchemie                       ombran W                       : 15 kg tub
+== shelf_life | OURS: min. 12 months
+   Sika                               Sika® Plug                     : 12 months in unopened original container
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : One year when properly stored (45–90 °F / 7–32 °C)
+   Fosroc (Saint-Gobain)              Renderoc® Plug 1 (Renderoc® Pl : 12 months unopened in dry storage (may fall below 6 months in high heat/humidity)
+   Weber (Saint-Gobain)               weber.rep 760 Blitzzement      : min. 9 months
+   Xypex (Saint-Gobain)               Xypex Patch'n Plug             : 2 years, stored dry at min. 7 °C (45 °F)
+   Vandex (RPM)                       VANDEX PLUG                    : 12 months (dry, unopened)
+   Tremco (RPM)                       TREMproof SP                   : 6 months in original, unopened package
+   Bostik (Arkema)                    BLOCK C902 POWERPLUG (formerly : 12 months
+   Mapei                              Lamposilex                     : 12 months (SG page); 24 months (TDS)
+   Kryton                             Krystol Plug™ (K-620)          : At least 2 years for unopened pails stored in a dry, enclosed area
+   Penetron                           PENEPLUG®                      : Two years in unopened, undamaged original packaging, stored dry, cool, minimum 45°F (7°C)
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : None
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : None
+   MC-Bauchemie                       ombran W                       : at least 6 months, original sealed packs, dry, 5–25 °C
+## chart compressive (N/mm², higher) OURS 15 :: Sika® Plug=12, SikaSet® Waterplug (fo=27.6, Renderoc® Plug 1 (Rend=10, weber.rep 760 Blitzzem=40, Xypex Patch'n Plug=12, TREMproof SP=25, Lamposilex=32, デンカキューテックス TYPE-3 (Den=14.8, ombran W=16
+## chart pot_life (min, higher) OURS 2 :: SikaSet® Waterplug (fo=3, weber.rep 760 Blitzzem=5.5, Xypex Patch'n Plug=3, VANDEX PLUG=0.5, BLOCK C902 POWERPLUG (=2, Lamposilex=1, Krystol Plug™ (K-620)=1, PENEPLUG®=0.5, ombran W=1
+
+WHY:
+  - Swellable: the plug expands as it sets and locks into the dovetailed chase against the running water.
+  - Strength development published at 1 hour, 24 hours and 28 days (approx. 3 / 15 / 30 N/mm²) and consumption per litre of void (approx. 2 kg/l) — the comparable plugs publish strength at 7 days or in psi, and no yield per void.
+  - Working time approx. 2 minutes: long enough to press the plug and hold it, short enough to stop the flow.
+  - Part of the crystalline system: the plug is overcoated with ASOCRET-IM and AQUAFIN-IC, no separate waterstop product line.
+
+LISTED: Davco 德高堵漏王 — Davco Leak-Stopping King (plugging compound)

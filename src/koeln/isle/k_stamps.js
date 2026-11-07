@@ -1,0 +1,2 @@
+  var STAMPS = ['koeln.visit', 'lab.visit', 'gs.visit', 'inj.visit', 'inj.quiz', 'inj.sim', 'cr.visit', 'cr.quiz', 'cr.sim', 'wp.visit', 'wp.quiz', 'wp.sim', 'rc.visit', 'rc.quiz', 'rc.sim', 'ca.visit', 'ca.quiz', 'ca.sim', 'pf.visit', 'pf.quiz', 'pf.sim',
+    'shrine.visit', 'diner.visit', 'temple.visit', 'twinHeart.visit', 'dlc.visit', 'taitung.visit', 'fissure.boss', 'ferrum.boss', 'tide.boss', 'pressure.boss', 'slump.boss', 'oil.boss', 'carbon.boss'];

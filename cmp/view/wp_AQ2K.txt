@@ -1,0 +1,239 @@
+SLOT wp/AQ2K AQUAFIN-2K/M-PLUS — two-component flexible crack-bridging mineral waterproofing slurry
+competitors 14, listed 1, none: Kryton
+
+== components | OURS: 2 components, polymer–mortar combination; A : B = 2.5 : 1 by weight
+   Sika                               Sikalastic-152                 : Two components; Comp. A : Comp. B = 8 : 25 (weight)
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : Two components (Comp. A powder 25 kg, Comp. B liquid 10 kg); mixing ratio not stated - 'mix only full kits'
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : 2 components (powder and liquid mixed before use), polymer-modified
+   Weber (Saint-Gobain)               weberdry top                   : 2 components: A grey powder + B white liquid; A : B = 2 : 1 by weight
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : 2 components: 25 kg powder + 17 kg liquid (≈ 1.5 : 1 by weight from pack sizes; ratio not printed)
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : 2 components (liquid polymer dispersion + cementitious powder); 1 part liquid : 2.5 parts powder by weight
+   Vandex (RPM)                       VANDEX BB 75 E Z               : 2: VANDEX BB 75 Z powder 25 kg + VANDEX ELASTICIZER PK 75 liquid 10 kg (25 : 10 by weight)
+   Tremco (RPM)                       TREMproof® FCW                 : 2: Part A polymer liquid (polyacrylate styrene) + Part B powder (graded fine quartz, fillers); 36 kg set (mix ratio by weight not printed)
+   Bostik (Arkema)                    Boscoflex                      : 2 components (Part A acrylic polymer liquid, Part B cement/silica powder); powder : liquid = 2 : 1 by weight
+   Mapei                              Mapelastic                     : Two-component; Comp. A : Comp. B = 3 : 1
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : 2 components: 22.7 kg SEAL COAT powder + 12 kg PENECRYL ELASTIC liquid, no water added (≈ 1.9 : 1 by weight)
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : 2 components; A : B = 1 : 1 by weight (optional water up to 15 % of the liquid volume)
+   Denka                              Estokote Flexi                 : 2 components: Part A powder 22.8 kg + Part B liquid 10.2 kg (33 kg set)
+   MC-Bauchemie                       MC-Proof 501 flex              : 2 components; powder : liquid = 2 : 1 by weight
+== crack_bridging | OURS: > 0.75 mm (DIN EN 14891, normal and low temperature); to 0.4 mm (PG MDS/FPD); > 2.6 mm (ASTM C836)
+   Sika                               Sikalastic-152                 : ~ 1.20 mm (23C), ~ 0.90 mm (-10C), Class A3 (+23C) (EN 1062-7); >= 0.75 mm at standard conditions +23C (EN 14891:2012 A.8.2)
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : Static: > 1.5 mm (EN 14891, A.8.2); dynamic: > 1 mm @ 20,000 cycles (BS EN 1062-7)
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : high elongation bridging fine cracks (no value printed)
+   Weber (Saint-Gobain)               weberdry top                   : ≥ 0.75 mm under standard conditions (BS EN 14891 product)
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : bridges cracks up to 2 mm (ASTM C836); 10-cycle crack test at 1 mm: pass (ASTM C836)
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : Can be applied directly over cracks up to 1.5 mm (1/16 in) width and will withstand crack movement up to 1.5 mm (no test standard stated); cold bend pass, 9.5 mm mandrel 
+   Vandex (RPM)                       VANDEX BB 75 E Z               : 0.8 mm at 20 °C; class A3 (20 °C) (EN 1504-2 CE data)
+   Tremco (RPM)                       TREMproof® FCW                 : None
+   Bostik (Arkema)                    Boscoflex                      : no cracking at 2 mm crack width (test method not stated)
+   Mapei                              Mapelastic                     : protects and waterproofs 'even on structures with cracks of 1 mm' (Technical Notebook); EN 14891 / EN 1062-7 class not shown
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : Excellent crack bridging between 1–2 mm (no test standard stated)
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : good elasticity with crack-bridging capability (no value published)
+   Denka                              Estokote Flexi                 : passed (method and width not stated)
+   MC-Bauchemie                       MC-Proof 501 flex              : None
+== positive_pressure | OURS: to 2.5 bar (PG MDS/FPD)
+   Sika                               Sikalastic-152                 : 1.5 bar (EN 14891 A.7)
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : No penetration at 7 bar (DIN 1048)
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : None
+   Weber (Saint-Gobain)               weberdry top                   : no water penetration at 1.5 bar hydrostatic pressure for 7 days (BS EN 14891)
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : None
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : For optimum performance apply to the positive side of a concrete surface subjected to hydrostatic pressure (no bar value)
+   Vandex (RPM)                       VANDEX BB 75 E Z               : None
+   Tremco (RPM)                       TREMproof® FCW                 : no water penetration at 0.2 kgf/cm² for 12 hours (DIN 1048-5:1991)
+   Bostik (Arkema)                    Boscoflex                      : no water penetration at 0.2 kgf/cm³ [sic] for 6 hours; recommended for hydrostatic-pressure areas (water tanks, pools)
+   Mapei                              Mapelastic                     : impermeable 'up to a pressure of 1.5 bar (15 m of water head)' (Technical Notebook)
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : Concrete walls under positive or medium negative water pressures (no bar value)
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : None
+   Denka                              Estokote Flexi                 : no penetration — passed (DIN 1048; pressure not stated)
+   MC-Bauchemie                       MC-Proof 501 flex              : watertight up to 1 bar
+== negative_pressure | OURS: to 0.75 bar (WTA 4-6)
+   Sika                               Sikalastic-152                 : None
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : None
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : None
+   Weber (Saint-Gobain)               weberdry top                   : None
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : None
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : None
+   Vandex (RPM)                       VANDEX BB 75 E Z               : None
+   Tremco (RPM)                       TREMproof® FCW                 : None
+   Bostik (Arkema)                    Boscoflex                      : None
+   Mapei                              Mapelastic                     : None
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : Medium negative water pressures (no bar value); for high negative pressure the sheet refers to PENETRON crystalline products
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : None
+   Denka                              Estokote Flexi                 : no penetration — passed (in-house method; pressure not stated)
+   MC-Bauchemie                       MC-Proof 501 flex              : None
+== adhesion | OURS: ≥ 0.5 N/mm² (DIN EN 1542)
+   Sika                               Sikalastic-152                 : ~ 1.5 N/mm2 on concrete; >= 0.8 N/mm2 bond strength (EN 1542); >= 0.5 N/mm2 initial tensile adhesion (EN 14891:2012 A.6.2)
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : ~0.8 N/mm2 (on concrete surface, at 28 days) (EN 1542)
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : high bond strength, does not impair tile setting (no value printed)
+   Weber (Saint-Gobain)               weberdry top                   : ≥ 0.5 N/mm² initial, after water contact, chlorinated water, heat ageing and lime water (BS EN 14891)
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : ≥ 1.2 N/mm² to concrete (ASTM D4541)
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : 0.80 MPa (116 psi) (EN 1542, 28 days, lab cured)
+   Vandex (RPM)                       VANDEX BB 75 E Z               : 0.8 MPa
+   Tremco (RPM)                       TREMproof® FCW                 : > 0.60 N/mm² (ASTM D4541)
+   Bostik (Arkema)                    Boscoflex                      : > 0.9 N/mm² to concrete
+   Mapei                              Mapelastic                     : None
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : ≥ 1.5 N/mm² (EN 1504-2 declaration for SEAL COAT); 'excellent adhesion' for the elastic system
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : pull-off to concrete > 1.1 MPa (ASTM D4541-02)
+   Denka                              Estokote Flexi                 : > 1 N/mm² (method not stated; ASTM D4541 cited among standards)
+   MC-Bauchemie                       MC-Proof 501 flex              : None
+== elongation | OURS: approx. 192 % (ASTM D 412-16)
+   Sika                               Sikalastic-152                 : None
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : ~40 % air cured 28 days; ~30 % water cured 28 days (ASTM D412)
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : None
+   Weber (Saint-Gobain)               weberdry top                   : None
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : ≥ 200 % (ASTM D412); tensile strength ≥ 1.8 N/mm² (ASTM D412)
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : 60–100 % at break; tensile strength 1.0 MPa (ASTM D 412, 28 days, lab cured)
+   Vandex (RPM)                       VANDEX BB 75 E Z               : None
+   Tremco (RPM)                       TREMproof® FCW                 : > 100 % (ASTM D412-16); tensile strength > 1.0 MPa
+   Bostik (Arkema)                    Boscoflex                      : > 150 % at break (test method not stated)
+   Mapei                              Mapelastic                     : None
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : None
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : > 150 % (ASTM D412-16 (2021)); tensile strength > 1.5 MPa
+   Denka                              Estokote Flexi                 : 150 % (ASTM D412); tensile strength 1.8 N/mm² (ASTM D412)
+   MC-Bauchemie                       MC-Proof 501 flex              : None
+== vapour | OURS: µ < 1000
+   Sika                               Sikalastic-152                 : Class I (permeable), SD < 5m (EN ISO 7783)
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : 'Water vapour permeable' - class/Sd not stated
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : None
+   Weber (Saint-Gobain)               weberdry top                   : None
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : None
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : None
+   Vandex (RPM)                       VANDEX BB 75 E Z               : class I, sD < 5 m
+   Tremco (RPM)                       TREMproof® FCW                 : None
+   Bostik (Arkema)                    Boscoflex                      : None
+   Mapei                              Mapelastic                     : None
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : Breathable; class I (EN 1504-2 declaration)
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : None
+   Denka                              Estokote Flexi                 : None
+   MC-Bauchemie                       MC-Proof 501 flex              : None
+== co2 | OURS: Sd > 200 m (2 mm dry film)
+   Sika                               Sikalastic-152                 : SD >= 50 m (EN 1062-6)
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : Class C1 (BS EN 1062-1) - Sd not stated
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : None
+   Weber (Saint-Gobain)               weberdry top                   : None
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : None
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : None
+   Vandex (RPM)                       VANDEX BB 75 E Z               : sD > 50 m
+   Tremco (RPM)                       TREMproof® FCW                 : None
+   Bostik (Arkema)                    Boscoflex                      : None
+   Mapei                              Mapelastic                     : None
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : None
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : None
+   Denka                              Estokote Flexi                 : None
+   MC-Bauchemie                       MC-Proof 501 flex              : None
+== consumption | OURS: approx. 3.5–5 kg/m² in two coats (see technical data sheet for the water load)
+   Sika                               Sikalastic-152                 : ~ 1.8 kg/m2/mm; total consumption of 5.4 kg/m2 in two layers
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : ~1.6 kg/m2/mm; additional 0.5 kg/m2 when embedding approved mesh; yield ~21 l / 35 kg unit
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : None
+   Weber (Saint-Gobain)               weberdry top                   : water tanks 3.0 kg/m² (2–3 coats); wet areas 1.5–2.0 kg/m² (2 coats)
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : min. 2 kg/m² (by substrate porosity)
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : One unit (10 kg powder + 4 l liquid) covers approx. 2.6 m² (28 sq ft) at 3 mm two-coat thickness
+   Vandex (RPM)                       VANDEX BB 75 E Z               : pressureless water 2.5–3.5 kg/m² (1–2 layers); water under pressure 3.5–5.5 kg/m² (2–3 layers, depending on pressure); max. 4 kg/m² per working cycle
+   Tremco (RPM)                       TREMproof® FCW                 : approx. 1.0 kg/m² per coat; minimum 2 coats
+   Bostik (Arkema)                    Boscoflex                      : ground moisture / bathrooms / balconies: 2 kg/m² (2 × 1.0 kg/m²); hydrostatic pressure, water tanks, pools: 3 kg/m² (2 × 1.5 kg/m²); max. 2 kg/m² per layer
+   Mapei                              Mapelastic                     : 1.7 kg/m2 per mm of thickness (trowel); 2.2 kg/m2 per mm of thickness (spray)
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : 1.4 kg/m² per mm; with reinforcing mesh 2.5–3 kg/m² total (2–3 mm)
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : 2.2–2.4 kg/m² per 1 mm dry film; 1.0–1.5 kg/m² per coat (0.4–0.7 mm); 11–12 m² per 40 kg set at 1.5 mm
+   Denka                              Estokote Flexi                 : approx. 1 kg/m² per coat; 33 kg set ≈ 16.5 m² in two coats
+   MC-Bauchemie                       MC-Proof 501 flex              : 1.6 kg/m² per mm
+== thickness | OURS: see technical data sheet (dry film by water load)
+   Sika                               Sikalastic-152                 : Total layer thickness 3 mm, applied in minimum 2 layers (maximum recommended thickness per layer is 2 mm)
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : ~1 mm per layer (minimum of 2 layers recommended); do not exceed 2 mm wet film thickness per application layer
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : None
+   Weber (Saint-Gobain)               weberdry top                   : None
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : min. 1.2 mm total dry film; min. 2 coats (internal wet areas), 3 coats (non-chlorinated water-retaining structures)
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : First coat approx. 1.5 mm; second coat to a total membrane thickness of 3 mm
+   Vandex (RPM)                       VANDEX BB 75 E Z               : None
+   Tremco (RPM)                       TREMproof® FCW                 : recommended dry film 1–2 mm (walls), 1.8–2 mm (floors), depending on water pressure; approx. 1.0 mm per layer
+   Bostik (Arkema)                    Boscoflex                      : None
+   Mapei                              Mapelastic                     : Minimum thickness: 2 mm in 2 coats
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : Max. 1 mm (1.4 kg/m²) per coat; two coats (small–medium demands) or three (high); 2–3 mm total with mesh
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : 1.2–1.5 mm total in 2–3 coats; minimum 1.5 mm horizontal, 1.2 mm vertical
+   Denka                              Estokote Flexi                 : two coats, total approx. 1 mm (more coats for moderate/heavy pedestrian areas)
+   MC-Bauchemie                       MC-Proof 501 flex              : wet layer 2.5 mm (ground moisture / non-accumulating seepage water, ≥ 2.5 mm dry, as printed) or 3.5 mm (pressing water, ≥ 3 mm dry); at least two coats
+== pot_life | OURS: approx. 60 minutes
+   Sika                               Sikalastic-152                 : ~ 1 hour @ +20C
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : ~60 min (at 25 C)
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : None
+   Weber (Saint-Gobain)               weberdry top                   : approx. 30 minutes at 30 °C
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : None
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : Do not mix more material than can be used in 30 minutes
+   Vandex (RPM)                       VANDEX BB 75 E Z               : workability approx. 30 min at 20 °C (setting approx. 3–6 h)
+   Tremco (RPM)                       TREMproof® FCW                 : approx. 30 minutes at 30 °C
+   Bostik (Arkema)                    Boscoflex                      : 30 minutes
+   Mapei                              Mapelastic                     : approximately 1 hour
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : 35 minutes at 20 °C
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : 2 hours
+   Denka                              Estokote Flexi                 : approx. 1 hour at 35 °C
+   MC-Bauchemie                       MC-Proof 501 flex              : approx. 30 min at 20 °C
+== application_temp | OURS: approx. 5–30 °C
+   Sika                               Sikalastic-152                 : +5C min. / +35C max. (substrate and ambient)
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : None
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : None
+   Weber (Saint-Gobain)               weberdry top                   : +10 to +35 °C (air and substrate)
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : None
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : Ambient 10–30 °C (50–86 °F); keep above 10 °C for 24 h after application
+   Vandex (RPM)                       VANDEX BB 75 E Z               : not below +5 °C; not on frozen substrate
+   Tremco (RPM)                       TREMproof® FCW                 : surface temperature 10–30 °C
+   Bostik (Arkema)                    Boscoflex                      : None
+   Mapei                              Mapelastic                     : +5C to +35C
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : Not below 4 °C surface temperature; not on frozen substrate
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : air and substrate +5 to +40 °C; ≥ 3 °C above dew point; RH < 85 %
+   Denka                              Estokote Flexi                 : dampen surface; above 27 °C water may be added to the liquid to adjust consistency (no range stated)
+   MC-Bauchemie                       MC-Proof 501 flex              : ≥ 5 °C and ≤ 30 °C (air, substrate and material)
+== certification | OURS: DIN EN 14891; PG MDS/FPD; WTA 4-6; DIN 18533 / 18535
+   Sika                               Sikalastic-152                 : EN 1504-2:2004; EN 14891:2012; reaction to fire Euroclass A2 (EN 13501-1); drinking water not mentioned
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : EN 14891 (crack bridging), EN 1542, BS EN 1062-1/-3/-7, DIN 1048, EN 13687-1 cited; 'Suitable for potable water contact'; EN 1504-2 not stated
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : passed French 'A+' indoor air emission test (no GB/JC standard printed)
+   Weber (Saint-Gobain)               weberdry top                   : tested to BS EN 14891; marketed as low-VOC and suitable for potable-water tanks (no certificate number printed)
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : tested to ASTM D412, ASTM D4541, ASTM C836; no EN 14891 declaration printed
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : None
+   Vandex (RPM)                       VANDEX BB 75 E Z               : EN 1504-2:2004 (ZA.1d, ZA.1e) surface protection coating, CE, notified body 0761; reaction to fire class E
+   Tremco (RPM)                       TREMproof® FCW                 : None
+   Bostik (Arkema)                    Boscoflex                      : None
+   Mapei                              Mapelastic                     : EN 1504-2 coating (C) principles PI, MC and IR; EN 14891; EMICODE EC1 Plus
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : EN 1504-2 (1085-CPR-0080, Penetron International Ltd.): water vapour permeability class I; capillary water absorption < 0.1 kg/m²·h⁰·⁵ (printed 'kg/m2h'); adhesion ≥ 1.5 
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : None
+   Denka                              Estokote Flexi                 : BS 6920 Parts 1 & 2; water absorption < 1.0 % (BS 1881 Part 122:1983, SIRIM Bhd); ASTM D412; DIN 1048
+   MC-Bauchemie                       MC-Proof 501 flex              : TDS: observe WTA leaflet 4-6-05/D and the mineral-sealing-slurry guideline; product page: tested for ZDB stress classes A0, A, B0 and B (composite sealing under tiles)
+== packaging | OURS: 35 kg combination pack (25 kg powder + 10 kg liquid)
+   Sika                               Sikalastic-152                 : Ready batched 33 kg units (Comp. A 8 kg, Comp. B 25 kg)
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : 35 kg unit: Comp. A - Powder 25 kg; Comp. B - Liquid 10 kg
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : None
+   Weber (Saint-Gobain)               weberdry top                   : 5 kg pack (3.33 kg powder + 1.67 kg liquid); 15 kg pack
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : 42 kg set (25 kg powder + 17 kg liquid)
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : Kit in a carton: 4 l (1.06 US gal) liquid bottle + 10 kg (22 lb) powder pail
+   Vandex (RPM)                       VANDEX BB 75 E Z               : 25 kg PE-lined paper bag (powder) + 10 kg PE container (liquid)
+   Tremco (RPM)                       TREMproof® FCW                 : 36 kg set
+   Bostik (Arkema)                    Boscoflex                      : 30 kg set (Part A 10 kg + Part B 20 kg)
+   Mapei                              Mapelastic                     : 32 kg units (24 kg bags + 8 kg tanks); 16 kg units
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : 22.7 kg sealed SEAL COAT bags; elastic system supplied as pre-weighed components
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : 40 kg set: A 20 kg pail + B 20 kg bag
+   Denka                              Estokote Flexi                 : 33 kg set (22.8 kg powder bag + 10.2 kg liquid bottle)
+   MC-Bauchemie                       MC-Proof 501 flex              : 20 kg bag (powder) + 10 kg liquid
+== shelf_life | OURS: min. 12 months
+   Sika                               Sikalastic-152                 : 12 months from the date of production
+   Master Builders Solutions (Sika)   SikaTop-588 Seal (formerly Mas : 12 months from date of production
+   Davco (Sika)                       德高K11超柔防水浆料(柔韧II型) — Davco K11 : None
+   Weber (Saint-Gobain)               weberdry top                   : 9 months unopened
+   GCP Applied Technologies (Saint-Go BETEC™ Flex S150               : 12 months (dry)
+   Xypex (Saint-Gobain)               Xypex FCM 80                   : 6 months, stored dry at min. 7 °C (45 °F)
+   Vandex (RPM)                       VANDEX BB 75 E Z               : 12 months (powder dry, liquid frost-free; unopened)
+   Tremco (RPM)                       TREMproof® FCW                 : 12 months from production date
+   Bostik (Arkema)                    Boscoflex                      : 12 months
+   Mapei                              Mapelastic                     : 12 months for Comp. A; 24 months for Comp. B
+   Penetron                           PENETRON® SEAL COAT™ ELASTIC ( : 12 months in sealed original packaging, dry, min. 7 °C
+   Oriental Yuhong                    YHCoat-1180 Highly Flexible Ce : min. 12 months (storage +5 to +35 °C)
+   Denka                              Estokote Flexi                 : 12 months, dry on pallets
+   MC-Bauchemie                       MC-Proof 501 flex              : 12 months, cool and dry, original unopened packs; protect from frost
+## chart crack_bridging (mm, higher) OURS 2.6 :: Sikalastic-152=1.2, SikaTop-588 Seal (form=1.5, weberdry top=0.75, BETEC™ Flex S150=2, VANDEX BB 75 E Z=0.8
+## chart positive_pressure (bar, higher) OURS 2.5 :: Sikalastic-152=1.5, SikaTop-588 Seal (form=7, weberdry top=1.5, TREMproof® FCW=0.196, Mapelastic=1.5, MC-Proof 501 flex=1
+## chart elongation (%, higher) OURS 192 :: SikaTop-588 Seal (form=40, BETEC™ Flex S150=200, Xypex FCM 80=80, TREMproof® FCW=100, YHCoat-1180 Highly Fle=150, Estokote Flexi=150
+
+WHY:
+  - Elongation approx. 192 % (ASTM D412) against approx. 40 % published for SikaTop-588 Seal on the same method: the slurry stretches with the crack instead of tearing.
+  - Crack bridging published on three methods (EN 14891 > 0.75 mm, PG MDS/FPD 0.4 mm, ASTM C836 > 2.6 mm) — the figures are comparable method by method; Vandex BB75E-Z publishes < 0.8 mm, Sikalastic-152 ~1.2 mm (EN 1062-7).
+  - Both pressure directions published: 2.5 bar positive and 0.75 bar negative (WTA 4-6); the comparison products publish either a positive value or none.
+  - CO₂ diffusion Sd > 200 m at 2 mm: protects the reinforcement against carbonation as well as the structure against water.
+
+LISTED: Sobute JS Polymer Cement Waterproof Coating

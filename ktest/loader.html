@@ -1,0 +1,23 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="../src/style.css"></head><body><div class="kload" id="kLoad" role="status" aria-live="polite" hidden>
+  <div class="kload__bg" aria-hidden="true"><i></i><i></i></div>
+  <div class="kload__in">
+    <div class="kload__mark" aria-hidden="true"><svg viewBox="0 0 120 120"><defs><linearGradient id="klg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd27a"/><stop offset=".55" stop-color="#ff8400"/><stop offset="1" stop-color="#e3000f"/></linearGradient></defs><circle class="kload__r0" cx="60" cy="60" r="46"/><circle class="kload__r1" cx="60" cy="60" r="46" stroke="url(#klg)"/><circle class="kload__r2" cx="60" cy="60" r="38"/></svg><b></b><b></b><b></b></div>
+    <p class="kload__kick">SCHOMBURG · KÖLN</p>
+    <h2 class="kload__h" id="kLoadH">The guide's city game</h2>
+    <div class="kload__bar" aria-hidden="true"><i id="kLoadBar"></i><span></span></div>
+    <p class="kload__st"><span id="kLoadSt">Loading…</span> <b id="kLoadPct"></b></p>
+    <ul class="kload__tips" id="kLoadTips"><li></li><li></li><li></li><li></li></ul>
+    <p class="kload__note" id="kLoadNote"></p>
+    <div class="kload__act" id="kLoadAct" hidden><button type="button" class="kload__btn" id="kLoadGo"></button><button type="button" class="kload__btn kload__btn--q" id="kLoadMute" aria-pressed="true"></button></div>
+    <button type="button" class="kload__skip" id="kLoadSkip"></button>
+  </div>
+</div>
+<script>(function(){var L=document.getElementById('kLoad');if(!L)return;var h=location.hash||'',q=location.search||'',want=(h===''||h==='#'||h==='#/'||h==='#/island'||/[?&]isle=1/.test(q))&&!/[?&]isle=0/.test(q);if(!want){L.parentNode.removeChild(L);return;}
+var lg='en';try{var s=localStorage.getItem('aquafin-p4-lang');if(s==='zh'||s==='en'||s==='de')lg=s;}catch(e){}L.setAttribute('lang',lg==='zh'?'zh-Hant-TW':lg);
+var T={zh:{h:'施工指南的科隆城市遊戲',st:'載入中…',note:'第一次載入約需 10–30 秒，之後會更快；進度會自動保存。',skip:'先看施工指南',tips:['提示：按 O 打開米菈的口袋之門，一步到達科隆的地標。','提示：拖曳畫面環顧四周；雙指或滾輪可拉近拉遠。','提示：完成模擬現場可得 30 S 幣與一枚印章。','小知識：科隆大教堂高 157 公尺，從 1248 年到 1880 年蓋了 632 年。']},
+en:{h:"The guide's city game",st:'Loading…',note:'The first load takes about 10–30 s; later visits are faster. Your progress is saved automatically.',skip:'Read the guides first',tips:["Tip: press O for Mira's pocket door — one step to Köln's landmarks.",'Tip: drag to look around; pinch or scroll to zoom.','Tip: every simulator you finish earns 30 S coins and a stamp.','Did you know? The Dom is 157 m tall and took 632 years to build (1248–1880).']},
+de:{h:'Das Stadtspiel des Leitfadens',st:'Wird geladen …',note:'Der erste Start dauert etwa 10–30 s, danach geht es schneller. Dein Fortschritt wird automatisch gespeichert.',skip:'Erst die Leitfäden lesen',tips:['Tipp: Mit O öffnest du Miras Taschentür – ein Schritt zu Kölns Wahrzeichen.','Tipp: Ziehen zum Umsehen; zoomen mit zwei Fingern oder dem Mausrad.','Tipp: Jeder geschaffte Simulator bringt 30 S-Münzen und einen Stempel.','Schon gewusst? Der Dom ist 157 m hoch; gebaut wurde 632 Jahre lang (1248–1880).']}}[lg];
+document.getElementById('kLoadH').textContent=T.h;document.getElementById('kLoadSt').textContent=T.st;document.getElementById('kLoadNote').textContent=T.note;var sk=document.getElementById('kLoadSkip');sk.textContent=T.skip;
+[].forEach.call(document.querySelectorAll('#kLoadTips li'),function(li,i){li.textContent=T.tips[i];});
+sk.addEventListener('click',function(){L.classList.add('is-done');window.KLOAD_SKIP=true;try{location.hash='#how';}catch(e){}setTimeout(function(){if(L.parentNode)L.parentNode.removeChild(L);},600);});
+L.hidden=false;window.KLOAD_T0=Date.now();})();</script><script>window.KSET=function(p,t){document.getElementById("kLoadBar").style.transform="scaleX("+p+")";document.getElementById("kLoadSt").textContent=t;document.getElementById("kLoadPct").textContent=Math.round(p*100)+"%";};</script></body></html>

@@ -1,0 +1,816 @@
+{
+ "agent": "Arkema group (Bostik incl. former Den Braven range) - all 22 slots; Mapei gap slots (rc/IM, ca/CL170, rc/IC crystalline check)",
+ "accessed": "2026-10-24",
+ "ownership": [
+  {
+   "brand": "Bostik",
+   "group": "Arkema",
+   "since": "2015 (acquisition from Total completed 2 Feb 2015); Bostik is Arkema's Adhesive Solutions segment",
+   "evidence": "https://www.bostik.com/global/en/our-company/about-arkema/ ; http://www.labelsandlabeling.com/news/substrates-adhesives/arkema-completes-bostik-acquisition"
+  },
+  {
+   "brand": "Den Braven",
+   "group": "Arkema",
+   "since": "2016 (completed 1 Dec 2016, integrated into Bostik; Den Braven sealants/foams now sold under the Bostik brand, catalogue codes 'bostik_cc_dbr_...')",
+   "evidence": "https://prnewswire.co.uk/news-releases/arkema-completes-acquisition-of-den-braven-604038906.html"
+  },
+  {
+   "brand": "Sovereign (Sovereign Chemicals Ltd, UK)",
+   "group": "Arkema",
+   "since": "2015 (wholly-owned subsidiary of Bostik Ltd; part of Arkema's network since 2015); its Hey'di K11 system products are now sold as Bostik BLOCK ... (e.g. Sovereign Powder X / Bostik Puder EX = BLOCK C902 TERRA XPRESS)",
+   "evidence": "https://www.bostik.com/uk/en_GB/brands_countries/sovereign/ ; https://source.thenbs.com/en/gb/product/bostik-block-c902-terra-xpress/as8beguQYxGwqRpwPkYzR/e7tJx8cNoobapw8i9Wordi"
+  },
+  {
+   "brand": "Hey'di",
+   "group": "Arkema",
+   "since": "listed among Bostik brands (date not found); German Bostik GmbH waterproofing range carries former Hey'di names (K11, Puder-EX, Turbotec, Epoxan). Primary ownership source not found - treat as unverified",
+   "evidence": "https://en.wikipedia.org/wiki/Bostik"
+  }
+ ],
+ "entries": [
+  {
+   "slot": "cr/BIS540",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "Bostik SRM-T (Structural Repairing Mortar)",
+   "type": "Mineral-based, thixotropic, non-shrink, fibre-enhanced cementitious structural repair mortar for vertical applications",
+   "market": "Middle East (Egypt, Qatar, Saudi Arabia, UAE) - Bostik / Arkema Middle East DMCC",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/Egypt/Documents/TDS/Bostik-srm-t-tds-en.pdf",
+    "version": "24.09.2018, Rev. 000"
+   },
+   "values": {
+    "class": "TS EN 1504-3 class R4 (CE marking and reaction-to-fire class not stated; 'fireproof')",
+    "compressive": "≥ 60 N/mm² (28 days, TS EN 196); early-age values not printed",
+    "flexural": "≥ 8 N/mm² (28 days, TS EN 196)",
+    "adhesion": "Bond strength ≥ 2 N/mm² (28 days, as printed against TS EN 196; EN 1542 not cited)",
+    "e_modulus": null,
+    "chloride": null,
+    "capillary": null,
+    "carbonation": null,
+    "thickness": "min. 10 mm, max. 40 mm per layer (Dmax 4 mm)",
+    "consumption": "approx. 20 kg/m² for 10 mm thickness (theoretical)",
+    "water": "3.5–4.0 l per 25 kg bag",
+    "pot_life": "30 minutes (+20 °C)",
+    "overcoat": "thicker work built up in layers, each after the previous has dried (no waiting time stated); initial curing 24 h (+20 °C)",
+    "application_temp": "+5 °C to +35 °C (air and substrate)",
+    "packaging": "25 kg bag",
+    "shelf_life": "max. 12 months (dry, +10 to +25 °C)"
+   },
+   "charts": {
+    "compressive": {
+     "v": 60,
+     "label": "≥ 60 N/mm² (28 d, TS EN 196)"
+    },
+    "e_modulus": {
+     "v": null,
+     "label": null
+    },
+    "thickness": {
+     "v": 10,
+     "label": "min. 10 mm per layer"
+    },
+    "consumption": {
+     "v": 2.0,
+     "label": "approx. 20 kg/m² per 10 mm"
+    }
+   },
+   "notes": "Bostik has no EN 1504-3 R4 repair mortar in its Asia-Pacific range; SRM-T is the Middle East product. Horizontal twin SRM-H (same R4 values, same 24.09.2018 sheet date) exists for floors. Product page states a newer version exists but does not name it. Bond strength is printed with TS EN 196 as reference, not EN 1542 - treat as not directly comparable to EN 1542 pull-off values."
+  },
+  {
+   "slot": "inj/IH",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "RENO E753 INJECT XTREM (formerly Epoxan IKH)",
+   "type": "Two-component, solvent-free, low-viscosity epoxy injection resin for force-locking pressure injection and consolidation of structural cracks",
+   "market": "Germany (Bostik GmbH)",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/Germany/Documents/TDS/bostik_de_tds_reno_e753_inject_xtrem_0425.pdf",
+    "version": "Edition 04.25"
+   },
+   "values": {
+    "basis": "two-component hard-elastic epoxy resin, solvent-free",
+    "mix_ratio": "A : B = 2 : 1 by weight (2 : 0.9 by volume)",
+    "viscosity": "300 mPa·s (mixed, +20 °C; method not stated)",
+    "pot_life": "approx. 1 hour (+20 °C)",
+    "tensile": null,
+    "application_temp": "from +5 °C",
+    "packaging": "component A 7 kg + component B 3.5 kg tin pails",
+    "shelf_life": "12 months (dry, above +5 °C)"
+   },
+   "charts": {
+    "viscosity": {
+     "v": 300,
+     "label": "300 mPa·s (+20 °C, mixed)"
+    }
+   },
+   "notes": "For dry, damp or water-filled cracks without pressurised water flow; consumption approx. 1.1 kg per litre of cavity. No EN 1504-5 / CE declaration and no strength values printed. Product page says a successor exists (not named). Alternative in Bostik's floor-preparation range: RENO E742 STRUCTURE (2K epoxy crack/joint resin for screeds, poured or cartridge, 200–400 mPa·s, 82 MPa compressive, not an injection resin). Asia-Pacific: Bostik LVEP (India, solvent-free low-viscosity epoxy injection grout for gaps 0.1–10 mm, gravity or pump; product page and SDS only, no TDS) - the German sheet is used because it publishes values."
+  },
+  {
+   "slot": "inj/P1",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "PU Wasserstopp (with PU Beschleuniger accelerator)",
+   "type": "Water-reactive polyurethane injection foam (solvent-free modified MDI prepolymer) for stopping water in water-bearing cracks and cavities",
+   "market": "Germany / Austria (Bostik GmbH)",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/Germany/Documents/TDS/TM%20-%20PU%20Wasserstopp%20%20%20PU%20Beschleuniger.pdf",
+    "version": "Edition 04.16"
+   },
+   "values": {
+    "basis": "solvent-free modified diisocyanate (MDI) prepolymer, water-reactive",
+    "components": "1 (resin) + optional PU Beschleuniger accelerator, ratio freely selectable",
+    "foam_expansion": null,
+    "cure": "reacts with water to a water-insoluble, seawater-resistant foam; reaction time 10 min to 1 h depending on water content and accelerator dosage",
+    "consumption": "as required",
+    "application_temp": "from +5 °C; ideal +20 °C",
+    "packaging": "10 kg metal container (resin); 1 kg accelerator",
+    "shelf_life": "approx. 6 months (cool, dry, frost-free)"
+   },
+   "charts": {
+    "foam_expansion": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Viscosity approx. 300 mPa·s (resin), approx. 275 mPa·s (ready mix), +20 °C; density 1.23 (resin). Foam expansion factor not printed. Temporary water stop before permanent waterproofing. Product page states a successor exists (not named). No Asia-Pacific Bostik injection foam found. German range descends from the former Hey'di line (PU Wasserstopp, Epoxan)."
+  },
+  {
+   "slot": "ca/CP360",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "MIX X510 Boscoseal Admix",
+   "type": "Powder crystalline concrete waterproofing admixture added at batching (AS 1478.1 Type SN)",
+   "market": "Australia (Bostik Australia)",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/Australia/Documents/TDS/TDS_MIX_X510_Boscoseal_Admix_APR26.pdf",
+    "version": "Technical sheet dated 27/04/2026"
+   },
+   "values": {
+    "form": "powder",
+    "dosage": "0.8–1.0 % by weight of cement, depending on mix design (consult Bostik for enhanced chemical resistance)",
+    "density": null,
+    "chloride": null,
+    "self_healing": "self-healing effect up to 0.4 mm",
+    "min_cement": null,
+    "dosing_point": "ready-mix dry batch: powder into the truck drum with 60–70 % of the mix water and 140–230 kg aggregate, mix 2–3 min, then add the balance; central mix: 6–8 kg powder pre-slurried in 10 l water into the drum, mix ≥ 5 min after discharge; precast pan mixer: add to rock and sand, mix 2–3 min before cement and water; never add dry powder to wet concrete",
+    "application_temp": null,
+    "packaging": "20 kg pail",
+    "certification": "AS 1478.1-2000, Type SN (special-purpose normal-setting admixture)"
+   },
+   "charts": {
+    "dosage": {
+     "v": 0.9,
+     "label": "0.8–1.0 % by weight of cement"
+    },
+    "self_healing": {
+     "v": 0.4,
+     "label": "up to 0.4 mm"
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Further sheet data: hydrostatic pressure > 7 bar; water penetration < 20 mm (DIN 1048); 28-day shrinkage < 600 microstrain (AS 1012.13); chloride permeability < 525 (unit not printed - not a chloride content); service range −20 to +50 °C; storage 5–38 °C; shelf life 18 months. Same product sold in Singapore as 'Boscoseal Admix' (PDS Issue 3, April 2019: 0.8–1.2 % dosage, SS 375 potable-water compliance) and in India as MIX X510 Boscoseal Admix (TDS v1/1023: 0.8–1.0 %). The Australian sheet (2026) is used as the most recent Asia-Pacific edition."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "Bostik Boscoseal Concentrate",
+   "type": "Surface-applied crystalline concrete waterproofing slurry (Portland cement, treated quartz sand, active chemicals)",
+   "market": "Thailand (Bostik Thailand); also PUB-approved in Singapore",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/import-thailand/bostik-boscoseal-concentrate-rev1-1.pdf",
+    "version": "Rev1 (no date printed)"
+   },
+   "values": {
+    "components": "1 component, grey powder (SG 1.6); 5 parts concentrate : 2 parts water by volume",
+    "negative_pressure": "withstands up to 30 m hydrostatic pressure (side not stated)",
+    "permeability": "water penetration < 10 mm (DIN 1048 Part 5, 1991); water permeability 8.5 × 10⁻¹³ (BTD/TP/02/2002, unit not printed)",
+    "adhesion": "0.70 N/mm² (BS EN 1015-12:2000)",
+    "capillary": null,
+    "vapour": null,
+    "consumption": "surfaces to be backfilled: 2 coats, 0.75 then 1.0 kg/m²; internal walls of water-retaining structures: 2 × 0.75 kg/m²; hardened slab: 1 × 1.0 kg/m²; construction joints: 1.5 kg/m²",
+    "coats": "1 or 2 depending on application (2 coats by brush or spray on walls)",
+    "pot_life": "use within 20 minutes (pot life 20 min at 25 °C; initial set 60 min at 25 °C)",
+    "recoat": "second coat while the first is still 'green' (wet)",
+    "curing": "mist with water 2–3 times a day for 3 days after initial set; protect from rain, frost and standing water",
+    "application_temp": null,
+    "drinking_water": "complies with SS 375:1994; PUB (Singapore) approved",
+    "packaging": "20 kg pail",
+    "shelf_life": "1 year (sealed, dry, max. 38 °C)"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": "up to 30 m hydrostatic head (side not stated)"
+    },
+    "permeability": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": 20,
+     "label": "20 min (+25 °C)"
+    },
+    "consumption": {
+     "v": 1.75,
+     "label": "0.75 + 1.0 kg/m² (2 coats, surfaces to be backfilled)"
+    }
+   },
+   "notes": "Sheet states the layer lets water vapour pass ('breathes') but gives no value; no CRD-C 48 result. The Thai product page says a newer version exists - probably Bostik CWP (crystalline capillary waterproofing, listed on the Thai and Indian sites; India TDS: 5 : 2 by volume, 1.6 kg/m² on internal walls of water-retaining structures, use within 20 min, damp-cure 5 days, 30 kg bag, no test values printed). The Concentrate sheet was chosen because it carries test values. Bostik India also lists Bostik K11 Slurry Grey (two-part cement-based crystalline waterproofing for positive and negative pressure, 25 kg + 9 l; TDS not read)."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "Boscoflex",
+   "type": "Two-component, polymer-modified, flexible cementitious waterproofing coating (acrylic polymer liquid + cement/silica powder)",
+   "market": "Malaysia (Bostik Malaysia); same product in Singapore/Thailand/Philippines",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/Malaysia/Documents/TDS/PDS_Boscoflex_V3.pdf",
+    "version": "Issue No. 3, 23 December 2020"
+   },
+   "values": {
+    "components": "2 components (Part A acrylic polymer liquid, Part B cement/silica powder); powder : liquid = 2 : 1 by weight",
+    "crack_bridging": "no cracking at 2 mm crack width (test method not stated)",
+    "positive_pressure": "no water penetration at 0.2 kgf/cm³ [sic] for 6 hours; recommended for hydrostatic-pressure areas (water tanks, pools)",
+    "negative_pressure": null,
+    "adhesion": "> 0.9 N/mm² to concrete",
+    "elongation": "> 150 % at break (test method not stated)",
+    "vapour": null,
+    "co2": null,
+    "consumption": "ground moisture / bathrooms / balconies: 2 kg/m² (2 × 1.0 kg/m²); hydrostatic pressure, water tanks, pools: 3 kg/m² (2 × 1.5 kg/m²); max. 2 kg/m² per layer",
+    "thickness": null,
+    "pot_life": "30 minutes",
+    "application_temp": null,
+    "certification": null,
+    "packaging": "30 kg set (Part A 10 kg + Part B 20 kg)",
+    "shelf_life": "12 months"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": null,
+     "label": "no cracking at 2 mm (method not stated)"
+    },
+    "positive_pressure": {
+     "v": null,
+     "label": null
+    },
+    "elongation": {
+     "v": null,
+     "label": "> 150 % (method not stated)"
+    }
+   },
+   "notes": "Tensile strength > 1.5 N/mm²; Shore A > 70; recoat after 3–6 h; ≥ 24 h before screeding/tiling/traffic (23 °C, 50 % r.h.). No EN 14891 / ASTM C836 / ASTM D412 data, so chart values left empty. Malaysian product page says a newer version exists (not named). Related APAC product: BLOCK C750 BOSCOLASTIC (India TDS v1/0323, 2K elastic acrylic-cement coating, elongation > 150 % ASTM D 2370, adhesion > 1 N/mm² ASTM D 4541, nil permeability at 5 bar EN 12390-8)."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "Boscocem Slurry",
+   "type": "Two-component, acrylic-polymer-modified cementitious waterproofing coating for positive-side waterproofing",
+   "market": "Malaysia (Bostik Malaysia); also Singapore/Thailand",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/Malaysia/Documents/TDS/PDS_Boscocem%20Slurry_V5.pdf",
+    "version": "Issue No. 5, 23 December 2020"
+   },
+   "values": {
+    "components": "2 components (Part A acrylic copolymer liquid, Part B cement/silica powder), A : B = 1 : 4 by weight (2 + 8 kg, 5 + 20 kg, 7.5 + 30 kg sets); no extra water",
+    "positive_pressure": "for positive-side waterproofing (no pressure rating printed)",
+    "negative_pressure": null,
+    "adhesion": "approx. 1.0 N/mm² to concrete (method not stated)",
+    "crack_bridging": null,
+    "consumption": "1.0 kg/m² per layer: 2 layers (bathrooms, terraces, balconies); 3 layers (water tanks)",
+    "thickness": null,
+    "pot_life": "30 minutes",
+    "overcoat": "second coat after 2–4 hours, perpendicular to the first",
+    "rainproof": "traffic after min. 24 hours; set to touch 2 h, final set 72 h",
+    "application_temp": null,
+    "certification": null,
+    "packaging": "10 kg, 25 kg and 37.5 kg sets",
+    "shelf_life": "12 months"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": 30,
+     "label": "30 min"
+    },
+    "consumption": {
+     "v": null,
+     "label": "1.0 kg/m² per layer (thickness not stated)"
+    }
+   },
+   "notes": "Asia-Pacific rigid-type cementitious slurry (rigid/flexible not stated on the MY sheet; the Philippine sheet calls it 'rigid ... alkali reactive polymer modified'). Positive side only, no pressure or crack-bridging data. Listed together with BLOCK X701 TERRA 2K FLEX because that German product is the closer technical equivalent of AQUAFIN-1K (rigid basement slurry with a published negative-side rating); the difference (negative-side use, test certificates) matters to specifiers. In India the product is renamed BLOCK C350 BOSCOCEM SLURRY."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "BLOCK X701 TERRA 2K FLEX (Flex Schlämme K11 grau)",
+   "type": "Two-component polymer-modified rigid sealing slurry (dry mortar + low-viscosity polymer emulsion) for positive- and negative-side waterproofing",
+   "market": "Germany (Bostik GmbH)",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/Germany/Documents/TDS/bostik-de-tds-block-x701-terra-2k-flex-0126.pdf",
+    "version": "Edition 01.26"
+   },
+   "values": {
+    "components": "2 components (A powder, B emulsion), 3 : 1 by weight",
+    "positive_pressure": "earth-contacting walls against pressing water up to 3 m water column (max. 5 m foundation depth); containers against internal pressure up to 6 m fill height",
+    "negative_pressure": "watertight up to 0.75 bar (7.5 m water column) from the negative side (MPA test report 1201/452/16b-Pan); per WTA leaflet 4-6 section 4.5.3 the interior system may be used up to 0.3 bar",
+    "adhesion": null,
+    "crack_bridging": "rigid sealing slurry; expansion joints cannot be bridged (no crack-bridging value)",
+    "consumption": "3–3.4 kg/m², corresponding to 2 mm dry layer",
+    "thickness": "min. 2 mm dry layer",
+    "pot_life": "approx. 2 hours",
+    "overcoat": "mechanically loadable, coverable and coatable after approx. 2 days",
+    "rainproof": "protect from rain for at least 24 h; water-loadable after approx. 5 days (+20 °C)",
+    "application_temp": "+5 °C to +35 °C (substrate and air)",
+    "certification": "abP P-AB 010-98 (Bauregelliste A Teil 2, Nr. 2.49); MPA test report 1201/452/16b-Pan (09.01.2017) on negative-side water pressure",
+    "packaging": "20 kg pail (combination pack)",
+    "shelf_life": "approx. 12 months"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": 0.75,
+     "label": "0.75 bar (MPA test report; WTA 4-6 interior system 0.3 bar)"
+    },
+    "pot_life": {
+     "v": 120,
+     "label": "approx. 2 h"
+    },
+    "consumption": {
+     "v": 1.6,
+     "label": "3–3.4 kg/m² for 2 mm dry layer"
+    }
+   },
+   "notes": "Despite the 'FLEX' name the sheet describes a polymer-modified rigid sealing slurry, so it matches the rigid AQUAFIN-1K slot rather than AQUAFIN-2K/M-PLUS; it is two-component (AQUAFIN-1K is one-component). Former Hey'di 'Flex Schlämme K11' (Hey'Di is listed among Bostik brands). Product page states a successor exists (not named)."
+  },
+  {
+   "slot": "wp/RB400",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "BLOCK X911 TERRA TURBO LIGHT 2K (formerly Turbotec 2K)",
+   "type": "Two-component, bitumen-free, flexible reactive sealing slurry / polymer-modified thick coating (hybrid waterproofing)",
+   "market": "Middle East (Bahrain, Egypt, Qatar, Saudi Arabia, UAE); manufactured and sold in Germany by Bostik GmbH",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/mena/bostik-mena-tds-x911.pdf",
+    "version": "Issue 02.23 (Bostik GmbH)"
+   },
+   "values": {
+    "components": "2 components (reactive special powder + polymer-modified liquid); liquid : powder = 1 : 1.4 (kit 14 kg powder + 10 kg liquid)",
+    "crack_bridging": "> 1 mm; crack class R3-E (up to 1 mm) to DIN 18533-3",
+    "positive_pressure": "tightness 1.5 bar; positively tested to 15 m water column (DIBt basin test), approved to 6 m water column (W2-B)",
+    "negative_pressure": null,
+    "adhesion": null,
+    "co2": null,
+    "rainproof": "rainproof after approx. 2 hours; pressurised water and filling load after approx. 16 hours (walkable approx. 16 h)",
+    "consumption": "approx. 1.2 kg/m² per mm layer thickness (density approx. 1.3 g/cm³)",
+    "thickness": "dry film 2 mm for W1.1-E, W1.2-E, W4-E and W2-B (abP MDS); 3 mm for W2.1-E and W3-E (abP FPD); applied in two steps (2.2 / 3.3 mm wet)",
+    "application_temp": "air not below +5 °C and up to +30 °C; substrate not below +10 °C",
+    "certification": "abP MDS and abP FPD (PG-FPD); DIN 18533-3 (R3-E, RN1-E to RN3-E); DIN 18535-1/-3 (W2-B up to 6 m); MPA BS test report P-1202/927/20; fire class E (DIN EN 13501-1)",
+    "packaging": "24 kg kit; 5 kg",
+    "shelf_life": "12 months"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": 1,
+     "label": "> 1 mm (crack class R3-E, DIN 18533-3)"
+    },
+    "positive_pressure": {
+     "v": 1.5,
+     "label": "tightness 1.5 bar"
+    },
+    "rainproof": {
+     "v": 2,
+     "label": "approx. 2 h"
+    }
+   },
+   "notes": "Pot life approx. 45 min; water-vapour diffusion resistance µ printed as '2.136', Sd 8.3 m; radon-tight from 5 mm; service −20 to +80 °C. Sheet calls it a carbonation brake but gives no CO₂ Sd value. Older German sheet 'Turbotec 2K+' (edition 03/19, mix 1 : 1.5) lists ≥ 0.75 mm crack bridging to DIN EN 14891 CM 01 P and ≥ 0.9 MPa tensile adhesion after water storage; the 02.23 sheet is used as current. Product page says a newer version exists (not named). No Asia-Pacific equivalent found."
+  },
+  {
+   "slot": "cr/BIS16",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "Bostik RENO C205 FINISH (old name: 205)",
+   "type": "Fine-grained cement-based repair and levelling mortar with anti-crack formulation, high water-vapour permeability",
+   "market": "Middle East (Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, UAE)",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/Saudi%20Arabia/TDS/bostik-ksa-reno-c205-finish-tds-en.pdf",
+    "version": "no edition/date printed"
+   },
+   "values": {
+    "class": null,
+    "compressive": "≥ 10 N/mm² (28 days)",
+    "flexural": "≥ 2 N/mm² (28 days)",
+    "adhesion": null,
+    "chloride": null,
+    "capillary": null,
+    "thickness": "applicable thickness 5 mm (Dmax < 1 mm)",
+    "consumption": "approx. 1.1–1.3 kg/m² per 1 mm (theoretical)",
+    "water": "8.5–9.5 l per 25 kg",
+    "pot_life": "approx. 30 min at +20 °C (working time approx. 25 min)",
+    "overcoat": "curing time approx. 24 h; 72 h after over-plastering (no inter-layer time printed)",
+    "application_temp": "+5 °C to +35 °C",
+    "packaging": "25 kg kraft bag",
+    "shelf_life": "max. 12 months (dry, +10 to +25 °C)"
+   },
+   "charts": {
+    "compressive": {
+     "v": 10,
+     "label": "≥ 10 N/mm² (28 d)"
+    },
+    "thickness": {
+     "v": 5,
+     "label": "applicable thickness 5 mm"
+    },
+    "pot_life": {
+     "v": 30,
+     "label": "approx. 30 min (+20 °C)"
+    }
+   },
+   "notes": "No EN 1504-3 class stated ('complies with EU norms'); the printed 28-day compressive strength (≥ 10 N/mm²) is below the EN 1504-3 R2 minimum of 15 N/mm², so it is not an R2 equivalent of ASOCRET-BIS-1/6. Sister product RENO C411 REPAIR FLEX (KSA TDS) is EN 1504-3 R1, 10 mm, fibre-reinforced. No Asia-Pacific fine repair mortar with a published TDS found."
+  },
+  {
+   "slot": "wp/OS",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "BLOCK C750 BOSCOLASTIC (formerly Boscolastic)",
+   "type": "Two-component, flexible, waterborne acrylic-polymer cementitious waterproofing coating for resurfacing concrete and plaster",
+   "market": "India (Bostik India); Boscolastic also sold in Singapore, Malaysia, Indonesia, Philippines, Australia",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/India/Documents/TDS/bostik-apac-tds-block-c750.pdf",
+    "version": "v1/0323"
+   },
+   "values": {
+    "components": "2 components: grey powder (cement, fine silica) + white acrylic polymer liquid; 35 kg set = 20 kg powder + 15 kg liquid",
+    "crack_bridging": "bridges cracks (no value printed)",
+    "adhesion": "> 1 N/mm² to concrete (ASTM D 4541)",
+    "vapour": null,
+    "co2": null,
+    "rainproof": null,
+    "consumption": "approx. 20–25 m² per 35 kg set, two coats",
+    "thickness": "dry film 1.2–1.5 mm",
+    "pot_life": "45–60 minutes",
+    "overcoat": "subsequent coats after 4–6 hours; min. 7 days before screed or tiling",
+    "application_temp": null,
+    "certification": "no EN 1504-2 / OS 5b certification; tests to ASTM D 4541, ASTM D 2370, EN 12390-8",
+    "packaging": "35 kg set (20 kg powder + 15 kg liquid)",
+    "shelf_life": "min. 12 months"
+   },
+   "charts": {
+    "co2": {
+     "v": null,
+     "label": null
+    },
+    "crack_bridging": {
+     "v": null,
+     "label": "bridges cracks (no value)"
+    }
+   },
+   "notes": "Closest Bostik counterpart to a crack-bridging cementitious protective coating: weather-resistant, crack-bridging, for resurfacing concrete; but no EN 1504-2 / OS 5b (Rili-SIB) surface-protection classification and no CO₂-diffusion value. Further data: tensile > 1 N/mm², elongation > 150 % (ASTM D 2370); water permeability nil at 5 bar (EN 12390-8); set to touch 2 h, final set 4–6 h, foot traffic ≥ 24 h, full cure 7 days (values at 25 °C)."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "BLOCK C902 POWERPLUG (formerly Plug Leak)",
+   "type": "Fast-setting, non-shrink, expansive hydraulic-cement plug for stopping flowing water through holes and cracks",
+   "market": "India (Bostik India Pvt. Ltd.)",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/India/Documents/TDS/bostik-india-tds-block-c902-powerplug.pdf",
+    "version": "v1/1223"
+   },
+   "values": {
+    "components": "1 component, cement-based powder mixed with water to cement-mortar consistency (water quantity not printed)",
+    "setting": "initial setting 2–3 minutes",
+    "pot_life": "mix only as much as can be applied within 2 minutes",
+    "compressive": "5 N/mm² (3 h); 25 N/mm² (28 days)",
+    "consumption": null,
+    "application_temp": null,
+    "packaging": "1 kg and 5 kg",
+    "shelf_life": "12 months"
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": "5 N/mm² at 3 h; 25 N/mm² at 28 d (no 24 h value)"
+    },
+    "pot_life": {
+     "v": 2,
+     "label": "apply within 2 min"
+    }
+   },
+   "notes": "Suitable for active leaks, hydrostatic pressure and underwater application; expansive (no expansion value); water permeability nil; free of metallic aggregates, lead and corrosive agents. European counterparts: BLOCK C902 TERRA XPRESS (Germany/global; formerly Bostik Puder-EX / Sovereign Powder X, Hey'di K11 system; dry fast-setting powder that stops running water within seconds, no TDS linked) and RENO C788 FILL TURBO (Germany, flash-setting cement 'Rapid 8', TDS 03.23: 32 M-% water, final strength after approx. 15 min, +5 to +30 °C, no compressive values)."
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "Bostik Two in One",
+   "type": "Chloride-free liquid integral waterproofing and water-reducing admixture for concrete and plaster",
+   "market": "India (Bostik India Pvt. Ltd.)",
+   "source": {
+    "url": "https://www.bostik.com/india/en/catalog/product/construction/apac/india/product-bostik-two-in-one-1/",
+    "version": "product page, accessed 2026-10-24; form/density from SDS rev. 05-Jul-2016 (https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/India/Documents/SDS/Bostik-two-in-one-SDS.pdf)"
+   },
+   "values": {
+    "form": "liquid dispersion, brown (SDS: appearance 'dispersion', solids 37 %, pH 9)",
+    "dosage": null,
+    "density": "1.19 g/cm³ (SDS)",
+    "chloride": "chloride-free",
+    "self_healing": null,
+    "setting_effect": "water-reducing: increases workability, improves placing and compaction, improves cohesion and prevents segregation; 'blocks the capillary structure within concrete'",
+    "min_cement": null,
+    "dosing_point": null,
+    "application_temp": null,
+    "packaging": "1 l, 5 l and 20 l buckets",
+    "certification": "conforms to IS 2645-2003 (integral waterproofing compounds) and IS 9103-1999 (concrete admixtures)"
+   },
+   "charts": {
+    "dosage": {
+     "v": null,
+     "label": null
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Pore-blocking / water-reducing liquid admixture, not crystalline; no TDS published (only product page and SDS), so dosage and use data are missing. Product page says a newer version exists (not named). Bostik's crystalline admixtures are powders only (MIX X510 Boscoseal Admix; BoscoMix P152 in the Middle East). Other liquids checked: Bostik LW (India, chloride-free liquid integral waterproofer to IS 2645, no TDS) and Bostik Integral Waterproofer (UK, fatty-acid soap, not for structural concrete)."
+  },
+  {
+   "slot": "pf/GBM",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "HYTEC E730 XTREM",
+   "type": "Two-component epoxy primer and moisture barrier for concrete and screeds (roller or trowel)",
+   "market": "Germany / Europe (Bostik GmbH)",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/Germany/Documents/TDS/bostik-de-tds-hytec-e730-xtrem-0626.pdf",
+    "version": "Edition 06.26"
+   },
+   "values": {
+    "basis": "two-component epoxy resin (solvent content not stated; GISCODE RE 55, EMICODE EC1 PLUS)",
+    "mix_ratio": "A : B = 5 : 2 by weight",
+    "viscosity": null,
+    "pot_life": "approx. 25 minutes (+20 °C)",
+    "overcoat": "second barrier coat after min. 16 h, max. 24 h; walkable at the earliest after 16 h, loadable after 24 h",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "max_moisture": "max. 4.5 CM-% / 95 % r.h. on cement screeds and concrete (barrier use)",
+    "consumption": "primer 200–300 g/m²; moisture barrier approx. 500 g/m² (two coats); broadcast dry quartz sand 0.4–0.8 mm",
+    "application_temp": "substrate min. +15 °C, air min. +18 °C, max. 75 % r.h.",
+    "packaging": "component A 5.7 kg pail + component B 2.3 kg pail",
+    "shelf_life": "12 months"
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "flexural": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": 25,
+     "label": "approx. 25 min (+20 °C)"
+    }
+   },
+   "notes": "Epoxy primer for floor-covering installation (density 1.1 g/cm³); the sheet does not state use as a binder for scratch coats, epoxy mortars or screeds, and gives no strength values. Asia-Pacific alternative without a published TDS: Primecoat (India, solvent-free surface-tolerant moisture-insensitive 2K epoxy primer for concrete and steel, potable-water approved, 6 kg; product page + SDS only). Bostik India also lists Bostik EP Bond (epoxy bonding agent) and Bostik ERM / ESM (epoxy mortar screeds) without TDS."
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "HYTEC E736 TURBO",
+   "type": "Fast two-component epoxy primer / moisture barrier against capillary rising and residual moisture",
+   "market": "Germany / Europe (Bostik GmbH); also listed in the UAE",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/Germany/Documents/TDS/bostik-de-tds-hytec-e736-0626.pdf",
+    "version": "Edition 06.26"
+   },
+   "values": {
+    "basis": "two-component epoxy resin (solvent content not stated; GISCODE RE 55, EMICODE EC1 PLUS)",
+    "components": "2 (A clear resin, B black hardener)",
+    "mix_ratio": "pre-portioned kits: 18 kg set = A 7.4 kg + B 10.6 kg; 6 kg set = A 2.5 kg + B 3.5 kg",
+    "viscosity": null,
+    "pot_life": "approx. 25 minutes (+20 °C)",
+    "overcoat": "walkable after 4 h at the earliest; to be overcoated within 24 h; loadable after 24 h",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "negative_pressure": null,
+    "max_moisture": "blocks capillary rising moisture and residual moisture with no moisture limit on cement screeds or concrete ≥ 28 days old (not on calcium sulphate or magnesia screeds)",
+    "consumption": "approx. 500–600 g/m² per application (one trowel or two roller passes); broadcast ≥ 3 kg/m² dry quartz sand 0.4–0.8 mm",
+    "application_temp": "substrate min. +15 °C, air min. +18 °C, max. 75 % r.h.",
+    "packaging": "18 kg and 6 kg sets",
+    "shelf_life": "approx. 24 months"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": 24,
+     "label": "overcoat within 24 h"
+    }
+   },
+   "notes": "Radon-tight; density 1.35 g/cm³. Moisture barrier against rising/residual moisture, not rated against negative pressing water. Middle East sibling HYTEC E336 XTREM ('resists hydrostatic pressure', damp and saturated substrates) - its TDS link could not be opened. Asia-Pacific: Moisture Seal (Singapore/India, epoxy water-vapour barrier, 1 : 1 by volume; no TDS published) and Primecoat (India, moisture-tolerant epoxy primer; SDS only)."
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "Ultralevel ESL 1000 / 2000 / 3000",
+   "type": "Self-levelling seamless epoxy floor system (graded aggregates in a pigmented epoxy binder, four-component pre-weighed)",
+   "market": "India (Bostik India)",
+   "source": {
+    "url": "https://www.bostik.com/india/en/catalog/product/construction/apac/india/product-ultralevel-esl-1000-2000-3000/",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "basis": "pigmented epoxy resin binder with graded aggregates; four-component pre-weighed system",
+    "mix_ratio": null,
+    "viscosity": null,
+    "pot_life": null,
+    "overcoat": null,
+    "cure": null,
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "hardness": null,
+    "fire": null,
+    "slip": null,
+    "consumption": null,
+    "application_temp": null,
+    "packaging": "16 kg bucket",
+    "shelf_life": null
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "flexural": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Only Bostik epoxy floor system found; no TDS published (product page and SDS only), so no values can be compared. Page says a newer version exists (not named). Related India listings: Ultralevel EPU SL 1000/2000 (epoxy-PU SL floor), Ultralevel EUL 2000 (epoxy SL underlay), Epoxycoat SF / SB / TXT coatings - all without TDS."
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "Epoxycoat SF (Epoxycote SF)",
+   "type": "Solvent-free, pigmented two-component epoxy coating (liquid epoxy resin + amine hardener) for protection of concrete",
+   "market": "India (Bostik India)",
+   "source": {
+    "url": "https://www.bostik.com/india/en/catalog/product/construction/apac/india/product-epoxycoat-sf/",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "basis": "two-component epoxy, solvent-free (liquid epoxy resin + amine hardener), pigmented",
+    "mix_ratio": null,
+    "density": null,
+    "hardness": "'very hard and abrasion resistant' (no value)",
+    "pot_life": null,
+    "overcoat": null,
+    "cure": null,
+    "max_moisture": null,
+    "chemical": "resistant to waste water and sea water, organic and inorganic acids and mineral oils; steam-cleanable; impermeable to CO₂ (no resistance table published)",
+    "consumption": null,
+    "application_temp": null,
+    "packaging": "5 kg",
+    "shelf_life": null
+   },
+   "charts": {
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Functional match (chemically resistant solvent-free epoxy for waste-water exposure) but no TDS published (product page and SDS only). Page says a newer version exists (not named). Bostik India also lists BOSTIK CTE (two-component coal-tar epoxy protective coating) and BLOCK E550 EPOXTCOTE UW (epoxy for potable-water structures)."
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "product": "Bostik P360 SEAL'N'FLEX MULTI PURPOSE",
+   "type": "One-component, high-modulus universal polyurethane sealant for construction and expansion joints",
+   "market": "Middle East (Egypt, Qatar, Saudi Arabia, UAE)",
+   "source": {
+    "url": "https://www.bostik.com/files/live/sites/shared_bostik/files/documents-brochures/Egypt/Documents/TDS/BOSTIK_P360-SEAL%e2%80%99N%e2%80%99FLEX%20MULTI%20PURPOSE_TDS_2021.pdf",
+    "version": "TDS 032021"
+   },
+   "values": {
+    "basis": "one-component polyurethane, high modulus",
+    "density": "1.23 g/ml (ISO 1183-1)",
+    "hardness": "Shore A 35 (DIN 53505)",
+    "movement": "25 % (EN 15651-1 F-EXT-INT-CC 25HM; SNJF F25E; ASTM C 920)",
+    "tensile": "tensile strength 0.80 N/mm², modulus at 100 % 0.35 N/mm², elongation at break > 600 % (ISO 8339)",
+    "skin_time": "120 min (+23 °C / 50 % r.h.)",
+    "cure": "3 mm per 24 h (+23 °C / 50 % r.h.)",
+    "service_temp": "−40 °C to +80 °C",
+    "consumption": "joint width ≤ 10 mm: depth = width (min. 5 × 5 mm); > 10 mm: depth = width / 3 + 6 mm",
+    "application_temp": "+5 °C to +40 °C (air and substrate)",
+    "packaging": "300 ml cartridge; 600 ml sausage",
+    "shelf_life": "12 months (+5 to +25 °C)"
+   },
+   "charts": {
+    "hardness": {
+     "v": 35,
+     "label": "Shore A 35 (DIN 53505)"
+    },
+    "movement": {
+     "v": 25,
+     "label": "25 % (25HM)"
+    },
+    "service_temp": {
+     "v": 80,
+     "label": "−40 to +80 °C"
+    }
+   },
+   "notes": "Floor/trafficable use is not stated on the sheet (construction and expansion joints). Asia-Pacific alternatives without a published TDS: Seal 'N' Flex 1 (low-modulus Class-A PU, ±50 % movement, made in Australia; sold in Singapore/India) and Bostik P590 SEAL'N'FLEX ONE PLUS (low-modulus PU, C100/50). India also lists Seal N Flex 2K (pourable two-part PU, no TDS)."
+  },
+  {
+   "slot": "inj/P4",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "none": true,
+   "reason": "No two-component elastic polyurethane crack-injection resin in the Bostik catalogues checked (Singapore, Malaysia, Thailand, Indonesia, India, Australia, Middle East, Germany, global portfolio); Bostik injection products are PU Wasserstopp (water-reactive PU foam, inj/P1) and epoxy resins (RENO E753 INJECT XTREM, Bostik LVEP; inj/IH)."
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "none": true,
+   "reason": "No one-component cementitious reinforcement corrosion protection / bond coat to EN 1504-7 found. Closest items are different categories: BOSTIK ZRP (India, solvent-based zinc-rich epoxy primer for structural steel, pipelines, tanks) and SBR/acrylic bonding admixtures (Boscocem SBR, BLOCK A350 POWERMIX)."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "none": true,
+   "reason": "Bostik's crystalline range consists of a slurry (Boscoseal Concentrate / Bostik CWP / Bostik K11 Slurry Grey) and powder admixtures (MIX X510 Boscoseal Admix) - no crystalline repair or cove mortar. BLOCK C583 TERRA LOCK (Germany) is a ready-to-use acrylate-based cove/repair mortar, not crystalline."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "none": true,
+   "reason": "No crystalline repair mortar for chased cracks and coves in any Bostik catalogue checked; crystalline products are limited to slurry (Boscoseal Concentrate, Bostik CWP, K11 Slurry Grey) and powder admixture (MIX X510 Boscoseal Admix)."
+  },
+  {
+   "slot": "pf/V360",
+   "group": "Arkema",
+   "brand": "Bostik",
+   "none": true,
+   "reason": "No water-emulsified (water-based) epoxy concrete sealer found; Bostik India lists only solvent-free / solvent-based epoxy coatings (Epoxycoat SF, Epoxycoat SB) and an acrylic sealer (Paveseal SB Clear), none with a TDS."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "Mapei",
+   "brand": "Mapei",
+   "none": true,
+   "reason": "No crystalline repair mortar for chased cracks and coves found. Mapei's below-grade cementitious waterproofing is osmotic (IDROSILEX PRONTO / Planiseal 88), its repair mortars (MAPEGROUT range) are not crystalline (Mapei brochure 'Repairs to water retaining structures', MK 695130), and its only crystalline product is the powder admixture IDROCRETE KR 1000. The existing comparison uses the rapid plug Lamposilex for the related cr/IM slot; it is not a crystalline mortar."
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Mapei",
+   "brand": "Mapei",
+   "none": true,
+   "reason": "No liquid crystalline or pore-blocking waterproofing admixture found. Mapei's Ready-Mix Concrete Solutions brochure (MK101030 (GB) 2/26, pp. 31–32) lists only IDROCRETE KR 1000 ('powdered crystallising admixture', already compared in ca/CP360) and the water-repellent admixtures IDROCRETE S ('bulk water-repellent, waterproofing admixture'), IDROCRETE DM and IDROCRETE HP (form, dosage and mechanism not stated; product pages give no TDS link). IDROSILEX is a powder or liquid water repellent for mortars, screeds and plasters only. Mapei USA's Waterproofing Systems catalogue (10/25) contains no crystalline product or integral waterproofing admixture."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "Mapei",
+   "brand": "Mapei",
+   "none": true,
+   "verification_only": true,
+   "reason": "Verification only - no new product. No true crystalline / capillary waterproofing slurry found in Mapei's range: Mapei USA Waterproofing Systems catalogue (10/25) describes Planiseal 88 as a one-component polymer-modified cementitious coating (not crystalline); Mapei's brochure 'Repairs to water retaining structures' describes IDROSILEX PRONTO as an 'osmotic cementitious mortar'. The existing Planiseal 88 entry should be footnoted as an osmotic (not crystalline) slurry, or removed from the crystalline comparison."
+  }
+ ]
+}

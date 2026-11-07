@@ -1,0 +1,2 @@
+function bokken() { if (FSV.bokken) return FSV.bokken; var g = new THREE.Group(), wood = LUNA.toon(0x9a7448, { rim: 0.15 }), b = LUNA.mesh(new THREE.CylinderGeometry(0.014, 0.019, 0.82, 10), wood, { ink: 0.003 }); b.rotation.x = Math.PI / 2; b.position.z = 0.44; g.add(b);
+    var ts = LUNA.mesh(new THREE.CylinderGeometry(0.045, 0.045, 0.012, 16), LUNA.toon(0x2a2a2a, { rim: 0.1 }), { ink: 0.002 }); ts.rotation.x = Math.PI / 2; ts.position.z = 0.04; g.add(ts); g.position.set(0, -0.04, 0.0); g.visible = false; luna.armR.wr.add(g); FSV.bokken = g; return g; }

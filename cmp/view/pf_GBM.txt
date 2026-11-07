@@ -1,0 +1,157 @@
+SLOT pf/GBM ASODUR-GBM — solvent-free epoxy primer and binder for scratch coats, mortars and screeds
+competitors 10, listed 2, none: Xypex, Kryton, Sobute
+
+== basis | OURS: two-component epoxy resin system, solvent-free
+   Sika                               Sikafloor®-156                 : Epoxy
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : Two-part, solvent-free (total solid), general purpose epoxy based primer
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : two-component epoxy resin system, solvent-free, low viscosity
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : two-component epoxy reaction resin, transparent, water-free (solvent-free not stated explicitly)
+   Stonhard (RPM)                     Stonhard Standard Primer       : two-component epoxy priming system (VOC 15 g/l, ASTM D-2369)
+   Bostik (Arkema)                    HYTEC E730 XTREM               : two-component epoxy resin (solvent content not stated; GISCODE RE 55, EMICODE EC1 PLUS)
+   Mapei                              PRIMER SN                      : Two-component fillerized epoxy primer
+   Penetron                           PENEPOX™ SF PRIMER             : Two-component epoxy resin + hardener, solvent-free (100 % solids)
+   Denka                              Estoprime LV                   : two-component epoxy, solvent-free, low viscosity
+   MC-Bauchemie                       MC-DUR 1200 VK                 : two-component epoxy resin, low viscosity, transparent
+== mix_ratio | OURS: 100 : 50 parts by weight
+   Sika                               Sikafloor®-156                 : Part A : Part B = 75 : 25 (by weight)
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : 100 : 46
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : 100 : 45 base : hardener by weight (2 : 1 by volume)
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : A : B = 100 : 37 parts by weight
+   Stonhard (RPM)                     Stonhard Standard Primer       : factory-proportioned: one amine bag + one resin bag per mix (ratio not printed)
+   Bostik (Arkema)                    HYTEC E730 XTREM               : A : B = 5 : 2 by weight
+   Mapei                              PRIMER SN                      : component A : component B = 80 : 20 (by weight)
+   Penetron                           PENEPOX™ SF PRIMER             : A : B = 100 : 50 by weight
+   Denka                              Estoprime LV                   : None
+   MC-Bauchemie                       MC-DUR 1200 VK                 : 3 : 1 by mass (base : hardener)
+== viscosity | OURS: approx. 640 mPa·s (ready to use)
+   Sika                               Sikafloor®-156                 : None
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : None
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : approx. 500 cps (mixed, 23 °C)
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : low viscosity (no value printed)
+   Stonhard (RPM)                     Stonhard Standard Primer       : None
+   Bostik (Arkema)                    HYTEC E730 XTREM               : None
+   Mapei                              PRIMER SN                      : 1100 ± 100 mPa·s at +23°C (EN ISO 2555, #3, 50 rpm)
+   Penetron                           PENEPOX™ SF PRIMER             : None
+   Denka                              Estoprime LV                   : None
+   MC-Bauchemie                       MC-DUR 1200 VK                 : approx. 600 mPa·s (20 °C, 50 % r.h.)
+== pot_life | OURS: approx. 35 minutes
+   Sika                               Sikafloor®-156                 : +10 °C ~60 minutes; +20 °C ~30 minutes; +30 °C ~15 minutes
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : 60 min at 12 °C; 30 min at 23 °C; 15 min at 30 °C
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : 30 minutes (binder only, 23 °C; longer with filler or in thin layers)
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : approx. 20–50 minutes (filled mixes slightly longer)
+   Stonhard (RPM)                     Stonhard Standard Primer       : approx. 25 min at 77 °F / 25 °C (20–25 min at 70 °F / 21 °C)
+   Bostik (Arkema)                    HYTEC E730 XTREM               : approx. 25 minutes (+20 °C)
+   Mapei                              PRIMER SN                      : Workability time at +20°C: 30 min
+   Penetron                           PENEPOX™ SF PRIMER             : 40 minutes (lab conditions 20 °C / 50 % RH)
+   Denka                              Estoprime LV                   : 30–60 min at 30 °C
+   MC-Bauchemie                       MC-DUR 1200 VK                 : approx. 30 min (1 kg) / 25 min (5 kg) / 20 min (10 kg) / 15 min (30 kg) at 20 °C, 50 % r.h.
+== overcoat | OURS: min. approx. 12 hours, max. 24 hours
+   Sika                               Sikafloor®-156                 : Before non-solvent-based products: +10 °C 24 hours min / 4 days max; +20 °C 12 hours / 2 days; +30 °C 8 hours / 24 hours. Before solvent-based products: +10 °C 36 hours /
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : 10 °C: 24 h min / 48 h max; 23 °C: 12 h / 36 h; 30 °C: 8 h / 24 h
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : apply the coating system within 24 hours of priming; afterwards sand and solvent-wipe
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : no min./max. printed; moisture-barrier second coat once walkable, at the latest after 36 h
+   Stonhard (RPM)                     Stonhard Standard Primer       : open time approx. 3 h at 77 °F / 25 °C — overlayment applied while the primer is still wet; cure approx. 8 h
+   Bostik (Arkema)                    HYTEC E730 XTREM               : second barrier coat after min. 16 h, max. 24 h; walkable at the earliest after 16 h, loadable after 24 h
+   Mapei                              PRIMER SN                      : Without dry-shake quartz: min. 12 h, max. 48 h; with dry-shake quartz: min. 12 h, no maximum (surface dry, dust-free)
+   Penetron                           PENEPOX™ SF PRIMER             : After 12 hours, not later than 18 hours; foot traffic 12–24 h; full cure 7 days
+   Denka                              Estoprime LV                   : overcoat within 24 h at 20 °C or 12 h at 30 °C (otherwise abrade, solvent-degrease and re-prime); screeds trowelled onto the still-tacky primer
+   MC-Bauchemie                       MC-DUR 1200 VK                 : overcoat within 24 h; otherwise broadcast the fresh layer with oven-dried quartz sand 0.1–0.3 mm (no minimum stated); accessible after approx. 12 h
+== compressive | OURS: approx. 70 N/mm²
+   Sika                               Sikafloor®-156                 : ~55 N/mm2 (Mortar, 30 days / +23 °C / 50 % r.h.) (EN 196-1)
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : 81 N/mm² (28 days, +23 °C, EN 12190)
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : 76 MPa (fluid paste 1 binder : 2 F4 filler), 56 MPa (1:3), 50 MPa (1:4), 45 MPa (1:5) — 7 days, typical; up to 90 MPa depending on consistency
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : epoxy screed 1 resin : 10 sand classified SR C35-F10-AR1-B1.5-IR4 (EN 13813)
+   Stonhard (RPM)                     Stonhard Standard Primer       : None
+   Bostik (Arkema)                    HYTEC E730 XTREM               : None
+   Mapei                              PRIMER SN                      : 63 N/mm² after 7 days at +23°C (EN 196-1)
+   Penetron                           PENEPOX™ SF PRIMER             : None
+   Denka                              Estoprime LV                   : None
+   MC-Bauchemie                       MC-DUR 1200 VK                 : approx. 100 N/mm² at 7 d (mortar 1 : 8 pbw with MC-Spezialkörnung SK 1)
+== flexural | OURS: approx. 35 N/mm² (DIN EN 196-1)
+   Sika                               Sikafloor®-156                 : ~15 N/mm2 (Mortar, 30 days / +23 °C / 50 % r.h.) (EN 196-1)
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : None
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : None
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : class F10 (EN 13813, 1 : 10 screed mortar)
+   Stonhard (RPM)                     Stonhard Standard Primer       : None
+   Bostik (Arkema)                    HYTEC E730 XTREM               : None
+   Mapei                              PRIMER SN                      : None
+   Penetron                           PENEPOX™ SF PRIMER             : None
+   Denka                              Estoprime LV                   : None
+   MC-Bauchemie                       MC-DUR 1200 VK                 : approx. 30 N/mm² at 7 d (mortar 1 : 8 pbw with MC-Spezialkörnung SK 1)
+== adhesion | OURS: ≥ 1.5 N/mm² on concrete, dry to matt damp
+   Sika                               Sikafloor®-156                 : >1.5 N/mm2 (failure in concrete) (EN 4624)
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : None
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : None
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : class B1.5 (≥ 1.5 N/mm², EN 13813); substrate ≥ 1.5 N/mm² surface tensile strength
+   Stonhard (RPM)                     Stonhard Standard Primer       : None
+   Bostik (Arkema)                    HYTEC E730 XTREM               : None
+   Mapei                              PRIMER SN                      : 3.20 N/mm² (EN 13892-8); EN 13813 requirement ≥ 1.5
+   Penetron                           PENEPOX™ SF PRIMER             : > 3.7 N/mm² on concrete, concrete failure (EN 1542); EN 1504-2 declaration ≥ 1.5 (1.0) N/mm²
+   Denka                              Estoprime LV                   : None
+   MC-Bauchemie                       MC-DUR 1200 VK                 : None
+== max_moisture | OURS: dry to matt damp concrete; CM ≤ 4 % for the resin systems
+   Sika                               Sikafloor®-156                 : ≤ 4 % parts by weight (Sika Tramex, CM or oven-dry method); no rising moisture per ASTM (polyethylene sheet)
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : Residual moisture must not exceed 4% (CM device); surface may be damp but visibly dry; no standing water
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : tolerates damp surfaces; small repairs (≤ 1 m²) dry or SSD; larger flooring overlays: concrete must be dry and meet the moisture limits of the system applied over it
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : concrete and cement screed up to 5 CM-%
+   Stonhard (RPM)                     Stonhard Standard Primer       : substrate must be dry and properly prepared (no numeric limit)
+   Bostik (Arkema)                    HYTEC E730 XTREM               : max. 4.5 CM-% / 95 % r.h. on cement screeds and concrete (barrier use)
+   Mapei                              PRIMER SN                      : Maximum 4% moisture content, no capillary rising damp (polythene sheet)
+   Penetron                           PENEPOX™ SF PRIMER             : Substrate moisture max. 5 %; fresh concrete dried at least 28 days
+   Denka                              Estoprime LV                   : substrate RH ≤ 75 % (BS 8203 Appendix A); new concrete cured ≥ 28 days; not on surfaces prone to rising damp
+   MC-Bauchemie                       MC-DUR 1200 VK                 : None
+== consumption | OURS: primer approx. 0.30–0.50 kg/m² per coat; scratch coat 1 : 1 with quartz sand; mortar 5–30 mm and screed 11–150 mm with approx. 8.3 parts sand
+   Sika                               Sikafloor®-156                 : Priming 1–2 × 0,30–0,50 kg/m²; levelling mortar fine 1,4 kg/m²/mm, medium 1,6 kg/m²/mm; bonding bridge 1–2 × 0,3–0,5 kg/m²; epoxy screed / repair mortar (15–20 mm) 2,2 kg
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : 0.3–0.5 kg/m² (primer); second coat 0.2–0.4 kg/m² on very porous substrates; sand broadcast approx. 1.0 kg/m²
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : primer 5–6 m²/L (theoretical); mortar: 1 L binder + 2–5 L F4 filler (2.95–7.37 kg) gives 2.4–5.0 L mortar
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : primer approx. 300–500 g/m²; scratch coat approx. 400–550 g/m² (1 : 0.5–1.0 sand); screed mortar approx. 2.1 kg/m² per mm (1 : 10); vapour barrier 500–600 + 400–500 g/m²
+   Stonhard (RPM)                     Stonhard Standard Primer       : approx. 600 sq ft (55.75 m²) per unit; approx. 100 sq ft (9.29 m²) per mix on relatively smooth surfaces
+   Bostik (Arkema)                    HYTEC E730 XTREM               : primer 200–300 g/m²; moisture barrier approx. 500 g/m² (two coats); broadcast dry quartz sand 0.4–0.8 mm
+   Mapei                              PRIMER SN                      : 0.3–0.70 kg/m² per coat
+   Penetron                           PENEPOX™ SF PRIMER             : Primer approx. 250 g/m², one coat; if overcoated with PU, broadcast dry quartz sand 0.5–1 kg/m²
+   Denka                              Estoprime LV                   : approx. 5 m²/L (theoretical), allow approx. 10 % extra
+   MC-Bauchemie                       MC-DUR 1200 VK                 : primer approx. 300 g/m²; bond coat approx. 300–500 g/m² (needed from 1 : 4); scratch/levelling coat approx. 600 g/m² (1 : 1 with quartz sand 0.1–0.3 mm); mortars self-lev
+== application_temp | OURS: 10–35 °C; ≥ 3 °C above the dew point; max. 80 % r.h.
+   Sika                               Sikafloor®-156                 : Ambient air and substrate +10 °C min. / +30 °C max.; 80 % r.h. max.; at least +3 °C above dew point
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : Substrate and ambient air 8 °C to 30 °C; RH max 75% at 10 °C, max 85% above 23 °C
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : min. 5 °C (slower cure below 20 °C); no humidity limit stated
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : air and substrate 15–30 °C; ≥ 3 °C above dew point; r.h. < 75 % during and 24 h after application
+   Stonhard (RPM)                     Stonhard Standard Primer       : ambient and substrate 60–90 °F (16–32 °C); substrate > 5 °F / 3 °C above dew point
+   Bostik (Arkema)                    HYTEC E730 XTREM               : substrate min. +15 °C, air min. +18 °C, max. 75 % r.h.
+   Mapei                              PRIMER SN                      : from +8°C to +35°C
+   Penetron                           PENEPOX™ SF PRIMER             : 12–35 °C ambient and substrate (no dew-point / RH limit printed)
+   Denka                              Estoprime LV                   : not below 10 °C; substrate RH ≤ 75 %
+   MC-Bauchemie                       MC-DUR 1200 VK                 : air, substrate and material ≥ 10 °C and ≤ 30 °C; r.h. ≤ 85 %; ≥ 3 K above dew point
+== packaging | OURS: 18 kg combination container (10 kg, 3 kg, 1 kg)
+   Sika                               Sikafloor®-156                 : Part A 1,875 kg, 7,5 kg, 18,75 kg containers, 180 kg and 1000 kg drums; Part B 0,625 kg, 2,5 kg, 6,25 kg containers, 60 kg, 180 kg, 1000 kg drums; A+B 2,5 kg and 10 kg un
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : 25 kg working packs (17.1 kg Part A + 7.9 kg Part B); 200 kg drums Part A, 184 kg drums Part B
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : 6 L, 30 L and 200 L (made to order) packs
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : 1 kg, 10 kg and 30 kg double packs
+   Stonhard (RPM)                     Stonhard Standard Primer       : unit carton of 6 amine foil bags + 6 resin poly bags
+   Bostik (Arkema)                    HYTEC E730 XTREM               : component A 5.7 kg pail + component B 2.3 kg pail
+   Mapei                              PRIMER SN                      : 20 kg kits: component A 16 kg, component B 4 kg (GB product page also lists 5 kg kits: A 4 kg + B 1 kg)
+   Penetron                           PENEPOX™ SF PRIMER             : 4 + 2 kg and 8 + 4 kg (A + B)
+   Denka                              Estoprime LV                   : 5 L pack
+   MC-Bauchemie                       MC-DUR 1200 VK                 : 6 × 1 kg, 5 kg, 10 kg, 30 kg
+== shelf_life | OURS: 18 months
+   Sika                               Sikafloor®-156                 : 24 months from date of production (+5 °C to +30 °C)
+   Master Builders Solutions (Sika)   Sikafloor® P 622 (formerly MTo : 24 months (dry, original containers, 15–25 °C)
+   Fosroc (Saint-Gobain)              Nitomortar® 903                : None
+   Weber (Saint-Gobain)               weber.floor 4712 Grundierung E : min. 24 months (≥ 10 °C)
+   Stonhard (RPM)                     Stonhard Standard Primer       : 3 years (original unopened container, stored ≥ 16 °C)
+   Bostik (Arkema)                    HYTEC E730 XTREM               : 12 months
+   Mapei                              PRIMER SN                      : 24 months in original packaging, +5°C to +30°C
+   Penetron                           PENEPOX™ SF PRIMER             : Up to 12 months, sealed, dry and cool, storage 5–35 °C
+   Denka                              Estoprime LV                   : 12 months, dry store 5–30 °C, original unopened packs
+   MC-Bauchemie                       MC-DUR 1200 VK                 : 24 months, cool (below 20 °C), dry, frost-free
+## chart compressive (N/mm², higher) OURS 70 :: Sikafloor®-156=55, Sikafloor® P 622 (form=81, Nitomortar® 903=76, weber.floor 4712 Grund=35, PRIMER SN=63, MC-DUR 1200 VK=100
+## chart flexural (N/mm², higher) OURS 35 :: Sikafloor®-156=15, weber.floor 4712 Grund=10, MC-DUR 1200 VK=30
+## chart pot_life (min, higher) OURS 35 :: Sikafloor®-156=30, Sikafloor® P 622 (form=30, Nitomortar® 903=30, weber.floor 4712 Grund=35, Stonhard Standard Prim=22.5, HYTEC E730 XTREM=25, PRIMER SN=30, PENEPOX™ SF PRIMER=40, MC-DUR 1200 VK=30
+
+WHY:
+  - One resin for priming, scratch coats, mortars (5–30 mm) and epoxy screeds (11–150 mm): fewer products on site, one mixing rule (1 : 1 with sand for the scratch coat, approx. 3 : 25 for the screed).
+  - Published tensile adhesion ≥ 1.5 N/mm² on concrete that is dry to matt damp; the comparable primers state a dry substrate (≤ 4 % moisture, no rising damp) as the condition.
+  - Flexural strength approx. 35 N/mm² (DIN EN 196-1) against approx. 15 N/mm² published for the Sikafloor-156 mortar — the figures are not from identical test bodies and are quoted as printed.
+  - Pot life approx. 35 minutes at a simple 100 : 50 mixing ratio.
+
+LISTED: ParexLanko 723 LANKOPOXY; Caparol China Caparol Solvent-free Epoxy Penetrating Primer

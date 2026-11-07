@@ -1,0 +1,179 @@
+SLOT pf/SG3 ASODUR-SG3 — solvent-free epoxy barrier primer for damp substrates (negative pressing water up to 3 bar)
+competitors 10, listed 0, none: Xypex, Kryton, Penetron, Oriental Yuhong, Sobute
+
+== basis | OURS: two-component epoxy resin, solvent-free
+   Sika                               Sikafloor®-81 EpoCem®          : Epoxy-cement hybrid (three-part, epoxy-modified cementitious fine-textured mortar)
+   Sika                               Sikafloor®-155 WN              : Water dispersed epoxy (two-part, solvent-free)
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : epoxy-cement (water-based epoxy emulsion + cementitious powder), non-soluble
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : two-component (base + hardener), solvent-free; resin type not named on the sheet
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : two-component epoxy (resin + hardener); solvent-free not stated
+   Flowcrete (RPM)                    Hydraseal DPM                  : solvent-free epoxy resin, liquid-applied surface DPM
+   Bostik (Arkema)                    HYTEC E736 TURBO               : two-component epoxy resin (solvent content not stated; GISCODE RE 55, EMICODE EC1 PLUS)
+   Mapei                              TRIBLOCK P                     : Three-component epoxy-cementitious primer (A and B liquids, C powder)
+   Denka                              Estogard EMB                   : epoxy cementitious, self-levelling or trowel-applied
+   MC-Bauchemie                       MC-DUR 1365 HBF                : two-component filled epoxy resin
+== components | OURS: 2
+   Sika                               Sikafloor®-81 EpoCem®          : None
+   Sika                               Sikafloor®-155 WN              : None
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : 3 (A white thixotropic liquid, B yellowish paste-like liquid, C light grey powder)
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : 2
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : 2
+   Flowcrete (RPM)                    Hydraseal DPM                  : None
+   Bostik (Arkema)                    HYTEC E736 TURBO               : 2 (A clear resin, B black hardener)
+   Mapei                              TRIBLOCK P                     : None
+   Denka                              Estogard EMB                   : 3 (Part A 3.5 kg + Part B 1.5 kg + Part C 19.0 kg)
+   MC-Bauchemie                       MC-DUR 1365 HBF                : 2
+== mix_ratio | OURS: 100 : 52 parts by weight
+   Sika                               Sikafloor®-81 EpoCem®          : Part A : B : C = 1 : 2.5 : 17 by weight at +12 to +25 °C (A+B : C = 4 kg : 19 kg); min. 1 : 2.5 : 15.8 (4 kg : 18 kg) at +8 to +12 °C and +25 to +30 °C
+   Sika                               Sikafloor®-155 WN              : Part A : Part B = 3 : 1 by weight
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : 4.5 kg A + 4.5 kg B + 16 kg C (5–10 % water may be added for roller or spray application)
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : pre-weighed pack: whole hardener into base (ratio not printed)
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : pre-weighed packs: 16.8 kg A + 3.2 kg B (≈ 84 : 16 by weight; ratio not printed)
+   Flowcrete (RPM)                    Hydraseal DPM                  : None
+   Bostik (Arkema)                    HYTEC E736 TURBO               : pre-portioned kits: 18 kg set = A 7.4 kg + B 10.6 kg; 6 kg set = A 2.5 kg + B 3.5 kg
+   Mapei                              TRIBLOCK P                     : 12 : 38 : 50 by weight (A : B : C)
+   Denka                              Estogard EMB                   : complete 24 kg kit: A 3.5 kg + B 1.5 kg + C 19.0 kg (no separate ratio printed)
+   MC-Bauchemie                       MC-DUR 1365 HBF                : 3 : 1 by mass (base : hardener)
+== viscosity | OURS: approx. 600 mPa·s
+   Sika                               Sikafloor®-81 EpoCem®          : None
+   Sika                               Sikafloor®-155 WN              : 4900 mPa·s at +20 °C (Contraves RM 180 Rheomat)
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : None
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : None
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : None
+   Flowcrete (RPM)                    Hydraseal DPM                  : None
+   Bostik (Arkema)                    HYTEC E736 TURBO               : None
+   Mapei                              TRIBLOCK P                     : 120,000 mPa·s (Brookfield, rotor 7, 10 rpm)
+   Denka                              Estogard EMB                   : None
+   MC-Bauchemie                       MC-DUR 1365 HBF                : approx. 12,000 mPa·s (20 °C, 50 % r.h.)
+== pot_life | OURS: approx. 35 minutes
+   Sika                               Sikafloor®-81 EpoCem®          : +10 °C 40 min; +20 °C 20 min; +30 °C 10 min
+   Sika                               Sikafloor®-155 WN              : ~180 min at +10 °C; ~90 min at +20 °C; ~45 min at +30 °C (75% r.h.)
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : approx. 60 minutes at +21 °C
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : approx. 25 minutes (full pack, 20 °C)
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : 25–30 minutes (1 litre at 20 °C)
+   Flowcrete (RPM)                    Hydraseal DPM                  : 35 min at 20 °C (60 min at 10 °C; 20 min at 30 °C)
+   Bostik (Arkema)                    HYTEC E736 TURBO               : approx. 25 minutes (+20 °C)
+   Mapei                              TRIBLOCK P                     : 30 to 40 minutes at +23°C
+   Denka                              Estogard EMB                   : None
+   MC-Bauchemie                       MC-DUR 1365 HBF                : approx. 35 min (20 °C, 50 % r.h.)
+== overcoat | OURS: min. 12 hours, max. 5 days
+   Sika                               Sikafloor®-81 EpoCem®          : Resin-based overcoating after 24 h at +20 °C / 75% r.h.; vapour-tight coatings once surface moisture < 4%: +10 °C ~2 days, +20 °C ~1 day, +30 °C ~1 day
+   Sika                               Sikafloor®-155 WN              : Before Sikafloor-81 EpoCem: +10 °C 12 h min / 72 h max; +20 °C 6 h / 48 h; +30 °C 4 h / 24 h
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : second coat after 16–24 h at +21 °C; resin coating min. 48 h, max. 96 h after the second coat (+21 °C)
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : min. 12 hours, max. 48 hours
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : overlay after min. 3 h; overcoat within 24 h (further DPM coat possible within 48 h; after 48 h abrade + extra coat)
+   Flowcrete (RPM)                    Hydraseal DPM                  : None
+   Bostik (Arkema)                    HYTEC E736 TURBO               : walkable after 4 h at the earliest; to be overcoated within 24 h; loadable after 24 h
+   Mapei                              TRIBLOCK P                     : Minimum 24 hours, maximum 7 days
+   Denka                              Estogard EMB                   : wait 36–48 hours before topping (advantages list: overcoatable as early as 24 h)
+   MC-Bauchemie                       MC-DUR 1365 HBF                : 12–24 h between coats and before overcoating (20 °C, 50 % r.h.)
+== compressive | OURS: approx. 76 N/mm² (DIN EN 196-1)
+   Sika                               Sikafloor®-81 EpoCem®          : 60 N/mm² (28 d, +23 °C); 50 N/mm² (7 d, +23 °C)
+   Sika                               Sikafloor®-155 WN              : None
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : ≥ 30 N/mm² after 7 days (EN 12190)
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : None
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : None
+   Flowcrete (RPM)                    Hydraseal DPM                  : 50 N/mm²
+   Bostik (Arkema)                    HYTEC E736 TURBO               : None
+   Mapei                              TRIBLOCK P                     : None
+   Denka                              Estogard EMB                   : > 45 MPa
+   MC-Bauchemie                       MC-DUR 1365 HBF                : None
+== flexural | OURS: approx. 58 N/mm² (DIN EN 196-1)
+   Sika                               Sikafloor®-81 EpoCem®          : 14 N/mm² (28 d, +23 °C); 11 N/mm² (7 d, +23 °C)
+   Sika                               Sikafloor®-155 WN              : None
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : None
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : None
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : None
+   Flowcrete (RPM)                    Hydraseal DPM                  : 20 N/mm²
+   Bostik (Arkema)                    HYTEC E736 TURBO               : None
+   Mapei                              TRIBLOCK P                     : None
+   Denka                              Estogard EMB                   : None
+   MC-Bauchemie                       MC-DUR 1365 HBF                : None
+== adhesion | OURS: ≥ 1.5 N/mm², concrete dry to matt damp
+   Sika                               Sikafloor®-81 EpoCem®          : None
+   Sika                               Sikafloor®-155 WN              : > 1.5 N/mm² (failure in concrete), 28 days +23 °C / 50% r.h. (EN 13892-8)
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : ≥ 3.0 N/mm² on dry concrete, 28 d (EN 1542); ≥ 3.0 N/mm² on wet concrete, 28 d (EN 13578); under moisture pressure with Sikagard M 790 top coat, 56 d: 3.1 N/mm² (+23 °C) 
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : bonds to damp concrete (no value); substrate ≥ 25 MPa compressive or ≥ 1.5 MPa surface tensile strength
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : 3.6 MPa (BS EN 1542); compatibility with wet concrete 3.0 MPa (EN 13578)
+   Flowcrete (RPM)                    Hydraseal DPM                  : > 1.5 MPa, concrete failure
+   Bostik (Arkema)                    HYTEC E736 TURBO               : None
+   Mapei                              TRIBLOCK P                     : > 3 N/mm² (failure of concrete)
+   Denka                              Estogard EMB                   : > 1.5 MPa
+   MC-Bauchemie                       MC-DUR 1365 HBF                : None
+== negative_pressure | OURS: watertight against negative pressing water up to 3 bar
+   Sika                               Sikafloor®-81 EpoCem®          : None
+   Sika                               Sikafloor®-155 WN              : None
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : watertight up to 2.5 bar (negative side)
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : not stated — Fosroc to be consulted where hydrostatic pressure exists
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : not stated — only for residual construction moisture; not for substrates without a structural DPM
+   Flowcrete (RPM)                    Hydraseal DPM                  : None
+   Bostik (Arkema)                    HYTEC E736 TURBO               : None
+   Mapei                              TRIBLOCK P                     : None
+   Denka                              Estogard EMB                   : None
+   MC-Bauchemie                       MC-DUR 1365 HBF                : None
+== max_moisture | OURS: matt damp, young and vapour-loaded substrates (no sealed water film)
+   Sika                               Sikafloor®-81 EpoCem®          : Can be applied to green or damp concrete (no standing water); green concrete > 24 h old (3 days for early shrinkage); TMB effect limited in time – re-check surface moistu
+   Sika                               Sikafloor®-155 WN              : < 4% for impervious resin finishes (Sika Tramex CM meter or oven-dry); no rising moisture per ASTM D 4263; may be applied to matt-damp green concrete when overcoated with
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : substrate may be damp but free of standing water
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : substrate hygrometer readings up to 98 % RH (BS 8203), subject to a ground-stability survey; not if air RH > 90 %
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : concrete / cement screeds up to 98 % RH (hood hygrometer)
+   Flowcrete (RPM)                    Hydraseal DPM                  : max. substrate moisture content 5 % (method not stated); tolerates up to 99 % relative humidity
+   Bostik (Arkema)                    HYTEC E736 TURBO               : blocks capillary rising moisture and residual moisture with no moisture limit on cement screeds or concrete ≥ 28 days old (not on calcium sulphate or magnesia screeds)
+   Mapei                              TRIBLOCK P                     : No numerical limit; residual humidity allowed, surfaces with free-standing water excluded
+   Denka                              Estogard EMB                   : recommended as moisture barrier (min. 2 mm) over high-moisture and green concrete; no numeric limit
+   MC-Bauchemie                       MC-DUR 1365 HBF                : suitable for damp mineral substrates (no numeric limit)
+== consumption | OURS: approx. 0.3–0.5 kg/m² per coat, two coats; sand broadcast approx. 1–1.5 kg/m² on the second coat
+   Sika                               Sikafloor®-81 EpoCem®          : 2.25 kg/m² per mm; 4.5 kg/m² for 2 mm
+   Sika                               Sikafloor®-155 WN              : 0.3–0.5 kg/m² per coat (first coat diluted with 10% water by weight; second coat undiluted); dry film ~110–180 µm per coat
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : approx. 0.5–1.5 kg/m² depending on substrate (theoretical); max. 0.5 mm per layer, two layers; fresh density approx. 1.6 kg/l
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : approx. 4 m²/kg at 250 µm per coat; damp-proof system min. 500 µm (2 × 250 µm, ≈ 0.5 kg/m² total)
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : approx. 0.3 kg/m² (min. 250 µm wet film, one coat; two coats on rough surfaces)
+   Flowcrete (RPM)                    Hydraseal DPM                  : 0.5 mm system in two coats (Hydraseal DPM Red, then Yellow); sand scatter for a screed finish (consumption not printed)
+   Bostik (Arkema)                    HYTEC E736 TURBO               : approx. 500–600 g/m² per application (one trowel or two roller passes); broadcast ≥ 3 kg/m² dry quartz sand 0.4–0.8 mm
+   Mapei                              TRIBLOCK P                     : 250-300 g/m² per coat on non-absorbent surfaces; 400-500 g/m² on absorbent surfaces; smoothing 1.5 kg/m² per mm
+   Denka                              Estogard EMB                   : 2.0 kg/m² per mm; self-levelling screed 1.0–3.0 mm; moisture barrier min. 2 mm
+   MC-Bauchemie                       MC-DUR 1365 HBF                : approx. 0.8–1 kg/m² per operation (0.6–0.8 kg/m² on tiles); quartz-sand broadcast 0.3–0.8 mm approx. 1,000–2,000 g/m²
+== application_temp | OURS: approx. 10–35 °C; ≥ 3 °C above the dew point; max. 80 % r.h.
+   Sika                               Sikafloor®-81 EpoCem®          : Product, ambient and substrate +8 °C to +30 °C; 20% to 80% r.h.
+   Sika                               Sikafloor®-155 WN              : Ambient air and substrate +10 °C to +35 °C; 85% r.h. max.; ≥ 3 °C above dew point
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : +10 to +30 °C (ambient and substrate); max. 85 % r.h.
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : ideal 12–30 °C (not below 5 °C); substrate ≥ 3 °C above dew point for 12 h; air RH ≤ 90 %
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : min. 5 °C (application affected below 10 °C)
+   Flowcrete (RPM)                    Hydraseal DPM                  : None
+   Bostik (Arkema)                    HYTEC E736 TURBO               : substrate min. +15 °C, air min. +18 °C, max. 75 % r.h.
+   Mapei                              TRIBLOCK P                     : from +5°C to +35°C
+   Denka                              Estogard EMB                   : None
+   MC-Bauchemie                       MC-DUR 1365 HBF                : air, substrate and material ≥ 10 °C and ≤ 30 °C; r.h. ≤ 85 %
+== packaging | OURS: 10 kg and 30 kg combination containers
+   Sika                               Sikafloor®-81 EpoCem®          : Part A 1.14 kg; Part B 2.86 kg; Part C 19 kg; pre-batched 23 kg units
+   Sika                               Sikafloor®-155 WN              : Part A 7.5 kg; Part B 2.5 kg; A+B 10 kg ready-to-mix units
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : 25 kg set: 4.5 kg A (can) + 4.5 kg B (can) + 16 kg C (paper bag)
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : 5 kg and 10 kg packs (red or yellow)
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : 10 kg and 20 kg packs
+   Flowcrete (RPM)                    Hydraseal DPM                  : None
+   Bostik (Arkema)                    HYTEC E736 TURBO               : 18 kg and 6 kg sets
+   Mapei                              TRIBLOCK P                     : 5 kg kit: A 0.6 kg, B 1.9 kg, C 2.5 kg
+   Denka                              Estogard EMB                   : 24 kg kit (3.5 + 1.5 + 19.0 kg)
+   MC-Bauchemie                       MC-DUR 1365 HBF                : 10 kg
+== shelf_life | OURS: 24 months
+   Sika                               Sikafloor®-81 EpoCem®          : Parts A and B: 12 months from production (+5 °C to +30 °C)
+   Sika                               Sikafloor®-155 WN              : 12 months from production (+5 °C to +30 °C)
+   Master Builders Solutions (Sika)   Sikagard®-385 EpoCem® (formerl : 12 months from production (unopened, cool and dry, ≤ +30 °C; A and B frost-free)
+   Fosroc (Saint-Gobain)              Nitoflor® DPM                  : 18 months unopened, 10–30 °C
+   Weber (Saint-Gobain)               weberfloor DPM Pro             : min. 12 months
+   Flowcrete (RPM)                    Hydraseal DPM                  : None
+   Bostik (Arkema)                    HYTEC E736 TURBO               : approx. 24 months
+   Mapei                              TRIBLOCK P                     : 12 months in original closed containers, min. 5°C, protected from frost
+   Denka                              Estogard EMB                   : min. 12 months, dry, cool, well-ventilated
+   MC-Bauchemie                       MC-DUR 1365 HBF                : 12 months, cool (below 20 °C), dry, frost-free
+## chart negative_pressure (bar, higher) OURS 3 :: Sikagard®-385 EpoCem® =2.5
+## chart compressive (N/mm², higher) OURS 76 :: Sikafloor®-81 EpoCem®=60, Sikagard®-385 EpoCem® =30, Hydraseal DPM=50, Estogard EMB=45
+## chart overcoat (h, higher) OURS 120 :: Sikafloor®-81 EpoCem®=48, Sikafloor®-155 WN=48, Sikagard®-385 EpoCem® =96, Nitoflor® DPM=48, weberfloor DPM Pro=24, HYTEC E736 TURBO=24, TRIBLOCK P=168, MC-DUR 1365 HBF=24
+
+WHY:
+  - A two-component resin primer — no cement component to batch (Sikafloor-81 EpoCem and Triblock P are three-component epoxy-cement systems), mixed in one step at 100 : 52.
+  - Published as watertight against negative pressing water up to 3 bar; the comparable products are described for damp or green concrete without a stated pressure rating.
+  - Overcoating window of 12 hours to 5 days gives the schedule room; the following resin layers bond to the sanded second coat.
+  - The same resin serves as scratch coat and mortar binder (1 : 1 and approx. 3 : 25 with quartz sand).
+
+LISTED: 

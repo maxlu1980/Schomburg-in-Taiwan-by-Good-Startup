@@ -1,0 +1,4 @@
+    if (typeof Menu !== 'undefined') { Menu.show(cat || Menu.cat() || 'ux', { anchor: opt.anchor || null }); }
+    if (opt.sim) setTimeout(function () { var M = window[MOD[cat]]; if (window.HSIM && M && M._sim) { var gate = document.getElementById(cat + '-handson'); if (gate) gate.scrollIntoView({ behavior: 'instant' }); HSIM.open(cat, M, document.getElementById(cat + 'HsOpen')); } }, 700);
+    if (opt.docs) setTimeout(function () { if (window.DocUI) DocUI.open(); }, 300);
+    if (opt.menu) setTimeout(function () { if (Menu.open) Menu.open(true); }, 300); }

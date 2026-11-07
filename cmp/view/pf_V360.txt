@@ -1,0 +1,131 @@
+SLOT pf/V360 ASODUR-V360W — water-emulsified epoxy concrete sealer, primer and seal in one
+competitors 8, listed 0, none: Arkema, Xypex, Kryton, Penetron, Sobute
+
+== basis | OURS: two-component epoxy resin, water-emulsified
+   Sika                               Sikafloor®-2540 W              : Epoxy, waterborne
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : Polyurethane (water borne, non-solvented 2K-PU topcoat); solid content by mass 43% (clear) / 47% (coloured)
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : two-component epoxy resin, water-dispersed
+   Flowcrete (RPM)                    Flowseal EPW                   : water-based epoxy resin
+   Mapei                              MAPEFLOOR I 500 W              : Two-component, vapour-permeable, neutral-coloured epoxy formulate in water dispersion
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : epoxy resin dispersed in water (waterborne epoxy)
+   Denka                              Estogard WA10e                 : two-component water-dispersed epoxy (non-solvent, breathable, low odour)
+   MC-Bauchemie                       MC-DUR 111                     : water-based two-component epoxy resin dispersion, pigmented
+== mix_ratio | OURS: 100 : 20 parts by weight
+   Sika                               Sikafloor®-2540 W              : Part A : Part B = 72 : 28 (by weight)
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : Part A : Part B = 80:20 (by weight)
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : clear 25 : 100 base : hardener by weight; coloured 20 : 100
+   Flowcrete (RPM)                    Flowseal EPW                   : 4 : 1
+   Mapei                              MAPEFLOOR I 500 W              : comp. A : comp. B = 1 : 12
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : None
+   Denka                              Estogard WA10e                 : None
+   MC-Bauchemie                       MC-DUR 111                     : 17 : 10 by mass (base : hardener)
+== viscosity | OURS: approx. 2,800 mPa·s
+   Sika                               Sikafloor®-2540 W              : None
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : None
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : None
+   Flowcrete (RPM)                    Flowseal EPW                   : None
+   Mapei                              MAPEFLOOR I 500 W              : None
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : None
+   Denka                              Estogard WA10e                 : None
+   MC-Bauchemie                       MC-DUR 111                     : approx. 1,200 mPa·s (20 °C, 50 % r.h.)
+== pot_life | OURS: approx. 40 minutes
+   Sika                               Sikafloor®-2540 W              : +10°C ~ 120 minutes; +20°C ~ 90 minutes; +30°C ~ 45 minutes
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : 30 minutes at +20 °C
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : 2 hours at 20 °C; 1 hour at 35 °C
+   Flowcrete (RPM)                    Flowseal EPW                   : 45 minutes
+   Mapei                              MAPEFLOOR I 500 W              : 20 minutes at +20°C
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : None
+   Denka                              Estogard WA10e                 : 45 minutes at 25 °C
+   MC-Bauchemie                       MC-DUR 111                     : approx. 30 min (20 °C, 50 % r.h.)
+== overcoat | OURS: min. 16 hours, max. 48 hours
+   Sika                               Sikafloor®-2540 W              : +10°C 48 hours min / 7 days max; +20°C 20 hours / 5 days; +30°C 10 hours / 3 days
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : 12 hours minimum / 24 hours maximum at +20 °C
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : 6–24 hours at 20 °C; 4–16 hours at 35 °C (typically 8–24 h)
+   Flowcrete (RPM)                    Flowseal EPW                   : None
+   Mapei                              MAPEFLOOR I 500 W              : None
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : None
+   Denka                              Estogard WA10e                 : recoat 16 hours; second coat once the first is initially dry
+   MC-Bauchemie                       MC-DUR 111                     : min. 12 h, max. 48 h (20 °C), also between primer/scratch coat and first coat
+== cure | OURS: foot traffic after approx. 16 hours; full resilience approx. 7 days
+   Sika                               Sikafloor®-2540 W              : Foot traffic / light traffic / full cure: +10°C ~ 48 hours / ~ 5 days / ~ 10 days; +20°C ~ 20 hours / ~ 3 days / ~ 7 days; +30°C ~ 10 hours / ~ 2 days / ~ 5 days
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : Light pedestrian traffic 24 hours (12 °C), 18 hours (20 °C), 12 hours (30 °C) at 50% r.h.; full cure 5 days at +23 °C
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : initial hardness 24 h (20 °C) / 16 h (35 °C); full cure 7 days; vehicle traffic 72 h
+   Flowcrete (RPM)                    Flowseal EPW                   : light traffic 12 h, full traffic 24 h, full chemical cure 7 days at 20 °C (10 °C: 24 h / 36 h / 14 d; 30 °C: 8 h / 16 h / 5 d)
+   Mapei                              MAPEFLOOR I 500 W              : Dust dry 3-4 hours; light foot traffic 16 hours (+23°C, 50% R.H.); final hardening 7 days
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : foot traffic after 24–48 h at 25 °C; full cure 7 days
+   Denka                              Estogard WA10e                 : touch dry 6–8 hours at 25 °C
+   MC-Bauchemie                       MC-DUR 111                     : accessible after approx. 12 h; full resilience after 7 days (20 °C, 50 % r.h.)
+== adhesion | OURS: ≥ 2.8 N/mm² on dry concrete
+   Sika                               Sikafloor®-2540 W              : None
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : >2.0 MPa
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : None
+   Flowcrete (RPM)                    Flowseal EPW                   : > 1.5 MPa, concrete failure
+   Mapei                              MAPEFLOOR I 500 W              : None
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : None
+   Denka                              Estogard WA10e                 : None
+   MC-Bauchemie                       MC-DUR 111                     : None
+== slip | OURS: R10 with ASO-Antislide (test report)
+   Sika                               Sikafloor®-2540 W              : None
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : >0.50 (GB/T 22374-2018; coefficient, no DIN 51130 R class)
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : AS/NZS 4586:2013: P4 wet pendulum, D1 dry, without grit
+   Flowcrete (RPM)                    Flowseal EPW                   : None
+   Mapei                              MAPEFLOOR I 500 W              : None
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : None
+   Denka                              Estogard WA10e                 : None
+   MC-Bauchemie                       MC-DUR 111                     : None
+== max_moisture | OURS: residual moisture ≤ 5 % (CM method)
+   Sika                               Sikafloor®-2540 W              : ≤ 6% pbw moisture content (Sika-Tramex, CM or oven-dry)
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : None
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : substrate RH ≤ 80 %; no rising damp; new concrete ≥ 7 days old
+   Flowcrete (RPM)                    Flowseal EPW                   : moisture content ≤ 5 % (method not stated); vapour permeable — can be installed onto damp substrates or green concrete
+   Mapei                              MAPEFLOOR I 500 W              : None
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : tolerates damp substrates; some breathability (qualitative, no CM value)
+   Denka                              Estogard WA10e                 : new concrete aged 28 days and ≤ 4 % substrate moisture content
+   MC-Bauchemie                       MC-DUR 111                     : dry and slightly damp mineral substrates without visible moisture (no CM limit stated)
+== consumption | OURS: primer (diluted 8–10 % water) approx. 0.15 kg/m²; seal coats approx. 0.30–0.35 kg/m² each
+   Sika                               Sikafloor®-2540 W              : Seal/top coat ~ 0,2-0,3 kg/m² by roller; primer (diluted) per Sikafloor MultiDur WS-10 / WT-10 system data sheets
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : Seal coat, one coat: 0.12 – 0.15 kg/m² (transparent and coloured)
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : first coat 6–8 m²/L, second coat 8–10 m²/L (≈ 100 µm DFT for two coats)
+   Flowcrete (RPM)                    Flowseal EPW                   : 0.12 mm DFT in 2 coats over Flowseal EPW Clear/Pigmented primer (coverage not printed)
+   Mapei                              MAPEFLOOR I 500 W              : 2 mm smooth self-levelling on MAPECOAT I 600 W primer: 4 kg/m²; 5 mm multi-layer non-slip: 2-2.5 kg/m² resin per layer + QUARTZ 0.5 5 kg/m²; finishing layer 0.7 kg/m²
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : topcoat 1–2 coats, 0.2 mm dry film; system: 德爱威耐潮底漆 1–2 coats 0.1 mm + waterborne epoxy mortar mid-coat 2 coats 0.5 mm + filler mid-coat 1–2 coats 0.2 mm
+   Denka                              Estogard WA10e                 : 6–7 m²/kg per coat (100 µm wet / 50 µm dry per coat); 2–3 coats
+   MC-Bauchemie                       MC-DUR 111                     : approx. 0.25–0.3 kg/m² per operation (approx. 100 µm at 250 g/m²)
+== application_temp | OURS: approx. 10–35 °C; ≥ 3 °C above the dew point; max. 65 % r.h.
+   Sika                               Sikafloor®-2540 W              : Ambient air and substrate +10 °C min. / +30 °C max.; 80 % max. r.h.; ≥ 3°C above dew point
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : Ambient air and substrate +10 °C minimum / +30 °C maximum; 30% r.h. minimum / 90% r.h. maximum; ≥ 3 °C above dew point
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : not below 10 °C; air RH ≤ 85 %; good ventilation
+   Flowcrete (RPM)                    Flowseal EPW                   : None
+   Mapei                              MAPEFLOOR I 500 W              : None
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : epoxy does not cure below 5 °C; topcoat may blush above 85 % RH
+   Denka                              Estogard WA10e                 : 10–30 °C (above 30 °C shortens pot life)
+   MC-Bauchemie                       MC-DUR 111                     : air, substrate and material ≥ 10 °C and ≤ 30 °C; r.h. ≤ 85 %; ≥ 3 K above dew point
+== packaging | OURS: 10 kg and 30 kg combination containers
+   Sika                               Sikafloor®-2540 W              : Part A 13.0 kg; Part B 5.0 kg; A+B 18.0 kg ready to mix units
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : Part A 8.0 kg/pail; Part B 2.0 kg/pail; A+B 10.0 kg/set
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : 16 L packs (clear, silver grey, mid grey)
+   Flowcrete (RPM)                    Flowseal EPW                   : None
+   Mapei                              MAPEFLOOR I 500 W              : 26 kg kits (A + B)
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : None
+   Denka                              Estogard WA10e                 : 5 kg
+   MC-Bauchemie                       MC-DUR 111                     : 5 kg and 10 kg
+== shelf_life | OURS: 18 months
+   Sika                               Sikafloor®-2540 W              : 12 months from date of production (+5°C to +30°C)
+   Master Builders Solutions (Sika)   Sikafloor® TC 442 W (MasterTop : 12 months (15 to 25 °C, original dry containers)
+   Fosroc (Saint-Gobain)              Nitoflor® FC130                : None
+   Flowcrete (RPM)                    Flowseal EPW                   : None
+   Mapei                              MAPEFLOOR I 500 W              : 12 months in original sealed packaging
+   Caparol China (Oriental Yuhong)    Caparol Waterborne Epoxy Floor : None
+   Denka                              Estogard WA10e                 : 6 months, dry store, unopened
+   MC-Bauchemie                       MC-DUR 111                     : 12 months, cool (below 20 °C), dry, frost-free
+## chart adhesion (N/mm², higher) OURS 2.8 :: Sikafloor® TC 442 W (M=2, Flowseal EPW=1.5
+## chart max_moisture (%, higher) OURS 5 :: Sikafloor®-2540 W=6, Estogard WA10e=4
+## chart pot_life (min, higher) OURS 40 :: Sikafloor®-2540 W=90, Sikafloor® TC 442 W (M=30, Nitoflor® FC130=120, Flowseal EPW=45, MAPEFLOOR I 500 W=20, Estogard WA10e=45, MC-DUR 111=30
+
+WHY:
+  - Primer and seal from one container: diluted with 8–10 % water as the primer, undiluted as the pigmented, vapour-permeable seal — a garage or cellar floor in two days.
+  - Published tensile adhesion ≥ 2.8 N/mm² on dry concrete; the comparable water-based seals publish > 2.0 MPa (TC 442 W) or no adhesion value.
+  - Slip resistance R10 with ASO-Antislide stirred into the last coat, by test report.
+  - Fills with ASO-FF for pinholes and with quartz sand (1 : 0.5) as a levelling coat up to 2 mm — the comparison products are seal coats only.
+
+LISTED: 

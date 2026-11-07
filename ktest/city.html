@@ -1,0 +1,30 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Köln city test</title>
+<style>html,body{margin:0;height:100%;background:#222;overflow:hidden}#v{position:fixed;inset:0}</style></head><body><div id="v"></div>
+<script src="../node_modules/three/build/three.min.js"></script>
+<script src="../src/koeln/lib/KIT.js"></script><script src="../src/koeln/lib/LUNA.js"></script><script src="../src/koeln/lib/PROPS.js"></script>
+<script src="../src/koeln/lib/TOKYO3D.js"></script><script src="../src/koeln/lib/TPE3D.js"></script><script src="../src/koeln/lib/SKY.js"></script>
+<script src="../src/koeln/kw.js"></script><script src="../src/koeln/koeln3d.js"></script>
+<script>
+(function () {
+  var R3 = new THREE.WebGLRenderer({ antialias: true }); var tier = window.CITY_TIER || 'high';
+  R3.setPixelRatio(window.CT_DPR || 1); R3.outputEncoding = THREE.sRGBEncoding; R3.toneMapping = THREE.ACESFilmicToneMapping; R3.shadowMap.enabled = true; R3.shadowMap.type = THREE.PCFSoftShadowMap;
+  var el = document.getElementById('v'); el.appendChild(R3.domElement); var w = innerWidth, h = innerHeight; R3.setSize(w, h, false);
+  var scene = new THREE.Scene(), cam = new THREE.PerspectiveCamera(46, w / h, 0.1, 1600);
+  PROPS.init({ K: KIT, M: KIT.M() }); if (LUNA.setQuality) LUNA.setQuality(1);
+  var W = KW.build(scene, { low: false }); var POST = null; if (!window.NOPOST) { POST = KIT.Post(R3, { msaa: 2 }); W.post = POST; R3.toneMapping = THREE.NoToneMapping; POST.setSize(w, h, R3.getPixelRatio()); }
+  KIT.U.uCurve.value = 0;
+  var t0 = performance.now(), T = KOELN3D.build(scene, { x: 0, z: 0, y: 0.62, tier: tier, su: W.seaU }); var tb = performance.now() - t0;
+  try { KOELN3D.traffic(T, tier === 'low' ? 8 : 16, 0); KOELN3D.people(T, tier === 'low' ? 8 : 18); } catch (e) { console.error('life', e); }
+  W.setUrban(true);
+  var hour = window.CT_HOUR != null ? window.CT_HOUR : 14.5, base = new Date('2026-10-27T00:00:00Z').getTime(), date = new Date(base + (hour - 1) * 3600000);
+  SKY.anchor(function () { return { lon: 6.958, lat: 50.941, weather: function (d) { return window.CT_WX ? Object.assign(SKY.decode(window.CT_WX.code || 0), { wind: 10, windDir: 225, temp: 12 }, window.CT_WX) : KOLNWEA.model(d); } }; });
+  W.skyAt(0, 0); W.sky2(date, true); W.skyTick(0, true);
+  var tgt = new THREE.Vector3();
+  window.CT = { T: T, W: W, buildMs: tb, cam: cam, R3: R3, scene: scene,
+    view: function (cx, cy, cz, tx, ty, tz, fov) { cam.position.set(cx, cy + 0.62, cz); tgt.set(tx, ty + 0.62, tz); cam.lookAt(tgt); if (fov) { cam.fov = fov; } cam.updateProjectionMatrix(); KIT.U.uFocus.value = cam.position.distanceTo(tgt); W.follow(tx, tz, cam.position); },
+    step: function (n, dt) { dt = dt || 1 / 30; for (var i = 0; i < n; i++) { KOELN3D.update(T, dt, { cam: cam.position, avoids: [] }); W.update(dt, performance.now() / 1000); W.skyTick(dt); } if (W.fog) { W.fog.near = 70; W.fog.far = window.CT_FOGFAR || 520; } W.hemi.intensity *= 0.85; },
+    render: function () { cam.updateMatrixWorld(); W.rainTick(cam.position); W.lightsTick(cam, tgt.x, tgt.z); if (W.stars) W.stars.position.copy(cam.position); W.envUpdate(R3); if (POST) POST.render(scene, cam, performance.now() / 1000); else R3.render(scene, cam); return R3.info.render.calls; },
+    stats: function () { return { calls: R3.info.render.calls, tris: R3.info.render.triangles, geos: R3.info.memory.geometries, tex: R3.info.memory.textures, walk: T.walk.length, raised: T.raised.length, ramps: T.ramps.length, cols: T.colliders.length, cam: T.cam.length, mass: T.mass.length, cars: T.cars.length, peds: T.peds.length, trains: T.trains.length, lanes: T.net.L.length }; } };
+  window.CT_READY = true;
+})();
+</script></body></html>

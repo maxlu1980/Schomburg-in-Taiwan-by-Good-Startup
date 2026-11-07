@@ -1,0 +1,210 @@
+SLOT wp/AQ1K AQUAFIN-1K — one-component rigid mineral waterproofing slurry
+competitors 13, listed 1, none: Xypex, Kryton
+
+== components | OURS: 1 component, pre-blended dry mortar; approx. 6.7 l water per 25 kg
+   Sika                               SikaTop Seal-107               : Two components; A : B = 1 : 4 (parts by weight) for slurry; up to A : B = 1 : 4.5 allowed
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : One component; water 5,00-5,25 l per 25 kg bag (brush); 4,50-4,75 l per 25 kg bag (trowel or spray)
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : None
+   Weber (Saint-Gobain)               weber.tec 930                  : 1 component dry mortar mixed with water (quantity per bag not printed)
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : 2 components: BETEC Seal SC Liquid (carboxylated styrene-butadiene latex, 10 kg) + Powder (30 kg); no water added
+   Vandex (RPM)                       VANDEX BB 75 Z                 : 1 component, ready-mixed powder; 4.5–6 l water per 25 kg
+   Tremco (RPM)                       TREMproof M                    : 2 parts: Part A liquid polymer 5 kg + Part B cement powder 20 kg (25 kg set; trowel application with 90 % of Part A)
+   Bostik (Arkema)                    Boscocem Slurry                : 2 components (Part A acrylic copolymer liquid, Part B cement/silica powder), A : B = 1 : 4 by weight (2 + 8 kg, 5 + 20 kg, 7.5 + 30 kg sets); no extra water
+   Mapei                              Idrosilex Pronto (now Planisea : One-component; 25 kg bag with 5.5-6 litres of clean water (brush/spray); 5-6 litres of water per 25 kg bag (trowel)
+   Penetron                           PENETRON® SEAL COAT™           : 1 component powder; 5.7 l water (grey) or 6 l water (white) per 22.7 kg bag
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : 2 components; A : B = 3 : 10 by weight; density 2.0 kg/L
+   Denka                              Estokote Grey                  : 2 components: Part A grey powder 17.5 kg + Part B white liquid polymer 5.0 kg (no water to be added)
+   MC-Bauchemie                       MC-Proof 101 HS                : 1 component; 4.8–5.2 L water per 25 kg (25 : 4.8–5.2)
+== positive_pressure | OURS: up to 1 bar (PG MDS/FPD)
+   Sika                               SikaTop Seal-107               : None
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : 'waterproof under positive and negative pressure' - no bar value; build-up for water tanks < 15 m head: 3,5 mm / 7,0 kg/m2
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : pressure resistant ('résistance à la pression'; no value printed)
+   Weber (Saint-Gobain)               weber.tec 930                  : soil moisture, non-pressing and pressing water (pressing water by special agreement; no bar value)
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : resists positive water pressure (no value printed)
+   Vandex (RPM)                       VANDEX BB 75 Z                 : resists active and passive water pressure (no pressure value printed)
+   Tremco (RPM)                       TREMproof M                    : None
+   Bostik (Arkema)                    Boscocem Slurry                : for positive-side waterproofing (no pressure rating printed)
+   Mapei                              Idrosilex Pronto (now Planisea : None
+   Penetron                           PENETRON® SEAL COAT™           : For surfaces under positive and generally small hydrostatic pressures (no bar value)
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : water impermeability 1.5 bar, 7 d: ≈ 0 mm (BS EN 14891 A7); water penetration ≈ 90 mm (DIN 1048 Pt 5)
+   Denka                              Estokote Grey                  : None
+   MC-Bauchemie                       MC-Proof 101 HS                : impermeable to water under positive pressure (no pressure value stated)
+== negative_pressure | OURS: up to 0.75 bar (WTA 4-6)
+   Sika                               SikaTop Seal-107               : None
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : stated as waterproof against negative pressure - no bar value
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : None
+   Weber (Saint-Gobain)               weber.tec 930                  : max. 3 m water column (by special agreement)
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : resists negative water pressure (no value printed)
+   Vandex (RPM)                       VANDEX BB 75 Z                 : resists passive water pressure (no pressure value printed)
+   Tremco (RPM)                       TREMproof M                    : None
+   Bostik (Arkema)                    Boscocem Slurry                : None
+   Mapei                              Idrosilex Pronto (now Planisea : None
+   Penetron                           PENETRON® SEAL COAT™           : None
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : None
+   Denka                              Estokote Grey                  : None
+   MC-Bauchemie                       MC-Proof 101 HS                : impermeable to water under negative pressure; proof of suitability as internal sealing according to WTA leaflet 4-6 (no pressure value stated)
+== adhesion | OURS: ≥ 0.5 N/mm² (DIN EN 1542)
+   Sika                               SikaTop Seal-107               : Bond strength (adhesion) 2.0 to 3.0 N/mm2 (failure in substrate); CE table (EN 1504-2) pull-off >= 1.0 (0.7) N/mm2
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : >= 1.0 N/mm2 (pull-off, DoP EN 1504-2)
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : very good adhesion to concrete (no value printed)
+   Weber (Saint-Gobain)               weber.tec 930                  : None
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : > 1.2 N/mm² (ASTM D4541)
+   Vandex (RPM)                       VANDEX BB 75 Z                 : 2.0 MPa (adhesive bond, EN 1504-3 declaration)
+   Tremco (RPM)                       TREMproof M                    : > 0.60 N/mm² (ASTM D4541)
+   Bostik (Arkema)                    Boscocem Slurry                : approx. 1.0 N/mm² to concrete (method not stated)
+   Mapei                              Idrosilex Pronto (now Planisea : None
+   Penetron                           PENETRON® SEAL COAT™           : ≥ 1.5 N/mm² (EN 1504-2 declaration)
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : pull-off to concrete ≥ 1.0 MPa (ASTM D7234)
+   Denka                              Estokote Grey                  : > 0.5 N/mm² (pull-off, ASTM D7234-12)
+   MC-Bauchemie                       MC-Proof 101 HS                : None
+== crack_bridging | OURS: crack class R0-B (DIN 18535) — rigid
+   Sika                               SikaTop Seal-107               : None
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : NPD (DoP EN 1504-2); rigid
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : None
+   Weber (Saint-Gobain)               weber.tec 930                  : rigid — substrate must be crack-free
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : 'slightly flexible' — no crack-bridging value printed
+   Vandex (RPM)                       VANDEX BB 75 Z                 : None
+   Tremco (RPM)                       TREMproof M                    : None
+   Bostik (Arkema)                    Boscocem Slurry                : None
+   Mapei                              Idrosilex Pronto (now Planisea : None
+   Penetron                           PENETRON® SEAL COAT™           : None
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : None
+   Denka                              Estokote Grey                  : None
+   MC-Bauchemie                       MC-Proof 101 HS                : None
+== consumption | OURS: approx. 1.75 kg/m² per mm; approx. 3.50–5.30 kg/m² in total
+   Sika                               SikaTop Seal-107               : approx. 2.0 kg/m2/mm; 1 unit of 25 kg (A+B) gives approx. 12.5 l of mortar
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : Ground moisture 2,0 mm: 4,0 kg/m2 fresh mortar (3,2 kg/m2 powder); non-pressing surface water 2,5 mm: 5,0 kg/m2 (4,0 kg/m2 powder); water tanks < 15 m 3,5 mm: 7,0 kg/m2 (
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : None
+   Weber (Saint-Gobain)               weber.tec 930                  : approx. 4.0 kg/m² for 2 mm dry layer (soil moisture / non-pressing water); approx. 6.0 kg/m² for 3 mm (pressing water); ≈ 2.0 kg/m² per mm
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : 1 kg/m² per coat; 2 kg/m² for two coats (smooth surface, excl. wastage)
+   Vandex (RPM)                       VANDEX BB 75 Z                 : pressureless water 3–4 kg/m² (approx. 1.5–2 mm); water under pressure 4–6 kg/m² (approx. 2–3 mm, depending on pressure)
+   Tremco (RPM)                       TREMproof M                    : per coat: 1.0 kg/m² (bathrooms, balconies, terraces); 1.5 kg/m² (water head up to 1 m); 2.0 kg/m² (water head > 1 m; protective coating); min. 2 coats
+   Bostik (Arkema)                    Boscocem Slurry                : 1.0 kg/m² per layer: 2 layers (bathrooms, terraces, balconies); 3 layers (water tanks)
+   Mapei                              Idrosilex Pronto (now Planisea : 1.6 kg/m2 per mm of thickness
+   Penetron                           PENETRON® SEAL COAT™           : 2–3 kg/m² in two coats
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : 2.2–2.4 kg/m² per 1 mm dry film (11–12 m² per set at 1 mm); 1.1–1.2 kg/m² per coat
+   Denka                              Estokote Grey                  : 1.0 kg/m² per coat; 22.5 kg set ≈ 11 m² in 2 coats
+   MC-Bauchemie                       MC-Proof 101 HS                : 1.7 kg/m² per mm (factory-dried mortar)
+== thickness | OURS: up to 1 mm per step
+   Sika                               SikaTop Seal-107               : 0.75 mm min. / 2.00 mm max. per work step; total thickness of minimum 2.0 mm in at least 2 coats
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : max. 2 mm per layer; total max. 5 mm; 2,0 / 2,5 / 3,5 mm total depending on water load
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : applied in 2 coats by brush (thickness not printed)
+   Weber (Saint-Gobain)               weber.tec 930                  : 2–3 mm per coat; max. 3 mm per coat and 5 mm total
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : None
+   Vandex (RPM)                       VANDEX BB 75 Z                 : max. 2 mm (approx. 4 kg/m²) per working cycle; total approx. 1.5–2 mm (pressureless) / 2–3 mm (under pressure)
+   Tremco (RPM)                       TREMproof M                    : None
+   Bostik (Arkema)                    Boscocem Slurry                : None
+   Mapei                              Idrosilex Pronto (now Planisea : 2-3 coats (brush/spray) on a cleaned, sound substrate thoroughly soaked with water
+   Penetron                           PENETRON® SEAL COAT™           : None
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : 1.0 mm dry film in 2 coats; 3rd coat where water ingress is high
+   Denka                              Estokote Grey                  : None
+   MC-Bauchemie                       MC-Proof 101 HS                : total wet layer 3 mm (ground moisture / non-accumulating seepage water, ≥ 2.5 mm dry) or 3.5 mm (pressing water, ≥ 3 mm dry), in at least two coats
+== pot_life | OURS: approx. 60 minutes
+   Sika                               SikaTop Seal-107               : Approx. 40 minutes at +20C
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : 60-90 minutes (guide values at +20 C)
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : None
+   Weber (Saint-Gobain)               weber.tec 930                  : approx. 60 minutes
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : None
+   Vandex (RPM)                       VANDEX BB 75 Z                 : workability approx. 45 min at 20 °C
+   Tremco (RPM)                       TREMproof M                    : approx. 30 minutes at 30 °C
+   Bostik (Arkema)                    Boscocem Slurry                : 30 minutes
+   Mapei                              Idrosilex Pronto (now Planisea : None
+   Penetron                           PENETRON® SEAL COAT™           : None
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : ≈ 30 min at +30 °C (shorter at higher temperatures)
+   Denka                              Estokote Grey                  : use within 30 minutes of mixing
+   MC-Bauchemie                       MC-Proof 101 HS                : approx. 60 min at 20 °C
+== overcoat | OURS: approx. 6 hours
+   Sika                               SikaTop Seal-107               : +10C ~ 12 hours; +20C ~ 6 hours; +30C ~ 3 hours
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : second coat applied onto the still-damp, not yet dried first coat - no time stated
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : None
+   Weber (Saint-Gobain)               weber.tec 930                  : next coat after approx. 1 hour
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : next coat when tack-free, approx. 2–6 hours by climate; coats in alternate directions
+   Vandex (RPM)                       VANDEX BB 75 Z                 : next coat while the previous coat is still damp (depends on local climate); keyed while plastic
+   Tremco (RPM)                       TREMproof M                    : approx. 4–8 hours (above 20 °C) before the second coat; floors: second coat within 24 h
+   Bostik (Arkema)                    Boscocem Slurry                : second coat after 2–4 hours, perpendicular to the first
+   Mapei                              Idrosilex Pronto (now Planisea : None
+   Penetron                           PENETRON® SEAL COAT™           : Second coat perpendicular to the first, within 12 hours (if the first coat is undamaged)
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : waiting time between coats: 12 h (+10 °C), 6 h (+20 °C), 3 h (+30 °C)
+   Denka                              Estokote Grey                  : second coat after approx. 4–8 hours above 20 °C (floors within 24 h; pre-wet if ≥ 12 h); ≥ 3 days before cementitious overcoating
+   MC-Bauchemie                       MC-Proof 101 HS                : overworkable after approx. 3 h (1st to 2nd layer)
+== rainproof | OURS: foot traffic after approx. 24 h; pressurised water after ≥ 7 days
+   Sika                               SikaTop Seal-107               : None
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : protect fresh coat from rain for approx. 2 days
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : None
+   Weber (Saint-Gobain)               weber.tec 930                  : no rain during application; keep damp ≥ 24 h, protect from sun / frost 5 more days; through-dry approx. 3 days
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : None
+   Vandex (RPM)                       VANDEX BB 75 Z                 : protect from rain for min. 24 h (setting approx. 5–8 h at 20 °C)
+   Tremco (RPM)                       TREMproof M                    : None
+   Bostik (Arkema)                    Boscocem Slurry                : traffic after min. 24 hours; set to touch 2 h, final set 72 h
+   Mapei                              Idrosilex Pronto (now Planisea : None
+   Penetron                           PENETRON® SEAL COAT™           : Hardens within 3–4 hours; full cure in 24 hours (no rain-resistance time stated)
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : None
+   Denka                              Estokote Grey                  : protect from direct rain for at least 4 hours; cure 3–5 days before other trades
+   MC-Bauchemie                       MC-Proof 101 HS                : accessible after 12 h; resistant to pressurised water after 5 days; protect from rain and frost during curing
+== application_temp | OURS: approx. 5–30 °C
+   Sika                               SikaTop Seal-107               : +8C min. / +35C max. (substrate and ambient)
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : +5 C to +25 C (ambient and substrate)
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : None
+   Weber (Saint-Gobain)               weber.tec 930                  : 5–30 °C
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : None
+   Vandex (RPM)                       VANDEX BB 75 Z                 : not below +5 °C; not on frozen substrate
+   Tremco (RPM)                       TREMproof M                    : None
+   Bostik (Arkema)                    Boscocem Slurry                : None
+   Mapei                              Idrosilex Pronto (now Planisea : None
+   Penetron                           PENETRON® SEAL COAT™           : Not below 4 °C surface temperature; not on frozen substrate
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : +5 to +35 °C
+   Denka                              Estokote Grey                  : None
+   MC-Bauchemie                       MC-Proof 101 HS                : ≥ 5 °C to ≤ 30 °C (air, substrate and material)
+== certification | OURS: PG MDS/FPD; WTA 4-6; DIN 18533 / 18535
+   Sika                               SikaTop Seal-107               : Complies with the requirements of EN 1504-2 as protective coating; approved for potable water contact (check local regulations); EN 14891 not mentioned
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : CE EN 1504-2:2004 (surface protection coating, methods 2.2/8.2), DoP 36829374; capillary absorption w < 0.1 kg/(m2*h^0.5); reaction to fire A1; EN 14891 and drinking wate
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : None
+   Weber (Saint-Gobain)               weber.tec 930                  : abP (general building-authority test certificate); MDS to DIN 18535; DVGW W 347 / W 270 drinking water; DIN 4030 strongly aggressive exposure
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : compressive > 7 N/mm² at 3 d (ASTM C109); tensile > 1.2 N/mm² (ASTM C307); no waterproofing-slurry approval printed
+   Vandex (RPM)                       VANDEX BB 75 Z                 : EN 1504-3 (CC fine mortar for structural repair), CE, notified body 0761; tested for contact with drinking water
+   Tremco (RPM)                       TREMproof M                    : SPAN approved (SPAN/BPAI/300-10/1725/B/W-3); suitable for contact with drinking water
+   Bostik (Arkema)                    Boscocem Slurry                : None
+   Mapei                              Idrosilex Pronto (now Planisea : EN 1504-2 coating (C), principles MC and IR; suitable for contact with drinking water (no certificate named)
+   Penetron                           PENETRON® SEAL COAT™           : EN 1504-2 (1085-CPR-0080, Penetron International Ltd.): water vapour permeability class I; capillary water absorption < 0.1 kg/m²·h⁰·⁵ (printed 'kg/m2h'); adhesion ≥ 1.5 
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : none stated; liquid water permeability ≈ 0.057 kg/(m²·h⁰·⁵), Class W3 (BS EN 1062-3); CO₂ permeability ≈ 0.29 g/(m²·d) (BS EN 1062-6)
+   Denka                              Estokote Grey                  : BS 6920 Part 1:2000 (suitability for contact with drinking water, tested by SIRIM Bhd); water absorption < 1.0 % (BS 1881 Part 122:2011)
+   MC-Bauchemie                       MC-Proof 101 HS                : proof of suitability as internal sealing according to WTA leaflet 4-6 (observe WTA 4-6-14/D); sulphate-resistant
+== packaging | OURS: 25 kg bag
+   Sika                               SikaTop Seal-107               : 25 kg units (20 kg bag and 5 kg pail)
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : 25 kg bags
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : 25 kg bag
+   Weber (Saint-Gobain)               weber.tec 930                  : 25 kg bag
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : 30 kg powder bag + 10 kg liquid pail
+   Vandex (RPM)                       VANDEX BB 75 Z                 : 25 kg PE-lined paper bag
+   Tremco (RPM)                       TREMproof M                    : 25 kg set (Part A 5 kg, Part B 20 kg)
+   Bostik (Arkema)                    Boscocem Slurry                : 10 kg, 25 kg and 37.5 kg sets
+   Mapei                              Idrosilex Pronto (now Planisea : 25 kg bags (grey and white)
+   Penetron                           PENETRON® SEAL COAT™           : 22.7 kg sealed bag (grey or white)
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : A 6 kg pail + B 20 kg valve bag
+   Denka                              Estokote Grey                  : 22.5 kg set (17.5 kg powder bag + 5.0 kg liquid bottle)
+   MC-Bauchemie                       MC-Proof 101 HS                : 25 kg bag
+== shelf_life | OURS: min. 12 months
+   Sika                               SikaTop Seal-107               : 12 months from the date of production
+   Master Builders Solutions (Sika)   SikaTop-531 Seal (formerly Mas : 6 months from date of production
+   ParexLanko (Sika)                  222 LANKOFUGEANT               : None
+   Weber (Saint-Gobain)               weber.tec 930                  : min. 12 months
+   GCP Applied Technologies (Saint-Go BETEC™ Seal SC                 : 12 months (dry, cool)
+   Vandex (RPM)                       VANDEX BB 75 Z                 : 12 months (dry, unopened)
+   Tremco (RPM)                       TREMproof M                    : 12 months from production date
+   Bostik (Arkema)                    Boscocem Slurry                : 12 months
+   Mapei                              Idrosilex Pronto (now Planisea : None
+   Penetron                           PENETRON® SEAL COAT™           : 12 months in sealed original packaging, dry, min. 7 °C
+   Oriental Yuhong                    YHCoat-1000 Easy-to-apply Ceme : min. 12 months (storage 5–35 °C)
+   Denka                              Estokote Grey                  : 12 months, dry on pallets
+   MC-Bauchemie                       MC-Proof 101 HS                : at least 12 months, cool and dry, original unopened packs
+## chart negative_pressure (bar, higher) OURS 0.75 :: weber.tec 930=0.29
+## chart pot_life (min, higher) OURS 60 :: SikaTop Seal-107=40, SikaTop-531 Seal (form=75, weber.tec 930=60, VANDEX BB 75 Z=45, Boscocem Slurry=30, Estokote Grey=30, MC-Proof 101 HS=60
+## chart consumption (kg, lower) OURS 1.75 :: SikaTop Seal-107=2, weber.tec 930=2.0, VANDEX BB 75 Z=2.0, Idrosilex Pronto (now =1.6, YHCoat-1000 Easy-to-ap=2.3, MC-Proof 101 HS=1.7
+
+WHY:
+  - Positive and negative pressure values are both published (1 bar / 0.75 bar) with the test regulations (PG MDS/FPD, WTA 4-6); of the comparable rigid slurries only Vandex BB75-Z publishes a positive value and none a negative one.
+  - One component — water is the only addition (SikaTop Seal-107 is a two-component kit).
+  - Pot life approx. 60 minutes and overcoating after approx. 6 hours; the system build-up is given in kg/m² for the water load, so the quantity follows the exposure class.
+  - Tested for the German waterproofing standards DIN 18533 / 18535 that the guide is built on.
+
+LISTED: Sobute FS102 Polymer Cement Waterproof Mortar

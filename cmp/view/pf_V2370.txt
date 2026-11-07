@@ -1,0 +1,156 @@
+SLOT pf/V2370 ASODUR-V2370 — solvent-free epoxy sealing coating for wastewater plants, chemically resistant
+competitors 10, listed 0, none: Xypex, Kryton, Penetron, Oriental Yuhong, Sobute
+
+== basis | OURS: two-component epoxy resin, solvent-free
+   Sika                               Sikafloor®-381                 : Solvent free epoxy (2-part, low-emission)
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : Based on Xolutec® technology (two-component, cross-linked interpenetrating network); solvent-free
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : two-component epoxy resin, solvent-free (100 % solids)
+   Weber (Saint-Gobain)               webershield 320                : two-component epoxy resin (A resin + B hardener), free of coal tar and hazardous solvents; solids approx. 80 % (ISO 3251)
+   Flowcrete (RPM)                    Flowcoat CR                    : solvent-free epoxy, chemical resistant
+   Stonhard (RPM)                     Stonchem 556                   : epoxy hybrid lining (fabric-reinforced)
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : two-component epoxy, solvent-free (liquid epoxy resin + amine hardener), pigmented
+   Mapei                              MAPECOAT I 24                  : Two-component epoxy-resin based paint with special pigments
+   Denka                              Estotect EN600                 : two-part epoxy (epoxy resin + amines), 100 % volume solids, solvent-free
+   MC-Bauchemie                       MC-PowerPro HCR                : two-component pigmented polymer reaction resin, duroelastic, nonylphenol-free (resin type not named on the TDS; cleaning with MC-Verdünnung EP); 94 vol.-% solids
+== mix_ratio | OURS: 7 : 1 parts by weight
+   Sika                               Sikafloor®-381                 : Part A : Part B = 85 : 15 (by weight)
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : 1 : 2.33 by weight (Part A : Part B); 1 : 2.58 by volume
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : 200 : 43 base : hardener by weight
+   Weber (Saint-Gobain)               webershield 320                : A : B = 4 : 1 by volume
+   Flowcrete (RPM)                    Flowcoat CR                    : None
+   Stonhard (RPM)                     Stonchem 556                   : factory-proportioned units (amine and resin bags with Stonchem 500 Series Liquids); ratio not printed
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : None
+   Mapei                              MAPECOAT I 24                  : comp. A : comp. B = 4 : 1
+   Denka                              Estotect EN600                 : None
+   MC-Bauchemie                       MC-PowerPro HCR                : 10 : 3 by mass (base : hardener)
+== density | OURS: approx. 1.37 g/cm³
+   Sika                               Sikafloor®-381                 : Part A 1.77 kg/l; Part B 1.04 kg/l; mixed 1.6 kg/l
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : Part A approx. 1.27 g/cm³; Part B approx. 1.15 g/cm³; mixed approx. 1.2 g/cm³
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : None
+   Weber (Saint-Gobain)               webershield 320                : approx. 1.77 g/cm³ (ISO 2811-1)
+   Flowcrete (RPM)                    Flowcoat CR                    : None
+   Stonhard (RPM)                     Stonchem 556                   : None
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : None
+   Mapei                              MAPECOAT I 24                  : None
+   Denka                              Estotect EN600                 : None
+   MC-Bauchemie                       MC-PowerPro HCR                : 1.24 g/cm³ (mixture, 20 °C, 50 % r.h.)
+== hardness | OURS: Shore A approx. 80
+   Sika                               Sikafloor®-381                 : Shore D 82 (cured 7 days at +23 °C) (EN ISO 868)
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : Shore D 80 after 7 days
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : None
+   Weber (Saint-Gobain)               webershield 320                : None
+   Flowcrete (RPM)                    Flowcoat CR                    : Koenig hardness 180 s (no Shore value printed)
+   Stonhard (RPM)                     Stonchem 556                   : Shore D 85–90 (ASTM D-2240)
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : 'very hard and abrasion resistant' (no value)
+   Mapei                              MAPECOAT I 24                  : None
+   Denka                              Estotect EN600                 : Shore D 70–75
+   MC-Bauchemie                       MC-PowerPro HCR                : None
+== pot_life | OURS: 45–55 min at +20 °C (90–110 min at +10 °C; 22–28 min at +30 °C)
+   Sika                               Sikafloor®-381                 : +10 °C ~60 minutes; +20 °C ~30 minutes; +30 °C ~15 minutes
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : approx. 25 min (+10 °C); approx. 20 min (+20 °C); approx. 15 min (+30 °C)
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : 40 minutes at 20 °C; 25 minutes at 35 °C
+   Weber (Saint-Gobain)               webershield 320                : approx. 30 minutes at 30 °C
+   Flowcrete (RPM)                    Flowcoat CR                    : None
+   Stonhard (RPM)                     Stonchem 556                   : None
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : None
+   Mapei                              MAPECOAT I 24                  : Workability time: 30-40 minutes
+   Denka                              Estotect EN600                 : 25–30 min at 25 °C
+   MC-Bauchemie                       MC-PowerPro HCR                : 60 min at 10 °C; 45 min at 20 °C; 30 min at 30 °C
+== overcoat | OURS: +20 °C: 12–16 to 24 hours
+   Sika                               Sikafloor®-381                 : Before non-solvented products: +10 °C ~24 hours / ~3 days; +20 °C ~18 hours / ~48 hours; +30 °C ~12 hours / ~24 hours
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : approx. 24 hours (+5 °C); approx. 8 hours (+20 °C); approx. 4 hours (+30 °C); second coat min. 8 h at +20 °C, recommended within 48 hours
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : 10 °C: 18–72 h; 20 °C: 8–48 h; 30 °C: 4–24 h
+   Weber (Saint-Gobain)               webershield 320                : 6–24 hours between coats; outdoors next coat within 3 days, otherwise sand first
+   Flowcrete (RPM)                    Flowcoat CR                    : None
+   Stonhard (RPM)                     Stonchem 556                   : saturant layer cures approx. 4–6 h before the next step; tack-free 4–6 h at 70 °F / 21 °C
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : None
+   Mapei                              MAPECOAT I 24                  : 6-24 hours (between first and second coat)
+   Denka                              Estotect EN600                 : recoat 4–18 hours at 25 °C; second coat after overnight cure
+   MC-Bauchemie                       MC-PowerPro HCR                : primer → base filler 2–4 h; base filler → 1st roller coat 12–24 h; 1st → 2nd roller coat 12–24 h
+== cure | OURS: full resilience 7 days (+20 °C), 3 days (+30 °C)
+   Sika                               Sikafloor®-381                 : Foot traffic / light traffic / full cure: +10 °C ~24 hours / ~6 days / ~7 days; +20 °C ~18 hours / ~4 days / ~5 days; +30 °C ~12 hours / ~2 days / ~3 days
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : Water exposure 24 hours (+20 °C); full cure 7 days (+20 °C)
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : tack-free 4–8 h (20 °C); full cure 7 days at 20–30 °C, 14 days at 10 °C
+   Weber (Saint-Gobain)               webershield 320                : no foot traffic for 24 h after the last coat; immersion / leak testing after 9 days
+   Flowcrete (RPM)                    Flowcoat CR                    : light traffic 24 h, full traffic 48 h, full chemical cure 7 d at 20 °C (10 °C: 48 h / 72 h / 12 d; 30 °C: 16 h / 36 h / 6 d)
+   Stonhard (RPM)                     Stonchem 556                   : chemical service after 24 h; ultimate physical properties 7 days (70 °F / 21 °C)
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : None
+   Mapei                              MAPECOAT I 24                  : Setting time of film: 4-5 hours; final hardening time: 3 days
+   Denka                              Estotect EN600                 : full cure 7 days at 25 °C
+   MC-Bauchemie                       MC-PowerPro HCR                : accessible after 24 h; full resilience after 7 days
+== max_moisture | OURS: dry (≤ 6 CM-%); steel blasted to Sa 2½
+   Sika                               Sikafloor®-381                 : If CM moisture > 4% by weight a temporary moisture barrier of Sikafloor EpoCem is required; see primer PDS
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : Not restricted, but surface must be visibly dry
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : concrete dry or saturated-surface-dry; steel grit-blasted to AS 1627.4 Class 2.5; bond 3 MPa on dry and SSD concrete
+   Weber (Saint-Gobain)               webershield 320                : primer weberprime Epox 094 on surface moisture ≤ 6 %; concrete ≥ 25 MPa, surface tensile ≥ 1.5 MPa
+   Flowcrete (RPM)                    Flowcoat CR                    : dry up to 75 % RH (BS 8204); free from rising damp and groundwater pressure
+   Stonhard (RPM)                     Stonchem 556                   : dry, mechanically prepared substrate (no numeric limit); Stonchem Epoxy Primer required
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : None
+   Mapei                              MAPECOAT I 24                  : None
+   Denka                              Estotect EN600                 : dry; do not apply over moisture or in damp conditions (no numeric limit); new concrete ≥ 28 days
+   MC-Bauchemie                       MC-PowerPro HCR                : cement-based substrates and steel (no moisture limit stated)
+== chemical | OURS: petrol, kerosene, heating oil / diesel, crude oil, alcohols, glycol ethers, esters, ketones, formaldehyde 35–40 %, acetic acid, mineral acids and alkalis as listed in the technical data sheet
+   Sika                               Sikafloor®-381                 : Very good resistance to specific chemicals (no table in PDS); service temperature max. +60 °C
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : Excellent chemical resistance – including high concentrations of biogenic sulphuric acid; chemical resistance per EN 13529 (detailed list on request); Fraunhofer biogenic
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : listed resistance (no ratings): phosphoric, hydrochloric, nitric, sulphuric acid 25 %; tartaric acid 15 %; sodium hydroxide 25 %; saturated citric acid; petrol; kerosene;
+   Weber (Saint-Gobain)               webershield 320                : chemical resistance tested to ASTM D1308; list given in a separate test report (not on the sheet)
+   Flowcrete (RPM)                    Flowcoat CR                    : protects against a range of chemicals used in manufacturing processes (no list printed — contact technical department); thermal tolerance up to 60 °C
+   Stonhard (RPM)                     Stonchem 556                   : excellent resistance to caustics and moderate concentrations of acids; detailed list in the separate Stonchem 500 Series Chemical Resistance Guide
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : resistant to waste water and sea water, organic and inorganic acids and mineral oils; steam-cleanable; impermeable to CO₂ (no resistance table published)
+   Mapei                              MAPECOAT I 24                  : For anti-acid coatings on concrete surfaces in contact with aggressive chemical agents (no table on page)
+   Denka                              Estotect EN600                 : splash and spillage (not immersion) resistance to a listed range of chemicals incl. dilute and concentrated hydrochloric, nitric, sulphuric and phosphoric acids, sodium a
+   MC-Bauchemie                       MC-PowerPro HCR                : resistant to biogenic sulphuric acid corrosion, liquid manure, slurry and silage seepage (no itemised list or pH range)
+== consumption | OURS: approx. 0.4–0.5 kg/m² per coat, two coats
+   Sika                               Sikafloor®-381                 : Wearing layer (filled) 1.8 kg/m² per mm; seal/top coat for broadcast systems 0.75–0.85 kg/m²
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : Hand-applied approx. 0.4 kg/m² per coat, minimum two coats; two coats approx. 0.8 kg/m² = approx. 0.7–0.8 mm dry film; abrasive areas 1.0–1.2 kg/m² for 1.0–1.1 mm; spray 
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : 0.15 L/m² per coat (150 µm wet), min. 2 coats (300 µm DFT); 3 coats (450 µm) for aggressive conditions
+   Weber (Saint-Gobain)               webershield 320                : approx. 0.75 kg/m² for two coats (≈ 300 µm DFT); primer 0.15–0.16 kg/m²
+   Flowcrete (RPM)                    Flowcoat CR                    : None
+   Stonhard (RPM)                     Stonchem 556                   : nominal 60 mil (1.5 mm); approx. 180 sq ft (16.72 m²) per unit; topcoat 250–300 µm wet
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : None
+   Mapei                              MAPECOAT I 24                  : 400-600 g/m² per coat
+   Denka                              Estotect EN600                 : approx. 4.0 m²/kg per coat at 150 µm DFT (theoretical); two or more coats, max. 500 µm total
+   MC-Bauchemie                       MC-PowerPro HCR                : standard 3-coat build: base filler 250–350 g/m² (+ 3 % MC-Stellmittel TX 19), 2nd and 3rd roller coat 450–500 g/m² each (dry film ≥ 700 µm); on steel 2 × approx. 300 g/m²
+== application_temp | OURS: approx. 10–30 °C; ≥ 3 °C above the dew point; max. 80 % r.h.
+   Sika                               Sikafloor®-381                 : Product, ambient air and substrate +10 °C min. / +30 °C max.; 80% r.h. max.; ≥ +3 °C above dew point
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : Ambient air and substrate +5 to +35 °C; r.h. not restricted (no condensation); ≥ 3 °C above dew point
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : min. 10 °C (not at 10 °C and falling); RH ≤ 90 %
+   Weber (Saint-Gobain)               webershield 320                : 10–35 °C air and substrate; ≥ 3 °C above dew point; RH ≤ 85 %
+   Flowcrete (RPM)                    Flowcoat CR                    : None
+   Stonhard (RPM)                     Stonchem 556                   : substrate 60–80 °F (15–27 °C); heat cold substrates above 13 °C; ≥ 3 °C above dew point
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : None
+   Mapei                              MAPECOAT I 24                  : +5°C to +30°C
+   Denka                              Estotect EN600                 : not below 7 °C; above 30 °C shortens pot life
+   MC-Bauchemie                       MC-PowerPro HCR                : air, substrate and material ≥ 8 °C and ≤ 30 °C; r.h. ≤ 85 %; ≥ 3 K above dew point
+== packaging | OURS: 8 kg and 24 kg combination containers
+   Sika                               Sikafloor®-381                 : Part A 21.25 kg; Part B 3.75 kg; 25 kg ready-to-mix units
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : 5 kg kit (1.5 kg A + 3.5 kg B); 10 kg kit (3 kg A + 7 kg B); 30 kg kit (9 kg A + 21 kg B)
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : 8 L kit (6.1 L base + 1.9 L hardener), grey or white
+   Weber (Saint-Gobain)               webershield 320                : 18 L kit (14.4 L A + 3.6 L B)
+   Flowcrete (RPM)                    Flowcoat CR                    : None
+   Stonhard (RPM)                     Stonchem 556                   : factory-proportioned unit: saturant, engineering fabric (18.58 m² roll), mortarcoat (liquids + 2 bags aggregate), topcoat
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : 5 kg
+   Mapei                              MAPECOAT I 24                  : 5 kg kits (A+B); 15 kg kits (A+B)
+   Denka                              Estotect EN600                 : 5 kg and 20 kg packs
+   MC-Bauchemie                       MC-PowerPro HCR                : 10 kg
+== shelf_life | OURS: 12 months
+   Sika                               Sikafloor®-381                 : 24 months from date of production (+5 °C to +30 °C)
+   Master Builders Solutions (Sika)   Sikagard® M 790 (formerly MSea : 12 months in unopened pails (10–25 °C preferably, no permanent storage over +30 °C)
+   Fosroc (Saint-Gobain)              Nitocote® EP410                : None
+   Weber (Saint-Gobain)               webershield 320                : 12 months
+   Flowcrete (RPM)                    Flowcoat CR                    : None
+   Stonhard (RPM)                     Stonchem 556                   : 3 years (unopened)
+   Bostik (Arkema)                    Epoxycoat SF (Epoxycote SF)    : None
+   Mapei                              MAPECOAT I 24                  : 24 months in original sealed packaging
+   Denka                              Estotect EN600                 : 12 months, unopened, dry store
+   MC-Bauchemie                       MC-PowerPro HCR                : at least 12 months, original sealed packs, 8–20 °C, dry
+## chart pot_life (min, higher) OURS 50 :: Sikafloor®-381=30, Sikagard® M 790 (forme=20, Nitocote® EP410=40, MAPECOAT I 24=35, Estotect EN600=27.5, MC-PowerPro HCR=45
+## chart overcoat (h, lower) OURS 12 :: Sikafloor®-381=18, Sikagard® M 790 (forme=8, Nitocote® EP410=8, Stonchem 556=5, MAPECOAT I 24=6, Estotect EN600=4, MC-PowerPro HCR=12
+
+WHY:
+  - An elastic epoxy (Shore A approx. 80) for the sealing of tanks, channels and pits — it follows the small movements of the concrete; the comparable epoxy coatings are rigid (Shore D 80–82).
+  - The published chemical-resistance list names the media of the wastewater plant by name (acids, alkalis, fuels, oils, solvents, formaldehyde); Sikafloor-381 and Mapecoat I 24 refer to lists on request.
+  - Pot life 45–55 minutes at +20 °C with a 7 : 1 ratio — the longest working time of the four.
+  - Applied directly on blasted steel without a primer; on concrete over ASODUR-SG3-thix.
+
+LISTED: 

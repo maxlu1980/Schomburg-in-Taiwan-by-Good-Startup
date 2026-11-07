@@ -1,0 +1,14 @@
+<!doctype html><html><head><meta charset="utf-8"><style>html,body{margin:0;background:#000}canvas{display:block}</style></head><body>
+<script src="../node_modules/three/build/three.min.js"></script>
+<script src="../src/koeln/lib/KIT.js"></script>
+<script src="../src/koeln/lib/SKY.js"></script>
+<script src="../src/koeln/kw.js"></script>
+<script>
+window.ISLE_WX = { code: 1, cloud: 0.35, rain: 0 }; SKY.anchor(function () { return { lon: 6.958, lat: 50.941 }; });
+var R = new THREE.WebGLRenderer({ antialias: false }); R.setPixelRatio(1); R.setSize(960, 540); document.body.appendChild(R.domElement); R.outputEncoding = THREE.sRGBEncoding;
+var scene = new THREE.Scene(), cam = new THREE.PerspectiveCamera(60, 960 / 540, 0.1, 2000);
+var W = KW.build(scene, {}); var POST = KIT.Post(R, { msaa: 0 }); W.post = POST; R.toneMapping = THREE.NoToneMapping; POST.setSize(960, 540, 1);
+var g = new THREE.Mesh(new THREE.PlaneGeometry(4000, 4000), new THREE.MeshStandardMaterial({ color: 0x55575a, roughness: 0.9 })); g.rotation.x = -Math.PI / 2; g.position.y = -2; scene.add(g);
+window.SKYSET = function (iso, wx, fx, yaw, pitch) { window.ISLE_WX = wx; W.skyFx = fx || null; W.skyAt(0, 0); W.sky2(new Date(iso), true); for (var i = 0; i < 3; i++) W.skyTick(0.016); cam.position.set(0, 0, 0); cam.rotation.set(0, 0, 0, 'YXZ'); cam.rotation.y = yaw * Math.PI / 180; cam.rotation.x = pitch * Math.PI / 180; cam.updateMatrixWorld(); W.follow(0, 0, cam.position); W.envUpdate(R); KIT.U.uTime.value = 30; POST.render(scene, cam, 30); return JSON.stringify({ sun: W.wxState().sun, cover: W.sky.material.uniforms.uCover.value, rays: POST.rayK }); };
+window.READY = true;
+</script></body></html>

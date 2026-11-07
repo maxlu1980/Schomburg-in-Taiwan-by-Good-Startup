@@ -1,0 +1,142 @@
+SLOT cr/IM ASOCRET-IM — crystalline repair mortar for water-bearing cracks and coves
+competitors 12, listed 0, none: Arkema, Sobute
+
+== class | OURS: crystalline, one-component; part of the AQUAFIN-IC crystalline system
+   Sika                               SikaTop® Seal-107 Standard     : Conforms to the requirements of BS EN 1504-2:2004 (Principles 2.2 & 8.2)
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : Certified to the NSF/ANSI Standard 61 for potable water contact (no EN 1504 class)
+   Fosroc (Saint-Gobain)              Renderoc Plug                  : Renderoc Plug 20 variant approved for public water supplies (BS6920 listed); no EN 1504 class stated
+   Weber (Saint-Gobain)               weber.tec 933                  : mineral, water-impermeable, non-capillary, sulphate-resistant; conforms to DIN 18533 — not crystalline
+   Xypex (Saint-Gobain)               Xypex Concentrate (Dry-Pac)    : Crystalline, one-component (Xypex Concentrate); Concentrate satisfies EN 1504-2 (ITT certified by BSI)
+   Vandex (RPM)                       VANDEX UNI MORTAR 1            : EN 1504-3 CC structural repair mortar (hydraulic cement), class R3; carbonation resistance passed; not declared crystalline
+   Mapei                              Lamposilex                     : No EN 1504 class stated; tests to EN 12190 / EN 196-1
+   Kryton                             Krystol® Repair Grout          : Crystalline (Krystol technology), one-component pre-blended grout; NSF/ANSI/CAN 61; no EN 1504 classification printed
+   Penetron                           PENECRETE MORTAR™              : EN 1504-3 CC mortar for structural and non-structural repair: compressive class R4 (≥ 45 MPa); chloride < 0.05 % by mass; adhesive bond NPD; crystalline
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : quick-setting hydraulic plugging mortar, expands on setting; reaction to fire Class A1 (EN 13501-1); not crystalline
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : rapid-setting water-stop cement, one component, non-shrink; NOT crystalline; no standard classification (water-tightness tested to JIS A 1404)
+   MC-Bauchemie                       ombran W                       : rapid-curing expanding plugging mortar, one component; WW repair mortar B1-XWW3 and WW jointing mortar XWW3 (DIN 19573:2016-03); NOT crystalline
+== compressive | OURS: approx. 20 N/mm² (28 days)
+   Sika                               SikaTop® Seal-107 Standard     : 3 days ~ 20 N/mm2; 28 days ~ 35 N/mm2 (EN 196-1)
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : 20 min–120 min 1,800 psi (12.4 MPa); 1 day 4,000 psi (27.6 MPa); 7 days 5,000 psi (34.5 MPa); 28 days 5,500 psi (37.9 MPa) (ASTM C 109)
+   Fosroc (Saint-Gobain)              Renderoc Plug                  : None
+   Weber (Saint-Gobain)               weber.tec 933                  : > 25 N/mm² (28 d)
+   Xypex (Saint-Gobain)               Xypex Concentrate (Dry-Pac)    : None
+   Vandex (RPM)                       VANDEX UNI MORTAR 1            : approx. 40 MPa (28 d); declared class R3 (≥ 25 MPa)
+   Mapei                              Lamposilex                     : 30 minutes 17 MPa; 1 hour 20 MPa; 3 hours 24 MPa; 24 hours 32 MPa; 7 days 44 MPa; 28 days 46 MPa (EN 12190)
+   Kryton                             Krystol® Repair Grout          : 16 / 38 / 45 / 49 / 52 MPa (1 / 3 / 7 / 28 / 56 d) (ASTM C109)
+   Penetron                           PENECRETE MORTAR™              : 11 / 17 / 40 / 48 MPa (1 / 3 / 7 / 28 d) (ASTM C-109)
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : ≥ 12 MPa (1 h), ≥ 20 MPa (3 d), ≥ 40 MPa (28 d) (ASTM C109; 23 °C, w/p 0.27); flexural ≥ 5.5 MPa (28 d, ASTM C348)
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : 2.9 (1 h) / 12.8 (3 h) / 14.8 (1 d) / 35.8 (7 d) / 40.5 N/mm² (28 d) (JIS R 5201, W/B 30 %)
+   MC-Bauchemie                       ombran W                       : approx. 8 N/mm² (1 h); ≥ 16 N/mm² (24 h); ≥ 30 N/mm² (7 d and 28 d) (lab, 21 ± 2 °C, 50 % r.h.)
+== thickness | OURS: up to 10 mm per application step
+   Sika                               SikaTop® Seal-107 Standard     : 0.75 mm min. / 4.0 mm max. per coat; total thickness of between 1.5 to 2.0 mm (min. 2 coats)
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : minimum cut depth and width for cracks and holes ¾" (19 mm); voids larger than 30 in3 (490 cm3) not to be filled in a single lift
+   Fosroc (Saint-Gobain)              Renderoc Plug                  : None
+   Weber (Saint-Gobain)               weber.tec 933                  : 2–10 mm (flat); up to 50 mm as mortar plug
+   Xypex (Saint-Gobain)               Xypex Concentrate (Dry-Pac)    : Packed into slots chipped to 37 mm (1.5 in) deep × 25 mm (1 in) wide (no V-slot; saw cuts dovetailed)
+   Vandex (RPM)                       VANDEX UNI MORTAR 1            : min. 6 mm, max. 12 mm per working cycle; thicker for small areas such as coves, fillets, local repairs and shutter-tie holes
+   Mapei                              Lamposilex                     : chase/cavity minimum external sizes about 2 cm in width and 2 cm in depth
+   Kryton                             Krystol® Repair Grout          : No layer limit printed; repairs or overlays thicker than 25 mm: extend with clean graded pea gravel (max. size ≤ 1/3 of repair depth)
+   Penetron                           PENECRETE MORTAR™              : Spalled / honeycombed repairs in 13 mm (1/2") layers, total not exceeding 6.4 cm (2.5")
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : 1–2 mm per layer; next layer after the previous has hardened
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : None
+   MC-Bauchemie                       ombran W                       : None
+== consumption | OURS: approx. 1.7 kg/m² per mm; approx. 1.3 kg/m for a 20 × 25 mm chased crack or a 38 mm cove
+   Sika                               SikaTop® Seal-107 Standard     : ~ 2.0 kg/m2/mm; 1 unit of 25 kg yields ~ 12.5 l of mortar
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : 15.6 in3/1 lb (254 cm3/0.45 kg); static cracks ¾" by ¾" by 28"/1 lb (1.9 cm by 1.9 cm by 70 cm/0.45 kg)
+   Fosroc (Saint-Gobain)              Renderoc Plug                  : None
+   Weber (Saint-Gobain)               weber.tec 933                  : levelling approx. 18.0 kg/m² per cm (≈ 1.8 kg/m² per mm); cove approx. 3.0 kg/m
+   Xypex (Saint-Gobain)               Xypex Concentrate (Dry-Pac)    : None
+   Vandex (RPM)                       VANDEX UNI MORTAR 1            : approx. 2 kg/m² per mm; pressureless water 12–16 kg/m² (6–8 mm); water under pressure 16–24 kg/m² (8–12 mm)
+   Mapei                              Lamposilex                     : 1.8 kg of Lamposilex will fill a one-dm³ cavity
+   Kryton                             Krystol® Repair Grout          : Yield: 25 kg pail approx. 13 l (0.46 ft³); 5 kg pail approx. 2.6 l
+   Penetron                           PENECRETE MORTAR™              : U-shaped cracks and reglets 25 × 25 mm and triangular coves 38 × 38 mm: approx. 15.2 m (50 ft) per 22.7 kg bag (1.0 lb/ft²)
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : None
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : approx. 1,550 kg per m³ of filled volume, excluding loss (catalog, TYPE-100/-1/-3)
+   MC-Bauchemie                       ombran W                       : None
+== water | OURS: 3.75–4.25 l per 25 kg
+   Sika                               SikaTop® Seal-107 Standard     : No water required; A : B = 1 : 4 (parts by weight) slurry; A : B 1 : 4.5 - 5.1 mortar
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : just enough potable water to reach a stiff, low-slump, putty consistency
+   Fosroc (Saint-Gobain)              Renderoc Plug                  : None
+   Weber (Saint-Gobain)               weber.tec 933                  : 2.5–3 l per 25 kg bag
+   Xypex (Saint-Gobain)               Xypex Concentrate (Dry-Pac)    : 6 parts powder to 1 part clean water by volume (Dry-Pac)
+   Vandex (RPM)                       VANDEX UNI MORTAR 1            : 3–4 l per 25 kg
+   Mapei                              Lamposilex                     : 100 parts by weight of Lamposilex with 28% of water
+   Kryton                             Krystol® Repair Grout          : Concrete/leak repair: 4.5 parts powder to 1 part water by volume; parge coat 4 : 1; bonding slurry 3 : 1
+   Penetron                           PENECRETE MORTAR™              : 4.5 parts powder to 1 part water by volume (routed cracks, coves, non-moving joints), or 101 ml water per 454 g powder
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : powder : water = 1 : 0.27 (leaks, cracks); 1 : 0.27–0.4 (joint / corner strengthening)
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : water / Cute-Tex ratio 30 % (0.3 L per 1.0 kg)
+   MC-Bauchemie                       ombran W                       : powder : water = 1 : 0.2 by mass (approx. 0.2 L per kg dry mortar)
+== pot_life | OURS: approx. 30 minutes
+   Sika                               SikaTop® Seal-107 Standard     : ~ 30 minutes at +20°C
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : sets in approximately 3–5 minutes at about 70 °F (21 °C); place within 3 minutes of mixing
+   Fosroc (Saint-Gobain)              Renderoc Plug                  : None
+   Weber (Saint-Gobain)               weber.tec 933                  : approx. 15 minutes
+   Xypex (Saint-Gobain)               Xypex Concentrate (Dry-Pac)    : Do not mix more than can be applied in 20 minutes
+   Vandex (RPM)                       VANDEX UNI MORTAR 1            : workability approx. 45 min at 20 °C (setting approx. 5–6 h)
+   Mapei                              Lamposilex                     : approximately 1 minute; setting time about one and a half minutes at +20°C
+   Kryton                             Krystol® Repair Grout          : Working time 30 minutes (20 °C, 50 % RH); hardening time 1–1.5 hours
+   Penetron                           PENECRETE MORTAR™              : Mix only as much material as can be used within 20 minutes
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : use the mix within 10 minutes (as printed); initial set ≈ 2.3 min, final set ≈ 3.1 min (BS EN 196-3)
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : None
+   MC-Bauchemie                       ombran W                       : working time approx. 60 seconds
+== overcoat | OURS: AQUAFIN-IC wet in wet after approx. 1–3 hours
+   Sika                               SikaTop® Seal-107 Standard     : between coats +10°C ~ 12 hours; +20°C ~ 6 hours; +30°C ~ 3 hours; overpainting after minimum 7 days
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : Ready to topcoat in 15 minutes (after initial set)
+   Fosroc (Saint-Gobain)              Renderoc Plug                  : None
+   Weber (Saint-Gobain)               weber.tec 933                  : 1–2 h between applications; overcoat with sealing slurries, bitumen thick coatings or FPD after hardening (through-dry approx. 60 min)
+   Xypex (Saint-Gobain)               Xypex Concentrate (Dry-Pac)    : Slot brushed with Concentrate slurry, left 10 minutes, then Dry-Pac packed tightly (pneumatic packing tool or hammer and wood block); active leaks: Patch'n Plug first, th
+   Vandex (RPM)                       VANDEX UNI MORTAR 1            : next coat while the previous is still damp (previous coat textured while plastic); ≥ 28 days before painting or coating
+   Mapei                              Lamposilex                     : None
+   Kryton                             Krystol® Repair Grout          : None
+   Penetron                           PENECRETE MORTAR™              : PENETRON applied as soon as PENECRETE MORTAR has set (approx. 1–2 hours)
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : re-moisten and apply next layer once the previous is hard (no fingerprint)
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : None
+   MC-Bauchemie                       ombran W                       : None
+== application_temp | OURS: approx. 5–30 °C
+   Sika                               SikaTop® Seal-107 Standard     : Ambient +8°C min. / +35°C max.; substrate +8°C min. / +35°C max.
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : Do not apply if ambient or surface temperatures are 40 °F (4 °C) or below; material not above 80 °F (26 °C) in hot weather
+   Fosroc (Saint-Gobain)              Renderoc Plug                  : None
+   Weber (Saint-Gobain)               weber.tec 933                  : 5–30 °C
+   Xypex (Saint-Gobain)               Xypex Concentrate (Dry-Pac)    : Do not apply below 4 °C (40 °F)
+   Vandex (RPM)                       VANDEX UNI MORTAR 1            : not below +5 °C; not on frozen substrate
+   Mapei                              Lamposilex                     : +5°C to +35°C (surrounding and substrate)
+   Kryton                             Krystol® Repair Grout          : None
+   Penetron                           PENECRETE MORTAR™              : Not below 4 °C (40 °F), not on frozen substrate or if freezing expected during the approx. 24 h curing period
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : None
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : None
+   MC-Bauchemie                       ombran W                       : 5–30 °C (air, substrate and material)
+== packaging | OURS: 25 kg bag
+   Sika                               SikaTop® Seal-107 Standard     : 25 kg units (20 kg bag and 5 kg pail)
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : 25 kg per pail
+   Fosroc (Saint-Gobain)              Renderoc Plug                  : None
+   Weber (Saint-Gobain)               weber.tec 933                  : 25 kg bag
+   Xypex (Saint-Gobain)               Xypex Concentrate (Dry-Pac)    : 9.1 kg (20 lb) pails, 22.7 kg (50 lb) pails and bags (Concentrate)
+   Vandex (RPM)                       VANDEX UNI MORTAR 1            : 25 kg PE-lined paper bag
+   Mapei                              Lamposilex                     : 1 box with 4 bags of 5 kg
+   Kryton                             Krystol® Repair Grout          : 25 kg (55 lb) and 5 kg (11 lb) pails
+   Penetron                           PENECRETE MORTAR™              : 22.7 kg (50 lb) bags or 25 kg (55 lb) pails
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : 4 kg × 5 bags per carton
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : 20 kg can
+   MC-Bauchemie                       ombran W                       : 15 kg tub
+== shelf_life | OURS: min. 18 months
+   Sika                               SikaTop® Seal-107 Standard     : 9 months from date of production
+   Master Builders Solutions (Sika)   SikaSet® Waterplug (formerly M : 1 year when properly stored
+   Fosroc (Saint-Gobain)              Renderoc Plug                  : None
+   Weber (Saint-Gobain)               weber.tec 933                  : min. 12 months
+   Xypex (Saint-Gobain)               Xypex Concentrate (Dry-Pac)    : 2 years, stored dry at min. 7 °C (45 °F)
+   Vandex (RPM)                       VANDEX UNI MORTAR 1            : 12 months (dry, unopened)
+   Mapei                              Lamposilex                     : 24 months in a dry place indoor
+   Kryton                             Krystol® Repair Grout          : At least 3 years for unopened pails stored in a dry, enclosed area
+   Penetron                           PENECRETE MORTAR™              : 2 years, stored dry at min. 7 °C (45 °F)
+   Oriental Yuhong                    YHRepair-2516 Multi-Functional : None
+   Denka                              デンカキューテックス TYPE-3 (Denka Cutex : None
+   MC-Bauchemie                       ombran W                       : at least 6 months, original sealed packs, dry, 5–25 °C
+## chart pot_life (min, higher) OURS 30 :: SikaTop® Seal-107 Stan=30, SikaSet® Waterplug (fo=3, weber.tec 933=15, Xypex Concentrate (Dry=20, VANDEX UNI MORTAR 1=45, Lamposilex=1, Krystol® Repair Grout=30, PENECRETE MORTAR™=20, ombran W=1
+
+WHY:
+  - A crystalline mortar: the active ingredients grow into the capillaries of the concrete around the chase and the cove — the comparable products are plugging binders (Lamposilex, SikaSet Waterplug) or a rigid slurry (SikaTop Seal-107), not crystalline.
+  - Working time approx. 30 minutes for the chase and the cove in one pass; the rapid plugs set within 1–3 minutes and are meant for the running leak only (in the SCHOMBURG system FIX-20-T takes that role).
+  - Published consumption per metre of chase and cove (approx. 1.3 kg/m) — the quantity follows the drawing.
+  - AQUAFIN-IC follows wet in wet after 1–3 hours: one crystalline system from the crack to the surface.
+
+LISTED: 

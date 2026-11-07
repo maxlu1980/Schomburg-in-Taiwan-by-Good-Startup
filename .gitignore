@@ -1,0 +1,21 @@
+# build outputs (rebuilt by `npm run build`; GitHub Pages deploys them from the workflow)
+dist/
+# dependencies
+node_modules/
+# QA artefacts
+shots/
+qa/out/
+*.log
+# editors, OS
+.DS_Store
+Thumbs.db
+*.swp
+__pycache__/
+*.pyc
+# the reference engine and the voice model are not part of the repository (see README → "What is not in the repository")
+game/ref/
+game/tts/model/
+game/tts/vox/
+game/tts/out/
+# backups
+*.bak

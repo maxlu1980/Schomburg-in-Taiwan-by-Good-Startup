@@ -1,0 +1,423 @@
+<!-- (V69) the game's loading screen: shown from the first paint while the page and the 3D city load; its animations run on the compositor,
+     so they keep moving while the city is being built; the game's own script reports the real stages and removes it -->
+<div class="kload" id="kLoad" role="status" aria-live="polite" hidden>
+  <div class="kload__bg" aria-hidden="true"><i></i><i></i></div>
+  <div class="kload__in">
+    <div class="kload__mark" aria-hidden="true"><svg viewBox="0 0 120 120"><defs><linearGradient id="klg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd27a"/><stop offset=".55" stop-color="#ff8400"/><stop offset="1" stop-color="#e3000f"/></linearGradient></defs><circle class="kload__r0" cx="60" cy="60" r="46"/><circle class="kload__r1" cx="60" cy="60" r="46" stroke="url(#klg)"/><circle class="kload__r2" cx="60" cy="60" r="38"/></svg><b></b><b></b><b></b></div>
+    <p class="kload__kick">SCHOMBURG · KÖLN</p>
+    <h2 class="kload__h" id="kLoadH">The guide's city game</h2>
+    <div class="kload__bar" aria-hidden="true"><i id="kLoadBar"></i><span></span></div>
+    <p class="kload__st"><span id="kLoadSt">Loading…</span> <b id="kLoadPct"></b></p>
+    <ul class="kload__tips" id="kLoadTips"><li></li><li></li><li></li><li></li></ul>
+    <p class="kload__note" id="kLoadNote"></p>
+    <div class="kload__act" id="kLoadAct" hidden><button type="button" class="kload__btn" id="kLoadGo"></button><button type="button" class="kload__btn kload__btn--q" id="kLoadMute" aria-pressed="true"></button></div>
+    <button type="button" class="kload__skip" id="kLoadSkip"></button>
+  </div>
+</div>
+<script>(function(){var L=document.getElementById('kLoad');if(!L)return;var h=location.hash||'',q=location.search||'',want=(h===''||h==='#'||h==='#/'||h==='#/island'||/[?&]isle=1/.test(q))&&!/[?&]isle=0/.test(q);if(!want){L.parentNode.removeChild(L);return;}
+var lg='en';try{var s=localStorage.getItem('aquafin-p4-lang');if(s==='zh'||s==='en'||s==='de')lg=s;}catch(e){}L.setAttribute('lang',lg==='zh'?'zh-Hant-TW':lg);
+var T={zh:{h:'施工指南的科隆城市遊戲',st:'載入中…',note:'第一次載入約需 10–30 秒，之後會更快；進度會自動儲存。',skip:'先看施工指南',tips:['提示：按 O 開啟米菈的口袋之門，一步到達科隆的地標。','提示：拖曳畫面環顧四周；雙指或滾輪可拉近拉遠。','提示：完成模擬現場可得 30 S 幣與一枚印章。','小知識：科隆大教堂高 157 公尺，從 1248 年到 1880 年蓋了 632 年。']},
+en:{h:"The guide's city game",st:'Loading…',note:'The first load takes about 10–30 s; later visits are faster. Your progress is saved automatically.',skip:'Read the guides first',tips:["Tip: press O for Mira's pocket door — one step to Köln's landmarks.",'Tip: drag to look around; pinch or scroll to zoom.','Tip: every simulator you finish earns 30 S coins and a stamp.','Did you know? The Dom is 157 m tall and took 632 years to build (1248–1880).']},
+de:{h:'Das Stadtspiel des Leitfadens',st:'Wird geladen …',note:'Der erste Start dauert etwa 10–30 s, danach geht es schneller. Dein Fortschritt wird automatisch gespeichert.',skip:'Erst die Leitfäden lesen',tips:['Tipp: Mit O öffnest du Miras Taschentür – ein Schritt zu Kölns Wahrzeichen.','Tipp: Ziehen zum Umsehen; zoomen mit zwei Fingern oder dem Mausrad.','Tipp: Jeder geschaffte Simulator bringt 30 S-Münzen und einen Stempel.','Schon gewusst? Der Dom ist 157 m hoch; gebaut wurde 632 Jahre lang (1248–1880).']}}[lg];
+document.getElementById('kLoadH').textContent=T.h;document.getElementById('kLoadSt').textContent=T.st;document.getElementById('kLoadNote').textContent=T.note;var sk=document.getElementById('kLoadSkip');sk.textContent=T.skip;
+[].forEach.call(document.querySelectorAll('#kLoadTips li'),function(li,i){li.textContent=T.tips[i];});
+sk.addEventListener('click',function(){L.classList.add('is-done');window.KLOAD_SKIP=true;try{location.hash='#how';}catch(e){}setTimeout(function(){if(L.parentNode)L.parentNode.removeChild(L);},600);});
+L.hidden=false;window.KLOAD_T0=Date.now();})();</script>
+
+<a class="vh" href="#how" id="skipLink" data-i18n="a11y.skip">Skip to content</a>
+
+<header class="site-header" id="siteHeader">
+  <div class="util">
+    <div class="wrap">
+      <span class="util__dist"><b class="util__distName" data-i18n="util.distName">Good Startup LTD.</b><span class="util__distSep" aria-hidden="true"> · </span><span data-i18n="util.dist">SCHOMBURG Authorized Distributor Taiwan</span></span>
+      <div class="util__links">
+        <a href="#specs" id="utilTds" data-i18n="util.tds">Technical data sheet</a>
+        <a href="#calculator" id="utilCalc" data-i18n="util.calc">Consumption Calculator</a>
+        <button type="button" class="util__docs" id="utilDocs" aria-haspopup="dialog" aria-controls="docCenter" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2.75h8.25l4.5 4.5v14H6z"/><path d="M14.25 2.75v4.5h4.5"/><path d="M9 11.75h6.5M9 15h6.5M9 18.25h4"/></svg><span id="utilDocsLbl">Documents</span></button>
+        <button type="button" class="theme-btn" id="themeBtn" aria-label="Switch to the night theme"><svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg><svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></svg><span id="themeLbl">Night</span></button>
+        <div class="lang" role="group" aria-label="Language">
+          <button type="button" data-lang="en" aria-pressed="true">English</button>
+          <button type="button" data-lang="zh" aria-pressed="false" lang="zh-Hant-TW">繁體中文</button>
+          <button type="button" data-lang="de" aria-pressed="false" lang="de">Deutsch</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="mainbar">
+    <div class="wrap">
+      <a class="mainbar__logo" href="#top" aria-label="SCHOMBURG"><span data-logo="logo" data-tone="red" data-h="28"></span></a>
+      <div class="pmenu" id="pmenu">
+        <button class="pmenu__btn" type="button" id="pmenuBtn" aria-expanded="false" aria-controls="pmenuPanel"><span id="pmenuLabel">Products</span><svg width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 3.5L6 8.5l4.5-5" fill="none" stroke="currentColor" stroke-width="2.2"/></svg></button>
+        <div class="pmenu__panel" id="pmenuPanel" hidden></div>
+      </div>
+      <nav class="nav" id="nav" aria-label="Sections"></nav>
+      <a class="sb-btn sb-btn--secondary" href="#calculator" id="navCta"></a>
+    </div>
+  </div>
+</header>
+
+<nav class="crumbs" id="crumbs" aria-label="You are here" data-i18n-aria="menu.crumbs"></nav>
+
+<main id="catInjection" data-cat="inj">
+<!-- ===== Cover ===== -->
+<section class="cover" id="top">
+  <div class="wrap">
+    <div class="cover__grid">
+      <div>
+        <p class="cover__kicker" data-i18n="hero.kicker"></p>
+        <h1 class="cover__title"><span class="sb-pname">AQUAFIN<span class="sb-pname__reg" aria-hidden="true">®</span><span class="sb-pname__suffix">-P4</span></span></h1>
+        <p class="cover__sub" data-i18n="hero.sub"></p>
+        <p class="cover__intro" data-i18n="hero.intro"></p>
+        <p class="cover__claim">Problems solved.</p>
+        <div class="cover__actions">
+          <a class="sb-btn sb-btn--primary sb-btn--lg" href="#calculator" data-i18n="hero.btn1"></a>
+          <a class="sb-btn sb-btn--secondary sb-btn--lg" href="#procedure" data-i18n="hero.btn2"></a>
+          <a class="sb-link" href="https://www.schomburg.com/de/en/files/technical-data-sheet_aquafin-p4-8a96b188-3cbb-48bf-99bc-61de5c58f6bc" target="_blank" rel="noopener" data-i18n="hero.btn3"></a>
+        </div>
+      </div>
+      <div class="cover__side">
+        <span data-logo="signet" data-tone="red" data-h="111" aria-hidden="true"></span>
+        <img class="cover__photo" id="heroPhoto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-i18n-alt="hero.photoAlt">
+        <p class="cover__cap" data-i18n="hero.photoCap"></p>
+      </div>
+    </div>
+    <div class="stats" id="stats"></div>
+  </div>
+</section>
+
+<div class="strip">
+  <div class="wrap"><div class="strip__grid" id="strip"></div></div>
+</div>
+
+<!-- ===== Mechanism ===== -->
+<section class="sec" id="how">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><p class="sec-head__kicker" data-i18n="how.label"></p><h2 class="sec-head__h" data-i18n="how.title"></h2></div>
+      <span data-logo="signet" data-tone="red" data-h="21" aria-hidden="true"></span>
+    </div>
+    <p class="sec-sub" data-i18n="how.sub"></p>
+
+    <div class="scn" id="scn">
+      <div class="scn__head"><p class="label" id="scnLabel"></p><h3 class="scn__title" id="scnTitle"></h3><p class="scn__sub" id="scnSub"></p></div>
+      <div class="scn__tiles" id="scnTiles" role="tablist"></div>
+      <div class="scn__panel" id="scnPanel" role="tabpanel" aria-live="polite"></div>
+    </div>
+
+    <div class="mech">
+    <div class="mech__stage">
+    <div class="stage3d" id="mech3d">
+      <canvas aria-label="3D animation of the injection mechanism" role="img"></canvas>
+      <div class="stage3d__cap"><div class="stage3d__capbox"><span id="mechCapNum">—</span><span id="mechCapTitle"></span></div></div>
+      <div class="stage3d__fallback" id="mechFallback" hidden data-i18n="m3d.fallback"></div>
+    </div>
+    <div class="player" id="mechPlayer">
+      <button class="sb-btn sb-btn--secondary sb-btn--icon" type="button" id="mechPlay" aria-label="Play">
+        <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path id="mechPlayIcon" d="M3 1l11 7-11 7z" fill="currentColor"/></svg>
+      </button>
+      <div class="player__track">
+        <input class="player__scrub" id="mechScrub" type="range" min="0" max="1000" value="0" step="1" aria-label="Timeline">
+        <div class="player__marks" id="mechMarks"></div>
+      </div>
+      <span class="player__time" id="mechTime">0:00 / 0:30</span>
+      <button class="sb-btn sb-btn--secondary sb-btn--icon" type="button" id="mechReplay" aria-label="Replay">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" aria-hidden="true"><path d="M4 12a8 8 0 1 0 3-6.2"/><path d="M4 4v5h5"/></svg>
+      </button>
+    </div>
+    </div>
+      <div class="how__steps" id="howSteps"></div>
+    </div>
+
+    <div class="how">
+      <div>
+        <p class="label" data-i18n="how.diagram" style="margin-bottom:12px"></p>
+        <div class="seg" id="modelToggle" role="group" aria-label="Crack condition">
+          <button type="button" data-model="A" aria-pressed="true" data-i18n="how.modelA"></button>
+          <button type="button" data-model="B" aria-pressed="false" data-i18n="how.modelB"></button>
+        </div>
+        <p class="how__modeldesc" id="modelDesc"></p>
+        <p class="diagram-note muted" data-i18n="how.note"></p>
+      </div>
+      <div class="diagram" id="howDiagram"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Advantages ===== -->
+<section class="sec sec--band" id="advantages">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><p class="sec-head__kicker" data-i18n="adv.label"></p><h2 class="sec-head__h" data-i18n="adv.title"></h2></div>
+      <span data-logo="signet" data-tone="red" data-h="21" aria-hidden="true"></span>
+    </div>
+    <div class="adv" id="advGrid"></div>
+    <div class="sb-panel__card" style="margin-top:48px;padding:24px">
+      <div class="pictos" id="pictos" style="margin-top:0"></div>
+    </div>
+    <div class="cols3" id="advLists"></div>
+  </div>
+</section>
+
+<!-- ===== Procedure ===== -->
+<section class="sec" id="procedure">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><p class="sec-head__kicker" data-i18n="tl.label"></p><h2 class="sec-head__h" data-i18n="tl.title"></h2></div>
+      <span data-logo="signet" data-tone="red" data-h="21" aria-hidden="true"></span>
+    </div>
+    <div class="scnbar" data-scnbar>
+      <label class="scnbar__label" for="scnSelProc"></label>
+      <div class="scnbar__sel"><svg class="scnbar__icon" viewBox="0 0 56 40" aria-hidden="true"></svg><select id="scnSelProc" class="scnbar__select"></select></div>
+      <div class="seg scnbar__model" role="group" data-scnmodel></div>
+      <a class="sb-link scnbar__all" href="#scn"></a>
+    </div>
+    <div class="tl-bar">
+      <p class="sec-sub" id="tlSub"></p>
+      <div class="tl-ctrl">
+        <button class="sb-btn sb-btn--secondary sb-btn--icon" type="button" id="tlPrev" aria-label="Previous steps"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+        <button class="sb-btn sb-btn--secondary sb-btn--icon" type="button" id="tlNext" aria-label="Next steps"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>
+      </div>
+    </div>
+    <div class="tl" id="tl" tabindex="0" aria-label="Application steps"></div>
+  </div>
+</section>
+
+<!-- ===== 3D inspection ===== -->
+<section class="sec sec--band" id="model3d">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><p class="sec-head__kicker" data-i18n="m3d.label"></p><h2 class="sec-head__h" data-i18n="m3d.title"></h2></div>
+      <span data-logo="signet" data-tone="red" data-h="21" aria-hidden="true"></span>
+    </div>
+    <p class="sec-sub" data-i18n="m3d.sub"></p>
+    <div class="scnbar" data-scnbar>
+      <label class="scnbar__label" for="scnSelM3d"></label>
+      <div class="scnbar__sel"><svg class="scnbar__icon" viewBox="0 0 56 40" aria-hidden="true"></svg><select id="scnSelM3d" class="scnbar__select"></select></div>
+      <div class="seg scnbar__model" role="group" data-scnmodel data-micro-only hidden></div>
+      <a class="sb-link scnbar__all" href="#scn"></a>
+    </div>
+    <div class="m3d-bar">
+      <div class="seg seg--scroll" id="m3dTabs" role="group" aria-label="Stage of the work"></div>
+      <div class="m3d-tools">
+        <button class="sb-btn sb-btn--secondary" type="button" id="m3dXray" aria-pressed="false" data-i18n="m3d.xray"></button>
+        <button class="sb-btn sb-btn--secondary" type="button" id="m3dMicro" aria-pressed="false" data-i18n="m3d.micro"></button>
+        <button class="sb-btn sb-btn--secondary sb-btn--icon" type="button" id="m3dZoomIn" aria-label="Zoom in"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></button>
+        <button class="sb-btn sb-btn--secondary sb-btn--icon" type="button" id="m3dZoomOut" aria-label="Zoom out"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" aria-hidden="true"><path d="M5 12h14"/></svg></button>
+        <button class="sb-btn sb-btn--secondary" type="button" id="m3dReset" data-i18n="m3d.reset"></button>
+      </div>
+    </div>
+    <div class="stage3d" id="m3dStage" style="background:var(--surface)">
+      <canvas aria-label="Interactive 3D model of the reinforced concrete component" role="img"></canvas>
+      <div class="stage3d__cap"><div class="stage3d__capbox"><span id="m3dCapNum">—</span><span id="m3dCapTitle"></span></div></div>
+      <div class="m3d-hint" data-i18n="m3d.hint"></div>
+      <div class="stage3d__fallback" id="m3dFallback" hidden data-i18n="m3d.fallback"></div>
+    </div>
+    <p class="m3d-note muted" id="m3dNote" hidden></p>
+    <div class="callouts" id="callouts"></div>
+  </div>
+</section>
+
+<!-- ===== Simulator gate ===== -->
+<section class="gate on-navy" id="simulator">
+  <div class="wrap">
+    <div class="gate__grid">
+      <div>
+        <p class="gate__eyebrow" data-i18n="gate.eyebrow"></p>
+        <h2 class="gate__title" data-i18n="gate.title"></h2>
+        <p class="gate__desc" data-i18n="gate.desc"></p>
+        <div class="cover__actions">
+          <button class="sb-btn sb-btn--inverse sb-btn--lg" type="button" id="simOpen" data-i18n="gate.btn"></button>
+        </div>
+        <p class="gate__foot" data-i18n="gate.foot"></p>
+      </div>
+      <div class="gate__meta">
+        <div><b>7</b><span data-i18n="gate.m1"></span></div>
+        <div><b>5</b><span data-i18n="gate.m2"></span></div>
+        <div><b>30 min</b><span data-i18n="gate.m3"></span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Technical data ===== -->
+<section class="sec" id="specs">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><p class="sec-head__kicker" data-i18n="specs.label"></p><h2 class="sec-head__h" data-i18n="specs.title"></h2></div>
+      <span data-logo="signet" data-tone="red" data-h="21" aria-hidden="true"></span>
+    </div>
+    <div class="packs" id="packs"></div>
+    <div class="spec-grid" id="specGrid"></div>
+  </div>
+</section>
+
+<!-- ===== Calculator / quotation ===== -->
+<section class="sec sec--band" id="calculator">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><p class="sec-head__kicker" data-i18n="q.label"></p><h2 class="sec-head__h" data-i18n="q.title"></h2></div>
+      <span data-logo="signet" data-tone="red" data-h="21" aria-hidden="true"></span>
+    </div>
+    <p class="sec-sub" data-i18n="q.sub"></p>
+    <div class="calc" id="calc"></div>
+  </div>
+</section>
+
+<!-- ===== Documents: product data, quotation, comparison, method statement, specification, submittal ===== -->
+<section class="sec" id="documents">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><p class="sec-head__kicker" id="injDocsKicker"></p><h2 class="sec-head__h" id="injDocsTitle"></h2></div>
+      <span data-logo="signet" data-tone="red" data-h="21" aria-hidden="true"></span>
+    </div>
+    <p class="sec-sub" id="injDocsSub"></p>
+    <div class="docs" id="injDocs"></div>
+  </div>
+</section>
+
+<!-- ===== System / comparison ===== -->
+<section class="sec sec--band" id="system">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><p class="sec-head__kicker" data-i18n="cmp.label"></p><h2 class="sec-head__h" data-i18n="cmp.title"></h2></div>
+      <span data-logo="signet" data-tone="red" data-h="21" aria-hidden="true"></span>
+    </div>
+    <p class="sec-sub" data-i18n="cmp.sub"></p>
+    <div class="sb-table-wrap"><table class="sb-table cmp" id="cmpTable"></table></div>
+    <h3 class="sub-h" data-i18n="sys.title"></h3>
+    <p class="sec-sub" data-i18n="sys.sub" style="margin-bottom:0"></p>
+    <div class="prows" id="sysRows"></div>
+  </div>
+</section>
+
+<!-- ===== CTA ===== -->
+<section class="cta sec--band">
+  <div class="wrap">
+    <p class="cta__claim">Problems solved.</p>
+    <p class="cta__sub" data-i18n="cta.sub"></p>
+    <p class="cta__desc" data-i18n="cta.desc"></p>
+    <div class="cta__actions">
+      <a class="sb-btn sb-btn--secondary sb-btn--lg" href="#calculator" data-i18n="hero.btn1"></a>
+      <a class="sb-link" href="mailto:info@good-startup.com" data-i18n="cta.mail"></a>
+      <a class="sb-link" href="https://www.schomburg.com/de/en/products/aquafin-p4" target="_blank" rel="noopener" data-i18n="cta.page"></a>
+    </div>
+  </div>
+</section>
+</main>
+
+<!-- ===== Category: Concrete Restoration (rendered by cr-main.js) ===== -->
+<main id="catRestoration" data-cat="cr" hidden></main>
+<main id="catWaterproofing" data-cat="wp" hidden></main>
+<main id="catCrystalline" data-cat="rc" hidden></main>
+<main id="catAdmixture" data-cat="ca" hidden></main>
+<main id="catFlooring" data-cat="pf" hidden></main>
+
+<!-- ===== Imprint ===== -->
+<footer class="imprint">
+  <div class="wrap">
+    <div class="imprint__grid">
+      <div>
+        <p data-i18n="foot.boiler"></p>
+      </div>
+      <div>
+        <ul class="sb-list" id="footAreas"></ul>
+      </div>
+      <div style="display:grid;gap:24px;align-content:start">
+        <address>SCHOMBURG GmbH &amp; Co. KG
+Aquafinstraße 2–8
+D-32760 Detmold (Germany)
+Telephone +49-5231-953-00
+Fax +49-5231-953-333
+www.schomburg.com</address>
+        <div class="imprint__dist">
+          <span class="cap" data-i18n="util.dist"></span>
+          <b data-i18n="util.distName">Good Startup LTD.</b><br>
+          <a href="mailto:info@good-startup.com">info@good-startup.com</a>
+        </div>
+      </div>
+    </div>
+    <div class="legal">
+      <span data-i18n="foot.disclaimer"></span>
+      <ul>
+        <li><a href="https://www.schomburg.com/de/en" target="_blank" rel="noopener">schomburg.com</a></li>
+        <li><a href="https://www.schomburg.com/de/en/products/aquafin-p4" target="_blank" rel="noopener" id="footProduct"></a></li>
+        <li><span id="footTds"></span></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<!-- ===== Document centre: every document of every system in one workspace, opened from the top banner ===== -->
+<div class="dc" id="docCenter" role="dialog" aria-modal="true" aria-labelledby="dcTitle" hidden>
+  <div class="dc__bar">
+    <div class="wrap dc__barIn">
+      <span class="dc__brand"><span data-logo="signet" data-tone="red" data-h="18" aria-hidden="true"></span><b id="dcBarLbl">Document centre</b></span>
+      <div class="lang dc__lang" role="group" aria-label="Language">
+        <button type="button" data-lang="en" aria-pressed="true">English</button>
+        <button type="button" data-lang="zh" aria-pressed="false" lang="zh-Hant-TW">繁體中文</button>
+        <button type="button" data-lang="de" aria-pressed="false" lang="de">Deutsch</button>
+      </div>
+      <button type="button" class="dc__close" id="dcClose"><span id="dcCloseLbl">Back to the guide</span><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 3l10 10M13 3L3 13"/></svg></button>
+    </div>
+  </div>
+  <div class="dc__scroll" id="dcScroll">
+    <div class="wrap dc__in">
+      <div class="dc__head">
+        <p class="sec-head__kicker" id="dcKicker"></p>
+        <h2 class="sec-head__h" id="dcTitle" tabindex="-1"></h2>
+        <p class="sec-sub" id="dcSub"></p>
+      </div>
+      <div class="dc__step">
+        <div class="dc__stepHead">
+          <div><h3 class="sub-h dc__stepH" id="dcSysH"></h3><p class="muted" id="dcSysHint"></p></div>
+          <a class="sb-link dc__guide" id="dcGuide" href="#documents"></a>
+        </div>
+        <div class="dc__systems" id="dcSystems" role="radiogroup" aria-labelledby="dcSysH"></div>
+      </div>
+      <div class="dc__work" id="dcHost"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Step modal -->
+<div class="modal-ov" id="modalOv" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal__head">
+      <div><p class="modal__tag" id="modalTag"></p><h3 class="modal__title" id="modalTitle"></h3></div>
+      <button class="sb-btn sb-btn--secondary sb-btn--icon" type="button" id="modalClose" aria-label="Close"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19"/></svg></button>
+    </div>
+    <div class="modal__body">
+      <div class="modal__fig" id="modalFig"></div>
+      <div class="modal__text" id="modalText"></div>
+    </div>
+    <div class="modal__nav">
+      <button class="sb-link" type="button" id="modalPrev"></button>
+      <button class="sb-link" type="button" id="modalNext"></button>
+    </div>
+  </div>
+</div>
+
+<!-- Simulator overlay -->
+<div class="sim" id="sim" hidden role="dialog" aria-modal="true" aria-label="Injection simulator">
+  <canvas id="simCanvas"></canvas>
+  <div class="sim__top">
+    <div class="sim__box">
+      <div class="sim__phase" id="simPhase"></div>
+      <div class="sim__prompt" id="simPrompt"></div>
+      <div class="sim__count" id="simCount"></div>
+    </div>
+    <div class="sim__right">
+      <button class="sim__exit" type="button" id="simExit" data-i18n="sim.exit"></button>
+      <div class="sim__box sim__score"><b id="simScore">0</b><span data-i18n="sim.score"></span></div>
+      <div class="sim__box sim__pot" id="simPot" hidden><span class="sim__phase" data-i18n="sim.pot"></span><div class="sim__count" id="simPotTime">30:00</div><i><u id="simPotBar"></u></i></div>
+    </div>
+  </div>
+  <div class="sim__ring" id="simRing" hidden aria-hidden="true"><svg viewBox="0 0 72 72"><circle cx="36" cy="36" r="30" stroke="rgba(255,255,255,.35)"/><circle id="simRingArc" cx="36" cy="36" r="30" stroke="#fff" stroke-dasharray="188.5" stroke-dashoffset="188.5" transform="rotate(-90 36 36)"/></svg></div>
+  <button class="sim__exit hsim__ico sim__snd" type="button" id="simSnd" aria-label="Sound" aria-pressed="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z"/><path class="w" d="M16 9a4.2 4.2 0 0 1 0 6M18.6 6.4a8 8 0 0 1 0 11.2"/><path class="x" d="M16 9l5 6M21 9l-5 6"/></svg></button>
+  <div class="sim__feed" id="simFeed" aria-live="polite"></div>
+  <div class="sim__mix" id="simMix" hidden></div>
+  <div class="sim__toolname" aria-hidden="true"><span id="simToolName"></span></div>
+  <div class="sim__tools" id="simTools" role="toolbar" aria-label="Tools"></div>
+  <div class="sim__card" id="simCard"></div>
+</div>
+<div id="jib" hidden></div>

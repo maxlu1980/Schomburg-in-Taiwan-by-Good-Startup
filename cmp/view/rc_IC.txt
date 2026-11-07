@@ -1,0 +1,225 @@
+SLOT rc/IC AQUAFIN-IC — crystalline waterproofing slurry, brush, broom or spray, two coats
+competitors 13, listed 3, none: MC-Bauchemie
+
+== components | OURS: 1 component, pre-blended dry mortar; 6.75–8 l water per 25 kg
+   Sika                               Sika MonoTop®-160 Migrating    : 1 part, cementitious powder; approx. 9.2 l water per 25 kg
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : None
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : 1 component powder (grey); product : water by volume 8.0 : 2.5 (brush) or 7 : 2 (trowel)
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : 1 component powder; mixed with water at a 'water-cement ratio of 1 : 2.5' (basis not stated)
+   Xypex (Saint-Gobain)               Xypex Concentrate              : 1 component powder mixed with clean water: 5 parts powder : 2 parts water (brush, 0.65–0.8 kg/m²); 3 : 1 (brush, 1.0 kg/m²); 5 : 3 (spray); Dry-Pac 6 : 1 by volume
+   Vandex (RPM)                       VANDEX SUPER                   : 1 component, ready-mixed powder; 5 parts powder : approx. 2 parts water by volume (approx. 7–8.5 l per 25 kg)
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : 1 component powder + water: 100 : 28 by weight (approx. 5.6 l per 20 kg bag)
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : 1 component, grey powder (SG 1.6); 5 parts concentrate : 2 parts water by volume
+   Mapei                              Planiseal 88 (former Idrosilex : one-component, polymer-modified, cementitious coating for waterproofing [US TDS]; one-component, normal-setting osmotic cementitious mortar [UK outline spec 2024]
+   Kryton                             Krystol T1®                    : None
+   Penetron                           PENETRON®                      : None
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : 1 component, powder; powder : water = 1 : 0.35–0.40 by weight (brush method), or dry-sprinkle
+   Denka                              Estokote Crystalline           : 1 component powder; slurry 1 part water to 3 parts powder (by volume, not stated otherwise)
+== negative_pressure | OURS: watertight against negative pressing water to 1.5 bar
+   Sika                               Sika MonoTop®-160 Migrating    : approx. 1.7 times less penetration compared to reference sample (negative side, 5 bar water pressure, EN 12390-8 modified)
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : Resistant to negative and positive water pressure
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : for positive- and negative-side waterproofing (no negative-pressure value printed)
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : long-term waterproofing under high water pressure on the positive and negative side; water pressure resistance ≥ 0.8 MPa (slurry, 2 coats, 1.5–2 mm; test method not state
+   Xypex (Saint-Gobain)               Xypex Concentrate              : Can be applied to the positive or the negative side of the concrete surface; resists extreme hydrostatic pressure (no bar value stated)
+   Vandex (RPM)                       VANDEX SUPER                   : suited to positive and negative water pressure (no pressure value printed)
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : 9 bar negative pressure, no passage of water (UNI EN 12390-8; IMM SA, concrete w/c 0.7)
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : withstands up to 30 m hydrostatic pressure (side not stated)
+   Mapei                              Planiseal 88 (former Idrosilex : situations with negative pressure up to 1 atmosphere [Mapei UK product page]
+   Kryton                             Krystol T1®                    : Can be applied from either the positive (wet) or negative (dry) side of the concrete
+   Penetron                           PENETRON®                      : Can be applied from either the positive or negative side.
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : for positive- and negative-side waterproofing under low pressure (no pressure value published)
+   Denka                              Estokote Crystalline           : no water penetration at 3 bar on the negative side for 72 h (DIN 1048 Part 5:1991)
+== permeability | OURS: impermeability to water 14 bar (CRD-C 48-92)
+   Sika                               Sika MonoTop®-160 Migrating    : approx. 3 times less water penetration compared to reference sample (5 bar for 72 h, EN 12390-8)
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : None
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : water penetration depth approx. 11 mm at 5 bar for 72 h (BS EN 12390)
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : water penetration 12 mm at 5 bar for 72 h (method not stated)
+   Xypex (Saint-Gobain)               Xypex Concentrate              : No measurable leakage up to 124 m (405 ft) water head, 175 psi / 1.2 MPa (limit of apparatus), 51 mm samples (USACE CRD C48); DIN 1048 at 7 bar / 24 h: penetration 0 to a
+   Vandex (RPM)                       VANDEX SUPER                   : None
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : UNI EN 12390-8: no passage of water at 9 bar (negative side)
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : water penetration < 10 mm (DIN 1048 Part 5, 1991); water permeability 8.5 × 10⁻¹³ (BTD/TP/02/2002, unit not printed)
+   Mapei                              Planiseal 88 (former Idrosilex : None
+   Kryton                             Krystol T1®                    : DIN 1048 Part 5 (0.5 MPa / 72.5 psi, 72 h): 5.3 mm (0.21 in) treated vs. 36.7 mm (1.45 in) untreated, 85.6% reduction (Kuwait University, 2004); USACE CRD-C48 (1.38 MPa /
+   Penetron                           PENETRON®                      : None
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : depth of water penetration under 5 bar, 72 h (DIN 1048 Part 5: 1991): product page 10 mm typical; the TDS layout shows 30 mm and 10 mm (test sample: 2 coats at 1 : 0.37, 
+   Denka                              Estokote Crystalline           : None
+== adhesion | OURS: ≥ 0.5 N/mm² (DIN EN 1542)
+   Sika                               Sika MonoTop®-160 Migrating    : approx. 2.0 N/mm² (EN 1542)
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : None
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : ≥ 0.5 N/mm² initial, after chlorine contact and after lime-water contact (BS EN 14891)
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : None
+   Xypex (Saint-Gobain)               Xypex Concentrate              : 1.23 MPa average of five replicates (EN 1542; two coats at 0.8 kg/m², 0.9 mm cured thickness)
+   Vandex (RPM)                       VANDEX SUPER                   : 0.8 MPa (adhesive bond, EN 1504-3 declaration)
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : 2.65 MPa (UNI EN 1542; requirement ≥ 1 MPa)
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : 0.70 N/mm² (BS EN 1015-12:2000)
+   Mapei                              Planiseal 88 (former Idrosilex : Pull-off strength (concrete rupture, ASTM C1583), 28 days: > 145 psi (1 MPa) [US TDS]
+   Kryton                             Krystol T1®                    : Pull-off Strength (ASTM C1583) 3.1 MPa (450 psi)
+   Penetron                           PENETRON®                      : Adhesive bond: R3 (≥ 1,5 MPa)
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : None
+   Denka                              Estokote Crystalline           : None
+== capillary | OURS: w < 0.1 kg/m²·h⁰·⁵ (EN 1504-2)
+   Sika                               Sika MonoTop®-160 Migrating    : approx. 0.09 kg/m²·h^0.5 (EN 1062-3)
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : None
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : None
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : None
+   Xypex (Saint-Gobain)               Xypex Concentrate              : None
+   Vandex (RPM)                       VANDEX SUPER                   : 0.5 kg/m²·h⁰·⁵ (declared)
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : 0.002 kg·m⁻²·h⁻⁰·⁵ (UNI EN 1062-3; requirement ≤ 0.1)
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : None
+   Mapei                              Planiseal 88 (former Idrosilex : None
+   Kryton                             Krystol T1®                    : BS 1881 Part 2 (water absorption): NIL vs. 1.8 ml/m²·s untreated (Sirim QAS International)
+   Penetron                           PENETRON®                      : Capillary absorption and Permeability to water: < 0,1 kg/m²·h0·5
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : None
+   Denka                              Estokote Crystalline           : water absorption < 1 % (BS 1881 Part 122)
+== vapour | OURS: class I, Sd < 5 m (EN 1504-2)
+   Sika                               Sika MonoTop®-160 Migrating    : Class I (permeable), Sd < 5 m (EN ISO 7783-1)
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : Water vapour permeable
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : None
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : None
+   Xypex (Saint-Gobain)               Xypex Concentrate              : None
+   Vandex (RPM)                       VANDEX SUPER                   : allows water vapour to pass through the structure (no value printed)
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : Class I, Sd 1.06 m (UNI EN 7783-2)
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : None
+   Mapei                              Planiseal 88 (former Idrosilex : Permeance (ASTM E-96): 21.6 perms (mixed with water) [US TDS]
+   Kryton                             Krystol T1®                    : None
+   Penetron                           PENETRON®                      : Permeability to water vapour: Class I < 5 m
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : water-vapour permeable (qualitative, product page)
+   Denka                              Estokote Crystalline           : None
+== consumption | OURS: approx. 1 kg/m² per mm; 0.75 kg/m² (one coat, soil moisture) to 1.5 kg/m² (two coats, accumulated water)
+   Sika                               Sika MonoTop®-160 Migrating    : approx. 1.2 kg/m² per layer (theoretical); layer thickness approx. 1.0 mm
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : 1.00 kg/m² powder per coat (approx. 1.30 kg/m² mixture); two coats (≈ 2.00 kg/m² powder total, derived)
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : wet application approx. 1.0 kg/m² per coat, approx. 2.0 kg/m² total; dry broadcast 1.5–2.0 kg/m²
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : slurry 0.8–1.2 kg/m² per coat, two coats (1.6–2.4 kg/m²); dry sprinkle 1.2 kg/m²
+   Xypex (Saint-Gobain)               Xypex Concentrate              : 0.65–0.8 kg/m² (1.25–1.5 lb/sq yd) per coat, normal surface conditions; brush option 1.0 kg/m²
+   Vandex (RPM)                       VANDEX SUPER                   : slab, water pressure: 1.2 kg/m² (1 coat); slab, moisture: 0.8 kg/m² (1 coat); walls, water pressure: 1.5 kg/m² (2 coats); construction joints: 1.5 kg/m² (1 coat)
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : 2.5–3 kg/m² (20 kg bag covers approx. 8–10 m²)
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : surfaces to be backfilled: 2 coats, 0.75 then 1.0 kg/m²; internal walls of water-retaining structures: 2 × 0.75 kg/m²; hardened slab: 1 × 1.0 kg/m²; construction joints: 
+   Mapei                              Planiseal 88 (former Idrosilex : 1.5 kg/m² per mm of thickness [Mapei SG product page; UK outline spec: each coat minimum 1 mm, final thickness 2 to 3 mm]
+   Kryton                             Krystol T1®                    : 1.2 – 1.6 kg/m2 (2.2 – 3 lb/yd2); one-coat standard 1.2 kg/m2; enhanced one-coat 1.6 kg/m2; multi-coat: each coat may be applied as low as 0.8 kg/m2
+   Penetron                           PENETRON®                      : Vertical surfaces: Two coats of PENETRON® at 1.25-1.5 lb/yd² (0.7-0.8 kg/m²) applied by brush or spray; Horizontal flatwork: 2 lb/yd² (1.1 kg/m²) applied in one slurry co
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : 0.7–0.8 kg mixed slurry per coat (13–14 m² per 20 kg pail); dry-sprinkle 1.5 kg/m² powder onto fresh concrete
+   Denka                              Estokote Crystalline           : slurry: 1st coat 0.85–1.00 kg/m², 2nd coat 0.5–0.6 kg/m², total 1.35–1.60 kg/m²; dry-shake 1.10 kg/m² (existing lean concrete) or 1.22–1.35 kg/m² (new concrete)
+== coats | OURS: one or two, by water load
+   Sika                               Sika MonoTop®-160 Migrating    : two layers, second layer wet on wet
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : Two
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : two (second coat at right angles, ≈ 2 mm total); dry broadcast single application
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : two (slurry)
+   Xypex (Saint-Gobain)               Xypex Concentrate              : Coverage per coat; second coat (Xypex Concentrate or Xypex Modified) when required
+   Vandex (RPM)                       VANDEX SUPER                   : 1 (slabs, construction joints) or 2 (walls under water pressure)
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : two
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : 1 or 2 depending on application (2 coats by brush or spray on walls)
+   Mapei                              Planiseal 88 (former Idrosilex : Two coats, with a third possible under extreme hydrostatic pressure [US TDS]; usually 2 or 3 coats [UK outline spec]
+   Kryton                             Krystol T1®                    : One coat is the standard application; multiple coats permitted
+   Penetron                           PENETRON®                      : Two coats (vertical surfaces); one slurry coat (horizontal flatwork)
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : multiple coats by brush; at least 2 coats to reach 1.5 mm dry film
+   Denka                              Estokote Crystalline           : slurry: first coat plus second coat if required; dry-shake single application
+== pot_life | OURS: approx. 60 minutes
+   Sika                               Sika MonoTop®-160 Migrating    : 20–25 minutes at +20 °C
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : 30 minutes (+23 °C / 50% r.h.) [Kenya PDS]; 20 minutes in South Africa / India editions
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : None
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : use within 20 minutes, not more than 30 minutes
+   Xypex (Saint-Gobain)               Xypex Concentrate              : Do not mix more than can be applied in 20 minutes
+   Vandex (RPM)                       VANDEX SUPER                   : workability approx. 30 min at 20 °C (setting 1–2 h)
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : 20 minutes at +20 °C
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : use within 20 minutes (pot life 20 min at 25 °C; initial set 60 min at 25 °C)
+   Mapei                              Planiseal 88 (former Idrosilex : 1 hour [US TDS]; approx. 1 h [Mapei SG product page]
+   Kryton                             Krystol T1®                    : Working time 30 minutes (20°C (68°F), 50% RH)
+   Penetron                           PENETRON®                      : Mix only as much as can be used within 20 minutes (no temperature stated)
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : use within 20 minutes of mixing; do not add water
+   Denka                              Estokote Crystalline           : mix only what can be used within 20 minutes (24 °C, 50 % r.h.)
+== recoat | OURS: second coat wet in wet
+   Sika                               Sika MonoTop®-160 Migrating    : 2nd layer wet on wet while the 1st is still fresh (1–2 hours at +20 °C)
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : 3–5 hours between coats depending on ambient temperature; the next coat must be applied within 6 hours
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : 15–60 minutes, when touch-dry; dampen the first coat before the second
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : second coat after approx. 1–2 hours (max. 24 h), in the alternate direction; re-wet if delayed beyond 24 h
+   Xypex (Saint-Gobain)               Xypex Concentrate              : Second coat after the first coat has reached initial set but while still 'green' (less than 48 hours); first coat SSD, misted between coats
+   Vandex (RPM)                       VANDEX SUPER                   : each coat applied while the previous one is still damp
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : second coat when the first is sufficiently hard — normally the next day, not sooner than 8 hours (dampen first); not wet-in-wet
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : second coat while the first is still 'green' (wet)
+   Mapei                              Planiseal 88 (former Idrosilex : 5 hours minimum, 24 hours maximum [US TDS]
+   Kryton                             Krystol T1®                    : Apply the second coat once the product has set hard, 6 to 24 hours depending on conditions
+   Penetron                           PENETRON®                      : apply the second coat while the first coat is still "green"
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : next coat when the previous turns white; mist first if more than 12 h have passed
+   Denka                              Estokote Crystalline           : second coat after the first has taken initial set, usually within one hour (dampen if dried out)
+== curing | OURS: kept damp; foot traffic after approx. 5 hours; pressurised water after ≥ 7 days
+   Sika                               Sika MonoTop®-160 Migrating    : cure at least 5 days after application
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : Keep wet for 5–7 days; do not use curing compounds; protect from sun, wind, frost and rain for 24 hours
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : keep damp for at least 7 days
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : protect from rain, frost and ponded water (no damp-curing period printed); initial set ≥ 20 min, final set ≤ 24 h
+   Xypex (Saint-Gobain)               Xypex Concentrate              : Mist-spray 3 times per day for 2–3 days; protect from rain, frost, wind, puddling and < 2 °C for ≥ 48 h; liquid-holding structures: cure 3 days and set 12 days (18 days w
+   Vandex (RPM)                       VANDEX SUPER                   : keep damp ≥ 5 days, protect from sun, wind and frost; protect from rain ≥ 24 h; backfilling after 3 days; water-retaining structures filled usually after 14 days (after 7
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : ≥ 24 h before backfilling foundation walls; ≥ 3 days before protective layers/finishes; ≥ 7 days before filling water-retaining structures
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : mist with water 2–3 times a day for 3 days after initial set; protect from rain, frost and standing water
+   Mapei                              Planiseal 88 (former Idrosilex : protect from premature drying by misting with fine water; ready for use after 7 days [UK outline spec]
+   Kryton                             Krystol T1®                    : Protect from frost, rain, traffic and rapid drying for 24 hours; Wet cure for at least 3 days (7 days for potable water tanks)
+   Penetron                           PENETRON®                      : The treated areas should be kept damp for a period of five days; must be protected against direct sun, wind and frost
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : mist / wet-cloth curing ≥ 72 h (7 d ideal), starting approx. 6 h after application; protect 48 h from sun, rain, strong wind and < 5 °C
+   Denka                              Estokote Crystalline           : keep moist ≥ 24 h; water/fog spray 3–4 times daily for 48 h; protect 48 h; foot traffic after 48 h, heavy traffic after 7 days
+== application_temp | OURS: approx. 5–30 °C
+   Sika                               Sika MonoTop®-160 Migrating    : +10 to +35 °C (ambient and substrate)
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : Substrate and ambient temperature between +5 °C and +30 °C
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : not stated (avoid strong sun and wind)
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : None
+   Xypex (Saint-Gobain)               Xypex Concentrate              : Do not apply below 4 °C (40 °F); not in rain or hot, windy conditions
+   Vandex (RPM)                       VANDEX SUPER                   : not below +5 °C; not on frozen substrate
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : +5 to +30 °C (not if frost expected within 24 h)
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : None
+   Mapei                              Planiseal 88 (former Idrosilex : 45°F to 95°F (7°C to 35°C) [US TDS]; +5°C to +35°C [UK outline spec]
+   Kryton                             Krystol T1®                    : Air and surface temperature at the time of application must be at least 4°C (40°F)
+   Penetron                           PENETRON®                      : Do not apply at temperatures at or below freezing or to frozen or freezing surfaces (no upper limit stated)
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : not below +5 °C; not in rain or snow
+   Denka                              Estokote Crystalline           : None
+== drinking_water | OURS: tested for drinking water (DVGW W 270 / W 347)
+   Sika                               Sika MonoTop®-160 Migrating    : None
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : None
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : None
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : None
+   Xypex (Saint-Gobain)               Xypex Concentrate              : NSF 61 (NSF International): potable water exposure testing indicated no harmful effects
+   Vandex (RPM)                       VANDEX SUPER                   : approved for drinking-water structures; tested for contact with drinking water (no certificate named)
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : None
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : complies with SS 375:1994; PUB (Singapore) approved
+   Mapei                              Planiseal 88 (former Idrosilex : suitable for contact with drinking water [Mapei SG/UK/AU product pages; no certificate or standard named]
+   Kryton                             Krystol T1®                    : Certified to NSF/ANSI/CAN No. 61 – safe for contact with potable water
+   Penetron                           PENETRON®                      : NSF/ANSI 61 certified for potable water applications
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : stated non-toxic and suitable for drinking-water projects (no approval or test standard cited)
+   Denka                              Estokote Crystalline           : complies with MS 1583 Part 1:2003 (potable water); SIRIM approval for potable water (product page)
+== packaging | OURS: 25 kg bag
+   Sika                               Sika MonoTop®-160 Migrating    : 25 kg bags
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : 25 kg polyethylene-reinforced bag or pail (Kenya); 20 kg bag (South Africa, India)
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : 5 kg plastic bucket; 20 kg bag
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : 20 kg plastic pail
+   Xypex (Saint-Gobain)               Xypex Concentrate              : 9.1 kg (20 lb) pails, 22.7 kg (50 lb) pails and bags
+   Vandex (RPM)                       VANDEX SUPER                   : 25 kg PE-lined paper bag
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : 20 kg bags
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : 20 kg pail
+   Mapei                              Planiseal 88 (former Idrosilex : 55 lb (24.9 kg) bags [US TDS]; 25 kg bags [Mapei SG/UK product pages]
+   Kryton                             Krystol T1®                    : 25kg (55 lb.) pail – Covers up to 20 m2; 5 kg (11 lb.) pail – Covers up to 4 m2; grey or white
+   Penetron                           PENETRON®                      : 50-lb (22.7-kg) bags or 55-lb (25-kg) pails
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : 20 kg plastic pail (4 kg × 5 bags)
+   Denka                              Estokote Crystalline           : 25 kg bag or 20 kg pail
+== shelf_life | OURS: min. 12 months
+   Sika                               Sika MonoTop®-160 Migrating    : 6 months from date of production
+   Master Builders Solutions (Sika)   SikaTop®-501 Seal (formerly Ma : 6 months from production date (dry, +5 °C to +30 °C)
+   Weber (Saint-Gobain)               weberdry crystallize hybrid    : 12 months unopened (dry, ventilated)
+   GCP Applied Technologies (Saint-Go BETEC™ M-5                     : 18 months (dry)
+   Xypex (Saint-Gobain)               Xypex Concentrate              : 2 years, stored dry at min. 7 °C (45 °F)
+   Vandex (RPM)                       VANDEX SUPER                   : 12 months (dry, unopened)
+   Volteco (RPM)                      BI MORTAR CONCRETE SEAL        : 18 months in original packaging
+   Bostik (Arkema)                    Bostik Boscoseal Concentrate   : 1 year (sealed, dry, max. 38 °C)
+   Mapei                              Planiseal 88 (former Idrosilex : 1 year in original, unopened packaging [US TDS]; 12 months [Mapei SG product page]
+   Kryton                             Krystol T1®                    : At least 3 years for unopened pails stored in a dry, enclosed area
+   Penetron                           PENETRON®                      : 24 months when stored under proper conditions (dry, minimum 45ºF (7ºC))
+   Oriental Yuhong                    YHCrystal-2510 Cementitious Cr : 12 months from production (dry, +5 to +40 °C)
+   Denka                              Estokote Crystalline           : 1 year, unopened, dry protected storage
+## chart negative_pressure (bar, higher) OURS 1.5 :: BI MORTAR CONCRETE SEA=9, Planiseal 88 (former I=1, Estokote Crystalline=3
+## chart permeability (bar, higher) OURS 14 :: Xypex Concentrate=12, Krystol T1®=14
+## chart pot_life (min, higher) OURS 60 :: Sika MonoTop®-160 Migr=22.5, SikaTop®-501 Seal (for=30, BETEC™ M-5=20, Xypex Concentrate=20, VANDEX SUPER=30, BI MORTAR CONCRETE SEA=20, Bostik Boscoseal Conce=20, Planiseal 88 (former I=60, Krystol T1®=30, PENETRON®=20, YHCrystal-2510 Cementi=20, Estokote Crystalline=20
+## chart consumption (kg/m², lower) OURS 1.5 :: SikaTop®-501 Seal (for=2, weberdry crystallize h=2.0, BETEC™ M-5=2.0, VANDEX SUPER=1.5, BI MORTAR CONCRETE SEA=2.75, Bostik Boscoseal Conce=1.75, Planiseal 88 (former I=3, Krystol T1®=1.6, PENETRON®=1.6, Estokote Crystalline=1.475
+
+WHY:
+  - The negative pressure resistance is a published figure (1.5 bar) and the impermeability a test value (14 bar, CRD-C 48-92); the comparable sheets describe "either side" application without a negative value, and only Krystol T1 publishes a CRD-C 48 result.
+  - EN 1504-2 values measured, not declared as classes: capillary absorption w < 0.1 kg/m²·h⁰·⁵ and Sd < 5 m.
+  - Working time approx. 60 minutes — twice to three times the 20–30 minutes of the crystalline slurries compared.
+  - Consumption by water load from 0.75 kg/m² (one coat) to 1.5 kg/m² (two coats), with drinking-water testing to DVGW W 270 / W 347.
+
+LISTED: Davco 德高K11防水浆料(渗透结晶型) — Davco K11 Waterproofing Slurry (Crystalline Penetrating Type); Fosroc Brushbond® Crystal; Sobute Penetrating Crystalline Waterproofing Coating

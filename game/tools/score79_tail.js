@@ -1,0 +1,30 @@
+  /* the hall and the master, on the context that plays (or on the tests' offline one): the four channels split into the dry pair and the send pair;
+     the send through the hall (early reflections, then a tail of 3.2 s that darkens as it dies); a highpass under the orchestra's lowest note
+     (a phone's speaker cannot play it and it only eats the headroom), a gentle bus compressor, a limiter, the volume */
+  function kscMaster(ctx) { var sp = ctx.createChannelSplitter(4), mD = ctx.createChannelMerger(2), mW = ctx.createChannelMerger(2); sp.connect(mD, 0, 0); sp.connect(mD, 1, 1); sp.connect(mW, 2, 0); sp.connect(mW, 3, 1);
+    var hp = ctx.createBiquadFilter(); hp.type = 'highpass'; hp.frequency.value = 36; hp.Q.value = 0.6; var dry = ctx.createGain(); dry.gain.value = 0.85; mD.connect(dry); dry.connect(hp);
+    var rv = ctx.createConvolver(), rvG = ctx.createGain(), rvF = ctx.createBiquadFilter(); rvF.type = 'lowpass'; rvF.frequency.value = 4200; rvG.gain.value = 0.46; mW.connect(rv); rv.connect(rvF); rvF.connect(rvG); rvG.connect(hp);
+    (function () { var sr = ctx.sampleRate, n = Math.ceil(sr * 3.4), b = ctx.createBuffer(2, n, sr), c2, ER = [[0.011, 0.55], [0.019, 0.45], [0.027, 0.4], [0.036, 0.33], [0.047, 0.28], [0.061, 0.22], [0.079, 0.17]]; for (c2 = 0; c2 < 2; c2++) { var d = b.getChannelData(c2), i, y = 0, pre = Math.floor(sr * 0.024); for (i = pre; i < n; i++) { var t = (i - pre) / sr, a = 0.6 * Math.exp(-t * 0.9) + 0.07, x = (Math.random() * 2 - 1) * Math.exp(-t * 2.16); y += (x - y) * a; d[i] = y * 0.6; } ER.forEach(function (q) { var k = Math.floor(q[0] * sr * (c2 ? 1.07 : 1)); d[k] += q[1] * (Math.random() < 0.5 ? -1 : 1); }); } rv.buffer = b; })();
+    var cmp = ctx.createDynamicsCompressor(); cmp.threshold.value = -20; cmp.knee.value = 12; cmp.ratio.value = 3; cmp.attack.value = 0.015; cmp.release.value = 0.35;
+    var mk = ctx.createGain(); mk.gain.value = 1.9; /* (the compressor's make-up: the quiet bars stay audible on a phone) */
+    var lim = ctx.createDynamicsCompressor(); lim.threshold.value = -2.5; lim.knee.value = 0; lim.ratio.value = 20; lim.attack.value = 0.002; lim.release.value = 0.12;
+    var g0 = ctx.createGain(); hp.connect(cmp); cmp.connect(mk); mk.connect(lim); lim.connect(g0); g0.connect(ctx.destination); return { input: sp, gain: g0 }; }
+  function kinMuted() { try { return typeof SimAudio !== 'undefined' && SimAudio.muted(); } catch (e) { return false; } }
+  /* the film's music: a context of its own (made inside the tap, so that it may sound), the bars scheduled as buffers on its clock; `join` (s)
+     joins a film already running at that time */
+  function kinFanfare(join) { if (window.KIN_OFFLINE) { kscPrep(); KSC.wait = function () { kscMix(); }; if (kscReady()) { KSC.wait = null; kscMix(); } return null; }
+    var C = window.AudioContext || window.webkitAudioContext; if (!C || kinMuted()) { kinSndUi(); return null; } kscPrep(); var ctx = null;
+    try { ctx = new C({ sampleRate: KSC.sr, latencyHint: 'playback' }); } catch (e) { try { ctx = new C(); } catch (e2) { kinSndUi(); return null; } }
+    try { if (ctx.state !== 'running' && ctx.resume) ctx.resume().then(kinSndUi, kinSndUi); } catch (e) {}
+    var Mx = kscMaster(ctx); Mx.gain.gain.setValueAtTime(0.0001, ctx.currentTime); Mx.gain.gain.setTargetAtTime(KSC.vol, ctx.currentTime, 0.1);
+    KIN.au = { ctx: ctx, gain: Mx.gain, input: Mx.input, t0: ctx.currentTime + 0.15 - (join || 0), next: 0, srcs: [] }; KIN.auEnd = KSC.end; kscPump(); kinSndUi(); setTimeout(kinSndUi, 600); return KIN.au; }
+  /* every bar that is ready goes onto the clock at its time (one that is late joins in at the right place in it) */
+  function kscPump() { var au = KIN.au; if (!au || !KSC.CH) return; var ctx = au.ctx, now = ctx.currentTime; while (au.next < KSC.CH.length) { var k = au.next, bf = KSC.bufs[k]; if (!bf) break; var at = au.t0 + KSC.CH[k].c0, off = 0; if (at < now + 0.03) { off = now + 0.03 - at; at = now + 0.03; }
+      if (off < bf.duration - 0.05) { var s = ctx.createBufferSource(); s.buffer = bf; s.connect(au.input); s.onended = function () { try { this.disconnect(); } catch (e) {} }; s.start(at, off); au.srcs.push(s); } au.next++; } }
+  function kscStop(au, fade) { if (!au) return; try { au.gain.gain.cancelScheduledValues(au.ctx.currentTime); au.gain.gain.setTargetAtTime(0, au.ctx.currentTime, fade || 0.3); } catch (e) {} setTimeout(function () { au.srcs.forEach(function (s) { try { s.stop(); } catch (e) {} }); try { au.ctx.close(); } catch (e) {} }, Math.round((fade || 0.3) * 5000) + 200); }
+  /* (the tests) the whole score mixed offline through the same hall and master: window.KIN_BUF */
+  function kscMix() { var ctx = kscOff(KSC.end + 0.6, 2); if (!ctx) return; var Mx = kscMaster(ctx); Mx.gain.gain.value = KSC.vol; KSC.CH.forEach(function (c, k) { var s = ctx.createBufferSource(); s.buffer = KSC.bufs[k]; s.connect(Mx.input); s.start(c.c0 + 0.1); }); var pr = ctx.startRendering(); if (pr && pr.then) pr.then(function (buf) { window.KIN_BUF = buf; }, function (e) { window.KIN_BUF_ERR = String(e); }); }
+  /* the sound button on the film: a speaker to turn it off; "sound on" when it is off (the guide's sound muted, or a browser that held it back) */
+  function kinSndUi() { var b = $('kinSnd'); if (!b) return; var au = KIN.au, on = !!(au && au.ctx.state === 'running' && !kinMuted()); b.classList.toggle('is-off', !on); b.setAttribute('aria-pressed', on ? 'true' : 'false'); b.setAttribute('aria-label', on ? kint('sndOff') : kint('snd')); b.lastChild.textContent = on ? '' : kint('snd'); b.title = on ? kint('sndOff') : kint('snd'); }
+  function kinSndTap() { var au = KIN.au; if (au && au.ctx.state === 'running' && !kinMuted()) { try { if (typeof SimAudio !== 'undefined') SimAudio.mute(true); } catch (e) {} KIN.au = null; kscStop(au, 0.15); kinSndUi(); return; }
+    try { if (typeof SimAudio !== 'undefined' && SimAudio.muted()) SimAudio.mute(false); } catch (e) {} if (au && au.ctx.state !== 'running') { try { au.ctx.resume().then(kinSndUi, kinSndUi); } catch (e) {} return; } if (!KIN.au && KIN.on) kinFanfare(Math.max(0, KIN.t)); kinSndUi(); }

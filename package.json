@@ -1,0 +1,50 @@
+{
+  "name": "schomburg-in-taiwan-by-good-startup",
+  "version": "84.0.0",
+  "description": "Schomburg in Taiwan by Good Startup — SCHOMBURG application guides — six interactive construction-chemistry guides (crack injection, concrete restoration, mineral waterproofing, crystalline waterproofing, crystalline admixture, protective flooring) with hands-on 3D simulators, document generation (quotes, method statements, specifications, submittals, comparisons) and the Köln training game. One self-contained HTML page in English, Traditional Chinese (Taiwan) and German.",
+  "homepage": "https://maxlu1980.github.io/Schomburg-in-Taiwan-by-Good-Startup/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxlu1980/Schomburg-in-Taiwan-by-Good-Startup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxlu1980/Schomburg-in-Taiwan-by-Good-Startup/issues"
+  },
+  "private": true,
+  "license": "MIT",
+  "author": "Good Startup LTD. (好時新創有限公司)",
+  "engines": {
+    "node": ">=18",
+    "python": ">=3.9"
+  },
+  "scripts": {
+    "build": "python3 build.py",
+    "build:de": "python3 i18n/assemble.py --strict",
+    "build:css": "python3 game/tools/mkcss.py",
+    "build:city": "bash game/tools/mkcity.sh",
+    "serve": "python3 -m http.server 8765 --bind 127.0.0.1",
+    "check": "node qa/parse_all.js && node qa/dup.js && python3 game/tools/namecheck.py && python3 qa/static_audit.py",
+    "test": "node qa/regress.js",
+    "test:a11y": "node qa/axe.js",
+    "test:layout": "node qa/layout.js",
+    "test:leaks": "node qa/deleak.js",
+    "test:docs": "node qa/dedocs.js && node qa/cmpdocs.js",
+    "test:sim": "node qa/hsdevice.js wp zh && node qa/hsclick.js && node qa/hsswitch.js",
+    "test:sim:full": "HS_REACH=1 node qa/hstest.js wp 99 zh && HS_REACH=1 node qa/hstest.js rc 99 zh && HS_REACH=1 node qa/hstest.js cr 99 zh && HS_REACH=1 node qa/hstest.js pf 99 zh && HS_REACH=1 node qa/hstest.js ca 99 zh",
+    "test:game": "node qa/kplay.js qa/scenarios/ui_a_desk.json && node qa/kplay.js qa/scenarios/ui_a_phone.json && node qa/kplay.js qa/scenarios/col4.json && node qa/kplay.js qa/scenarios/smooth1.json && node qa/kplay.js qa/scenarios/gfx5.json && node qa/kplay.js qa/scenarios/indoor1.json",
+    "test:game:a11y": "node qa/kplay.js qa/scenarios/axe_game.json && node qa/kplay.js qa/scenarios/axe_game_phone.json",
+    "test:film": "node qa/kfull.js qa/scenarios/kfull82.json",
+    "validate:html": "html-validate dist/aquafin-p4-injection-guide.html"
+  },
+  "dependencies": {
+    "docx": "9.11.0",
+    "pdfmake": "0.3.11",
+    "three": "0.147.0"
+  },
+  "devDependencies": {
+    "acorn": "8.12.1",
+    "axe-core": "4.14.0",
+    "html-validate": "11.18.0",
+    "playwright": "1.56.0"
+  }
+}

@@ -1,0 +1,945 @@
+{
+ "agent": "Sika group (Sika, Master Builders Solutions, Parex: Davco / ParexLanko)",
+ "accessed": "2026-10-24",
+ "ownership": [
+  {
+   "brand": "Master Builders Solutions (construction systems: MasterSeal, MasterEmaco, MasterInject, MasterTop etc., now being renamed to Sika names)",
+   "group": "Sika",
+   "since": "2023 (MBCC Group acquisition closed 2 May 2023)",
+   "evidence": "https://gcc.sika.com/en/media/media-releases/2023/sika-successfully-closes-mbcc-acquisition.html"
+  },
+  {
+   "brand": "Master Builders Solutions (concrete ADMIXTURES business incl. MasterLife, in Europe, UK, USA, Canada, Australia, New Zealand)",
+   "group": "Cinven (private equity) — NOT Sika; operated as independent 'Master Builders Solutions'",
+   "since": "2023 (sale agreed 22 Mar 2023, completed May 2023)",
+   "evidence": "https://sika.com/en/media/media-releases/2023/sika-sales-admixture-assets-MBCC-Group.html"
+  },
+  {
+   "brand": "Parex (incl. Davco, ParexLanko)",
+   "group": "Sika",
+   "since": "2019 (acquisition completed 23 May 2019)",
+   "evidence": "https://www.sika.com/en/media/media-releases/archive/2019/sika-completes-acquisition-of-parex.html"
+  },
+  {
+   "brand": "ParexLanko",
+   "group": "Sika",
+   "since": "2019 ('PAREXLANKO est une marque Sika' since May 2019)",
+   "evidence": "https://www.parexlanko.com/"
+  },
+  {
+   "brand": "Davco (德高, China)",
+   "group": "Sika",
+   "since": "2019 (via Parex; davco.cn: '西卡集团旗下品牌' — a Sika Group brand)",
+   "evidence": "https://www.davco.cn/"
+  }
+ ],
+ "entries": [
+  {
+   "slot": "wp/RB400",
+   "group": "Sika",
+   "brand": "Sika",
+   "product": "SikaTop®-126 Pro",
+   "type": "Flexible two-component polymer-modified mineral waterproofing, crack-bridging, for earth-contact structures (MDS / FPD / OS 5b (DI))",
+   "market": "Germany",
+   "source": {
+    "url": "https://deu.sika.com/dam/dms/deaddconst01/t/sikatop-126-pro.pdf",
+    "version": "Produktdatenblatt Oktober 2026, Version 02.05"
+   },
+   "values": {
+    "components": "2 components (A: polymer dispersion; B: special cement mix); A : B = 1 : 1.3 by weight",
+    "crack_bridging": "crack class RÜ3-E / R3-B to PG FPD (requirement 2.0 mm crack width); functional at −20 °C",
+    "positive_pressure": "DIN 18533 W2.1-E (pressing water up to 3 m water column) and DIN 18535 W2-B (< 10 m); tested system components up to 6 m water column without cove",
+    "negative_pressure": null,
+    "adhesion": null,
+    "co2": null,
+    "rainproof": null,
+    "consumption": "approx. 1.33 kg/m² per mm; e.g. approx. 4.00 kg/m² (FPD 3.0 mm dry) / approx. 5.30 kg/m² (FPD 4.0 mm dry); fresh mortar density approx. 1.3 kg/l",
+    "thickness": "dry film by water load (DIN 18533/18535): FPD 3.0 mm (W1-E/W3-E), 4.0 mm (W2.1-E, W2-B), 2.0 mm (W4-E); MDS 2.0 mm; at least two coats, < 2 mm per coat",
+    "application_temp": "+5 to +30 °C (air and substrate); ≥ 3 °C above dew point",
+    "certification": "General building authority test certificate to PG MDS and PG FPD; CE as OS system to EN 1504-2 / DIN V 18026 (OS 5b (DI)); DIN 18533-1/-3, DIN 18535-1/-3",
+    "packaging": "23 kg set: comp. A 10 kg plastic bucket + comp. B 13 kg bag",
+    "shelf_life": "12 months from production (unopened, +5 to +30 °C)"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": 2.0,
+     "label": "2.0 mm (PG FPD, class RÜ3-E)"
+    },
+    "positive_pressure": {
+     "v": null,
+     "label": "W2.1-E: up to 3 m water column (DIN 18533) — no bar value printed"
+    },
+    "rainproof": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Sika's own bitumen-free flexible thick-layer (FPD) mineral waterproofing; Sika's other German thick coatings (Igolflex-201/202, IgolDicht 2K-P) are bitumen-based PMBC and therefore not corresponding. Not a rapid-setting product: next coat only after full drying (colour change turquoise → anthracite), scratch coat recoat approx. 6 h at +23 °C; may be exposed to permanent water only after full drying (no hours stated). Pot life approx. 45 min at +23 °C. No rain-resistance time, negative-pressure value, adhesion value or Sd(CO2) printed. Same product also used for slot wp/OS (it is an OS 5b system)."
+  },
+  {
+   "slot": "wp/OS",
+   "group": "Sika",
+   "brand": "Sika",
+   "product": "SikaTop®-126 Pro",
+   "type": "Flexible two-component polymer-modified mineral, crack-bridging waterproofing and CE-marked OS 5b (DI) surface protection system (EN 1504-2 / DIN V 18026)",
+   "market": "Germany",
+   "source": {
+    "url": "https://deu.sika.com/dam/dms/deaddconst01/t/sikatop-126-pro.pdf",
+    "version": "Produktdatenblatt Oktober 2026, Version 02.05 (EN 1504-2 values from DoP 39638284, 19.01.2021)"
+   },
+   "values": {
+    "components": "2 components (A: polymer dispersion; B: special cement mix); A : B = 1 : 1.3 by weight",
+    "crack_bridging": "class B2 (−20 °C) declared to EN 1504-2 (DoP); static class not declared; PG FPD crack class RÜ3-E / R3-B (2.0 mm)",
+    "adhesion": "≥ 0.8 N/mm² mean (single value ≥ 0.5 N/mm²), pull-off adhesion (DoP EN 1504-2); also ≥ 0.8 (0.5) N/mm² after thermal compatibility",
+    "vapour": "water vapour permeability class I (DoP EN 1504-2; no Sd value printed)",
+    "co2": "Sd > 50 m (CO₂ permeability, DoP EN 1504-2)",
+    "rainproof": null,
+    "consumption": "approx. 2.65 kg/m² for OS 5b (≥ 2.0 mm dry film); approx. 1.33 kg/m² per mm",
+    "thickness": "OS 5b: ≥ 2.0 mm dry film (approx. 2.2 mm wet) in 2 coats; max. < 2 mm per coat",
+    "pot_life": "approx. 45 min (+23 °C); approx. 60 min (+8 °C); approx. 25 min (+30 °C)",
+    "overcoat": "approx. 6 h at +23 °C (next coat only after the previous layer has dried — colour change to anthracite)",
+    "application_temp": "+5 to +30 °C (air and substrate); ≥ 3 °C above dew point",
+    "certification": "CE as OS 5b (DI) surface protection system to EN 1504-2 / DIN V 18026; PG MDS and PG FPD test certificate; DIN 18533 / 18535; reaction to fire Efl",
+    "packaging": "23 kg set: comp. A 10 kg plastic bucket + comp. B 13 kg bag",
+    "shelf_life": "12 months from production (unopened, +5 to +30 °C)"
+   },
+   "charts": {
+    "co2": {
+     "v": 50,
+     "label": "Sd > 50 m (DoP EN 1504-2)"
+    },
+    "crack_bridging": {
+     "v": null,
+     "label": "static class not declared; dynamic B2 at −20 °C"
+    }
+   },
+   "notes": "Cementitious, crack-bridging OS 5b system of Sika itself (Sikagard elastic coatings are acrylic, not cementitious). EN 1504-2 performances (Sd CO2, vapour class, w < 0.1 kg/(m²·h^0.5), pull-off, crack bridging B2 −20 °C) taken from the manufacturer DoP: https://deu.sika.com/dam/dms/deaddconst01/a/DOP%20SikaTop-126%20Pro%20EN%201504-2%20deu%20-%20Jan%202021.pdf . Austrian PDS (Aug 2026, v02.06, https://aut.sika.com/dam/dms/at01/g/sikatop-126-pro.pdf) adds: water contact after approx. 3–4 days at +23 °C; no rain-resistance time printed. Same product used for slot wp/RB400."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "Sika",
+   "brand": "Sika",
+   "product": "Sika MonoTop®-160 Migrating",
+   "type": "One-part cementitious waterproofing slurry with migrating active components forming a crystalline structure in the concrete pores (EN 1504-2 coating)",
+   "market": "Ireland / UK (EN sheet)",
+   "source": {
+    "url": "https://irl.sika.com/content/dam/dms/ie01/g/sika_monotop_-160migrating.pdf",
+    "version": "Product Data Sheet January 2021, Version 02.01"
+   },
+   "values": {
+    "components": "1 part, cementitious powder; approx. 9.2 l water per 25 kg",
+    "negative_pressure": "approx. 1.7 times less penetration compared to reference sample (negative side, 5 bar water pressure, EN 12390-8 modified)",
+    "permeability": "approx. 3 times less water penetration compared to reference sample (5 bar for 72 h, EN 12390-8)",
+    "adhesion": "approx. 2.0 N/mm² (EN 1542)",
+    "capillary": "approx. 0.09 kg/m²·h^0.5 (EN 1062-3)",
+    "vapour": "Class I (permeable), Sd < 5 m (EN ISO 7783-1)",
+    "consumption": "approx. 1.2 kg/m² per layer (theoretical); layer thickness approx. 1.0 mm",
+    "coats": "two layers, second layer wet on wet",
+    "pot_life": "20–25 minutes at +20 °C",
+    "recoat": "2nd layer wet on wet while the 1st is still fresh (1–2 hours at +20 °C)",
+    "curing": "cure at least 5 days after application",
+    "application_temp": "+10 to +35 °C (ambient and substrate)",
+    "drinking_water": null,
+    "packaging": "25 kg bags",
+    "shelf_life": "6 months from date of production"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": "relative test only: ~1.7× less penetration vs reference at 5 bar"
+    },
+    "permeability": {
+     "v": null,
+     "label": "EN 12390-8 relative result (~3× less penetration at 5 bar); no CRD-C 48 value"
+    },
+    "pot_life": {
+     "v": 22.5,
+     "label": "20–25 min at +20 °C"
+    },
+    "consumption": {
+     "v": null,
+     "label": "~1.2 kg/m² per layer (two layers required; total not printed)"
+    }
+   },
+   "notes": "Sika's own crystalline (migrating) slurry, sold in Europe, Middle East/Africa and Latin America; not found on Sika Asia-Pacific sites. The group's ex-MBS crystalline slurry SikaTop®-501 Seal (formerly MasterSeal 501) is already in the comparison. No drinking-water approval and no CRD-C 48 result printed; shelf life only 6 months."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "Sika",
+   "brand": "Sika",
+   "none": true,
+   "reason": "No crystalline repair mortar in Sika's own range: Sika MonoTop®-160 Migrating and SikaTop®-501 Seal are brush-applied slurries (their sheets give no mortar / chase / cove use); the group's crystalline mortar is the ex-MBS MasterSeal 502 (see Master Builders Solutions entry)."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "Sika",
+   "brand": "Master Builders Solutions",
+   "product": "MasterSeal® 502 (system MasterSeal 501/502)",
+   "type": "Cementitious crystalline re-profiling render / mortar, used with MasterSeal 501 for patch repairs and forming fillets",
+   "market": "Asia-Pacific / Middle East (mbcc.sika.com product pages)",
+   "source": {
+    "url": "https://mbcc.sika.com/en-sa/products/masterseal/masterseal-501502",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "components": "1 component, cementitious; mixed with water to a mortar consistency (water quantity not printed on the product page)",
+    "compressive": null,
+    "thickness": null,
+    "consumption": null,
+    "pot_life": null,
+    "recoat": "used together with MasterSeal 501 crystalline coating (timing not printed on the product page)",
+    "application_temp": null,
+    "packaging": null,
+    "shelf_life": null
+   },
+   "charts": {
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "consumption": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Corresponds by function (crystalline mortar for patch repair, re-profiling and forming fillets/coves within the MasterSeal 501 crystalline system) but no data sheet could be reached: the Asia-Pacific product page (https://mbcc.sika.com/en-asiapacific/products/masterseal/masterseal-501502) lists a 'MasterSeal 501/502 Technical Data Sheet' download without an accessible link, and no Sika-renamed version (cf. SikaTop-501 Seal) of 502 was found. All numeric values therefore null — obtain the TDS from Sika/MBS before publishing, or drop the column."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "Sika",
+   "brand": "Sika",
+   "product": "Sika® Plug",
+   "type": "Chloride-free, ready-to-use high-alumina-cement powder; with water a rapid-setting plugging mortar",
+   "market": "Australia",
+   "source": {
+    "url": "https://aus.sika.com/content/dam/dms/au01/0/sika_plug.pdf",
+    "version": "Product Data Sheet December 2025, Version 01.03"
+   },
+   "values": {
+    "components": "1 component, high-alumina-cement based powder; mixing ratio approx. 3 parts powder : 1 part water (by mass)",
+    "setting": "initial set (by water temperature): 150 s at 5 °C, 110 s at 10 °C, 85 s at 15 °C, 70 s at 20 °C, 60 s at 25 °C, 50 s at 30 °C, 45 s at 35 °C",
+    "pot_life": "no figure printed — mix only what can be applied immediately, in small batches",
+    "compressive": "approx. 10 MPa (6 h), approx. 12 MPa (1 day), approx. 18 MPa (7 days), approx. 25 MPa (28 days) (AS 1478.2-A, 50 mm cubes, 23 °C / 50 % r.h.)",
+    "consumption": "mixed density approx. 2.0 kg/l (no consumption figure printed)",
+    "application_temp": null,
+    "packaging": "10 kg plastic bucket",
+    "shelf_life": "12 months in unopened original container"
+   },
+   "charts": {
+    "compressive": {
+     "v": 12,
+     "label": "~12 MPa at 1 day (AS 1478.2-A)"
+    },
+    "pot_life": {
+     "v": null,
+     "label": "not printed (initial set 70 s at 20 °C)"
+    }
+   },
+   "notes": "Sika's own plugging mortar in Asia-Pacific; the group's ex-MBS SikaSet® Waterplug (formerly MasterSeal 590) is already compared. No swelling/expansion claim (only 'very low shrinkage'); application temperature not stated as a range. European equivalent: Sika MonoTop®-108 WaterPlug (Ireland PDS Feb 2021 v01.01: initial set ~60 s / final ~80 s at +20 °C, +5 to +30 °C, 5 kg bags, no strength data) — https://irl.sika.com/dam/dms/ie01/p/sika-monotop-108waterplug.pdf"
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Sika",
+   "brand": "Master Builders Solutions",
+   "product": "Sikafloor® BC 372 (formerly MasterTop® BC 372)",
+   "type": "Two-part, solvent-free, pre-filled and pigmented self-levelling epoxy coating; body coat on smooth surfaces, roller-applied top coat on broadcast surfaces (medium to heavy industrial wear)",
+   "market": "United Kingdom",
+   "source": {
+    "url": "https://gbr.sika.com/dms/getdocument.get/7f0551cf-ad19-4674-acad-207f104b8791/sikafloor-bc-372.pdf",
+    "version": "Product Data Sheet November 2024, Version 02.01"
+   },
+   "values": {
+    "basis": "two-part epoxy, solvent-free, pre-filled and pigmented",
+    "mix_ratio": "A : B = 100 : 18 by weight; can be filled with sand up to 1 : 0.7 by weight",
+    "viscosity": null,
+    "pot_life": "30 min at +23 °C",
+    "overcoat": "+10 °C: min. 30 h, max. 3 days; +23 °C: min. 10 h, max. 2 days",
+    "cure": "ready for use after 5 days at +23 °C",
+    "compressive": "79 N/mm² (28 days, +23 °C, EN 12190)",
+    "flexural": null,
+    "adhesion": null,
+    "hardness": "Shore D 81 (7 days, +23 °C, EN ISO 868)",
+    "fire": null,
+    "slip": null,
+    "consumption": "body coat on smooth surfaces approx. 3.3–5.0 kg/m² (depending on filling ratio); top coat on broadcast surfaces approx. 0.8–1.0 kg/m² (roller); mixed density 1.60 g/cm³",
+    "application_temp": "+10 to +30 °C (ambient and substrate); max. 75 % r.h.; substrate ≥ 3 K above dew point; substrate residual moisture ≤ 4 %",
+    "packaging": "30 kg working packs; drums on demand",
+    "shelf_life": "24 months (dry, +15 to +25 °C)"
+   },
+   "charts": {
+    "compressive": {
+     "v": 79,
+     "label": "79 N/mm² (28 d, EN 12190)"
+    },
+    "flexural": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": 10,
+     "label": "min. 10 h at +23 °C"
+    }
+   },
+   "notes": "Ex-MBS universal-type epoxy floor coating (self-levelling body coat + roller top coat in broadcast systems); CE to EN 13813 (SR) and EN 1504-2. Thickness range, viscosity, flexural strength, adhesion, fire class and slip rating not printed on the PDS. In Indonesia Sika lists MasterTop BC 372 as replaced by the equivalent Sikafloor-374 CP SL (Sika 'Product Line Flooring', 15 Jan 2024); India sells Sikafloor-1230 (formerly MTop 1230), but that is a self-smoothing 2–3 mm overlay only, not a roller coat."
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "Sika",
+   "brand": "Master Builders Solutions",
+   "product": "Sikagard®-385 EpoCem® (formerly MasterSeal® P 385)",
+   "type": "Three-component epoxy-cement coating, used as primer on damp substrates before resin coatings and membranes",
+   "market": "Netherlands",
+   "source": {
+    "url": "https://nld.sika.com/content/dam/dms/nl01/u/sikagard-385-epocem.pdf",
+    "version": "Productinformatieblad June 2026, Version 02.04 (Dutch; translated)"
+   },
+   "values": {
+    "basis": "epoxy-cement (water-based epoxy emulsion + cementitious powder), non-soluble",
+    "components": "3 (A white thixotropic liquid, B yellowish paste-like liquid, C light grey powder)",
+    "mix_ratio": "4.5 kg A + 4.5 kg B + 16 kg C (5–10 % water may be added for roller or spray application)",
+    "viscosity": null,
+    "pot_life": "approx. 60 minutes at +21 °C",
+    "overcoat": "second coat after 16–24 h at +21 °C; resin coating min. 48 h, max. 96 h after the second coat (+21 °C)",
+    "compressive": "≥ 30 N/mm² after 7 days (EN 12190)",
+    "flexural": null,
+    "adhesion": "≥ 3.0 N/mm² on dry concrete, 28 d (EN 1542); ≥ 3.0 N/mm² on wet concrete, 28 d (EN 13578); under moisture pressure with Sikagard M 790 top coat, 56 d: 3.1 N/mm² (+23 °C) / 2.8 N/mm² (+8 °C)",
+    "negative_pressure": "watertight up to 2.5 bar (negative side)",
+    "max_moisture": "substrate may be damp but free of standing water",
+    "consumption": "approx. 0.5–1.5 kg/m² depending on substrate (theoretical); max. 0.5 mm per layer, two layers; fresh density approx. 1.6 kg/l",
+    "application_temp": "+10 to +30 °C (ambient and substrate); max. 85 % r.h.",
+    "packaging": "25 kg set: 4.5 kg A (can) + 4.5 kg B (can) + 16 kg C (paper bag)",
+    "shelf_life": "12 months from production (unopened, cool and dry, ≤ +30 °C; A and B frost-free)"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": 2.5,
+     "label": "watertight to 2.5 bar (negative side)"
+    },
+    "compressive": {
+     "v": 30,
+     "label": "≥ 30 N/mm² at 7 days (EN 12190)"
+    },
+    "overcoat": {
+     "v": 96,
+     "label": "resin coating max. 96 h after 2nd coat (+21 °C)"
+    }
+   },
+   "notes": "Epoxy-cement (EpoCem-type) rather than a pure solvent-free epoxy — the same technology as the Sikafloor-81 EpoCem already used as Sika's comparator for this slot; no pure-epoxy MBS primer rated for damp substrates / negative pressure was found (Sikafloor P 604 ex-MTop P 604 and MasterTop P 617 require dry substrates ≤ 4 %). CE to EN 1504-2. Compressive strength is the 7-day figure (not directly comparable with a 28-day resin value). Dew point requirement not printed."
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "Sika",
+   "brand": "Master Builders Solutions",
+   "product": "Sikaflex® NP 474 (formerly MasterSeal® NP 474)",
+   "type": "One-component, medium-modulus, moisture-curing polyurethane joint sealant and adhesive, primerless; floor and expansion joints incl. foot and vehicle traffic",
+   "market": "Spain / Germany (MBS TDS); product sold in Hong Kong / Asia-Pacific",
+   "source": {
+    "url": "https://documentacion.generadordeprecios.info/documentaciontecnica/mbso/mbso_ms_np474_ce.pdf",
+    "version": "Master Builders Solutions España / Deutschland technical data sheet, 15.03.2021 (Spanish; translated)"
+   },
+   "values": {
+    "basis": "one-component polyurethane, medium modulus, cures with atmospheric humidity",
+    "density": "approx. 1.2 g/cm³ (EN 542)",
+    "hardness": "approx. Shore A 35 (ISO 868)",
+    "movement": "approx. 25 % of joint width; ISO 11600 F 25 HM; ASTM C920 Class 25, Type S, Grade NS, Uses T1, NT, A, M",
+    "tensile": "tensile strength approx. 0.9 MPa (ISO 8339); elongation at break ≥ 600 % (ISO 8339); modulus at 100 % approx. 0.45 MPa (ISO 8339); elastic recovery ≥ 90 % (ISO 7389)",
+    "skin_time": "30–45 minutes",
+    "cure": "approx. 3 mm per day (+23 °C, 50 % r.h.)",
+    "service_temp": "−30 to +80 °C",
+    "consumption": "joint widths up to 35 mm horizontal / 40 mm vertical; width : depth e.g. 10 : 6–10 mm, 15 : 8–12 mm, 20 : 10–14 mm, 25 : 12–18 mm, 30 : 15–22 mm",
+    "application_temp": "+5 to +35 °C (substrate and material)",
+    "packaging": "300 ml cartridges and 600 ml foil sausages",
+    "shelf_life": "up to 12 months from manufacture (sealed, dry)"
+   },
+   "charts": {
+    "hardness": {
+     "v": 35,
+     "label": "approx. Shore A 35 (ISO 868)"
+    },
+    "movement": {
+     "v": 25,
+     "label": "25 % (ISO 11600 F 25 HM)"
+    },
+    "service_temp": {
+     "v": 80,
+     "label": "−30 to +80 °C"
+    }
+   },
+   "notes": "Renamed Sikaflex® NP 474 (mbcc.sika.com Hong Kong page: 'Sikaflex® NP 474, formerly MasterSeal® NP 474'; uses: floor connection and expansion joints, car parks, warehouses, tile floors under traffic). No manufacturer-hosted PDF reachable (mbcc.sika.com lists the TDS without an accessible link), so the values come from the MBS TDS as hosted by CYPE's generadordeprecios documentation service (third-party copy of the manufacturer sheet, dated 2021, pre-Sika rebrand). Sikaflex® NP 1 (formerly MSeal NP 1, HK PDS Sept 2024) was rejected: it is a low-modulus architectural sealant (Shore A 25–30) without floor/traffic use."
+  },
+  {
+   "slot": "ca/CP360",
+   "group": "Sika",
+   "brand": "Master Builders Solutions",
+   "product": "SikaControl®-3760 WT (MBS MasterLife® WP 3760 line)",
+   "type": "Hydrophilic crystalline powder admixture for waterproof concrete (permeability-reducing admixture, PRAH to ACI 212.3R-10)",
+   "market": "GCC (Middle East)",
+   "source": {
+    "url": "https://gcc.sika.com/dam/dms/gcc/s/pds-sikacontrol-3760wt.pdf",
+    "version": "Product Data Sheet March 2025, Version 03.02"
+   },
+   "values": {
+    "form": "grey powder",
+    "dosage": "recommended 1 % by weight of binder; up to 2 % by weight of binder; ready-mix typically 5 kg per m³ of concrete",
+    "density": "approx. 1.3 g/cm³ at +25 °C",
+    "chloride": "nil (EN 934)",
+    "self_healing": "can seal hairline cracks up to 0.5 mm",
+    "min_cement": null,
+    "dosing_point": "batched in either a central or truck mixer; at least 5 minutes of mixing after addition; w/c ratio < 0.5",
+    "application_temp": null,
+    "packaging": "16 kg and 25 kg bags (water-soluble bags not mentioned)",
+    "certification": "PRAH category within ACI 212.3R-10; chloride tested to EN 934"
+   },
+   "charts": {
+    "dosage": {
+     "v": 1,
+     "label": "1 % by weight of binder (recommended; max. 2 %)"
+    },
+    "self_healing": {
+     "v": 0.5,
+     "label": "hairline cracks up to 0.5 mm"
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Sika-renamed version of MasterLife WP 3760, which Sika's MBCC site (https://mbcc.sika.com/en-ae/products/masterlife/masterlife-wp-3760) describes in the same words ('hydrophilic crystalline waterproofing powder admixture', cracks below 0.5 mm); the PDS itself does not print the former name. No EN 934-2 conformity, minimum cement content or application temperature printed; shelf life 12 months; storage +5 to +50 °C. OWNERSHIP CAUTION: MBS concrete admixtures in Europe, UK, USA, Canada, Australia and New Zealand were sold by Sika to Cinven in 2023 and are no longer Sika group — the powder MasterLife WP 1000 (MBS Italia) listed in brief slot ca/CL170 is such a Cinven product; this Middle-East product is the Sika-owned MBS-line equivalent."
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Sika",
+   "brand": "Master Builders Solutions",
+   "product": "SikaControl®-1200 WT (MBS MasterLife® WP 1200 line)",
+   "type": "Integral crystalline capillary waterproofing admixture for concrete, liquid",
+   "market": "Malaysia",
+   "source": {
+    "url": "https://mys.sika.com/dms/getdocument.get/eaa60ee4-ac95-4d53-becf-a0166db6266d/pds-sikacontrol-1200wt.pdf",
+    "version": "Product Data Sheet March 2025, Version 02.01"
+   },
+   "values": {
+    "form": "yellow liquid",
+    "dosage": "1–2.5 % of cementitious content recommended; typical dosage 2 %",
+    "density": "1.13 kg/l (printed as '1.13–0.02 kg/L', i.e. 1.13 ± 0.02)",
+    "chloride": "total chloride ion content < 0.1 %; 'chloride free' according to EN 934",
+    "self_healing": "can heal cracks below 0.4 mm",
+    "setting_effect": null,
+    "min_cement": null,
+    "dosing_point": "added at the batching plant, in a central or truck mixer; at least 5 minutes of mixing after addition",
+    "application_temp": null,
+    "packaging": "1000 l IBC tank; bulk delivery",
+    "certification": "cements approved under ASTM and EN specifications; batching to ASTM C94/C94M; chloride classification to EN 934 (no EN 934-2 / ASTM C494 conformity printed)"
+   },
+   "charts": {
+    "dosage": {
+     "v": 2,
+     "label": "typical 2 % (range 1–2.5 %) of cementitious content"
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "PROPOSED REPLACEMENT for the brief's 'MasterLife WP 1000' in this slot: WP 1000 is a grey POWDER (TDS MBS Italia, May 2023: dosage printed as '1 to 2 kg by weight of cement', 20 kg bags, EN 934-2) and is sold by the Cinven-owned Master Builders Solutions (European admixture business divested by Sika in 2023), so it is neither liquid nor Sika group. SikaControl-1200 WT is the Sika-owned liquid crystalline admixture of the MBS line (same designation as the liquid 'MasterLife WP 1200' still sold by Cinven's MBS, e.g. https://master-builders-solutions.com/en-tr/products/masterlife/masterlife-wp-1200/; former name not printed on the Sika PDS). Its density (1.13 kg/l), typical dosage (2 %) and chloride (< 0.1 %) are close to BETOCRETE-CL170-P. No plasticising claim, minimum cement content or application temperature printed; storage ≥ +5 °C; shelf life 12 months. Alternative in Asia-Pacific: SikaControl®-1500 WT (ex-MasterLife WP 1500, 'dual mechanism liquid crystalline', 1 % dosage, SG 1.30–1.45, cracks up to 0.4 mm; Philippines PDS Mar 2025 v02.01, https://phl.sika.com/dms/getdocument.get/f7329dea-24b2-4c53-a00e-d0ca87540946/pds-sikacontrol-1500wt.pdf)."
+  },
+  {
+   "slot": "inj/P4",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No injection resins in either Parex brand: Davco China (davco.cn) sells tile adhesives, K11 waterproofing slurries, putties, technical mortars, silicone/foam sealants; ParexLanko France catalogue (parexlanko.com) has no PU or epoxy crack-injection resin (only 706 Lankofill Coque cement grout for void filling)."
+  },
+  {
+   "slot": "inj/P1",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No water-reactive PU injection foam in the Davco China or ParexLanko France ranges."
+  },
+  {
+   "slot": "inj/IH",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No epoxy crack-injection resin: ParexLanko 723 LANKOPOXY is a pure epoxy resin for floor surface protection / epoxy-mortar binder (EN 13813), not an injection resin; Davco China has no epoxy products."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No crystalline repair mortar: ParexLanko 730/731 LANKOREP are polymer/fibre repair mortars (their pages list cove and passive-crack treatment but no crystalline action); Davco China K11 防水砂浆 is a two-component polymer-cement waterproofing coating, not a repair mortar."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No crystalline chase/cove mortar in either range (Davco China offers only the K11 crystalline slurry; ParexLanko has no crystalline products)."
+  },
+  {
+   "slot": "wp/RB400",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No rapid flexible thick-layer (FPD-type) bitumen-free cementitious waterproofing: ParexLanko offers 228 LANKOLASTIC / 226 ERTO FLEX PLUS flexible micro-mortars (thin-layer) and bituminous LANKOBLACK products; Davco China offers thin-layer K11 slurries."
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No crystalline admixture. ParexLanko's only waterproofing admixture is 322 LANKOFUGE MASSE, a liquid water-repellent ('hydrofuge de masse liquide pour imperméabilisation des bétons et mortiers') — hydrophobic, not crystalline; Davco China sells no concrete admixtures."
+  },
+  {
+   "slot": "ca/CP360",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No crystalline admixture. ParexLanko 323 LANKOFUGE POUDRE is a powdered water-repellent ('hydrofuge de masse') for concrete and mortar, not crystalline; Davco China sells no concrete admixtures."
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No damp-tolerant epoxy barrier primer in either range (ParexLanko's only epoxy is 723 LANKOPOXY; Davco China has no resin floor products)."
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No pigmented epoxy industrial floor coating; ParexLanko floor products are cementitious (LANKOSOL screeds, 242 LANKOFLOOR dry-shake hardener) plus the clear 723 LANKOPOXY resin; Davco China has floor levelling mortars only."
+  },
+  {
+   "slot": "pf/V360",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No water-emulsified epoxy sealer in either range."
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No chemically resistant epoxy coating for wastewater plants in either range."
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "Sika",
+   "brand": "Davco / ParexLanko",
+   "none": true,
+   "reason": "No PU floor-joint sealant listed: ParexLanko sealants are silicones (624/626/628/630/642/643), an acrylic (613) and a hybrid adhesive (536 COL'EXTREME); its catalogue lists a 600 ml extrusion gun 'for polyurethane floor joints' but no PU sealant product page was found. Davco China sealants are neutral silicone (中性硅酮胶) and foam sealant (发泡胶) only."
+  },
+  {
+   "slot": "cr/BIS540",
+   "group": "Sika",
+   "brand": "ParexLanko",
+   "product": "731 LANKOREP STRUCTURE",
+   "type": "Fibre-reinforced, shrinkage-compensated concrete repair mortar, 5–70 mm per pass",
+   "market": "France",
+   "source": {
+    "url": "https://www.parexlanko.com/produits/sheet/731-lankorep-structure-25kg",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "class": null,
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "e_modulus": null,
+    "chloride": null,
+    "capillary": null,
+    "carbonation": null,
+    "thickness": "5 to 70 mm per pass",
+    "consumption": null,
+    "water": null,
+    "pot_life": null,
+    "overcoat": null,
+    "application_temp": null,
+    "packaging": "25 kg bag",
+    "shelf_life": null
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "e_modulus": {
+     "v": null,
+     "label": null
+    },
+    "thickness": {
+     "v": 5,
+     "label": "5–70 mm per pass"
+    },
+    "consumption": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Uses listed: repair of spalling and honeycombing, restructuring of degraded structures, gutters/coves in waterproofing work, passive cracks; claims protection of reinforcement against corrosion and resistance to seawater, sulphate waters and de-icing salts. The product page prints no EN 1504-3 class and no performance values; the fiche technique / DoP are offered only as script-driven downloads without a reachable URL, and no Davco (China / Asia-Pacific) R4 repair mortar was found. Get the FT/DoP from ParexLanko before publishing. Related: 735 LANKOREP RAPIDE (fast-setting, 5–70 mm), 781 LANKOREP FLUIDE RAPIDE (pourable R4, 12–250 mm)."
+  },
+  {
+   "slot": "cr/BIS16",
+   "group": "Sika",
+   "brand": "ParexLanko",
+   "product": "732 LANKOREP FACADE",
+   "type": "Concrete façade repair mortar for filling cracks, patching spalls and smoothing render on concrete surfaces (EN 1504-3)",
+   "market": "France",
+   "source": {
+    "url": "https://www.parexlanko.com/produits/sheet/732-lankorep-facade-25kg",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "class": "conforms to EN 1504-3 (class not printed on the product page)",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "chloride": null,
+    "capillary": null,
+    "thickness": "1 to 40 mm per pass",
+    "consumption": null,
+    "water": null,
+    "pot_life": null,
+    "overcoat": "can be painted within 24 hours ('recouvrable par peinture sous 24 heures')",
+    "application_temp": null,
+    "packaging": "25 kg bag",
+    "shelf_life": null
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "thickness": {
+     "v": 40,
+     "label": "1–40 mm per pass"
+    },
+    "pot_life": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Rapid setting and hardening (no times printed), thixotropic, smooth finish; uses: spalls, honeycombing, balcony fronts, parapets, soffits, cornices, filling blowholes before painting. No performance values on the product page; fiche technique not reachable (script-driven download). No Davco China fine repair mortar found."
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "Sika",
+   "brand": "ParexLanko",
+   "product": "760 LANKOPASSIV",
+   "type": "One-component waterproof passivating paint for reinforcing steel before repair with hydraulic mortars (EN 1504-7)",
+   "market": "France",
+   "source": {
+    "url": "https://www.parexlanko.com/produits/sheet/760-lankopassiv-3l",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "class": "conforms to EN 1504-7 (as stated on the product page)",
+    "components": "1 component ('monocomposant'), supplied liquid in 3 l pack; base not stated",
+    "adhesion": null,
+    "thickness": null,
+    "consumption": null,
+    "water": null,
+    "pot_life": null,
+    "overcoat": "recoatable after 2 hours ('recouvrable en 2 heures')",
+    "application_temp": null,
+    "packaging": "3 l",
+    "shelf_life": null
+   },
+   "charts": {
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "adhesion": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Corresponds as the EN 1504-7 rebar corrosion protection used before LANKOREP repair mortars; unlike ASOCRET-HS-FLEX it is not described as a cementitious powder nor as a bond coat (chemistry not stated). No values on the product page; FT not reachable. Davco China has no corrosion-protection product."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "Sika",
+   "brand": "ParexLanko",
+   "product": "222 LANKOFUGEANT",
+   "type": "Mineral waterproofing for interior and exterior masonry and concrete, buried or exposed, brush-applied in two coats directly on bricks and blocks",
+   "market": "France",
+   "source": {
+    "url": "https://www.parexlanko.com/produits/sheet/222-lankofugeant-25kg",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "components": null,
+    "positive_pressure": "pressure resistant ('résistance à la pression'; no value printed)",
+    "negative_pressure": null,
+    "adhesion": "very good adhesion to concrete (no value printed)",
+    "crack_bridging": null,
+    "consumption": null,
+    "thickness": "applied in 2 coats by brush (thickness not printed)",
+    "pot_life": null,
+    "overcoat": null,
+    "rainproof": null,
+    "application_temp": null,
+    "certification": null,
+    "packaging": "25 kg bag",
+    "shelf_life": null
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "consumption": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Closest ParexLanko counterpart to a rigid one-component waterproofing slurry (single 25 kg bag, brush-applied in two coats); component count not stated. Alternatives: 777 LANKOIMPER FIN (rigid TWO-component waterproofing and repair mortar for tanking/cuvelage, NF DTU 14.1, CE to NF EN 1504-2, 'excellent resistance to back-pressure', 26.75 kg) and 221 LANKO IMPER (10 mm thick-layer waterproofing render). Davco China's K11 general-purpose slurries are two-component polymer-cement products, hence not chosen. No numeric data on the page; FT not reachable."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "Sika",
+   "brand": "Davco",
+   "product": "德高K11超柔防水浆料(柔韧II型) — Davco K11 Super-Flexible Waterproofing Slurry (Flexible Type II)",
+   "type": "Two-component polymer-modified flexible cementitious waterproofing (powder + liquid)",
+   "market": "China",
+   "source": {
+    "url": "https://www.davco.cn/dgfsxl/328.html",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "components": "2 components (powder and liquid mixed before use), polymer-modified",
+    "crack_bridging": "high elongation bridging fine cracks (no value printed)",
+    "positive_pressure": null,
+    "negative_pressure": null,
+    "adhesion": "high bond strength, does not impair tile setting (no value printed)",
+    "elongation": null,
+    "vapour": null,
+    "co2": null,
+    "consumption": null,
+    "thickness": null,
+    "pot_life": null,
+    "application_temp": null,
+    "certification": "passed French 'A+' indoor air emission test (no GB/JC standard printed)",
+    "packaging": null,
+    "shelf_life": null
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": null,
+     "label": null
+    },
+    "positive_pressure": {
+     "v": null,
+     "label": null
+    },
+    "elongation": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Davco China (德高, 'a Sika Group brand' per davco.cn) — residential/light-commercial use (bathrooms, kitchens, balconies, pools, garages, exterior walls). The davco.cn product page prints no numerical data and links no TDS (customer service 400-800-9889). ParexLanko alternative: 228 LANKOLASTIC flexible micro-mortar (used for slot wp/OS) or 226 ERTO FLEX PLUS (flexible, for drinking-water reservoirs, Fascicule 74 class A/B)."
+  },
+  {
+   "slot": "wp/OS",
+   "group": "Sika",
+   "brand": "ParexLanko",
+   "product": "228 LANKOLASTIC",
+   "type": "Flexible micro-mortar for waterproofing concrete or rendered masonry; flexible waterproof coating to NF EN 1504-2",
+   "market": "France",
+   "source": {
+    "url": "https://www.parexlanko.com/produits/sheet/228-lankolastic-gris-28-8kg",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "components": null,
+    "crack_bridging": null,
+    "adhesion": null,
+    "vapour": null,
+    "co2": null,
+    "rainproof": null,
+    "consumption": null,
+    "thickness": null,
+    "pot_life": null,
+    "overcoat": null,
+    "application_temp": null,
+    "certification": "conforms to NF EN 1504-2 (flexible waterproof coating)",
+    "packaging": "14.4 kg and 28.8 kg packs (grey)",
+    "shelf_life": null
+   },
+   "charts": {
+    "co2": {
+     "v": null,
+     "label": null
+    },
+    "crack_bridging": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Flexible cementitious EN 1504-2 coating for water-retaining structures and negative-side (intrados) waterproofing of lift pits, cellars and buried parts. No OS 5b / Rili-SIB classification (French market) and no values on the product page; FT not reachable. No Davco OS-type product."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "Sika",
+   "brand": "Davco",
+   "product": "德高K11防水浆料(渗透结晶型) — Davco K11 Waterproofing Slurry (Crystalline Penetrating Type)",
+   "type": "Powdered inorganic crystalline (capillary) waterproofing slurry of Portland cement, active chemicals and fine silica sand",
+   "market": "China",
+   "source": {
+    "url": "https://www.davco.cn/dgfsxl/341.html",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "components": "1 component powder (Portland cement, special active chemicals, fine silica sand); water ratio not printed",
+    "negative_pressure": "waterproofing from the negative side; resists higher hydrostatic pressure (no value printed)",
+    "permeability": null,
+    "adhesion": null,
+    "capillary": null,
+    "vapour": null,
+    "consumption": null,
+    "coats": null,
+    "pot_life": null,
+    "recoat": null,
+    "curing": null,
+    "application_temp": null,
+    "drinking_water": "stated usable directly in drinking-water tanks and fish ponds (no approval/standard printed)",
+    "packaging": null,
+    "shelf_life": null
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "permeability": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "consumption": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Forms insoluble dendritic crystals on contact with water, self-healing; uses: basements, garages, subways, tunnels, reservoirs/dams, nuclear plants, ports, bathrooms, pools, drinking-water and sewage tanks. davco.cn prints no numerical data or GB 18445 classification and links no TDS (customer service 400-800-9889). ParexLanko has no crystalline slurry."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "Sika",
+   "brand": "Davco",
+   "product": "德高堵漏王 — Davco Leak-Stopping King (plugging compound)",
+   "type": "Ready-to-use, fast-setting cement-based plugging mortar; stops leaks under wet conditions and water pressure; slight expansion at final set",
+   "market": "China",
+   "source": {
+    "url": "https://www.davco.cn/dgfsxl/343.html",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "components": "1 component, ready-to-use cement-based powder, free of chlorides and carbonates; water ratio not printed",
+    "setting": "fast curing, slight expansion at final set (no times printed)",
+    "pot_life": null,
+    "compressive": null,
+    "consumption": null,
+    "application_temp": null,
+    "packaging": null,
+    "shelf_life": null
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Corresponds to the swellable rapid plugging mortar (expansion at set, shrinkage-compensated, high strength, seawater resistant) but davco.cn prints no values and no TDS. Davco also lists 德高水不漏1号 (rapid-setting special-cement waterproofing compound: final set 4–8 min at normal temperature, impermeability ≥ 1.5 MPa; https://www.davco.cn/dgfsxl/342.html) and 德高堵漏宝. ParexLanko France equivalent: 224 LANKO PLUG ('prise ultra-rapide', usable underwater, resists very high pressure; 5 kg / 25 kg; no values on the product page)."
+  },
+  {
+   "slot": "pf/GBM",
+   "group": "Sika",
+   "brand": "ParexLanko",
+   "product": "723 LANKOPOXY",
+   "type": "Pure epoxy resin for surface protection of concrete floors, primer and binder for epoxy mortars (CE to EN 13813)",
+   "market": "France",
+   "source": {
+    "url": "https://www.parexlanko.com/produits/sheet/723-lankopoxy-5kg",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "basis": "pure epoxy resin ('résine époxy pure'); CE marked to EN 13813",
+    "mix_ratio": null,
+    "viscosity": null,
+    "pot_life": null,
+    "overcoat": null,
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "max_moisture": null,
+    "consumption": "binder for epoxy mortars ('liant permettant la confection de mortiers époxy'); consumption not printed",
+    "application_temp": null,
+    "packaging": "1 kg and 5 kg",
+    "shelf_life": null
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "flexural": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Uses tagged on the page: primer, protection, repair, sealing; waterproof, very good chemical resistance. Small-pack (1/5 kg) trade product; no technical values on the product page, FT not reachable. Solvent content not stated. Davco China has no epoxy products."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "Sika",
+   "brand": "Master Builders Solutions",
+   "product": "MasterSeal® 502 (system MasterSeal 501/502)",
+   "type": "Cementitious crystalline re-profiling render / mortar, used with MasterSeal 501 for patch repairs and forming fillets",
+   "market": "Asia-Pacific / Middle East (mbcc.sika.com product pages)",
+   "source": {
+    "url": "https://mbcc.sika.com/en-sa/products/masterseal/masterseal-501502",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "class": "crystalline, one-component, part of the MasterSeal 501/502 crystalline capillary system (product page)",
+    "compressive": null,
+    "thickness": null,
+    "consumption": null,
+    "water": "mixed with water to a mortar consistency (quantity not printed)",
+    "pot_life": null,
+    "overcoat": null,
+    "application_temp": null,
+    "packaging": null,
+    "shelf_life": null
+   },
+   "charts": {
+    "pot_life": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "PROPOSED REPLACEMENT for the brief's MBS entry in this slot (SikaSet® Waterplug, ex-MasterSeal 590, is a rapid plugging mortar, not a crystalline repair mortar — it fits rc/F20, where it is already listed). Same product as the MBS entry for rc/IM; no TDS reachable, all values null."
+  }
+ ]
+}

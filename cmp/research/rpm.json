@@ -1,0 +1,1436 @@
+{
+ "agent": "RPM International group (Tremco CPG: Tremco, illbruck, Vandex, Nullifire, Volteco; Euclid Chemical; Flowcrete; Stonhard; Carboline; Prime Resins/USL)",
+ "accessed": "2026-10-24",
+ "ownership": [
+  {
+   "brand": "Vandex",
+   "group": "RPM",
+   "since": "2006 (RPM member); in Tremco CPG Europe since 2019; sold in Asia by Tremco CPG Asia-Pacific",
+   "evidence": "https://www.rpminc.com/leading-brands/construction-brands/vandex ; https://tremcocpg.eu/en-gb/about-us/our-history ; https://www.vandex.com (footer: (c) Tremco CPG Europe 2026; 'Vandex is the worldwide registered trademark'); Vandex brochure: 'Since 2006 Vandex has been a member of the RPM Group' (https://media.safeguardeurope.com/downloads/Brochures/Vandex-old/vandex-brochure.pdf, distributor-hosted)"
+  },
+  {
+   "brand": "Vandex (Australia/NZ)",
+   "group": "RPM (brand owner); Fosroc/Parchem (Saint-Gobain) only as licensed distributor",
+   "since": "n/a",
+   "evidence": "Fosroc Australia Product Guide: 'licensed distributors of a number of leading international brands including Vandex waterproofing products from Europe' (https://www.fosroc.com.au/sites/default/files/resources_file_storage/Fosroc-Product-Guide.pdf); Vandex BB75E-Z TDS (Fosroc AU, Oct 2023) names no manufacturer, only Parchem/Concrete Plus as suppliers"
+  },
+  {
+   "brand": "Tremco / illbruck / Nullifire (Tremco CPG)",
+   "group": "RPM",
+   "since": "illbruck acquired 2005 and merged with Tremco Europe (tremco illbruck); Tremco CPG Europe formed 2019",
+   "evidence": "https://tremcocpg.eu/en-gb/about-us/our-history"
+  },
+  {
+   "brand": "Euclid Chemical (incl. Eucomex, Toxement, Viapol grouped under The Euclid Group 2016)",
+   "group": "RPM",
+   "since": "RPM subsidiary (Construction Products Group); Euclid Group formed 2016 (acquisition year not verified)",
+   "evidence": "https://www.rpminc.com/leading-brands/construction-brands/euclid-chemical ; https://concreteproducts.com/index.php/2016/11/21/rpm-consolidates-building-construction-materials-under-euclid-umbrella/"
+  },
+  {
+   "brand": "Flowcrete",
+   "group": "RPM",
+   "since": "RPM brand; part of Tremco CPG Europe since 2019 and of Tremco CPG Asia-Pacific (acquisition year not verified)",
+   "evidence": "https://tremcocpg.eu/en-gb/about-us/our-history ; https://2021ar.rpminc.com/operating-segments/construction-products-group"
+  },
+  {
+   "brand": "Stonhard, Carboline",
+   "group": "RPM (Performance Coatings Group)",
+   "since": "PCG since RPM reorganisation of 1 June 2025",
+   "evidence": "https://www.pcimag.com/articles/114756-2026-global-top-10-no-5-rpm-international-inc"
+  },
+  {
+   "brand": "Prime Resins (USL Group)",
+   "group": "RPM",
+   "since": "January 2017",
+   "evidence": "https://www.adhesivesmag.com/articles/95197-rpm-acquires-prime-resins ; marketed in APAC by Tremco CPG: https://www.tremcocpg-asiapacific.com/about/prime-resins"
+  },
+  {
+   "brand": "Volteco",
+   "group": "RPM (Tremco CPG)",
+   "since": "1 October 2026 (closing; agreement 23 Sept 2026)",
+   "evidence": "https://www.pcimag.com/articles/115344-rpm-completes-acquisition-of-italian-waterproofing-supplier-volteco ; https://www.citybiz.co/?p=913045"
+  },
+  {
+   "brand": "Kemper System, Carboline (not used)",
+   "group": "RPM",
+   "since": "Carboline: Performance Coatings Group (pcimag 2026); Kemper System ownership not re-verified in this session",
+   "evidence": "https://www.pcimag.com/articles/114756-2026-global-top-10-no-5-rpm-international-inc"
+  }
+ ],
+ "entries": [
+  {
+   "slot": "inj/P4",
+   "group": "RPM",
+   "brand": "Euclid Chemical",
+   "product": "DURAL AQUA-FIL",
+   "type": "Hydrophilic polyurethane grout (single-component hydrophilic polyurethane compound)",
+   "market": "USA (Euclid Chemical global sheet)",
+   "source": {
+    "url": "https://euclidchemical.com/fileshare/ProductFiles/TDS/Dural_Aqua-Fil.pdf",
+    "version": "Rev. 10.23"
+   },
+   "values": {
+    "basis": "hydrophilic polyurethane compound, water-reactive",
+    "components": "1 (single-component; reacts with water injected/flushed through the crack, water pH 3–10)",
+    "mix_ratio": null,
+    "density": "liquid specific gravity 1.16; cured density 5 lb/ft³ (80 kg/m³) (ASTM D1622)",
+    "viscosity": "500 cps at 77 °F (25 °C) (ASTM D1638)",
+    "pot_life": "initial foam 30 s; reaction time 6 min",
+    "hardness": null,
+    "cure": "reaction time 6 min (initial foam 30 s); elongation 360 %, tensile strength 335 psi (2.3 MPa) (ASTM D638)",
+    "consumption": null,
+    "application_temp": null,
+    "certification": null,
+    "packaging": "5 gal (19 L) pail; 55 gal (208 L) drum",
+    "shelf_life": "3 years in original, unopened containers"
+   },
+   "charts": {
+    "viscosity": {
+     "v": null,
+     "label": "500 cps at +25 °C (not +20 °C)"
+    },
+    "hardness": {
+     "v": null,
+     "label": null
+    },
+    "cure": {
+     "v": null,
+     "label": "reaction time 6 min (no final-cure time printed)"
+    }
+   },
+   "notes": "Euclid has no two-component elastic (non-foaming) PU injection resin; Dural Aqua-Fil is its permanent, flexible hydrophilic PU grout for leaking and moving cracks and joints (360 % elongation), but it is a 1-component water-reactive foaming grout (cured density 80 kg/m³), so the correspondence to a 2-component soft-elastic resin is partial. Not on the Tremco CPG Asia-Pacific site; no application-temperature range printed (only: do not warm above 32 °C). Viscosity is at 25 °C, not 20 °C."
+  },
+  {
+   "slot": "inj/P1",
+   "group": "RPM",
+   "brand": "Euclid Chemical",
+   "product": "DURAL AQUA-DAM",
+   "type": "Hydrophobic polyurethane grout",
+   "market": "Asia-Pacific (Tremco CPG Malaysia Sdn Bhd sheet)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/Euclid-Chemical-TDS-Tremco-CPG_DURAL-AQUA-DAM.pdf?ext=.pdf",
+    "version": "Rev: 30/06/20"
+   },
+   "values": {
+    "basis": "hydrophobic polyurethane compound, water-reactive",
+    "components": "resin with added accelerator for fast reaction (component count not printed; US sheet: DURAL AQUACCELERATOR)",
+    "foam_expansion": null,
+    "cure": "reacts with water and forms a watertight seal within the substrate that remains after the water subsides; cured density 50 kg/m³ (ASTM D1622), elongation 30 %, tensile 0.16 MPa (ASTM D638)",
+    "consumption": null,
+    "application_temp": null,
+    "packaging": "18 kg pails",
+    "shelf_life": "1 year in original, unopened packages"
+   },
+   "charts": {
+    "foam_expansion": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Asia sheet prints viscosity 300–500 cps @ 25 °C (ASTM D1638), SG 1.1, injection pressure 200–300 psi; no expansion ratio, reaction time or application-temperature range printed (only: do not warm above 32 °C). The US sheet (Rev. 10.23, https://euclidchemical.com/fileshare/ProductFiles/TDS/Dural_Aqua-Dam.pdf) adds the accelerator dosage table (1.25 % → initial foam 50 s / reaction 3 min 20 s; 2.5 % → 15 s / 1 min 5 s), 19 L pail / 208 L drum and 3-year shelf life, but also no expansion figure."
+  },
+  {
+   "slot": "inj/P1",
+   "group": "RPM",
+   "brand": "Prime Resins",
+   "product": "Prime Flex 900 XLV",
+   "type": "Single-component, water-activated, hydrophilic, low-viscosity polyurethane injection resin",
+   "market": "USA (Prime Resins, Conyers GA; brand marketed in Asia-Pacific by Tremco CPG)",
+   "source": {
+    "url": "https://primeresins.com/media/9454/prime-flex-900-xlv-tds.pdf",
+    "version": "9.11.18, Rev. 06/03/2025"
+   },
+   "values": {
+    "basis": "polyurethane, water-activated, hydrophilic",
+    "components": "1 (no catalyst or accelerator needed); mixing ratio with water 2 parts resin : 1–2 parts water",
+    "foam_expansion": "up to 600 % unconfined; closed-cell watertight foam",
+    "cure": "initial reaction 30 s, full rise 1 min 50 s (73 °F / 23 °C); cured under pressure: tensile 450 psi, elongation 350 % (ASTM D-3574), shrinkage < 2 %",
+    "consumption": null,
+    "application_temp": "store and precondition material at 40–80 °F (4–27 °C); cold slows reaction",
+    "packaging": "1 gal jugs (case of 4); 5 gal pail; 2:1 Quick Mix cartridges (10 per case)",
+    "shelf_life": "24 months from date of manufacture (unopened)"
+   },
+   "charts": {
+    "foam_expansion": {
+     "v": null,
+     "label": "up to 600 % unconfined"
+    }
+   },
+   "notes": "Prime Resins is an RPM (USL Group) brand since 2017. Expansion is printed as a percentage (600 %), not as a multiple of volume, so no exact × value is charted. Also NSF/ANSI 61 compliant; viscosity 250–350 cps at 73 °F (23 °C); solids 88 %. Flexible foam (350 % elongation) — used both to stop active leaks and as a flexible seal."
+  },
+  {
+   "slot": "inj/IH",
+   "group": "RPM",
+   "brand": "Euclid Chemical",
+   "product": "DURAL 452 LV",
+   "type": "Two-component, 100 % solids, moisture-insensitive, high-strength, high-modulus, low-viscosity epoxy adhesive and binder (general bonding and crack injection)",
+   "market": "Asia-Pacific (Tremco CPG Malaysia Sdn Bhd sheet)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/Euclid-Chemical-TDS-Tremco-CPG-DURAL-452-LV.pdf?ext=.pdf",
+    "version": "Rev 30/06/20"
+   },
+   "values": {
+    "basis": "epoxy resin, two-component, 100 % solids, moisture-insensitive",
+    "mix_ratio": "2 : 1 by volume (A : B)",
+    "viscosity": "< 250 cp (mixed)",
+    "pot_life": "gel time 50 minutes (ASTM C 881)",
+    "tensile": "tensile strength 54.8 MPa, elongation 1.5 % (7 d, ASTM D 638); compressive 90.0 MPa (7 d, ASTM D 695); bond strength 14.6 MPa (2 d) / 15.5 MPa (14 d) (ASTM C 882); ASTM C 881-10 Types I & IV, Grade 1, Class C",
+    "application_temp": "surface and ambient 10–32 °C; material at least 10 °C and rising",
+    "packaging": "2 kg and 15 kg sets",
+    "shelf_life": "2 years in original, unopened package"
+   },
+   "charts": {
+    "viscosity": {
+     "v": null,
+     "label": "< 250 cp (temperature not stated)"
+    }
+   },
+   "notes": "Viscosity printed only as an upper bound with no temperature, so not charted. Heat deflection 52 °C (ASTM D 648); water absorption < 0.2 % (24 h, ASTM D 570). Not CE / EN 1504-5 — US ASTM C 881 classification."
+  },
+  {
+   "slot": "cr/BIS540",
+   "group": "RPM",
+   "brand": "Euclid Chemical",
+   "product": "EUCOPATCH 20",
+   "type": "Single-component, polymer-modified, cementitious repair mortar for vertical and overhead repair",
+   "market": "Asia-Pacific (Tremco CPG Malaysia Sdn Bhd sheet)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/Euclid-Chemical-TDS-Tremco-CPG_EUCOPATCH-20.pdf?ext=.pdf",
+    "version": "Rev 30/06/20"
+   },
+   "values": {
+    "class": null,
+    "compressive": "> 15 / > 35 / > 50 MPa (1 d / 7 d / 28 d; ASTM C 109, 50 mm cubes)",
+    "flexural": null,
+    "adhesion": "> 1.5 MPa (bond strength; test standard not stated)",
+    "e_modulus": null,
+    "chloride": null,
+    "capillary": null,
+    "carbonation": null,
+    "thickness": "min. 5 mm per placement; layers up to 20 mm thick",
+    "consumption": "one 25 kg bag covers approx. 1.0 m² at an average depth of 14 mm (yield 0.014 m³ per bag)",
+    "water": "3.4–3.5 L per 25 kg bag",
+    "pot_life": "mix only as much as can be used within 10 minutes",
+    "overcoat": null,
+    "application_temp": "materials 16–32 °C for mixing; do not use below 7 °C",
+    "packaging": "25 kg bags",
+    "shelf_life": "1 year in original, unopened package"
+   },
+   "charts": {
+    "compressive": {
+     "v": 50,
+     "label": "> 50 MPa (28 d, ASTM C 109)"
+    },
+    "e_modulus": {
+     "v": null,
+     "label": null
+    },
+    "thickness": {
+     "v": 5,
+     "label": "min. 5 mm per placement"
+    },
+    "consumption": {
+     "v": null,
+     "label": "≈ 1.0 m² per 25 kg bag at 14 mm"
+    }
+   },
+   "notes": "Asia-Pacific Euclid repair mortar; no EN 1504-3 class, E-modulus, chloride, capillary or carbonation data printed (ASTM-based sheet). Water absorption < 3 % (at 30 mm); density approx. 2.0 kg/L. Compressive value is a lower bound (> 50 MPa)."
+  },
+  {
+   "slot": "cr/BIS540",
+   "group": "RPM",
+   "brand": "Volteco",
+   "product": "FIBROMIX 40",
+   "type": "Fibre-reinforced, thixotropic repair mortar with medium modulus of elasticity and controlled shrinkage, for structural repair of reinforced concrete",
+   "market": "Italy / Europe (Volteco S.p.A.)",
+   "source": {
+    "url": "https://volteco.com/wp-content/uploads/2026/04/TS_FIBROMIX-40_92_EN.pdf",
+    "version": "Technical Data Sheet n.25, 04/26 (DoP 0005)"
+   },
+   "values": {
+    "class": "EN 1504-3 class R4 (structural and non-structural repair), DoP 0005; reaction to fire Euroclass A1 (EN 13501-1)",
+    "compressive": "55.6 MPa (28 d, UNI EN 12190; requirement ≥ 45 MPa)",
+    "flexural": "8.3 MPa (28 d); requirements > 4.5 / > 5.5 / > 6.5 MPa at 1 / 7 / 28 d",
+    "adhesion": "2.03 MPa (UNI EN 1542; requirement ≥ 2.0 MPa)",
+    "e_modulus": "27.5 GPa (UNI EN 13412)",
+    "chloride": "0.00 % (UNI EN 1015-17; requirement ≤ 0.05 %)",
+    "capillary": "0.03 kg·m⁻²·h⁻⁰·⁵ (UNI EN 13057)",
+    "carbonation": "requirement fulfilled (UNI EN 13295)",
+    "thickness": "max. 3 cm per layer (no minimum printed)",
+    "consumption": "18 kg/m² per cm of thickness (1.8 kg/m² per mm)",
+    "water": "4–4.5 l per 25 kg bag (16–18 % by weight)",
+    "pot_life": "workability time 20 minutes at +20 °C",
+    "overcoat": "≥ 60 minutes between layers (roughen the base layer); overcoating (CP SYSTEM, X-LIME) no sooner than 24 hours",
+    "application_temp": "+5 to +30 °C",
+    "packaging": "25 kg bags",
+    "shelf_life": "18 months in original packaging"
+   },
+   "charts": {
+    "compressive": {
+     "v": 55.6,
+     "label": "55.6 MPa (28 d, UNI EN 12190)"
+    },
+    "e_modulus": {
+     "v": 27.5,
+     "label": "27.5 GPa (UNI EN 13412)"
+    },
+    "thickness": {
+     "v": null,
+     "label": "no minimum printed (max. 30 mm/layer)"
+    },
+    "consumption": {
+     "v": 1.8,
+     "label": "1.8 kg/m² per mm"
+    }
+   },
+   "notes": "Volteco (Italy) has been an RPM / Tremco CPG brand only since 1 Oct 2026; product not (yet) on the Tremco CPG Asia-Pacific site. Thermal compatibility (adhesion after cycling): 2.57 MPa freeze-thaw (EN 13687-1), 3.46 MPa thermal shock (EN 13687-2), 2.63 MPa dry cycling (EN 13687-4). Max. aggregate 1.2 mm."
+  },
+  {
+   "slot": "cr/BIS16",
+   "group": "RPM",
+   "brand": "Volteco",
+   "product": "FIBROeRASO",
+   "type": "Semi-rapid, thixotropic mortar with medium modulus of elasticity, based on sulfoaluminate cement and synthetic microfibres, for structural repair, smoothing and protection of reinforced concrete",
+   "market": "Italy / Europe (Volteco S.p.A.)",
+   "source": {
+    "url": "https://volteco.com/wp-content/uploads/2026/04/TS_FIBROeRASO_585_EN.pdf",
+    "version": "Technical Data Sheet n.89, 04/26 (DoP 0037)"
+   },
+   "values": {
+    "class": "EN 1504-3 class R4 (CC); also EN 1504-2 surface protection (MC, IR); reaction to fire Euroclass A1",
+    "compressive": "50.7 MPa (28 d, EN 12190; requirement ≥ 45 MPa)",
+    "flexural": "requirements > 1.0 / > 3.5 / > 5.5 / > 6.5 MPa at 3 h / 1 d / 7 d / 28 d (EN 196-1); certified values not listed",
+    "adhesion": "2.17 MPa (EN 1542; requirement ≥ 2.0 MPa)",
+    "chloride": "0.01 % (EN 1015-17)",
+    "capillary": "0.35 kg·m⁻²·h⁻⁰·⁵ (EN 13057); 0.01 kg·m⁻²·h⁻⁰·⁵ (EN 1062-3)",
+    "thickness": "1–40 mm in a single coat",
+    "consumption": "17.5 kg/m² per cm of thickness (1.75 kg/m² per mm)",
+    "water": "3.2–3.4 l per 20 kg bag (16–17 % by weight)",
+    "pot_life": "workability time 20 minutes at +20 °C",
+    "overcoat": "≥ 30 minutes between layers; overcoat with CP1 / CP0 no sooner than 4 hours",
+    "application_temp": "+5 to +30 °C",
+    "packaging": "20 kg bags",
+    "shelf_life": "18 months in original packaging"
+   },
+   "charts": {
+    "compressive": {
+     "v": 50.7,
+     "label": "50.7 MPa (28 d, EN 12190)"
+    },
+    "thickness": {
+     "v": 40,
+     "label": "1–40 mm in a single coat"
+    },
+    "pot_life": {
+     "v": 20,
+     "label": "20 min at +20 °C"
+    }
+   },
+   "notes": "Closest RPM fine repair/smoothing mortar (max. aggregate 0.6 mm, from 1 mm), but it is classed R4 and is semi-rapid (sulfoaluminate) — stronger class and shorter working time than an R2 smoothing mortar. Volteco is RPM since 1 Oct 2026. E-modulus 21.1 GPa (EN 13412); vapour permeability Sd = 0.52 m. Euclid (Asia: VersaSpeed M is a self-levelling horizontal 4–15 mm mortar) and Vandex have no corresponding R2 fine smoothing mortar."
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "RPM",
+   "brand": "Euclid Chemical",
+   "product": "EUCOPATCH P",
+   "type": "One-part cementitious bonding agent and anti-corrosion coating for reinforcing steel (Portland cement with silica fume and corrosion inhibitor)",
+   "market": "Asia-Pacific (Tremco CPG Malaysia Sdn Bhd sheet)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/Euclid-Chemical-TDS-Tremco-CPG_EUCOPATCH-P.pdf?ext=.pdf",
+    "version": "Rev 30/06/20"
+   },
+   "values": {
+    "class": null,
+    "components": "1 (Portland cement + silica fume + corrosion inhibitor)",
+    "adhesion": "bond strength 2.7 MPa at 10 days (ASTM C 882)",
+    "thickness": "bonding agent: one brush coat; reinforcement protection: two coats (2 mm each in the application section; 1 mm per coat in the coverage section)",
+    "consumption": "bonding mortar approx. 1.65 kg/m² per coat; reinforcement protection approx. 1.65 kg/m² per 1 mm coat, two coats",
+    "water": null,
+    "pot_life": null,
+    "overcoat": "repair mortar applied wet-on-wet onto the bonding slurry; two anti-corrosion coats before the repair mortar (no waiting time printed)",
+    "application_temp": "surface and ambient 7–32 °C; material at least 7 °C and rising",
+    "packaging": "25 kg bags",
+    "shelf_life": "1 year in original, unopened packaging"
+   },
+   "charts": {
+    "pot_life": {
+     "v": null,
+     "label": "'long open time' (no figure)"
+    },
+    "adhesion": {
+     "v": null,
+     "label": "2.7 MPa slant-shear bond (ASTM C 882), not EN 1542 pull-off"
+    }
+   },
+   "notes": "No EN 1504-7 declaration on the Asia sheet. Compressive strength 9.3 / 34.0 / 46.0 MPa (1 / 7 / 28 d, ASTM C 109); flexural 5.8 MPa (28 d, ASTM C 348). The sheet is internally inconsistent on coat thickness (2 mm vs 1 mm per coat). Water quantity not printed ('correct proportion of water')."
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "RPM",
+   "brand": "Volteco",
+   "product": "SANOFER",
+   "type": "Cement-based protective coating for reinforcement rods (barrier-type), single-component",
+   "market": "Italy / Europe (Volteco S.p.A.)",
+   "source": {
+    "url": "https://volteco.com/wp-content/uploads/2024/05/TS_SANOFER_90_EN.pdf",
+    "version": "Technical Data Sheet n.23, 04/26"
+   },
+   "values": {
+    "class": "EN 1504-7:2007 (1381-CPR-1160); corrosion protection UNI EN 15183: no corrosion; shear adhesion UNI EN 15184: fulfilled",
+    "components": "1 (ready-to-use powder; mixing water only)",
+    "adhesion": "shear adhesion of coated bar ≥ 80 % of uncoated bar (UNI EN 15184) — fulfilled",
+    "thickness": "ideal protective thickness 200–300 µm; 2 coats of 200 µm",
+    "consumption": "approx. 30 g/m on Ø 8 mm bars; approx. 60 g/m on Ø 16 mm bars",
+    "water": "0.25 l per 1 kg (25 % by weight)",
+    "pot_life": "workability 20 minutes at +20 °C",
+    "overcoat": null,
+    "application_temp": "not below +5 °C",
+    "packaging": "1 kg pails",
+    "shelf_life": "18 months in original packaging"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 20,
+     "label": "20 min at +20 °C"
+    },
+    "adhesion": {
+     "v": null,
+     "label": "EN 15184 shear adhesion (not EN 1542 pull-off)"
+    }
+   },
+   "notes": "Rebar corrosion protection only (EN 1504-7); not declared as a bond coat. Volteco is RPM since 1 Oct 2026."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "RPM",
+   "brand": "Vandex",
+   "product": "VANDEX UNI MORTAR 1",
+   "type": "Cementitious, ready-mixed waterproofing and repairing mortar (horizontal and vertical; coves, fillets, local repairs)",
+   "market": "Global (Vandex International, Switzerland; listed in Tremco CPG Asia-Pacific Vandex brochure)",
+   "source": {
+    "url": "https://www.vandex.com/media/12132/e-ds-vandex-uni-mortar-1.pdf",
+    "version": "VXDS008E1114"
+   },
+   "values": {
+    "class": "EN 1504-3 CC structural repair mortar (hydraulic cement), class R3; carbonation resistance passed; not declared crystalline",
+    "compressive": "approx. 40 MPa (28 d); declared class R3 (≥ 25 MPa)",
+    "thickness": "min. 6 mm, max. 12 mm per working cycle; thicker for small areas such as coves, fillets, local repairs and shutter-tie holes",
+    "consumption": "approx. 2 kg/m² per mm; pressureless water 12–16 kg/m² (6–8 mm); water under pressure 16–24 kg/m² (8–12 mm)",
+    "water": "3–4 l per 25 kg",
+    "pot_life": "workability approx. 45 min at 20 °C (setting approx. 5–6 h)",
+    "overcoat": "next coat while the previous is still damp (previous coat textured while plastic); ≥ 28 days before painting or coating",
+    "application_temp": "not below +5 °C; not on frozen substrate",
+    "packaging": "25 kg PE-lined paper bag",
+    "shelf_life": "12 months (dry, unopened)"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 45,
+     "label": "approx. 45 min at 20 °C"
+    }
+   },
+   "notes": "Vandex has no crystalline crack/cove repair mortar; Uni Mortar 1 is the Vandex system's waterproofing and reprofiling mortar for fillets/coves (cracks are not listed as an application; leaks are stopped first with VANDEX PLUG). Not on the Tremco CPG Asia-Pacific product pages (only in its Vandex brochure, which states 6–12 mm per cycle and drinking-water testing). Flexural approx. 6 MPa; adhesive bond 2.0 MPa; E-modulus 20 GPa declared / approx. 24 GPa static; capillary 0.5 declared / 0.08 kg/m²·h⁰·⁵ measured; chloride 0.05 %."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "RPM",
+   "brand": "RPM (all brands)",
+   "none": true,
+   "reason": "No crystalline repair mortar for chased cracks and coves in the Vandex, Euclid Chemical, Tremco or Volteco ranges; Vandex's nearest product is VANDEX UNI MORTAR 1, a non-crystalline R3 waterproofing/reprofiling mortar for fillets and coves (entered under cr/IM), and the Vandex Super sheets only say larger cracks must be removed/made good."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "RPM",
+   "brand": "Vandex",
+   "product": "VANDEX SUPER",
+   "type": "Cementitious, ready-mixed in-depth (crystalline) waterproofer based on grey Portland cement, quartz sand and active chemicals",
+   "market": "Asia-Pacific (Vandex International sheet hosted by Tremco CPG Asia-Pacific)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/e_ds_VANDEX_SUPER.pdf?ext=.pdf",
+    "version": "VXDS001E1214"
+   },
+   "values": {
+    "components": "1 component, ready-mixed powder; 5 parts powder : approx. 2 parts water by volume (approx. 7–8.5 l per 25 kg)",
+    "negative_pressure": "suited to positive and negative water pressure (no pressure value printed)",
+    "permeability": null,
+    "adhesion": "0.8 MPa (adhesive bond, EN 1504-3 declaration)",
+    "capillary": "0.5 kg/m²·h⁰·⁵ (declared)",
+    "vapour": "allows water vapour to pass through the structure (no value printed)",
+    "consumption": "slab, water pressure: 1.2 kg/m² (1 coat); slab, moisture: 0.8 kg/m² (1 coat); walls, water pressure: 1.5 kg/m² (2 coats); construction joints: 1.5 kg/m² (1 coat)",
+    "coats": "1 (slabs, construction joints) or 2 (walls under water pressure)",
+    "pot_life": "workability approx. 30 min at 20 °C (setting 1–2 h)",
+    "recoat": "each coat applied while the previous one is still damp",
+    "curing": "keep damp ≥ 5 days, protect from sun, wind and frost; protect from rain ≥ 24 h; backfilling after 3 days; water-retaining structures filled usually after 14 days (after 7 days if checked for hardness)",
+    "application_temp": "not below +5 °C; not on frozen substrate",
+    "drinking_water": "approved for drinking-water structures; tested for contact with drinking water (no certificate named)",
+    "packaging": "25 kg PE-lined paper bag",
+    "shelf_life": "12 months (dry, unopened)"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": "no value printed"
+    },
+    "permeability": {
+     "v": null,
+     "label": "not on this sheet (Euclid US sheet: no leakage at 200 psi / 13.8 bar, CRD-C 48-92)"
+    },
+    "pot_life": {
+     "v": 30,
+     "label": "approx. 30 min at 20 °C"
+    },
+    "consumption": {
+     "v": 1.5,
+     "label": "1.5 kg/m², walls under water pressure, 2 coats"
+    }
+   },
+   "notes": "Also applicable by dry-sprinkle on slabs. Declared: compressive class R3 (25 MPa), E-modulus 20 GPa, chloride 0.05 %, fire class A1. The newer global sheet (VX.DS.001.en.2011, https://www.vandex.com/media/12130/en_ds_vandex_super.pdf) declares R2 (≥ 15 MPa), 39 MPa measured, bond 1.4 MPa (28 d). Euclid Chemical makes/sells VANDEX SUPER under licence in North America (sheet Rev. 12.24, https://euclidchemical.com/fileshare/ProductFiles/TDS/Vandex_Super-Super_White.pdf): CRD-C 48-92 no leakage after 14 days at 200 psi (13.8 bar); DIN 1048 average penetration 9 mm at 72 psi (5.0 bar), 72 h; 22.7 kg bag with 6.6–7.6 L water; 29.7 m²/bag per coat (two coats) on walls; working time approx. 60 min at 22 °C; NSF/ANSI 61; compressive 24.1 MPa (28 d, ASTM C109). Use the US figures only with the US sheet as source."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "RPM",
+   "brand": "Volteco",
+   "product": "BI MORTAR CONCRETE SEAL",
+   "type": "Crystalline cross-linking cement-based waterproofing product (brush/roller, two coats)",
+   "market": "Italy / Europe (Volteco S.p.A.)",
+   "source": {
+    "url": "https://volteco.com/wp-content/uploads/2026/07/TS_BI-MORTAR-CONCRETE-SEAL_431_EN.pdf",
+    "version": "Technical Data Sheet n.76, 08/26 (DoP 0028)"
+   },
+   "values": {
+    "components": "1 component powder + water: 100 : 28 by weight (approx. 5.6 l per 20 kg bag)",
+    "negative_pressure": "9 bar negative pressure, no passage of water (UNI EN 12390-8; IMM SA, concrete w/c 0.7)",
+    "permeability": "UNI EN 12390-8: no passage of water at 9 bar (negative side)",
+    "adhesion": "2.65 MPa (UNI EN 1542; requirement ≥ 1 MPa)",
+    "capillary": "0.002 kg·m⁻²·h⁻⁰·⁵ (UNI EN 1062-3; requirement ≤ 0.1)",
+    "vapour": "Class I, Sd 1.06 m (UNI EN 7783-2)",
+    "consumption": "2.5–3 kg/m² (20 kg bag covers approx. 8–10 m²)",
+    "coats": "two",
+    "pot_life": "20 minutes at +20 °C",
+    "recoat": "second coat when the first is sufficiently hard — normally the next day, not sooner than 8 hours (dampen first); not wet-in-wet",
+    "curing": "≥ 24 h before backfilling foundation walls; ≥ 3 days before protective layers/finishes; ≥ 7 days before filling water-retaining structures",
+    "application_temp": "+5 to +30 °C (not if frost expected within 24 h)",
+    "drinking_water": null,
+    "packaging": "20 kg bags",
+    "shelf_life": "18 months in original packaging"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": 9,
+     "label": "9 bar, UNI EN 12390-8 (negative side)"
+    },
+    "permeability": {
+     "v": null,
+     "label": "EN 12390-8 9 bar (not CRD-C 48)"
+    },
+    "pot_life": {
+     "v": 20,
+     "label": "20 min at +20 °C"
+    },
+    "consumption": {
+     "v": 2.75,
+     "label": "2.5–3 kg/m², two coats"
+    }
+   },
+   "notes": "Volteco is RPM since 1 Oct 2026. EN 1504-2 (MC, IR) declaration; fire class A1; compressive > 10 / > 25 / > 30 MPa (1 / 7 / 28 d, UNI EN 12190). Listed by Volteco among 'waterproof mortars' but applied as a two-coat brush coating like a crystalline slurry."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "RPM",
+   "brand": "Vandex",
+   "product": "VANDEX PLUG",
+   "type": "Cementitious, ready-mixed, rapid-setting compound to stop water and moisture ingress",
+   "market": "Asia-Pacific (Vandex International sheet hosted by Tremco CPG Asia-Pacific)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/e_ds_VANDEX_PLUG.pdf?ext=.pdf",
+    "version": "VXIDS010E0715"
+   },
+   "values": {
+    "components": "1 component (grey powder); approx. 0.25 l water per 1 kg (20 °C); may also be used dry",
+    "setting": "sets approx. 30 seconds after mixing",
+    "pot_life": "application time approx. 30 s after mixing (mixing time approx. 15 s)",
+    "compressive": null,
+    "consumption": "approx. 0.3 kg per water leak",
+    "application_temp": "+5 to +25 °C",
+    "packaging": "5 kg and 15 kg resealable plastic buckets",
+    "shelf_life": "12 months (dry, unopened)"
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": 0.5,
+     "label": "approx. 30 s"
+    }
+   },
+   "notes": "No strength or expansion data on the sheet; bulk density approx. 1.2 kg/l. Usable under water where accessible."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "RPM",
+   "brand": "Tremco",
+   "product": "TREMproof SP",
+   "type": "Rapid-setting hydraulic cement compound for stopping running water or seepage in masonry or concrete",
+   "market": "Asia-Pacific (Tremco CPG Asia-Pacific)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/TDS-Tremco-CPG-APAC-TREMproof-SP.pdf?ext=.pdf",
+    "version": "REV 24/04/20"
+   },
+   "values": {
+    "components": "1 component, ready to use; approx. 1.2–1.5 kg water per 5 kg",
+    "setting": "initial set 1–3 minutes; flash set 60–90 seconds after mixing",
+    "pot_life": null,
+    "compressive": "9.0 N/mm² (1 h); 25.0 N/mm² (1 d); 50.0 N/mm² (28 d) (test standard not stated)",
+    "consumption": "5 kg yields approx. 0.0025 m³",
+    "application_temp": null,
+    "packaging": "5 kg plastic pails",
+    "shelf_life": "6 months in original, unopened package"
+   },
+   "charts": {
+    "compressive": {
+     "v": 25,
+     "label": "25.0 N/mm² at 1 day"
+    },
+    "pot_life": {
+     "v": null,
+     "label": "not stated (mix ≤ 30 s; flash set 60–90 s)"
+    }
+   },
+   "notes": "Controlled expansion (no figure); flexural 10 N/mm² (28 d). No application-temperature range printed (not on frozen surfaces)."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "RPM",
+   "brand": "Vandex",
+   "product": "VANDEX BB 75 Z",
+   "type": "Cementitious waterproofing slurry (cement, graded quartz, selected additives) for sewage treatment plants",
+   "market": "Asia-Pacific (Vandex International sheet hosted by Tremco CPG Asia-Pacific)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/e_ds_VANDEX_BB_75_Z.pdf?ext=.pdf",
+    "version": "VXDS070E1114"
+   },
+   "values": {
+    "components": "1 component, ready-mixed powder; 4.5–6 l water per 25 kg",
+    "positive_pressure": "resists active and passive water pressure (no pressure value printed)",
+    "negative_pressure": "resists passive water pressure (no pressure value printed)",
+    "adhesion": "2.0 MPa (adhesive bond, EN 1504-3 declaration)",
+    "crack_bridging": null,
+    "consumption": "pressureless water 3–4 kg/m² (approx. 1.5–2 mm); water under pressure 4–6 kg/m² (approx. 2–3 mm, depending on pressure)",
+    "thickness": "max. 2 mm (approx. 4 kg/m²) per working cycle; total approx. 1.5–2 mm (pressureless) / 2–3 mm (under pressure)",
+    "pot_life": "workability approx. 45 min at 20 °C",
+    "overcoat": "next coat while the previous coat is still damp (depends on local climate); keyed while plastic",
+    "rainproof": "protect from rain for min. 24 h (setting approx. 5–8 h at 20 °C)",
+    "application_temp": "not below +5 °C; not on frozen substrate",
+    "certification": "EN 1504-3 (CC fine mortar for structural repair), CE, notified body 0761; tested for contact with drinking water",
+    "packaging": "25 kg PE-lined paper bag",
+    "shelf_life": "12 months (dry, unopened)"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": "no value printed"
+    },
+    "pot_life": {
+     "v": 45,
+     "label": "approx. 45 min at 20 °C"
+    },
+    "consumption": {
+     "v": 2.0,
+     "label": "approx. 4 kg/m² per 2 mm working cycle"
+    }
+   },
+   "notes": "Re-source of the existing 'Fosroc (Vandex) — Vandex BB75-Z' entry: Vandex is an RPM / Tremco CPG brand; Fosroc/Parchem (Saint-Gobain) is only the licensed distributor in Australia/NZ, so relabel as RPM — Vandex. Declared: compressive class R3 (25 MPa), approx. 40 MPa (28 d); bending tensile approx. 6 MPa; E-modulus 20 GPa declared / approx. 28 GPa static; capillary 0.5 declared / 0.08 kg/m²·h⁰·⁵ measured; carbonation passed; fire class A1. BB 75 Z is the sewage-plant variant of VANDEX BB 75 (see second entry)."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "RPM",
+   "brand": "Vandex",
+   "product": "VANDEX BB 75",
+   "type": "Grey cementitious, ready-mixed surface waterproofer / waterproofing slurry (cement, graded quartz, selected additives)",
+   "market": "Asia-Pacific (Vandex International sheet hosted by Tremco CPG Asia-Pacific)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/e_ds_VANDEX_BB_75.pdf?ext=.pdf",
+    "version": "VXDS005E1114"
+   },
+   "values": {
+    "components": "1 component, ready-mixed powder; 4.5–6 l water per 25 kg",
+    "positive_pressure": "for active and passive water pressure (no pressure value printed)",
+    "negative_pressure": "for passive water pressure (no pressure value printed)",
+    "adhesion": "2.0 MPa (adhesive bond, EN 1504-3 declaration)",
+    "crack_bridging": null,
+    "consumption": "pressureless water 3–4 kg/m² (1.5–2 mm); water under pressure 4–6 kg/m² (2–3 mm, depends on pressure)",
+    "thickness": "max. 2 mm (approx. 4 kg/m²) per working cycle; total 1.5–2 mm (pressureless) / 2–3 mm (under pressure)",
+    "pot_life": "workability approx. 45 min at 20 °C",
+    "overcoat": "next coat while the previous coat is still damp (depends on local climate)",
+    "rainproof": "protect from rain for min. 24 h (setting approx. 5–8 h at 20 °C)",
+    "application_temp": "not below +5 °C; not on frozen substrate",
+    "certification": "EN 1504-3:2005/ZA.1a (CC fine mortar for structural repair), CE, notified body 0761; tested for contact with drinking water",
+    "packaging": "25 kg PE-lined paper bag",
+    "shelf_life": "12 months (dry, unopened)"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": "no value printed"
+    },
+    "pot_life": {
+     "v": 45,
+     "label": "approx. 45 min at 20 °C"
+    },
+    "consumption": {
+     "v": 2.0,
+     "label": "approx. 4 kg/m² per 2 mm working cycle (wet density approx. 2.0 kg/l)"
+    }
+   },
+   "notes": "General-purpose standard grade sold by Tremco CPG Asia-Pacific (foundations, slabs, retaining walls, drinking-water structures, rebar corrosion protection); BB 75 Z is the sewage-plant variant. Listed as a second Vandex entry because the existing comparison uses BB 75 Z (Australian assortment) while the standard Asian product is BB 75 — choose one. Wet density approx. 2.0 kg/l; compressive approx. 40 MPa (28 d), class R3; capillary 0.06 kg/m²·h⁰·⁵ measured; freeze-thaw with de-icing salt 2.0 MPa; carbonation passed."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "RPM",
+   "brand": "Tremco",
+   "product": "TREMproof M",
+   "type": "Two-part, polymer-modified cementitious waterproofing slurry and protective coating for concrete and masonry (rigid waterproofing)",
+   "market": "Asia-Pacific (Tremco CPG Asia-Pacific)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/Downloaded%20TDS/TDS-Tremco-CPG-APAC-TREMproof-M.pdf?ext=.pdf",
+    "version": "REV15/06/23"
+   },
+   "values": {
+    "components": "2 parts: Part A liquid polymer 5 kg + Part B cement powder 20 kg (25 kg set; trowel application with 90 % of Part A)",
+    "positive_pressure": null,
+    "negative_pressure": null,
+    "adhesion": "> 0.60 N/mm² (ASTM D4541)",
+    "crack_bridging": null,
+    "consumption": "per coat: 1.0 kg/m² (bathrooms, balconies, terraces); 1.5 kg/m² (water head up to 1 m); 2.0 kg/m² (water head > 1 m; protective coating); min. 2 coats",
+    "thickness": null,
+    "pot_life": "approx. 30 minutes at 30 °C",
+    "overcoat": "approx. 4–8 hours (above 20 °C) before the second coat; floors: second coat within 24 h",
+    "rainproof": null,
+    "application_temp": null,
+    "certification": "SPAN approved (SPAN/BPAI/300-10/1725/B/W-3); suitable for contact with drinking water",
+    "packaging": "25 kg set (Part A 5 kg, Part B 20 kg)",
+    "shelf_life": "12 months from production date"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": null,
+     "label": "approx. 30 min at 30 °C (not +20 °C)"
+    },
+    "consumption": {
+     "v": null,
+     "label": "per coat only, no per-mm figure"
+    }
+   },
+   "notes": "Two-component (not one-component like AQUAFIN-1K), but Tremco's rigid cementitious waterproofing slurry for Asia (Malaysian SPAN potable-water approval). Compressive > 20 N/mm² (28 d, EN 12190); flexural > 7.0 N/mm² (EN 196-1); water absorption < 0.1 kg/m²·h⁰·⁵ (EN 1062-3); fresh density 1.80–1.90 kg/L. No pressure rating in bar printed (consumption by water head ≤ 1 m / > 1 m)."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "RPM",
+   "brand": "Vandex",
+   "product": "VANDEX BB 75 E Z",
+   "type": "Two-component, polymer-modified cementitious waterproofing slurry for concrete and masonry (for open sedimentation tanks and open channels)",
+   "market": "Global (Vandex International, Switzerland)",
+   "source": {
+    "url": "https://www.vandex.com/media/12100/e-ds-vandex-bb-75-e-z.pdf",
+    "version": "VX.DS.163.en.1705"
+   },
+   "values": {
+    "components": "2: VANDEX BB 75 Z powder 25 kg + VANDEX ELASTICIZER PK 75 liquid 10 kg (25 : 10 by weight)",
+    "crack_bridging": "0.8 mm at 20 °C; class A3 (20 °C) (EN 1504-2 CE data)",
+    "positive_pressure": null,
+    "negative_pressure": null,
+    "adhesion": "0.8 MPa",
+    "elongation": null,
+    "vapour": "class I, sD < 5 m",
+    "co2": "sD > 50 m",
+    "consumption": "pressureless water 2.5–3.5 kg/m² (1–2 layers); water under pressure 3.5–5.5 kg/m² (2–3 layers, depending on pressure); max. 4 kg/m² per working cycle",
+    "thickness": null,
+    "pot_life": "workability approx. 30 min at 20 °C (setting approx. 3–6 h)",
+    "application_temp": "not below +5 °C; not on frozen substrate",
+    "certification": "EN 1504-2:2004 (ZA.1d, ZA.1e) surface protection coating, CE, notified body 0761; reaction to fire class E",
+    "packaging": "25 kg PE-lined paper bag (powder) + 10 kg PE container (liquid)",
+    "shelf_life": "12 months (powder dry, liquid frost-free; unopened)"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": 0.8,
+     "label": "0.8 mm at +20 °C, class A3 (EN 1504-2 / EN 1062-7 static), not EN 14891 / ASTM C836"
+    },
+    "positive_pressure": {
+     "v": null,
+     "label": "no value on the Vandex sheet"
+    },
+    "elongation": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Re-source of the existing 'Fosroc (Vandex) — Vandex BB75E-Z' entry: Vandex is an RPM / Tremco CPG brand; Fosroc/Parchem is only the licensed distributor in Australia/NZ. The Vandex manufacturer sheet does NOT print the 7.0 bar water-pressure figure, AS 4020 potable-water approval or the 2.0/2.5 mm minimum thickness found on the Fosroc Australia sheet (Oct 2023) — those come from the distributor's sheet only. Capillary w < 0.1 kg/m²·h⁰·⁵; wet density approx. 1.7 kg/l; backfilling after 3 days; protect from rain ≥ 24 h. Tremco CPG Asia-Pacific sells VANDEX CEMELAST (second entry) rather than BB 75 E Z."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "RPM",
+   "brand": "Vandex",
+   "product": "VANDEX CEMELAST",
+   "type": "Two-component, polymer-modified cementitious surface treatment / elasticised waterproofing slurry (VANDEX BB 75 + VANDEX CEMELAST LIQUID)",
+   "market": "Asia-Pacific (Vandex International sheet hosted by Tremco CPG Asia-Pacific)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/e_ds_VANDEX_CEMELAST.pdf?ext=.pdf",
+    "version": "VX.DS.151.en.1708"
+   },
+   "values": {
+    "components": "2: VANDEX BB 75 powder 25 kg + VANDEX CEMELAST LIQUID 9 kg (25 : 9 by weight)",
+    "crack_bridging": "0.4 mm at +20 °C; class A2 (20 °C)",
+    "positive_pressure": null,
+    "negative_pressure": null,
+    "adhesion": "0.8 MPa",
+    "elongation": "approx. 13 % (tear resistance approx. 0.9 MPa)",
+    "vapour": "class II, 5 m < sD < 50 m",
+    "co2": "sD > 50 m (active CO₂ barrier)",
+    "consumption": "pressureless water 2.5–3.5 kg/m² (1–2 layers); water under pressure 3.5–5.5 kg/m² (2–3 layers, depending on pressure); max. 4 kg/m² per working cycle",
+    "thickness": null,
+    "pot_life": "workability approx. 30 min at 20 °C (setting approx. 3–6 h)",
+    "application_temp": "not below +5 °C; not on frozen substrate",
+    "certification": "EN 1504-2:2004 (ZA.1d, ZA.1e), CE, notified body 0761; reaction to fire class E; tested for contact with drinking water",
+    "packaging": "VANDEX BB 75: 25 kg PE-lined paper bag; VANDEX CEMELAST LIQUID: 9 kg PE container",
+    "shelf_life": "BB 75: 12 months; liquid: 8 months (frost-free, unopened)"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": 0.4,
+     "label": "0.4 mm at +20 °C, class A2 (EN 1062-7 static), not EN 14891 / ASTM C836"
+    },
+    "positive_pressure": {
+     "v": null,
+     "label": null
+    },
+    "elongation": {
+     "v": null,
+     "label": "approx. 13 % (test standard not printed)"
+    }
+   },
+   "notes": "The flexible Vandex slurry actually listed by Tremco CPG Asia-Pacific. Wet density approx. 1.65 kg/l; capillary w < 0.1 kg/m²·h⁰·⁵; water-retaining structures may be filled after 14 d (5–10 °C) to 5 d (25–30 °C); backfilling after 3 days. The ≥ signs of the crack-bridging and adhesion values may have been lost in text extraction — values reproduced as read."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "RPM",
+   "brand": "Tremco",
+   "product": "TREMproof® FCW",
+   "type": "Two-component, flexible cementitious waterproofing coating (polyacrylate-styrene polymer liquid + graded fine quartz powder)",
+   "market": "Asia-Pacific (Tremco CPG Asia-Pacific)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/Downloaded%20TDS/TDS-Tremco-CPG-APAC-TREMproof-FCW-1.pdf?ext=.pdf",
+    "version": "REV05/04/24"
+   },
+   "values": {
+    "components": "2: Part A polymer liquid (polyacrylate styrene) + Part B powder (graded fine quartz, fillers); 36 kg set (mix ratio by weight not printed)",
+    "crack_bridging": null,
+    "positive_pressure": "no water penetration at 0.2 kgf/cm² for 12 hours (DIN 1048-5:1991)",
+    "negative_pressure": null,
+    "adhesion": "> 0.60 N/mm² (ASTM D4541)",
+    "elongation": "> 100 % (ASTM D412-16); tensile strength > 1.0 MPa",
+    "vapour": null,
+    "co2": null,
+    "consumption": "approx. 1.0 kg/m² per coat; minimum 2 coats",
+    "thickness": "recommended dry film 1–2 mm (walls), 1.8–2 mm (floors), depending on water pressure; approx. 1.0 mm per layer",
+    "pot_life": "approx. 30 minutes at 30 °C",
+    "application_temp": "surface temperature 10–30 °C",
+    "certification": null,
+    "packaging": "36 kg set",
+    "shelf_life": "12 months from production date"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": null,
+     "label": null
+    },
+    "positive_pressure": {
+     "v": 0.196,
+     "label": "0.2 kgf/cm² for 12 h (DIN 1048-5)"
+    },
+    "elongation": {
+     "v": 100,
+     "label": "> 100 % (ASTM D412-16)"
+    }
+   },
+   "notes": "Fresh density 1.80–1.90 kg/L; first coat dries 2–3 h before second coat; described as breathable (no vapour value); exposed surfaces need UV protection. No EN 14891 / crack-bridging data."
+  },
+  {
+   "slot": "wp/RB400",
+   "group": "RPM",
+   "brand": "Vandex",
+   "product": "VANDEX OS 5",
+   "type": "Elasticized FPD (flexible polymer-modified thick coating) surface protection and waterproofing coating, two-component",
+   "market": "Global / Germany (Vandex International; Tremco CPG Europe)",
+   "source": {
+    "url": "https://www.vandex.com/media/12155/en-ds-vandex-os-5.pdf",
+    "version": "VX.DS.651.en.1910"
+   },
+   "values": {
+    "components": "2: VANDEX OS 5 powder 20 kg + VANDEX ELASTICIZER PK 75 liquid 10 kg (2 : 1 by mass)",
+    "crack_bridging": "2.0 mm at +4 °C and at −20 °C; crack bridging ≤ 2.0 mm at 4.0 mm thickness; class B2 (−20 °C); dynamic 0.10–0.15 mm after 2000 h UV weathering (−20 °C, 1000 cycles)",
+    "positive_pressure": "water impermeable at 2.5 bar (layer thickness 4 mm, crack formation 1.0 mm)",
+    "negative_pressure": null,
+    "adhesion": "≥ 0.8 MPa (EN 1542, 20 °C, dry storage); ≥ 0.6 MPa after freeze-thaw with de-icing salt immersion",
+    "co2": "sD > 50 m",
+    "rainproof": "rain resistance 4 h at 20 °C (curing condition 23 °C / 50 % r.h.)",
+    "consumption": "W1-E 3.4 kg/m² (2.0 mm); W2.1-E 6.8 kg/m² (4.0 mm); W3-E 5.1 kg/m² (3.0 mm); W4-E 3.4 kg/m² (2.0 mm); W2-B 6.8 kg/m² (4.0 mm); wet density approx. 1.7 kg/l",
+    "thickness": "2.0 mm (W1-E, W4-E), 3.0 mm (W3-E), 4.0 mm (W2.1-E, W2-B); max. 2–3 mm per working step; ≥ 2 working steps under hydrostatic pressure",
+    "application_temp": "min. +5 °C; not on frozen surfaces or in direct sunlight",
+    "certification": "EN 1504-2:2004/ZA.1d,1e, CE (notified body 0761, 651/006); OS 5b; carbonation barrier DIN EN 1062-6; UV resistance DIN EN 1062-11; P-SAC 02/5.1/17-290; fire class E",
+    "packaging": "20 kg PE-lined paper bag (powder) + 10 kg PE container (liquid)",
+    "shelf_life": "12 months (dry / frost-free, unopened)"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": 2.0,
+     "label": "2.0 mm at +4 °C (static)"
+    },
+    "positive_pressure": {
+     "v": 2.5,
+     "label": "2.5 bar at 4 mm with 1.0 mm crack"
+    },
+    "rainproof": {
+     "v": 4,
+     "label": "4 h at 20 °C"
+    }
+   },
+   "notes": "Vandex's FPD thick coating (DIN 18533 water-impact classes W1-E to W2-B). Not marketed as 'rapid' (pot life approx. 30 min, rain-resistant after 4 h) and no EN 14891 or ASTM C836 data. Same product also entered under wp/OS. Not on the Tremco CPG Asia-Pacific site. Elongation approx. 60 % at 20 °C."
+  },
+  {
+   "slot": "wp/OS",
+   "group": "RPM",
+   "brand": "Vandex",
+   "product": "VANDEX OS 5",
+   "type": "Elasticized FPD surface protection coating; two-component, flexible, polymer-modified waterproofing and surface protection coating (OS 5b)",
+   "market": "Global / Germany (Vandex International; Tremco CPG Europe)",
+   "source": {
+    "url": "https://www.vandex.com/media/12155/en-ds-vandex-os-5.pdf",
+    "version": "VX.DS.651.en.1910"
+   },
+   "values": {
+    "components": "2: VANDEX OS 5 powder 20 kg + VANDEX ELASTICIZER PK 75 liquid 10 kg (2 : 1 by mass)",
+    "crack_bridging": "static 2.0 mm at +4 °C and at −20 °C; class B2 (−20 °C); dynamic 0.10–0.15 mm after 2000 h UV weathering (−20 °C, 1000 cycles)",
+    "adhesion": "≥ 0.8 MPa (EN 1542, 20 °C, dry storage); ≥ 0.6 MPa after freeze-thaw / de-icing salt",
+    "vapour": "class I, sD > 5 m (as printed)",
+    "co2": "sD > 50 m; carbonation barrier per DIN EN 1062-6",
+    "rainproof": "4 h at 20 °C (curing condition 23 °C / 50 % r.h.)",
+    "consumption": "OS 5b / EN 1504-2 application: 5.5 kg/m² (3.0 mm); waterproofing 3.4–6.8 kg/m² (2–4 mm); wet density approx. 1.7 kg/l",
+    "thickness": "max. 2–3 mm per working step; 3.0 mm for OS 5b",
+    "pot_life": "approx. 30 minutes at 20 °C",
+    "overcoat": "next layer while the previous one is still green (depends on temperature and humidity; no fixed time)",
+    "application_temp": "min. +5 °C; not on frozen surfaces or in direct sunlight",
+    "certification": "OS 5b; EN 1504-2:2004/ZA.1d,1e, CE (notified body 0761); DIN EN 1062-6; DIN EN 1062-11; P-SAC 02/5.1/17-290",
+    "packaging": "20 kg PE-lined paper bag (powder) + 10 kg PE container (liquid)",
+    "shelf_life": "12 months (dry / frost-free, unopened)"
+   },
+   "charts": {
+    "co2": {
+     "v": 50,
+     "label": "sD > 50 m"
+    },
+    "crack_bridging": {
+     "v": null,
+     "label": "2.0 mm static at +4 °C (no +20 °C value printed)"
+    }
+   },
+   "notes": "Direct OS 5b counterpart. The vapour line is printed 'class I sD >5 m' (class I normally means sD < 5 m) — reproduced as printed. Crack bridging is given at +4 °C and −20 °C, not at +20 °C. Water impermeable at 2.5 bar (4 mm, 1.0 mm crack). Capillary w < 0.1 kg/m²·h⁰·⁵; elongation approx. 60 %. CO₂ value is a lower bound (> 50 m)."
+  },
+  {
+   "slot": "wp/OS",
+   "group": "RPM",
+   "brand": "Volteco",
+   "product": "CP1",
+   "type": "White, waterproof, breathable, elastic, cement-based finishing primer for protecting concrete and brick façades (powder + latex resin)",
+   "market": "Italy / Europe (Volteco S.p.A.)",
+   "source": {
+    "url": "https://volteco.com/wp-content/uploads/2026/04/TS_CP1_128_EN.pdf",
+    "version": "Technical Data Sheet n.44, 04/26 (DoP 0009)"
+   },
+   "values": {
+    "components": "2: powder + liquid resin (white latex); mix ratio not printed (do not alter powder/resin ratio)",
+    "crack_bridging": "static (EN 1062-7): class A4, 1.3 mm; with Flexonet mesh A5, 2.9 mm; with Xnet mesh A4, 1.4 mm",
+    "adhesion": "1.05 MPa (EN 1542; requirement ≥ 0.8 MPa)",
+    "vapour": "Class I, Sd 1.03 m (EN 7783-2)",
+    "co2": "Sd 78 m (EN 1062-6; requirement > 50 m)",
+    "rainproof": null,
+    "consumption": "2.5 kg/m² for 2 mm",
+    "thickness": "first coat approx. 1.5 mm, second coat approx. 0.5 mm (2 mm total)",
+    "pot_life": "workability 30 minutes at +20 °C",
+    "overcoat": "second coat after ≥ 4 hours (dry to touch); topcoats (PAINT AIR, PAINT PROTECTION, CP0) after ≥ 3 days at +20 °C / 60 % r.h.",
+    "application_temp": "+5 to +30 °C (service −5 to +50 °C)",
+    "certification": "EN 1504-2 (DoP 0009): PI, MC, IR; Euroclass F; EPD 0298",
+    "packaging": "15 kg powder bags + 5.7 kg resin pails",
+    "shelf_life": null
+   },
+   "charts": {
+    "co2": {
+     "v": 78,
+     "label": "Sd 78 m (EN 1062-6)"
+    },
+    "crack_bridging": {
+     "v": 1.3,
+     "label": "1.3 mm, class A4 (EN 1062-7 static; temperature not printed)"
+    }
+   },
+   "notes": "Volteco is RPM since 1 Oct 2026. No OS 5a/5b (Rili-SIB) classification printed; capillary absorption 0.03 kg·m⁻²·h⁻⁰·⁵ (EN 1062-3). Crack-bridging test temperature not printed. Mix ratio not printed (packs: 15 kg powder + 5.7 kg resin)."
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "RPM",
+   "brand": "Euclid Chemical",
+   "product": "EUCON VANDEX AM-10L",
+   "type": "Liquid integral crystalline waterproofing admixture (permeability-reducing admixture for hydrostatic conditions)",
+   "market": "USA / North America (Euclid Chemical)",
+   "source": {
+    "url": "https://euclidchemical.com/fileshare/ProductFiles/TDS/Eucon_VANDEX_AM_10L.pdf",
+    "version": "Rev. 07.26"
+   },
+   "values": {
+    "form": "liquid",
+    "dosage": "optimal 28 oz per cwt (1825 mL per 100 kg) of cementitious material for most applications; min. 140 oz/yd³ (5.4 L/m³), max. 280 oz/yd³ (10.8 L/m³)",
+    "density": "specific gravity 1.10 (9.2 lb/gal)",
+    "chloride": "no chlorides added (no content figure printed)",
+    "self_healing": "seals cracks up to 0.5 mm (heals cracks in the presence of water)",
+    "setting_effect": "reduce the design water content by a volume equal to the admixture batched; late addition may extend setting or cause premature stiffening; air-entrainer dosage may need adjustment",
+    "min_cement": null,
+    "dosing_point": "during the initial batching sequence (not after the cementitious materials or at the end of batching); mix ≥ 10 minutes at normal mixing speed; drum-mixed and central-batched concrete",
+    "application_temp": null,
+    "packaging": "5 gal (18.8 L) pails, 55 gal (208 L) drums, 275 gal (1041 L) totes, bulk",
+    "certification": "ASTM C494 Type S; ACI 212.3R (PRAH); ANSI/NSF Std 61"
+   },
+   "charts": {
+    "dosage": {
+     "v": null,
+     "label": "1825 mL per 100 kg cementitious (volume dosage; % by weight not printed)"
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "The only liquid crystalline admixture in the RPM group; Euclid makes and sells the VANDEX AM-10 technology in North America under licence. Not listed on the Tremco CPG Asia-Pacific site (Asia sells the powder VANDEX AM 10). Test data (DIN 1048, CRD-C48-92) 'available upon request' — none printed. Storage above 7 °C; shelf life 2 years. No plasticising / water-reducing claim, unlike BETOCRETE-CL170-P."
+  },
+  {
+   "slot": "ca/CP360",
+   "group": "RPM",
+   "brand": "Vandex",
+   "product": "VANDEX AM 10",
+   "type": "Integral crystalline waterproofing admixture powder",
+   "market": "Asia-Pacific (Tremco CPG Asia-Pacific)",
+   "source": {
+    "url": "https://www.tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/TDS-Tremco-CPG-APAC-Vandex-AM-10-2025.pdf?ext=.pdf",
+    "version": "REV13/06/25"
+   },
+   "values": {
+    "form": "powder",
+    "dosage": "typically 1–2 % by weight of cementitious material (BWC)",
+    "density": null,
+    "chloride": "< 0.1 M% (EN 480-10)",
+    "self_healing": "seals cracks up to 0.4 mm",
+    "min_cement": null,
+    "dosing_point": "into the initial batching sequence, ideally as the aggregate is charged; not after the cementitious ingredients; mix ≥ 8–10 minutes at normal mixing speed after all constituents are batched (drum-mixed and central-batched concrete)",
+    "application_temp": null,
+    "packaging": "20 kg bags; others on request",
+    "certification": "EN 934-2: T9 (water-resisting admixture); NSF 61 (potable water); ASTM C-494 Type S (performance passed)"
+   },
+   "charts": {
+    "dosage": {
+     "v": 1.5,
+     "label": "1–2 % BWC"
+    },
+    "self_healing": {
+     "v": 0.4,
+     "label": "up to 0.4 mm"
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Not supplied in water-soluble bags (20 kg bags). Test data printed: DIN 1048 water penetration approx. 40 % reduction vs control at 5 bar; CRD C48-92 permeability > 70 % reduction vs control at 13.8 bar (200 psi); ASTM C1585 capillary absorption approx. 40 % reduction; ASTM C157 length change up to 20 % reduction; alkali content < 10.5 M% (EN 480-12); no corrosion (EN 480-14). Setting may be slightly extended depending on cement chemistry; negligible effect on working time. Sold in North America by Euclid Chemical as EUCON VANDEX AM-10."
+  },
+  {
+   "slot": "pf/GBM",
+   "group": "RPM",
+   "brand": "Stonhard",
+   "product": "Stonhard Standard Primer",
+   "type": "Two-component, epoxy-based priming system applied before Stonhard overlayments",
+   "market": "USA (Stonhard)",
+   "source": {
+    "url": "https://app.stonhard.com/ProductFiles/stonhard/Standard%20Primer%20Product%20Data%20-%20en_US.pdf",
+    "version": "8/22 (© 2022)"
+   },
+   "values": {
+    "basis": "two-component epoxy priming system (VOC 15 g/l, ASTM D-2369)",
+    "mix_ratio": "factory-proportioned: one amine bag + one resin bag per mix (ratio not printed)",
+    "viscosity": null,
+    "pot_life": "approx. 25 min at 77 °F / 25 °C (20–25 min at 70 °F / 21 °C)",
+    "overcoat": "open time approx. 3 h at 77 °F / 25 °C — overlayment applied while the primer is still wet; cure approx. 8 h",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "max_moisture": "substrate must be dry and properly prepared (no numeric limit)",
+    "consumption": "approx. 600 sq ft (55.75 m²) per unit; approx. 100 sq ft (9.29 m²) per mix on relatively smooth surfaces",
+    "application_temp": "ambient and substrate 60–90 °F (16–32 °C); substrate > 5 °F / 3 °C above dew point",
+    "packaging": "unit carton of 6 amine foil bags + 6 resin poly bags",
+    "shelf_life": "3 years (original unopened container, stored ≥ 16 °C)"
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "flexural": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": 22.5,
+     "label": "20–25 min at 70 °F / 21 °C"
+    }
+   },
+   "notes": "Primer only — Stonhard does not offer it as a binder for scratch coats/mortars (its mortars are factory systems such as Stonclad). Flowcrete's primer (Flowprime, named in the Flowcrete Asia Flowcoat CR system sheet) has no data sheet on flowcreteasia.com or the Flowcrete EU download page, so Flowcrete could not be entered."
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "RPM",
+   "brand": "Flowcrete",
+   "product": "Hydraseal DPM",
+   "type": "Solvent-free epoxy resin, liquid-applied surface damp-proof membrane (0.5 mm)",
+   "market": "Asia-Pacific (flowcreteasia.com; sheet issued by StonCor Africa)",
+   "source": {
+    "url": "https://www.flowcreteasia.com/media/10222/pds-hydraseal-dpm-19-november-2021.pdf",
+    "version": "19 November 2021"
+   },
+   "values": {
+    "basis": "solvent-free epoxy resin, liquid-applied surface DPM",
+    "components": null,
+    "mix_ratio": null,
+    "viscosity": null,
+    "pot_life": "35 min at 20 °C (60 min at 10 °C; 20 min at 30 °C)",
+    "overcoat": null,
+    "compressive": "50 N/mm²",
+    "flexural": "20 N/mm²",
+    "adhesion": "> 1.5 MPa, concrete failure",
+    "negative_pressure": null,
+    "max_moisture": "max. substrate moisture content 5 % (method not stated); tolerates up to 99 % relative humidity",
+    "consumption": "0.5 mm system in two coats (Hydraseal DPM Red, then Yellow); sand scatter for a screed finish (consumption not printed)",
+    "application_temp": null,
+    "packaging": null,
+    "shelf_life": null
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "compressive": {
+     "v": 50,
+     "label": "50 N/mm² (20 °C / 50 % r.h.)"
+    },
+    "overcoat": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Tensile 15 N/mm²; light traffic 18 h / full traffic 48 h at 20 °C; water permeability nil (Karsten); vapour permeability 5 g/m²/24 h (ASTM E96:90). No resistance-to-negative-pressure value. The English sheet on the Flowcrete Asia site carries a StonCor Africa disclaimer — a Vietnamese version also exists (https://www.flowcreteasia.com/media/17541/hydraseal-dpm-vn.pdf, not read)."
+  },
+  {
+   "slot": "pf/B351",
+   "group": "RPM",
+   "brand": "Flowcrete",
+   "product": "Flowcoat SF41",
+   "type": "High-performance, solvent-free, chemical-resistant, high-build epoxy coating system (with Flowcoat SF41 Composite finish for 3 mm and above)",
+   "market": "Asia-Pacific (Flowcrete Asia; manufacturer in model spec: Tremco CPG Malaysia)",
+   "source": {
+    "url": "https://www.flowcreteasia.com/media/17453/flowcrete-asia-system-data-sheets-flowcoat-sf41-2023.pdf",
+    "version": "28/02/23"
+   },
+   "values": {
+    "basis": "solvent-free epoxy coating system (low VOC)",
+    "mix_ratio": null,
+    "viscosity": null,
+    "pot_life": null,
+    "overcoat": null,
+    "cure": "light traffic 24 h, full traffic 48 h, full chemical cure 7 d at 20 °C (10 °C: 48 h / 72 h / 12 d; 30 °C: 18 h / 36 h / 6 d)",
+    "compressive": "> 60 N/mm² (BS 6319)",
+    "flexural": "> 40 N/mm² (BS 6319)",
+    "adhesion": "> 1.5 MPa — greater than the cohesive strength of 25 N/mm² concrete",
+    "hardness": "Koenig hardness 180 s (no Shore D printed)",
+    "fire": "Bfl-s1 (EN 13501-1)",
+    "slip": "BS 7976-2 (4-S slider): dry > 40; wet dependent on specification",
+    "consumption": null,
+    "application_temp": null,
+    "packaging": null,
+    "shelf_life": null
+   },
+   "charts": {
+    "compressive": {
+     "v": 60,
+     "label": "> 60 N/mm² (BS 6319)"
+    },
+    "flexural": {
+     "v": 40,
+     "label": "> 40 N/mm² (BS 6319)"
+    },
+    "overcoat": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Flowcrete Asia publishes system data sheets only (thickness 'dependent on specification'; no mix ratio, pot life, overcoat, consumption, packaging or shelf life). Tensile > 15 N/mm² (BS 6319); Taber 80 mg/1000 cycles; tolerant to 60 °C; substrate dry up to 75 % RH (BS 8204). For a self-smoothing build Flowcrete Asia offers Flowshield SL (not read)."
+  },
+  {
+   "slot": "pf/B351",
+   "group": "RPM",
+   "brand": "Stonhard",
+   "product": "Stonkote HB4",
+   "type": "Two-component, high-solids, high-build epoxy floor coating (high-gloss, smooth)",
+   "market": "USA (Stonhard)",
+   "source": {
+    "url": "https://app.stonhard.com/ProductFiles/stonhard/Stonkote%20HB4%20Product%20Data%20-%20en_US.pdf",
+    "version": "07/25 (© 2025)"
+   },
+   "values": {
+    "basis": "two-component, high-solids epoxy",
+    "mix_ratio": "factory-proportioned unit (amine bags + resin pail); ratio not printed",
+    "viscosity": null,
+    "pot_life": "approx. 35 min at 77 °F / 25 °C",
+    "overcoat": "second coat (if needed) within 24 h of the first; after 24 h sand with 80 grit and dedust",
+    "cure": "tack-free 8 h, return to service 24 h, ultimate physical properties 7 days (77 °F / 25 °C)",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "hardness": null,
+    "fire": "dry film self-extinguishing",
+    "slip": null,
+    "consumption": "20–30 mil DFT in one coat; approx. 250 sq ft (23 m²) per unit at 30 mil",
+    "application_temp": "60–85 °F (16–29 °C) ambient; min. surface 16 °C; humidity < 80 %",
+    "packaging": "one carton per unit (amine bags + 5 gal resin pail; text partly garbled)",
+    "shelf_life": "1 year (original unopened container)"
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "flexural": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": null,
+     "label": "within 24 h (no minimum printed)"
+    }
+   },
+   "notes": "US data sheet without mechanical values; not stated whether 100 % solids (toluene/xylene recommended for clean-up). Roller/thin high-build coating (0.5–0.75 mm) — does not cover the sand-filled self-smoothing build of ASODUR-B351."
+  },
+  {
+   "slot": "pf/V360",
+   "group": "RPM",
+   "brand": "Flowcrete",
+   "product": "Flowseal EPW",
+   "type": "Pigmented, vapour-permeable, water-based epoxy resin coating for floors, walls and ceilings",
+   "market": "Asia-Pacific (flowcreteasia.com; sheet issued by StonCor Africa)",
+   "source": {
+    "url": "https://www.flowcreteasia.com/media/10215/pds-flowseal-epw-19-november-2021.pdf",
+    "version": "19 November 2021"
+   },
+   "values": {
+    "basis": "water-based epoxy resin",
+    "mix_ratio": "4 : 1",
+    "viscosity": null,
+    "pot_life": "45 minutes",
+    "overcoat": null,
+    "cure": "light traffic 12 h, full traffic 24 h, full chemical cure 7 days at 20 °C (10 °C: 24 h / 36 h / 14 d; 30 °C: 8 h / 16 h / 5 d)",
+    "adhesion": "> 1.5 MPa, concrete failure",
+    "slip": null,
+    "max_moisture": "moisture content ≤ 5 % (method not stated); vapour permeable — can be installed onto damp substrates or green concrete",
+    "consumption": "0.12 mm DFT in 2 coats over Flowseal EPW Clear/Pigmented primer (coverage not printed)",
+    "application_temp": null,
+    "packaging": null,
+    "shelf_life": null
+   },
+   "charts": {
+    "adhesion": {
+     "v": 1.5,
+     "label": "> 1.5 MPa (concrete failure)"
+    },
+    "max_moisture": {
+     "v": null,
+     "label": "≤ 5 % (method not stated, not CM)"
+    },
+    "pot_life": {
+     "v": 45,
+     "label": "45 min"
+    }
+   },
+   "notes": "Koenig hardness 182 s; Taber 15 mg/1000 cycles (CS17), BS 8204-2 class AR3; vapour permeability 20 g/m²/mm/24 h (ASTM E96:90); VOC 26 g/l. Applications outside 10–30 °C to be referred to Flowcrete. Sheet carries a StonCor Africa disclaimer although hosted on the Flowcrete Asia site; a Vietnamese version exists (https://www.flowcreteasia.com/media/17543/tds-flowseal-epw-floor-1.pdf, not read)."
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "RPM",
+   "brand": "Flowcrete",
+   "product": "Flowcoat CR",
+   "type": "Solvent-free, chemical-resistant epoxy coating system (gloss topcoat over Flowprime primer)",
+   "market": "Asia-Pacific (Flowcrete Asia; manufacturer in model spec: Tremco CPG Malaysia)",
+   "source": {
+    "url": "https://www.flowcreteasia.com/media/17455/flowcrete-asia-system-data-sheets-flowcoat-cr-2023.pdf",
+    "version": "28/02/23"
+   },
+   "values": {
+    "basis": "solvent-free epoxy, chemical resistant",
+    "mix_ratio": null,
+    "density": null,
+    "hardness": "Koenig hardness 180 s (no Shore value printed)",
+    "pot_life": null,
+    "overcoat": null,
+    "cure": "light traffic 24 h, full traffic 48 h, full chemical cure 7 d at 20 °C (10 °C: 48 h / 72 h / 12 d; 30 °C: 16 h / 36 h / 6 d)",
+    "max_moisture": "dry up to 75 % RH (BS 8204); free from rising damp and groundwater pressure",
+    "chemical": "protects against a range of chemicals used in manufacturing processes (no list printed — contact technical department); thermal tolerance up to 60 °C",
+    "consumption": null,
+    "application_temp": null,
+    "packaging": null,
+    "shelf_life": null
+   },
+   "charts": {
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Industrial chemical-resistant floor/wall coating, not specifically declared for wastewater plants. Compressive > 60, flexural > 40, tensile > 15 N/mm² (BS 6319); bond > 1.5 MPa; fire Bfl-s1. System data sheet only — no mix ratio, pot life, overcoat or consumption. Flowcrete Asia also has Flowchem VE (vinyl ester) for severe corrosion — different chemistry."
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "RPM",
+   "brand": "Stonhard",
+   "product": "Stonchem 556",
+   "type": "Epoxy hybrid lining system (saturant, engineering fabric, mortarcoat, mineral composite topcoat) for outdoor containment areas and wastewater tanks",
+   "market": "USA (Stonhard)",
+   "source": {
+    "url": "https://app.stonhard.com/ProductFiles/stonhard/Stonchem%20556%20Product%20Data%20-%20en_US.pdf",
+    "version": "04/25 (© 2025)"
+   },
+   "values": {
+    "basis": "epoxy hybrid lining (fabric-reinforced)",
+    "mix_ratio": "factory-proportioned units (amine and resin bags with Stonchem 500 Series Liquids); ratio not printed",
+    "density": null,
+    "hardness": "Shore D 85–90 (ASTM D-2240)",
+    "pot_life": null,
+    "overcoat": "saturant layer cures approx. 4–6 h before the next step; tack-free 4–6 h at 70 °F / 21 °C",
+    "cure": "chemical service after 24 h; ultimate physical properties 7 days (70 °F / 21 °C)",
+    "max_moisture": "dry, mechanically prepared substrate (no numeric limit); Stonchem Epoxy Primer required",
+    "chemical": "excellent resistance to caustics and moderate concentrations of acids; detailed list in the separate Stonchem 500 Series Chemical Resistance Guide",
+    "consumption": "nominal 60 mil (1.5 mm); approx. 180 sq ft (16.72 m²) per unit; topcoat 250–300 µm wet",
+    "application_temp": "substrate 60–80 °F (15–27 °C); heat cold substrates above 13 °C; ≥ 3 °C above dew point",
+    "packaging": "factory-proportioned unit: saturant, engineering fabric (18.58 m² roll), mortarcoat (liquids + 2 bags aggregate), topcoat",
+    "shelf_life": "3 years (unopened)"
+   },
+   "charts": {
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": 5,
+     "label": "4–6 h (saturant, 21 °C)"
+    }
+   },
+   "notes": "Named by Stonhard for wastewater tanks, but it is a 1.5 mm fabric-reinforced lining, not a two-coat rolled sealing coat like ASODUR-V2370 — compare with care. Tensile 5,600 psi (ASTM D-638); flexural 6,600 psi (ASTM C-580); VOC 55 g/l topcoat / 45 g/l liquids (solvent-free not stated)."
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "RPM",
+   "brand": "Tremco",
+   "product": "PU 523",
+   "type": "Single-component, moisture-curing polyurethane joint sealant (25 % movement)",
+   "market": "Asia-Pacific (Tremco CPG Asia-Pacific)",
+   "source": {
+    "url": "https://tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/TDS-Tremco-CPG-APAC-PU523.pdf",
+    "version": "REV 30/08/21"
+   },
+   "values": {
+    "basis": "one-component polyurethane, moisture curing",
+    "density": null,
+    "hardness": "Shore A 35–40 (ASTM D2240)",
+    "movement": "± 25 % (ASTM C920)",
+    "tensile": "tensile strength 1.5–2.0 MPa; elongation at break > 550 % (ASTM D412)",
+    "skin_time": "1½ h at 25 °C / 50 % RH",
+    "cure": "2–3 mm per day at 25 °C / 50 % RH",
+    "service_temp": "−40 to +80 °C",
+    "consumption": "approx. 16 m per 600 ml sausage in a 6 × 6 mm joint",
+    "application_temp": null,
+    "packaging": "600 ml sausages, 20 per box",
+    "shelf_life": "12 months from date of manufacture"
+   },
+   "charts": {
+    "hardness": {
+     "v": 37.5,
+     "label": "Shore A 35–40"
+    },
+    "movement": {
+     "v": 25,
+     "label": "± 25 % (ASTM C920)"
+    },
+    "service_temp": {
+     "v": 80,
+     "label": "−40 to +80 °C"
+    }
+   },
+   "notes": "General-purpose construction joint sealant (cast-in-place concrete, precast panels, masonry, perimeter caulking) — floor/trafficked joints are not listed as a use. Passed 2000 h QUV-B. No width:depth guidance printed."
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "RPM",
+   "brand": "Euclid Chemical",
+   "product": "EUCOLASTIC 1SL",
+   "type": "Single-component, low-modulus, moisture-cure, self-levelling polyurethane joint sealant for horizontal joints (tyre and foot traffic)",
+   "market": "Asia-Pacific (Tremco CPG Malaysia Sdn Bhd sheet)",
+   "source": {
+    "url": "https://tremcocpg-asiapacific.com/TremcoAsia/media/TremcoAsia/Documents/TDS/Euclid-Chemical-TDS-Tremco-CPG_EUCOLASTIC-1SL.pdf?ext=.pdf",
+    "version": "Rev: 30/06/20"
+   },
+   "values": {
+    "basis": "one-component polyurethane, moisture curing, self-levelling (semi-self-levelling, holds up to 6 % slope, ASTM C 639)",
+    "density": null,
+    "hardness": "Shore A 40–45 (ASTM C 661)",
+    "movement": "+100 % / −50 % (ASTM C 719); ASTM C 920 Type S, Grade P, Class 50",
+    "tensile": "tensile strength 1.7 MPa; elongation 600 %; tear strength 61.3 N/cm (ASTM D 412)",
+    "skin_time": "1.5–2 h; tack-free < 5 h at 24 °C (ASTM C 679)",
+    "cure": "approx. 1.6 mm per day (moisture from air and substrate)",
+    "service_temp": null,
+    "consumption": "887 ml cartridge ≈ 22 m of 6 × 6 mm joint; min. width 6 mm; width:depth 1:1 for 6–13 mm, depth ½ width (max. 13 mm) for 13–25 mm",
+    "application_temp": "above 4 °C",
+    "packaging": "887 ml cartridges, 12 per case",
+    "shelf_life": "1 year (original, unpunctured cartridge)"
+   },
+   "charts": {
+    "hardness": {
+     "v": 42.5,
+     "label": "Shore A 40–45 (ASTM C 661)"
+    },
+    "movement": {
+     "v": 50,
+     "label": "ASTM C 920 Class 50 (+100 / −50 %, ASTM C 719)"
+    },
+    "service_temp": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Floor-joint counterpart (control and expansion joints, plazas, pool decks, truck terminals). Grey only. Data at 22 °C."
+  }
+ ]
+}

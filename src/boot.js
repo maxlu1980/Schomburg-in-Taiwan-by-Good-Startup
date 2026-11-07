@@ -1,0 +1,1 @@
+try{var _t=localStorage.getItem('aquafin-p4-theme');if(_t==='dark'||_t==='light')document.documentElement.setAttribute('data-theme',_t);}catch(e){}

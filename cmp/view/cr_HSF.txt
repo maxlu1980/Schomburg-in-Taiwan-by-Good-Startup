@@ -1,0 +1,134 @@
+SLOT cr/HSF ASOCRET-HS-FLEX — one-component cementitious corrosion protection (EN 1504-7) and bond coat
+competitors 10, listed 0, none: Arkema, Xypex, Kryton, Penetron, Oriental Yuhong, Sobute
+
+== class | OURS: corrosion protection to DIN EN 1504-7; CE
+   Sika                               Sika MonoTop®-1010             : EN 1504-7:2006; Corrosion Test Pass (EN 15183); WRAS Approval Number 2305560
+   Sika                               SikaTop® Armatec®-110 EpoCem®  : meets the requirement of EN 1504-7
+   Master Builders Solutions (Sika)   SikaEmaco® P 5000 AP (formerly : Meets the requirements of EN 1504-7; Corrosion Protection pass (EN 15183); ≥ 80 % (EN 15184)
+   ParexLanko (Sika)                  760 LANKOPASSIV                : conforms to EN 1504-7 (as stated on the product page)
+   Weber (Saint-Gobain)               weber.rep KB duo               : DIN EN 1504-7; BASt-listed; tested as a system with weber.rep R4 duo (ZTV-ING / DAfStb guideline)
+   Euclid Chemical (RPM)              EUCOPATCH P                    : None
+   Volteco (RPM)                      SANOFER                        : EN 1504-7:2007 (1381-CPR-1160); corrosion protection UNI EN 15183: no corrosion; shear adhesion UNI EN 15184: fulfilled
+   Mapei                              Mapefer 1K Zero                : Meets minimum requirements of EN 1504-7 and EN 1504-9; EN 15183 salt-fog corrosion test passed; EN 15184 shear adhesion ≥ 80% of tensile adhesion for non-coated rods, tes
+   Denka                              RIS防錆パウダー (RIS Rust-Prevention : Rebar rust-prevention material meeting the NEXCO Structure Construction Management Guidelines (Table 3-5-1, H22.7) performance items — rust-prevention rate treated sectio
+   MC-Bauchemie                       Nafufill KMH                   : certified to EN 1504-7, principle 11, procedure 11.1
+== components | OURS: 1 (flowable mortar, grain < 0.5 mm)
+   Sika                               Sika MonoTop®-1010             : None
+   Sika                               SikaTop® Armatec®-110 EpoCem®  : None
+   Master Builders Solutions (Sika)   SikaEmaco® P 5000 AP (formerly : None
+   ParexLanko (Sika)                  760 LANKOPASSIV                : 1 component ('monocomposant'), supplied liquid in 3 l pack; base not stated
+   Weber (Saint-Gobain)               weber.rep KB duo               : 1 (dry mortar: cement, mineral fillers, polymers, additives)
+   Euclid Chemical (RPM)              EUCOPATCH P                    : 1 (Portland cement + silica fume + corrosion inhibitor)
+   Volteco (RPM)                      SANOFER                        : 1 (ready-to-use powder; mixing water only)
+   Mapei                              Mapefer 1K Zero                : None
+   Denka                              RIS防錆パウダー (RIS Rust-Prevention : 2: RIS防錆パウダー (12.5 kg powder) + RIS111 (5.0 kg lithium-nitrite solution) mixed on site into a paste
+   MC-Bauchemie                       Nafufill KMH                   : 1 (cement-grey powder mixed with water)
+== adhesion | OURS: ≥ 1.5 N/mm² (DIN EN 1542)
+   Sika                               Sika MonoTop®-1010             : ≥ 2.0 MPa (EN 1542)
+   Sika                               SikaTop® Armatec®-110 EpoCem®  : ≥ 1.5 N/mm2 (MPa) (after 28 days) (EN 1542)
+   Master Builders Solutions (Sika)   SikaEmaco® P 5000 AP (formerly : None
+   ParexLanko (Sika)                  760 LANKOPASSIV                : None
+   Weber (Saint-Gobain)               weber.rep KB duo               : None
+   Euclid Chemical (RPM)              EUCOPATCH P                    : bond strength 2.7 MPa at 10 days (ASTM C 882)
+   Volteco (RPM)                      SANOFER                        : shear adhesion of coated bar ≥ 80 % of uncoated bar (UNI EN 15184) — fulfilled
+   Mapei                              Mapefer 1K Zero                : Pull-off to concrete (EN 1542) > 2.0 MPa
+   Denka                              RIS防錆パウダー (RIS Rust-Prevention : bond to concrete 1.8 N/mm² (7 d) / 2.1 N/mm² (28 d); bond to repair mortar 1.6 / 1.9 N/mm² (JIS A 1171, 20 °C, 80 % r.h.; one example)
+   MC-Bauchemie                       Nafufill KMH                   : None
+== thickness | OURS: approx. 1 mm per step; corrosion protection in two coats
+   Sika                               Sika MonoTop®-1010             : Reinforcement corrosion protection: Minimum 2 mm total (two coats of 1 mm); Bonding primer: thin layer filling pores and voids
+   Sika                               SikaTop® Armatec®-110 EpoCem®  : Corrosion protection: first layer approx. 1 mm thick, in total minimum 2 layer thickness (~2 mm thick); Bonding primer: minimum layer thickness 0.5 mm
+   Master Builders Solutions (Sika)   SikaEmaco® P 5000 AP (formerly : Reinforcement protection: 2 mm in two layers (each coat at least 1 mm thick)
+   ParexLanko (Sika)                  760 LANKOPASSIV                : None
+   Weber (Saint-Gobain)               weber.rep KB duo               : 1 mm; corrosion protection in two coats
+   Euclid Chemical (RPM)              EUCOPATCH P                    : bonding agent: one brush coat; reinforcement protection: two coats (2 mm each in the application section; 1 mm per coat in the coverage section)
+   Volteco (RPM)                      SANOFER                        : ideal protective thickness 200–300 µm; 2 coats of 200 µm
+   Mapei                              Mapefer 1K Zero                : Total thickness (2 coats): min. 2 mm
+   Denka                              RIS防錆パウダー (RIS Rust-Prevention : None
+   MC-Bauchemie                       Nafufill KMH                   : corrosion protection in two work steps; bond coat in one application (thickness not stated)
+== consumption | OURS: approx. 1–2 kg/m²; bond coat approx. 1.5 kg/m² per mm; corrosion protection approx. 1.6 kg/m² per mm
+   Sika                               Sika MonoTop®-1010             : Reinforcement 8 mm rebar 100 g/m (50 g/m per layer); 16 mm rebar 200 g/m (100 g/m per layer); Bonding primer 1.5–2.0 kg powder per m² and mm layer thickness
+   Sika                               SikaTop® Armatec®-110 EpoCem®  : Corrosion protection ~ 2 kg per m2 and application layer (~1 mm thick); Bonding primer > 1.5 to 2.0 kg per m2 /mm dependent on substrate conditions
+   Master Builders Solutions (Sika)   SikaEmaco® P 5000 AP (formerly : Steel protection approx. 80 g/m for rebars with 8 mm diameter, approx. 180 g/m for rebars with 16 mm diameter; Bonding slurry typically 2 - 3 kg of powder per m²; approx.
+   ParexLanko (Sika)                  760 LANKOPASSIV                : None
+   Weber (Saint-Gobain)               weber.rep KB duo               : corrosion protection approx. 190 g per m of 14 mm bar (two coats); bonding bridge approx. 1.5–2.5 kg/m² by roughness
+   Euclid Chemical (RPM)              EUCOPATCH P                    : bonding mortar approx. 1.65 kg/m² per coat; reinforcement protection approx. 1.65 kg/m² per 1 mm coat, two coats
+   Volteco (RPM)                      SANOFER                        : approx. 30 g/m on Ø 8 mm bars; approx. 60 g/m on Ø 16 mm bars
+   Mapei                              Mapefer 1K Zero                : 100 g/m per reinforcing rod with an 8 mm diameter and 200 g/m per reinforcing rod with 16 mm (2 mm of applied product)
+   Denka                              RIS防錆パウダー (RIS Rust-Prevention : 600–900 g/m² of rebar surface (standard 750 g/m²), brush application
+   MC-Bauchemie                       Nafufill KMH                   : corrosion protection approx. 120 g per metre of bar (Ø 8 mm); bond coat 1,000–1,100 g/m²
+== water | OURS: 5.5–5.75 l / 25 kg (corrosion protection); 6.75–7.5 l / 25 kg (bond coat)
+   Sika                               Sika MonoTop®-1010             : Machine-applied 5.0 L per 25 kg bag (20 % water addition); Brush-applied 5.25 L per 25 kg bag (21 % water addition)
+   Sika                               SikaTop® Armatec®-110 EpoCem®  : DO NOT ADD WATER (3-component kit, A+B+C)
+   Master Builders Solutions (Sika)   SikaEmaco® P 5000 AP (formerly : 1.1 L - 1.3 L per 5 kg (w/p ratio 0.22 – 0.26)
+   ParexLanko (Sika)                  760 LANKOPASSIV                : None
+   Weber (Saint-Gobain)               weber.rep KB duo               : 30 % = 6 l per 20 kg bag (1.5 l per 5 kg) for both uses
+   Euclid Chemical (RPM)              EUCOPATCH P                    : None
+   Volteco (RPM)                      SANOFER                        : 0.25 l per 1 kg (25 % by weight)
+   Mapei                              Mapefer 1K Zero                : 1.0-1.1 kg of water per 5 kg bag (20.5 % water)
+   Denka                              RIS防錆パウダー (RIS Rust-Prevention : no water — 12.5 kg powder + 5.0 kg RIS111 (1,350 kg powder + 540 kg RIS111 per m³ of paste)
+   MC-Bauchemie                       Nafufill KMH                   : powder : water 100 : 18–19 by weight (approx. 0.9–0.95 L per 5 kg bag; 3.6–3.8 L per 20 kg bag)
+== pot_life | OURS: approx. 60 minutes
+   Sika                               Sika MonoTop®-1010             : Machine applied 90 minutes; brush applied 120 minutes (at +20 °C)
+   Sika                               SikaTop® Armatec®-110 EpoCem®  : ~ 3 hours (at +20 °C)
+   Master Builders Solutions (Sika)   SikaEmaco® P 5000 AP (formerly : ~60 min. (+20 °C)
+   ParexLanko (Sika)                  760 LANKOPASSIV                : None
+   Weber (Saint-Gobain)               weber.rep KB duo               : 80 minutes
+   Euclid Chemical (RPM)              EUCOPATCH P                    : None
+   Volteco (RPM)                      SANOFER                        : workability 20 minutes at +20 °C
+   Mapei                              Mapefer 1K Zero                : approx. 1 hour (at +20°C)
+   Denka                              RIS防錆パウダー (RIS Rust-Prevention : None
+   MC-Bauchemie                       Nafufill KMH                   : 75 min at 5 °C; 60 min at 20 °C; 45 min at 30 °C
+== overcoat | OURS: second coat after approx. 2 hours; repair mortar wet in wet into the bond coat
+   Sika                               Sika MonoTop®-1010             : Bonding primer: repair mortar wet on wet; corrosion protection: repair mortar wet on dry; second coat when first coat is fingernail-hard
+   Sika                               SikaTop® Armatec®-110 EpoCem®  : Waiting time before repair mortar: +5 °C 6 hours; +10 °C 5 hours; +20 °C 2 hours; +30 °C 1 hour; 2nd layer when first coat is fingernail hard
+   Master Builders Solutions (Sika)   SikaEmaco® P 5000 AP (formerly : between coats approx. 30-90 minutes (at +20°C); hand-applied repair mortar approximately 2 hours (at +20°C) after second coat; spray-applied repair mortar minimum 8 hours
+   ParexLanko (Sika)                  760 LANKOPASSIV                : recoatable after 2 hours ('recouvrable en 2 heures')
+   Weber (Saint-Gobain)               weber.rep KB duo               : second coat after approx. 2–3 hours; weber.rep R4 duo applied wet in wet into the fresh bonding bridge
+   Euclid Chemical (RPM)              EUCOPATCH P                    : repair mortar applied wet-on-wet onto the bonding slurry; two anti-corrosion coats before the repair mortar (no waiting time printed)
+   Volteco (RPM)                      SANOFER                        : None
+   Mapei                              Mapefer 1K Zero                : second coat approx. 2 hours after first (preferably within 24 hours); repair mortar after 6-24 hours
+   Denka                              RIS防錆パウダー (RIS Rust-Prevention : None
+   MC-Bauchemie                       Nafufill KMH                   : 2nd layer after approx. 3 h; bond coat after approx. 3 h on the 2nd layer; repair mortar fresh-in-fresh into the bond coat
+== application_temp | OURS: approx. 5–30 °C
+   Sika                               Sika MonoTop®-1010             : Ambient air, substrate and product: Minimum +5 °C / Maximum +30 °C
+   Sika                               SikaTop® Armatec®-110 EpoCem®  : Ambient air +5 °C min / +30 °C max; substrate +5 °C min / +30 °C max
+   Master Builders Solutions (Sika)   SikaEmaco® P 5000 AP (formerly : Ambient air +5 to +35 °C; substrate +5 to +35 °C
+   ParexLanko (Sika)                  760 LANKOPASSIV                : None
+   Weber (Saint-Gobain)               weber.rep KB duo               : 5–30 °C
+   Euclid Chemical (RPM)              EUCOPATCH P                    : surface and ambient 7–32 °C; material at least 7 °C and rising
+   Volteco (RPM)                      SANOFER                        : not below +5 °C
+   Mapei                              Mapefer 1K Zero                : environmental and substrate temperature from +5°C to +35°C
+   Denka                              RIS防錆パウダー (RIS Rust-Prevention : None
+   MC-Bauchemie                       Nafufill KMH                   : ≥ 5 °C and ≤ 35 °C
+== packaging | OURS: 25 kg bag
+   Sika                               Sika MonoTop®-1010             : 12 kg plastic pail and 25 kg paper bag
+   Sika                               SikaTop® Armatec®-110 EpoCem®  : 20 kg: A (1.14 kg) + B (2.86 kg) + C (16 kg)
+   Master Builders Solutions (Sika)   SikaEmaco® P 5000 AP (formerly : 5 kg plastic pail
+   ParexLanko (Sika)                  760 LANKOPASSIV                : 3 l
+   Weber (Saint-Gobain)               weber.rep KB duo               : 5 kg bag (4 per pack); 20 kg bag
+   Euclid Chemical (RPM)              EUCOPATCH P                    : 25 kg bags
+   Volteco (RPM)                      SANOFER                        : 1 kg pails
+   Mapei                              Mapefer 1K Zero                : cartons each one containing 4 bags of 5 kg
+   Denka                              RIS防錆パウダー (RIS Rust-Prevention : RIS防錆パウダー 12.5 kg paper bag; RIS111 5 kg and 20 kg cans
+   MC-Bauchemie                       Nafufill KMH                   : 2 × 5 kg bags; 20 kg bag
+== shelf_life | OURS: min. 12 months
+   Sika                               Sika MonoTop®-1010             : 12 months from date of production
+   Sika                               SikaTop® Armatec®-110 EpoCem®  : 12 months
+   Master Builders Solutions (Sika)   SikaEmaco® P 5000 AP (formerly : 12 months from production date
+   ParexLanko (Sika)                  760 LANKOPASSIV                : None
+   Weber (Saint-Gobain)               weber.rep KB duo               : min. 12 months (dry, unopened)
+   Euclid Chemical (RPM)              EUCOPATCH P                    : 1 year in original, unopened packaging
+   Volteco (RPM)                      SANOFER                        : 18 months in original packaging
+   Mapei                              Mapefer 1K Zero                : up to 24 months in its original packaging
+   Denka                              RIS防錆パウダー (RIS Rust-Prevention : None
+   MC-Bauchemie                       Nafufill KMH                   : at least 12 months, cool and dry, original unopened packs
+## chart pot_life (min, higher) OURS 60 :: Sika MonoTop®-1010=120, SikaTop® Armatec®-110 =180, SikaEmaco® P 5000 AP (=60, weber.rep KB duo=80, SANOFER=20, Mapefer 1K Zero=60, Nafufill KMH=60
+## chart adhesion (N/mm², higher) OURS 1.5 :: Sika MonoTop®-1010=2, SikaTop® Armatec®-110 =1.5, Mapefer 1K Zero=2, RIS防錆パウダー (RIS Rust-Pr=2.1
+
+WHY:
+  - One bag for three jobs — corrosion protection of the reinforcement, bond coat and contact slurry — with the water addition as the only variable; SikaTop Armatec-110 EpoCem is a three-component epoxy-cement kit, Mapefer 1K Zero a rebar coating without a stated bond-coat consumption.
+  - One-component and cement-based: brushed into the matt damp substrate, the repair mortar follows wet in wet.
+  - Published consumption per mm for both uses (approx. 1.5 and 1.6 kg/m²), so the quantities of the system can be calculated.
+  - Flexible (polymer-modified) — the system is designed for the ASOCRET-BIS mortars on top; the values of the comparable products are quoted as published.
+
+LISTED: 

@@ -1,0 +1,239 @@
+SLOT cr/BIS540 ASOCRET-BIS-5/40 — PCC repair mortar, EN 1504-3 class R4, breakouts 5–40 mm
+competitors 13, listed 2, none: Oriental Yuhong
+
+== class | OURS: EN 1504-3 class R4; CE; reaction to fire A1
+   Sika                               Sika MonoTop®-4012             : Class R4 of EN 1504-3; CE EN 1504-3:2005; Reaction to fire Class A1 (EN 13501-1)
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : class R4 acc. to EN 1504-3
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : Class R4 (BS EN 1504-3); repair methods 3.1, 3.3, 4.4, 7.1, 7.2
+   Weber (Saint-Gobain)               weber.rep R4 duo               : EN 1504-3 class R4; tested as a system with weber.rep KB duo
+   Xypex (Saint-Gobain)               Xypex Megamix II               : Certified in accordance with EN 1504-3; CE certified as per EN 1504-3 (performance class not printed); NSF 61 for potable water contact
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : None
+   Volteco (RPM)                      FIBROMIX 40                    : EN 1504-3 class R4 (structural and non-structural repair), DoP 0005; reaction to fire Euroclass A1 (EN 13501-1)
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : TS EN 1504-3 class R4 (CE marking and reaction-to-fire class not stated; 'fireproof')
+   Mapei                              Mapegrout Thixotropic          : Class according to EN 1504-3: R4 (also meets EN 1504-9)
+   Kryton                             Krystol® Repair Grout          : No EN 1504-3 class printed; NSF/ANSI/CAN 61
+   Penetron                           PENETRON® MULTI PATCH          : EN 1504-3 class R4 (compressive ≥ 45 MPa); CE-block lines 'EN 1504-3 / 16 / 12.021-094D060422-06'
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : Meets NEXCO 'Structure Construction Management Guidelines' quality standard for trowel-applied section repair materials (左官工法による断面修復材の品質規格); no EN 1504-3 class stated
+   MC-Bauchemie                       Nafufill KM 250                : EN 1504-3 class R4 (also principles 3, 4, 7); reaction to fire A1 (EN 13501-1); F90/F120 (ISO 834 / ETK)
+== compressive | OURS: approx. 14 / 50 / 60 N/mm² (24 h / 7 d / 28 d)
+   Sika                               Sika MonoTop®-4012             : 1 day 19 MPa; 7 days 43 MPa; 28 days 56 MPa (EN 12190)
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : 1 day ≥ 20 N/mm²; 7 days ≥ 40 N/mm²; 28 days ≥ 60 N/mm² (EN 12190)
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : 45 N/mm² (28 d); other ages not printed
+   Xypex (Saint-Gobain)               Xypex Megamix II               : 18 / 32 / 42 / 53 MPa (24 h / 3 d / 7 d / 28 d) (ASTM C 109)
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : > 15 / > 35 / > 50 MPa (1 d / 7 d / 28 d; ASTM C 109, 50 mm cubes)
+   Volteco (RPM)                      FIBROMIX 40                    : 55.6 MPa (28 d, UNI EN 12190; requirement ≥ 45 MPa)
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : ≥ 60 N/mm² (28 days, TS EN 196); early-age values not printed
+   Mapei                              Mapegrout Thixotropic          : after 1 day > 20 MPa; after 7 days > 45 MPa; after 28 days > 60 MPa (EN 12190)
+   Kryton                             Krystol® Repair Grout          : 16 / 38 / 45 / 49 / 52 MPa (1 / 3 / 7 / 28 / 56 d) (ASTM C109)
+   Penetron                           PENETRON® MULTI PATCH          : 31.5 MPa (7 d); 46 MPa (28 d) (EN 12190)
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : 9.5 / 20.5 / 32.0 / 40.5 N/mm² (4 h / 1 d / 7 d / 28 d; JIS A 1171; one example)
+   MC-Bauchemie                       Nafufill KM 250                : hand: 34.4 / 50.4 / 55 N/mm² (48 h / 7 d / 28 d); spray: 57.5 / 68.1 N/mm² (7 d / 28 d) (lab, 21 ± 2 °C, 50 % r.h.)
+== flexural | OURS: approx. 4 / 8 / 9 N/mm² (24 h / 7 d / 28 d)
+   Sika                               Sika MonoTop®-4012             : 1 day 4.4 MPa; 7 days 7.0 MPa; 28 days 8.0 MPa (EN 12190)
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : None
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : 8 N/mm² (7 d)
+   Xypex (Saint-Gobain)               Xypex Megamix II               : None
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : None
+   Volteco (RPM)                      FIBROMIX 40                    : 8.3 MPa (28 d); requirements > 4.5 / > 5.5 / > 6.5 MPa at 1 / 7 / 28 d
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : ≥ 8 N/mm² (28 days, TS EN 196)
+   Mapei                              Mapegrout Thixotropic          : 28 days > 8.5 MPa (EN 196-1)
+   Kryton                             Krystol® Repair Grout          : None
+   Penetron                           PENETRON® MULTI PATCH          : 7.5 MPa (28 d) (printed as 'EN 1055-11', presumably EN 1015-11)
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : 3.2 / 4.5 / 5.2 / 6.1 N/mm² (4 h / 1 d / 7 d / 28 d; one example)
+   MC-Bauchemie                       Nafufill KM 250                : hand: 4.7 / 5.8 / 8.5 N/mm² (48 h / 7 d / 28 d); spray: 5.3 / 9.3 N/mm² (7 d / 28 d)
+== adhesion | OURS: ≥ 2 N/mm² (DIN EN 1542)
+   Sika                               Sika MonoTop®-4012             : ≥ 2.0 MPa (EN 1542)
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : Pull-Out Resistance Concrete 28 days ≥ 2.6 N/mm² (EN 1542)
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : None
+   Xypex (Saint-Gobain)               Xypex Megamix II               : 2.3 MPa direct tensile bond to concrete at 90 days (ASTM C 1583)
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : > 1.5 MPa (bond strength; test standard not stated)
+   Volteco (RPM)                      FIBROMIX 40                    : 2.03 MPa (UNI EN 1542; requirement ≥ 2.0 MPa)
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : Bond strength ≥ 2 N/mm² (28 days, as printed against TS EN 196; EN 1542 not cited)
+   Mapei                              Mapegrout Thixotropic          : > 2.0 MPa (EN 1542)
+   Kryton                             Krystol® Repair Grout          : Pull-off strength 2.8 MPa (400 psi) (ASTM C1583)
+   Penetron                           PENETRON® MULTI PATCH          : > 2 N/mm² (EN 1504-3 requirement ≥ 2 MPa)
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : 1.5 N/mm² (7 d) / 2.0 N/mm² (28 d) (JIS A 6909; one example)
+   MC-Bauchemie                       Nafufill KM 250                : ≥ 2.0 MPa (DoP)
+== e_modulus | OURS: approx. 20 GPa
+   Sika                               Sika MonoTop®-4012             : ≥ 20 GPa (EN 13412)
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : ≥ 29,000 N/mm² (EN 13412)
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : None
+   Xypex (Saint-Gobain)               Xypex Megamix II               : 20.4 GPa at 28 days (EN 13412)
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : None
+   Volteco (RPM)                      FIBROMIX 40                    : 27.5 GPa (UNI EN 13412)
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : None
+   Mapei                              Mapegrout Thixotropic          : 26 GPa (EN 13412)
+   Kryton                             Krystol® Repair Grout          : None
+   Penetron                           PENETRON® MULTI PATCH          : NPD
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : None
+   MC-Bauchemie                       Nafufill KM 250                : static 22,600 N/mm² (hand) / 25,000 N/mm² (spray) at 28 d; DoP ≥ 20 GPa
+== chloride | OURS: ≤ 0.05 %
+   Sika                               Sika MonoTop®-4012             : ≤ 0,05 % (EN 1015-17); chloride ion diffusion 4.8 × 10-12 m2/s (EN 12390-11)
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : ≤ 0.02 % (EN 1015-17)
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : Contains no chloride admixtures
+   Weber (Saint-Gobain)               weber.rep R4 duo               : None
+   Xypex (Saint-Gobain)               Xypex Megamix II               : None
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : None
+   Volteco (RPM)                      FIBROMIX 40                    : 0.00 % (UNI EN 1015-17; requirement ≤ 0.05 %)
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : None
+   Mapei                              Mapegrout Thixotropic          : ≤ 0.05% (EN 1015-17)
+   Kryton                             Krystol® Repair Grout          : None
+   Penetron                           PENETRON® MULTI PATCH          : < 0.05 % by mass
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : None
+   MC-Bauchemie                       Nafufill KM 250                : ≤ 0.05 % (DoP)
+== capillary | OURS: ≤ 0.5 kg·m⁻²·h⁻⁰·⁵
+   Sika                               Sika MonoTop®-4012             : ≤ 0.5 kg·m-2·h-0.5 (EN 13057)
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : ≤ 0.5 kg·m-2·h-0.5 (EN 13057)
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : None
+   Xypex (Saint-Gobain)               Xypex Megamix II               : None
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : None
+   Volteco (RPM)                      FIBROMIX 40                    : 0.03 kg·m⁻²·h⁻⁰·⁵ (UNI EN 13057)
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : None
+   Mapei                              Mapegrout Thixotropic          : < 0.20 kg·m-2·h-0.5 (EN 13057)
+   Kryton                             Krystol® Repair Grout          : None
+   Penetron                           PENETRON® MULTI PATCH          : None
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : None
+   MC-Bauchemie                       Nafufill KM 250                : 0.098 kg·m⁻²·h⁻⁰·⁵ (DoP)
+== carbonation | OURS: passed
+   Sika                               Sika MonoTop®-4012             : dk ≤ control concrete MC (0.45) (EN 13295)
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : dk ≤ Reference Concrete (EN 13295)
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : no value printed (weber.tec surface protection recommended for added carbonation protection)
+   Xypex (Saint-Gobain)               Xypex Megamix II               : No measurable carbonation depth (EN 13295; at age 49 days, 56 days in 1 % CO2)
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : None
+   Volteco (RPM)                      FIBROMIX 40                    : requirement fulfilled (UNI EN 13295)
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : None
+   Mapei                              Mapegrout Thixotropic          : Meets specifications (EN 13295)
+   Kryton                             Krystol® Repair Grout          : None
+   Penetron                           PENETRON® MULTI PATCH          : Considered not to affect corrosion (as declared)
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : None
+   MC-Bauchemie                       Nafufill KM 250                : passed (DoP); carbonation depth 0 mm at 90 d, < 1.5 mm at 730 d (TDS)
+== thickness | OURS: 5–40 mm; up to 20 mm per application step
+   Sika                               Sika MonoTop®-4012             : Horizontal 6 mm min / 120 mm max; Vertical 6 mm / 85 mm (120 mm in localised areas); Overhead 6 mm / 30 mm (50 mm in localised areas)
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : 5 to 50 mm
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : repair mortar approx. 50 mm per work step (several steps for deeper defects); fine filler 2–5 mm; minimum not stated; max. grain 0.5 mm
+   Xypex (Saint-Gobain)               Xypex Megamix II               : 10–50 mm (3/8–2 in) as a general guide; spray single layer up to 50 mm vertical, 40 mm overhead
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : min. 5 mm per placement; layers up to 20 mm thick
+   Volteco (RPM)                      FIBROMIX 40                    : max. 3 cm per layer (no minimum printed)
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : min. 10 mm, max. 40 mm per layer (Dmax 4 mm)
+   Mapei                              Mapegrout Thixotropic          : Minimum thickness per layer: 10 mm; Maximum thickness per layer: 50 mm
+   Kryton                             Krystol® Repair Grout          : No layer limit printed; repairs or overlays thicker than 25 mm: extend with clean graded pea gravel (max. size ≤ 1/3 of repair depth; approx. 4 parts powder : 2 parts gra
+   Penetron                           PENETRON® MULTI PATCH          : 5–40 mm; minimum layer 5 mm; larger cavities in successive layers
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : standard single-layer thickness 5–40 mm; up to 40 mm per layer on walls and 30 mm per layer on ceilings
+   MC-Bauchemie                       Nafufill KM 250                : min. 6 mm per pass (10 mm per work step under ZTV-ING), max. 30 mm per pass; max. 60 mm total (50 mm ZTV-ING), up to 100 mm as reprofiling mortar
+== consumption | OURS: approx. 1.8 kg/m² per mm
+   Sika                               Sika MonoTop®-4012             : 1.9 kg powder per m2 per mm; yield 13.7 L of mortar per 25 kg bag
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : ~1,900 kg powder is needed to prepare 1 m³ of fresh mortar; 25 kg powder will yield approximately 13.4 litres of mortar
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : approx. 1.9 kg/m² per mm
+   Xypex (Saint-Gobain)               Xypex Megamix II               : One 25 kg (55 lb) bag covers 1.05 m² (11.3 sq ft) at 12.5 mm thickness
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : one 25 kg bag covers approx. 1.0 m² at an average depth of 14 mm (yield 0.014 m³ per bag)
+   Volteco (RPM)                      FIBROMIX 40                    : 18 kg/m² per cm of thickness (1.8 kg/m² per mm)
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : approx. 20 kg/m² for 10 mm thickness (theoretical)
+   Mapei                              Mapegrout Thixotropic          : 19 kg/m² per cm of thickness
+   Kryton                             Krystol® Repair Grout          : Yield: 25 kg pail approx. 13 l; 5 kg pail approx. 2.6 l
+   Penetron                           PENETRON® MULTI PATCH          : One 25 kg bag yields approx. 13 l of mortar
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : 17.5 kg/m² at 10 mm thickness (1,750 kg per m³; one 12.5 kg bag ≈ 0.7 m² at 10 mm, ≈ 7 L of mortar)
+   MC-Bauchemie                       Nafufill KM 250                : 1.8 kg/m² per mm (hand); 1.85 kg/m² per mm (spray)
+== water | OURS: approx. 3.5–3.75 l per 25 kg
+   Sika                               Sika MonoTop®-4012             : 3.75 to 3.9 L of water for a 25 kg bag
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : 3.8 to 4.2 litres of water per 25 kg bag
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : 14.5 % = 2.9 l per 20 kg bag (+ up to 0.3 l for filler consistency)
+   Xypex (Saint-Gobain)               Xypex Megamix II               : Max. 3.55 l per 25 kg bag (0.94 US gal per 55 lb); start with approx. 90 % of the water
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : 3.4–3.5 L per 25 kg bag
+   Volteco (RPM)                      FIBROMIX 40                    : 4–4.5 l per 25 kg bag (16–18 % by weight)
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : 3.5–4.0 l per 25 kg bag
+   Mapei                              Mapegrout Thixotropic          : 100 parts in weight of Mapegrout Thixotropic with 16% of water (15.5–16.5 kg per 100 kg)
+   Kryton                             Krystol® Repair Grout          : Concrete/leak repair: 4.5 parts powder to 1 part water by volume (parge coat 4 : 1; bonding slurry 3 : 1)
+   Penetron                           PENETRON® MULTI PATCH          : 3.1–3.7 kg clean water per 25 kg bag
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : 2.1 kg water per 12.5 kg bag (294 kg water per 1,750 kg product per m³)
+   MC-Bauchemie                       Nafufill KM 250                : approx. 3.75–4.00 L per 25 kg bag (powder : water 100 : 15–16 by weight)
+== pot_life | OURS: approx. 60 minutes
+   Sika                               Sika MonoTop®-4012             : 60 minutes at +20 °C (pot life depends on temperature)
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : 45 to 60 Minutes (at +21 ± 2 °C and 60 ± 10 % relative humidity)
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : 60–90 minutes
+   Xypex (Saint-Gobain)               Xypex Megamix II               : None
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : mix only as much as can be used within 10 minutes
+   Volteco (RPM)                      FIBROMIX 40                    : workability time 20 minutes at +20 °C
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : 30 minutes (+20 °C)
+   Mapei                              Mapegrout Thixotropic          : approx. 60 mins. (at +20°C)
+   Kryton                             Krystol® Repair Grout          : Working time 30 minutes (20 °C, 50 % RH); hardening 1–1.5 h
+   Penetron                           PENETRON® MULTI PATCH          : None
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : setting (hardening) time 50 min at 20 °C (one example); usable time depends on temperature and humidity — trial mix required
+   MC-Bauchemie                       Nafufill KM 250                : 60 min at 5 °C; 45 min at 20 °C; 30 min at 30 °C
+== overcoat | OURS: min. 24 hours
+   Sika                               Sika MonoTop®-4012             : None
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : None
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : approx. 12 h between repair layers; coatings over the repair after > 5 days
+   Xypex (Saint-Gobain)               Xypex Megamix II               : Successive layers: roughen/score and apply immediately following initial set; full coat into the still-wet scrub coat (generally within 20 minutes)
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : None
+   Volteco (RPM)                      FIBROMIX 40                    : ≥ 60 minutes between layers (roughen the base layer); overcoating (CP SYSTEM, X-LIME) no sooner than 24 hours
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : thicker work built up in layers, each after the previous has dried (no waiting time stated); initial curing 24 h (+20 °C)
+   Mapei                              Mapegrout Thixotropic          : further coat must be applied before the previous one has completely set (not more than 4 hours at +23°C)
+   Kryton                             Krystol® Repair Grout          : None
+   Penetron                           PENETRON® MULTI PATCH          : Over PENETRON ACRYLIC BONDCRETE bond coat: min. 40 minutes (until tack-free); bond coat stays effective up to 2 weeks if clean and dry
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : when the previous layer has fully hardened (≥ 6 h at 5 °C, ≥ 3 h at 20 °C, ≥ 2 h at 30 °C) apply RIS211E primer (3× diluted, 150 g/m²) before the next layer
+   MC-Bauchemie                       Nafufill KM 250                : None
+== application_temp | OURS: approx. 5–30 °C
+   Sika                               Sika MonoTop®-4012             : Ambient air +5 °C min / +30 °C max; substrate +5 °C min / +30 °C max
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : Ambient air +5 to +30 °C; substrate +5 to +30 °C
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : 5–30 °C
+   Xypex (Saint-Gobain)               Xypex Megamix II               : Not below 3 °C (39 °F) or above 30 °C (86 °F)
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : materials 16–32 °C for mixing; do not use below 7 °C
+   Volteco (RPM)                      FIBROMIX 40                    : +5 to +30 °C
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : +5 °C to +35 °C (air and substrate)
+   Mapei                              Mapegrout Thixotropic          : +5°C to +35°C (surrounding and substrate)
+   Kryton                             Krystol® Repair Grout          : None
+   Penetron                           PENETRON® MULTI PATCH          : None
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : stop work or provide suitable heat protection when the outdoor air temperature is 3 °C or below (no range stated)
+   MC-Bauchemie                       Nafufill KM 250                : 5–30 °C (air, substrate and material)
+== packaging | OURS: 25 kg bag
+   Sika                               Sika MonoTop®-4012             : Standard bag 25 kg
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : 25 kg paper bags
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : 20 kg bag
+   Xypex (Saint-Gobain)               Xypex Megamix II               : 25 kg (55 lb) bags; custom packaging on request
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : 25 kg bags
+   Volteco (RPM)                      FIBROMIX 40                    : 25 kg bags
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : 25 kg bag
+   Mapei                              Mapegrout Thixotropic          : 25 kg bags
+   Kryton                             Krystol® Repair Grout          : 25 kg (55 lb) and 5 kg (11 lb) pails
+   Penetron                           PENETRON® MULTI PATCH          : 25 kg bag
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : 12.5 kg bag
+   MC-Bauchemie                       Nafufill KM 250                : 25 kg bag; Big Bag
+== shelf_life | OURS: min. 12 months
+   Sika                               Sika MonoTop®-4012             : 12 months from date of production
+   Master Builders Solutions (Sika)   SikaEmaco® S 5400 (formerly Ma : 12 months if stored in the correct storage conditions
+   Fosroc (Saint-Gobain)              Renderoc HB45                  : None
+   Weber (Saint-Gobain)               weber.rep R4 duo               : min. 9 months (dry, unopened)
+   Xypex (Saint-Gobain)               Xypex Megamix II               : 2 years, stored dry at min. 7 °C
+   Euclid Chemical (RPM)              EUCOPATCH 20                   : 1 year in original, unopened package
+   Volteco (RPM)                      FIBROMIX 40                    : 18 months in original packaging
+   Bostik (Arkema)                    Bostik SRM-T (Structural Repai : max. 12 months (dry, +10 to +25 °C)
+   Mapei                              Mapegrout Thixotropic          : up to 12 months in its original packaging in a dry place
+   Kryton                             Krystol® Repair Grout          : At least 3 years for unopened pails stored in a dry, enclosed area
+   Penetron                           PENETRON® MULTI PATCH          : 12 months in sealed original packaging, dry, 5–30 °C
+   Denka                              RISフィニッシュエース (RIS Finish Ace)  : None
+   MC-Bauchemie                       Nafufill KM 250                : at least 12 months, cool and dry, original unopened packs
+## chart compressive (N/mm², higher) OURS 60 :: Sika MonoTop®-4012=56, SikaEmaco® S 5400 (for=60, weber.rep R4 duo=45, Xypex Megamix II=53, EUCOPATCH 20=50, FIBROMIX 40=55.6, Bostik SRM-T (Structur=60, Mapegrout Thixotropic=60, Krystol® Repair Grout=49, PENETRON® MULTI PATCH=46, RISフィニッシュエース (RIS Fini=40.5, Nafufill KM 250=55
+## chart e_modulus (GPa, lower) OURS 20 :: Sika MonoTop®-4012=20, SikaEmaco® S 5400 (for=29, Xypex Megamix II=20.4, FIBROMIX 40=27.5, Mapegrout Thixotropic=26, Nafufill KM 250=22.6
+## chart thickness (mm, lower) OURS 5 :: Sika MonoTop®-4012=6, SikaEmaco® S 5400 (for=5, Xypex Megamix II=10, EUCOPATCH 20=5, Bostik SRM-T (Structur=10, Mapegrout Thixotropic=10, PENETRON® MULTI PATCH=5, RISフィニッシュエース (RIS Fini=5, Nafufill KM 250=6
+## chart consumption (kg, lower) OURS 1.8 :: Sika MonoTop®-4012=1.9, SikaEmaco® S 5400 (for=1.9, weber.rep R4 duo=1.9, FIBROMIX 40=1.8, Bostik SRM-T (Structur=2.0, Mapegrout Thixotropic=1.9, RISフィニッシュエース (RIS Fini=1.75, Nafufill KM 250=1.8
+
+WHY:
+  - Class R4 with approx. 60 N/mm² at 28 days and ≥ 2 N/mm² adhesion — on par with the R4 mortars of the comparison.
+  - E-modulus approx. 20 GPa, the lowest of the four published values (26 GPa Mapegrout Thixotropic, ≥ 29 GPa SikaEmaco S 5400): a stiffness closer to the parent concrete, so the repair follows the structure rather than fighting it.
+  - Starts at 5 mm (Sika MonoTop-4012 from 6 mm, Mapegrout Thixotropic from 10 mm) — thin breakouts are repaired with the same mortar.
+  - Consumption approx. 1.8 kg/m² per mm against approx. 1.9 kg for the comparable mortars.
+
+LISTED: ParexLanko 731 LANKOREP STRUCTURE; Sobute SP201 Polymer Repair and Reinforcement Mortar

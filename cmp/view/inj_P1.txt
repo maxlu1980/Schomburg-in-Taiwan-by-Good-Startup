@@ -1,0 +1,115 @@
+SLOT inj/P1 AQUAFIN-P1 — one-component polyurethane injection foam for water-conducting cracks (temporary stop)
+competitors 12, listed 1, none: Xypex, Kryton
+
+== basis | OURS: polyurethane resin, water-reactive
+   Sika                               Sika® Injection-101 RC         : Water reactive polyurethane resin
+   Master Builders Solutions (Sika)   SikaInject®-233 (formerly Mast : Polyurethane (PU)-based, solvent-free
+   Fosroc (Saint-Gobain)              Nitofill PU130                 : Hydrophobic polyurethane, solvent free
+   GCP Applied Technologies (Saint-Go DE NEEF® HA Cut AF             : polyurethane resin, hydro-active (water-reactive)
+   Euclid Chemical (RPM)              DURAL AQUA-DAM                 : hydrophobic polyurethane compound, water-reactive
+   Prime Resins (RPM)                 Prime Flex 900 XLV             : polyurethane, water-activated, hydrophilic
+   Bostik (Arkema)                    PU Wasserstopp (with PU Beschl : solvent-free modified diisocyanate (MDI) prepolymer, water-reactive
+   Mapei                              RESFOAM 1KM                    : One-component, ultra-fluid polyurethane resin applied by injection
+   Penetron                           PENETRON® INJECTION FOAM (F)   : Polyurethane, water-reactive, solvent-free (flexible PU foam system)
+   Oriental Yuhong                    OPU20 Oil-soluble Polyurethane : oil-soluble (hydrophobic) polyurethane, water-reactive (JC/T 2041-2020)
+   Denka                              Estofoam PU Super              : polyurethane resin, water-reactive (forms closed-cell flexible foam)
+   MC-Bauchemie                       MC-Injekt 2133                 : polyurethane-based elastomer foam resin, water-reactive
+== components | OURS: 1
+   Sika                               Sika® Injection-101 RC         : 2 (Part A Resin colourless, Part B Hardener brown)
+   Master Builders Solutions (Sika)   SikaInject®-233 (formerly Mast : Single component (base resin) + accelerator 'CAT'
+   Fosroc (Saint-Gobain)              Nitofill PU130                 : Single component (resin) + optional Nitofill Accelerator; water as reactant
+   GCP Applied Technologies (Saint-Go DE NEEF® HA Cut AF             : 1 (resin) + HA Cut Cat AF catalyst (2–10 %)
+   Euclid Chemical (RPM)              DURAL AQUA-DAM                 : resin with added accelerator for fast reaction (component count not printed; US sheet: DURAL AQUACCELERATOR)
+   Prime Resins (RPM)                 Prime Flex 900 XLV             : 1 (no catalyst or accelerator needed); mixing ratio with water 2 parts resin : 1–2 parts water
+   Bostik (Arkema)                    PU Wasserstopp (with PU Beschl : 1 (resin) + optional PU Beschleuniger accelerator, ratio freely selectable
+   Mapei                              RESFOAM 1KM                    : 1 (RESFOAM 1 KM resin) + RESFOAM 1 KM AKS (catalyser)
+   Penetron                           PENETRON® INJECTION FOAM (F)   : Resin (A, brown, 1.16 kg/l, 100–400 cps at 21 °C) + catalyst (B, clear, 0.99 kg/l, 25–100 cps); A : B = 20 : 3.4 by weight (5 : 1 by volume)
+   Oriental Yuhong                    OPU20 Oil-soluble Polyurethane : 1 (brown-yellow liquid; yellow foam after curing)
+   Denka                              Estofoam PU Super              : 1
+   MC-Bauchemie                       MC-Injekt 2133                 : 1, ready to use (optional accelerator MC-KAT 20, up to approx. 5 %)
+== foam_expansion | OURS: foams to up to approx. 40 times its volume on contact with water
+   Sika                               Sika® Injection-101 RC         : Free foaming expansion up to 40 times
+   Master Builders Solutions (Sika)   SikaInject®-233 (formerly Mast : ~20x – 30x (max. 10 % CAT); free foaming factor 20 / 25 / 25 / 30 at +5 / +10 / +15 / +20 °C
+   Fosroc (Saint-Gobain)              Nitofill PU130                 : >28x at 25°C with 2.5% accelerator (>18x with 0% accelerator; >31x at 30°C)
+   GCP Applied Technologies (Saint-Go DE NEEF® HA Cut AF             : foam factor approx. 15 V to 30 V by temperature and catalyst dosage (20 °C: 20 V at 2 %, 23 V at 3 %, 27 V at 5 %, 29 V at 10 % catalyst)
+   Euclid Chemical (RPM)              DURAL AQUA-DAM                 : None
+   Prime Resins (RPM)                 Prime Flex 900 XLV             : up to 600 % unconfined; closed-cell watertight foam
+   Bostik (Arkema)                    PU Wasserstopp (with PU Beschl : None
+   Mapei                              RESFOAM 1KM                    : a mixture of 1 kg of RESFOAM 1 KM (resin) + 0.1 kg of RESFOAM 1 KM AKS (catalyser) forms 50 litres of foam upon contact with 0.1 litre of water (in the open air)
+   Penetron                           PENETRON® INJECTION FOAM (F)   : Max. expansion volume 15–20 times; foaming start 5 s, end 20 s (20 °C)
+   Oriental Yuhong                    OPU20 Oil-soluble Polyurethane : expansion up to 2200 % on contact with water
+   Denka                              Estofoam PU Super              : expansion rate 1100 (unit not printed)
+   MC-Bauchemie                       MC-Injekt 2133                 : volume change factor approx. 60–70 (free foaming, with 10 % water)
+== cure | OURS: reacts on contact with water; the foam is watertight and visco-plastic
+   Sika                               Sika® Injection-101 RC         : Expansion start ~15 seconds after contact with water, end ~67 seconds (EN 1406, +20 °C); with 0 / 5 / 10 % Sika® Injection-AC10: start ~16 / ~10 / ~7 s and end ~70 / ~39 
+   Master Builders Solutions (Sika)   SikaInject®-233 (formerly Mast : Reaction start / end with 10 % CAT: 130 s / 350 s at +5 °C; 65 s / 250 s at +10 °C; 30 s / 120 s at +15 °C; 15 s / 60 s at +20 °C
+   Fosroc (Saint-Gobain)              Nitofill PU130                 : Initiation 15 s, expansion time 1:15 (min:s) at 25°C with 2.5% accelerator
+   GCP Applied Technologies (Saint-Go DE NEEF® HA Cut AF             : expands on contact with water and cures to a rigid closed-cell foam; 20 °C, 2 % catalyst: start approx. 1'20", end approx. 8'00" (10 %: 30" / 2'10")
+   Euclid Chemical (RPM)              DURAL AQUA-DAM                 : reacts with water and forms a watertight seal within the substrate that remains after the water subsides; cured density 50 kg/m³ (ASTM D1622), elongation 30 %, tensile 0.
+   Prime Resins (RPM)                 Prime Flex 900 XLV             : initial reaction 30 s, full rise 1 min 50 s (73 °F / 23 °C); cured under pressure: tensile 450 psi, elongation 350 % (ASTM D-3574), shrinkage < 2 %
+   Bostik (Arkema)                    PU Wasserstopp (with PU Beschl : reacts with water to a water-insoluble, seawater-resistant foam; reaction time 10 min to 1 h depending on water content and accelerator dosage
+   Mapei                              RESFOAM 1KM                    : The reaction time may be regulated (no values stated)
+   Penetron                           PENETRON® INJECTION FOAM (F)   : Reacts only with water / moisture to a dense, flexible foam that temporarily stops leaks; permanent seal with PENETRON INJECTION RESIN; mixed workability > 2 h in a close
+   Oriental Yuhong                    OPU20 Oil-soluble Polyurethane : foams and expands on water contact into a uniform, dense, hard closed-cell foam; stable in wet, dry and wet–dry cycling without shrinkage; check for leakage after 72 h
+   Denka                              Estofoam PU Super              : reaction time 180 s in contact with water (23 ± 2 °C); remains flexible, elongation 200–300 %
+   MC-Bauchemie                       MC-Injekt 2133                 : reaction on contact with water: start approx. 10–15 s, end approx. 60–70 s; processing time unlimited without water contact
+== consumption | OURS: according to the water flow and the void; permanent seal afterwards with AQUAFIN-P4
+   Sika                               Sika® Injection-101 RC         : None
+   Master Builders Solutions (Sika)   SikaInject®-233 (formerly Mast : None
+   Fosroc (Saint-Gobain)              Nitofill PU130                 : None
+   GCP Applied Technologies (Saint-Go DE NEEF® HA Cut AF             : None
+   Euclid Chemical (RPM)              DURAL AQUA-DAM                 : None
+   Prime Resins (RPM)                 Prime Flex 900 XLV             : None
+   Bostik (Arkema)                    PU Wasserstopp (with PU Beschl : as required
+   Mapei                              RESFOAM 1KM                    : 1.1 kg resin+catalyser → 50 litres of foam in open air
+   Penetron                           PENETRON® INJECTION FOAM (F)   : None
+   Oriental Yuhong                    OPU20 Oil-soluble Polyurethane : according to crack width, length and leakage (no figure)
+   Denka                              Estofoam PU Super              : None
+   MC-Bauchemie                       MC-Injekt 2133                 : None
+== application_temp | OURS: approx. 5–30 °C
+   Sika                               Sika® Injection-101 RC         : +5 °C min. / +35 °C max. (ambient air and substrate)
+   Master Builders Solutions (Sika)   SikaInject®-233 (formerly Mast : None
+   Fosroc (Saint-Gobain)              Nitofill PU130                 : None
+   GCP Applied Technologies (Saint-Go DE NEEF® HA Cut AF             : reactivity data 5–35 °C; improved performance stated below 5 °C (no range printed)
+   Euclid Chemical (RPM)              DURAL AQUA-DAM                 : None
+   Prime Resins (RPM)                 Prime Flex 900 XLV             : store and precondition material at 40–80 °F (4–27 °C); cold slows reaction
+   Bostik (Arkema)                    PU Wasserstopp (with PU Beschl : from +5 °C; ideal +20 °C
+   Mapei                              RESFOAM 1KM                    : None
+   Penetron                           PENETRON® INJECTION FOAM (F)   : 5–40 °C
+   Oriental Yuhong                    OPU20 Oil-soluble Polyurethane : None
+   Denka                              Estofoam PU Super              : None
+   MC-Bauchemie                       MC-Injekt 2133                 : component and substrate 5–40 °C; stop below 5 °C; pre-wet dry structures
+== packaging | OURS: 5 kg can, 10 kg can
+   Sika                               Sika® Injection-101 RC         : Part A 10 or 20 kg; Part B 12,5 or 25 kg
+   Master Builders Solutions (Sika)   SikaInject®-233 (formerly Mast : 1 L kit
+   Fosroc (Saint-Gobain)              Nitofill PU130                 : Nitofill PU130 20 kg; Nitofill Accelerator 1 kg
+   GCP Applied Technologies (Saint-Go DE NEEF® HA Cut AF             : resin 5 kg, 25 kg, 200 kg metal drums; catalyst 0.5 L, 2.5 L bottles, 20 kg drum
+   Euclid Chemical (RPM)              DURAL AQUA-DAM                 : 18 kg pails
+   Prime Resins (RPM)                 Prime Flex 900 XLV             : 1 gal jugs (case of 4); 5 gal pail; 2:1 Quick Mix cartridges (10 per case)
+   Bostik (Arkema)                    PU Wasserstopp (with PU Beschl : 10 kg metal container (resin); 1 kg accelerator
+   Mapei                              RESFOAM 1KM                    : RESFOAM 1 KM (resin): 20 kg plastic drums; RESFOAM 1 KM AKS (catalyser): 1 kg plastic drums
+   Penetron                           PENETRON® INJECTION FOAM (F)   : Part A 19 l pail; Part B 3.8 l pail
+   Oriental Yuhong                    OPU20 Oil-soluble Polyurethane : 10 kg
+   Denka                              Estofoam PU Super              : 10 kg pail
+   MC-Bauchemie                       MC-Injekt 2133                 : 10 l canister; box of 6 × 1 l; MC-KAT 20 in 400 ml aluminium bottles (5 per box)
+== shelf_life | OURS: 12 months
+   Sika                               Sika® Injection-101 RC         : None
+   Master Builders Solutions (Sika)   SikaInject®-233 (formerly Mast : None
+   Fosroc (Saint-Gobain)              Nitofill PU130                 : None
+   GCP Applied Technologies (Saint-Go DE NEEF® HA Cut AF             : 2 years (dry, 5–30 °C)
+   Euclid Chemical (RPM)              DURAL AQUA-DAM                 : 1 year in original, unopened packages
+   Prime Resins (RPM)                 Prime Flex 900 XLV             : 24 months from date of manufacture (unopened)
+   Bostik (Arkema)                    PU Wasserstopp (with PU Beschl : approx. 6 months (cool, dry, frost-free)
+   Mapei                              RESFOAM 1KM                    : None
+   Penetron                           PENETRON® INJECTION FOAM (F)   : 12 months in sealed containers; min. 7 °C, do not freeze
+   Oriental Yuhong                    OPU20 Oil-soluble Polyurethane : 8 months (stored upright, cool and dry, +5 to +35 °C)
+   Denka                              Estofoam PU Super              : 6 months from date of manufacture (stored at 15–38 °C, dry)
+   MC-Bauchemie                       MC-Injekt 2133                 : at least 18 months, original sealed packs, dry, 5–35 °C
+## chart foam_expansion (×, higher) OURS 40 :: Sika® Injection-101 RC=40, SikaInject®-233 (forme=30, Nitofill PU130=28, DE NEEF® HA Cut AF=30, RESFOAM 1KM=45, PENETRON® INJECTION FO=17.5, OPU20 Oil-soluble Poly=22, MC-Injekt 2133=65
+
+WHY:
+  - One component, no accelerator to dose: the resin reacts with the water in the crack itself — SikaInject-233 and Nitofill PU130 need 2–10 % accelerator for their reaction times, Sika Injection-101 RC is a two-component resin.
+  - Foams to up to approx. 40 times its volume, at the top of the range published by the comparable products (20–45×).
+  - Designed as the first step of the two-step injection: the foam stops the water, AQUAFIN-P4 then seals the crack permanently through the same packers.
+
+LISTED: Sobute GP101 High-performance Polyurethane Grouting Material (oil-based)

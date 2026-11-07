@@ -1,0 +1,144 @@
+SLOT inj/P4 AQUAFIN-P4 — two-component polyurethane injection resin, crack-bridging, soft elastic (permanent seal)
+competitors 9, listed 1, none: Arkema, Xypex, Kryton, Denka
+
+== basis | OURS: polyurethane resin, two-component
+   Sika                               Sika® Injection-201 CE         : Water-reactive 2-part polyurethane resin
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : Liquid polyurethane (product page: moisture-curing MDI isocyanate, contains no TDI)
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : Hydrophilic polyurethane (contains no TDI or solvents)
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : polyurethane resin, two-component (polyol blend + di-isocyanate hardener), solvent-free
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : hydrophilic polyurethane compound, water-reactive
+   Mapei                              FOAMJET 260 LV                 : Two-component polyurethane flexible and low viscosity resin for injection and waterproofing (brochure: flexible, low-viscosity, non-expanding)
+   Penetron                           PENETRON® INJECTION RESIN (SR) : Polyurethane resin, two-component, solvent-free (semi-rigid PU injection resin system)
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : water-soluble (hydrophilic) polyurethane, one-component; elastic + water-swelling seal (JC/T 2041-2020)
+   MC-Bauchemie                       MC-Injekt 2300 top             : polyurethane-based elastomer resin, two-component; water-displacing, non-foaming
+== components | OURS: 2 (A honey yellow / B)
+   Sika                               Sika® Injection-201 CE         : 2 (Part A colourless, Part B brown)
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : Single component (does not require the addition of a 'reactor')
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : Single component system (reacts with water)
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : 2 (A polyol blend, yellow transparent / B di-isocyanate, dark brown)
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : 1 (single-component; reacts with water injected/flushed through the crack, water pH 3–10)
+   Mapei                              FOAMJET 260 LV                 : 2 (Component A, Component B) + accelerator
+   Penetron                           PENETRON® INJECTION RESIN (SR) : 2 (A base, clear liquid, 1.03 kg/l; B catalyst, brown liquid, 1.23 kg/l)
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : 1 (brown liquid; cures to a white elastomer)
+   MC-Bauchemie                       MC-Injekt 2300 top             : 2 (component A + component B); product colour light brown
+== mix_ratio | OURS: 1 : 1 by volume
+   Sika                               Sika® Injection-201 CE         : Part A : Part B = 1:1 parts by volume
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : None
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : 1:1 resin to water (w/w) design criteria
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : A : B = 2 : 1 by volume (pre-weighed sets)
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : None
+   Mapei                              FOAMJET 260 LV                 : None
+   Penetron                           PENETRON® INJECTION RESIN (SR) : A : B = 2 : 1 by weight (2.39 : 1 by volume) at 20 °C
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : None
+   MC-Bauchemie                       MC-Injekt 2300 top             : 1 : 1 by volume (100 : 111 by mass), A : B
+== density | OURS: approx. 1.1 kg/dm³
+   Sika                               Sika® Injection-201 CE         : Part A ~1.00 kg/l; Part B ~1.07 kg/l (at +20 °C, ISO 2811)
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : ~1.15 kg/l
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : Specific gravity 1.07 (ASTM D-1475)
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : A approx. 0.975 kg/dm³; B approx. 1.230 kg/dm³ (EN ISO 2811)
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : liquid specific gravity 1.16; cured density 5 lb/ft³ (80 kg/m³) (ASTM D1622)
+   Mapei                              FOAMJET 260 LV                 : None
+   Penetron                           PENETRON® INJECTION RESIN (SR) : 1.09 kg/l (mixed)
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : None
+   MC-Bauchemie                       MC-Injekt 2300 top             : approx. 1.04 kg/dm³ mixture (A approx. 0.98, B approx. 1.09 kg/dm³; DIN 53479)
+== viscosity | OURS: approx. 125 mPa·s (20 °C)
+   Sika                               Sika® Injection-201 CE         : ~100 mPa·s (mixture, +20 °C, ISO 3219)
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : ~300 - 600 cps (25 °C)
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : 650 cps (ASTM D-1638; test temperature not stated)
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : mixed approx. 160 mPa·s at 25 °C; approx. 435 mPa·s at 8 °C (EN ISO 3219)
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : 500 cps at 77 °F (25 °C) (ASTM D1638)
+   Mapei                              FOAMJET 260 LV                 : None
+   Penetron                           PENETRON® INJECTION RESIN (SR) : 100–300 cps (mixed); A 100–300 cps, B 50–150 cps at 21 °C
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : described as low viscosity (no value published)
+   MC-Bauchemie                       MC-Injekt 2300 top             : approx. 55 mPa·s, mixture (EN ISO 3219; laboratory values at 21 °C ± 2 °C, 50 % r.h.)
+== pot_life | OURS: approx. 30 minutes
+   Sika                               Sika® Injection-201 CE         : ~135 min at +20 °C / ~180 min at +5 °C and +10 °C without accelerator (ISO 9514); with 0.5–5.0 % Sika® Injection-AC20 adjustable from ~60 min down to ~5 min
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : ~45 min (1 L at 25 °C)
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : None
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : approx. 45 min at 25 °C; approx. 120 min at 8 °C (EN ISO 9514)
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : initial foam 30 s; reaction time 6 min
+   Mapei                              FOAMJET 260 LV                 : Pot life - approx. 6 h (brochure)
+   Penetron                           PENETRON® INJECTION RESIN (SR) : 30–60 minutes
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : None
+   MC-Bauchemie                       MC-Injekt 2300 top             : working time approx. 35 min (EN 1504-5, up to 1,000 mPa·s); reaction time / pot life approx. 90 min (ASTM D7487-13)
+== hardness | OURS: Shore A approx. 47 (after 21 hours, 25 °C)
+   Sika                               Sika® Injection-201 CE         : Shore A ~43 (7 days, EN 868)
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : None
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : None
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : Shore A approx. 65 (EN ISO/R 868, 21 °C)
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : None
+   Mapei                              FOAMJET 260 LV                 : None
+   Penetron                           PENETRON® INJECTION RESIN (SR) : Shore A 80 (ASTM D2240, cured film)
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : None
+   MC-Bauchemie                       MC-Injekt 2300 top             : None
+== cure | OURS: final curing approx. 5 hours (20 °C)
+   Sika                               Sika® Injection-201 CE         : None
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : 7 days (35 °C final cure)
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : At 20 °C, 1:1: cream 55 s, gel 3:45, rise 6:38, tack-free 7:30 (min:s)
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : None
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : reaction time 6 min (initial foam 30 s); elongation 360 %, tensile strength 335 psi (2.3 MPa) (ASTM D638)
+   Mapei                              FOAMJET 260 LV                 : adjustable reaction times (brochure)
+   Penetron                           PENETRON® INJECTION RESIN (SR) : Curing / maturation 7 days
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : gels quickly on contact with water (no time stated); water-holding capacity up to 2000 % (≈1000 % within 30 s); swelling up to 40 %
+   MC-Bauchemie                       MC-Injekt 2300 top             : None
+== consumption | OURS: approx. 1.1 kg per litre of voids
+   Sika                               Sika® Injection-201 CE         : None
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : None
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : None
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : to be estimated by the engineer from crack / void width and depth
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : None
+   Mapei                              FOAMJET 260 LV                 : None
+   Penetron                           PENETRON® INJECTION RESIN (SR) : None
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : according to crack width, length and leakage (no figure)
+   MC-Bauchemie                       MC-Injekt 2300 top             : None
+== application_temp | OURS: substrate approx. 5–30 °C; application 10–30 °C
+   Sika                               Sika® Injection-201 CE         : +5 °C min. / +35 °C max. (ambient air and substrate)
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : None
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : None
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : None
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : None
+   Mapei                              FOAMJET 260 LV                 : None
+   Penetron                           PENETRON® INJECTION RESIN (SR) : 5–40 °C
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : None
+   MC-Bauchemie                       MC-Injekt 2300 top             : component and substrate 5–40 °C; stop work below 5 °C
+== certification | OURS: CE / DoP to DIN EN 1504-5
+   Sika                               Sika® Injection-201 CE         : CE marked to EN 1504-5:2004 – concrete injection for ductile filling of cracks, voids and interstices (D); DoP 35859175, notified body 0761; German KTW drinking-water cer
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : None
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : AS/NZS 4020:2018 (suitable for drinking water), AWQC Report 350774
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : REACH compliant; no EN 1504-5 declaration printed
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : None
+   Mapei                              FOAMJET 260 LV                 : Meets EN 1504-9 and the minimum requirements of EN 1504-5 (brochure); CE EN 1504-5 mark shown on product page, class not stated
+   Penetron                           PENETRON® INJECTION RESIN (SR) : None
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : JC/T 2041-2020 《聚氨酯灌浆材料》 (stated as executive standard)
+   MC-Bauchemie                       MC-Injekt 2300 top             : CE to EN 1504-5: U(D2) W(1) (1/2/3/4) (5/40); DIBt general building authority approvals (injection into soil and groundwater; chemical resistance in LAU facilities); fire
+== packaging | OURS: 5.2 kg set (2.5 + 2.7 kg); 10.4 kg set
+   Sika                               Sika® Injection-201 CE         : Part A 10 kg or 20 kg; Part B 10.6 kg or 21.2 kg
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : 1 L bottles (1.15 kg)
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : Nitofill PU150 20 kg
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : 3 L set (2 L A + 1 L B); 15 L set (10 L A + 5 L B)
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : 5 gal (19 L) pail; 55 gal (208 L) drum
+   Mapei                              FOAMJET 260 LV                 : Component A jerry can 20 kg; Component B jerry can 24 kg; Accelerator bottle 1 kg (brochure)
+   Penetron                           PENETRON® INJECTION RESIN (SR) : Part A 19 l pail; Part B 8 l pail
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : 10 kg
+   MC-Bauchemie                       MC-Injekt 2300 top             : box of 6 × 1 l packs; canisters of 5 l, 10 l or 20 l per component
+== shelf_life | OURS: 12 months
+   Sika                               Sika® Injection-201 CE         : None
+   Master Builders Solutions (Sika)   SikaInject®-232 (formerly Mast : None
+   Fosroc (Saint-Gobain)              Nitofill PU150                 : None
+   GCP Applied Technologies (Saint-Go DE NEEF® Elastopack 201        : 2 years (dry, 5–30 °C)
+   Euclid Chemical (RPM)              DURAL AQUA-FIL                 : 3 years in original, unopened containers
+   Mapei                              FOAMJET 260 LV                 : None
+   Penetron                           PENETRON® INJECTION RESIN (SR) : 12 months in closed, intact packaging; stored dry, min. 7 °C
+   Oriental Yuhong                    WPU20 Water-soluble Polyuretha : 8 months (stored upright, cool and dry, +5 to +35 °C)
+   MC-Bauchemie                       MC-Injekt 2300 top             : at least 18 months, original sealed packs, dry, 5–30 °C
+## chart viscosity (mPa·s, lower) OURS 125 :: Sika® Injection-201 CE=100, SikaInject®-232 (forme=450, Nitofill PU150=650, DE NEEF® Elastopack 20=160, PENETRON® INJECTION RE=200, MC-Injekt 2300 top=55
+## chart hardness (Shore A, higher) OURS 47 :: Sika® Injection-201 CE=43, DE NEEF® Elastopack 20=65, PENETRON® INJECTION RE=80
+## chart cure (h, lower) OURS 5 :: SikaInject®-232 (forme=168, PENETRON® INJECTION RE=168
+
+WHY:
+  - A true two-component, non-foaming elastic resin (1 : 1 by volume): the seal is a solid, soft-elastic body of resin in the crack — the single-component competitors (SikaInject-232, Nitofill PU150) foam with water and seal with a foam.
+  - Shore A approx. 47 after 21 hours and final curing in approx. 5 hours at +20 °C: the component can be loaded the same day.
+  - Viscosity approx. 125 mPa·s reaches the fine branches of the crack; comparable in class to Sika Injection-201 CE (~100 mPa·s) and well below the 300–650 cps of the single-component resins.
+  - Consumption approx. 1.1 kg per litre of voids is published, so the quantity can be estimated from the crack volume.
+
+LISTED: Sobute GP102 High-performance Polyurethane Grouting Material (water-based)

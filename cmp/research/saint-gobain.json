@@ -1,0 +1,1757 @@
+{
+ "agent": "Saint-Gobain group (Fosroc gaps; Weber, GCP Applied Technologies, Chryso all slots)",
+ "accessed": "2026-10-24",
+ "ownership": [
+  {
+   "brand": "Fosroc",
+   "group": "Saint-Gobain",
+   "since": "2025",
+   "evidence": "https://www.fosroc.com/news/saint-gobain-completes-the-acquisition-of-fosroc",
+   "note": "Acquisition announced 27 June 2024, completion announced 10/11 Feb 2025 (also https://gcpat.com/en/about/news/blog/saint-gobain-completes-acquisition-fosroc)"
+  },
+  {
+   "brand": "GCP Applied Technologies",
+   "group": "Saint-Gobain",
+   "since": "2022",
+   "evidence": "https://www.businesswire.com/news/home/20220922005603/en/Saint-Gobain%E2%80%99s-Acquisition-of-GCP-Applied-Technologies-to-Close-on-September-27-2022",
+   "note": "Closed 27 Sep 2022"
+  },
+  {
+   "brand": "Chryso",
+   "group": "Saint-Gobain",
+   "since": "2021",
+   "evidence": "https://www.chryso.com/saint-gobain-completes-its-acquisition-of-chryso",
+   "note": "Completed 29 Sep 2021"
+  },
+  {
+   "brand": "Weber",
+   "group": "Saint-Gobain",
+   "since": "long-standing Saint-Gobain brand (Saint-Gobain Weber)",
+   "evidence": "https://www.saint-gobain.sg/weber",
+   "note": "Weber country sites (de.weber, uk.weber, vn.weber, in.weber) are Saint-Gobain sites; in Indonesia id.weber redirects to Saint-Gobain's Mortar Utama (MU) brand, in Singapore/Malaysia Weber is sold as Weber-E.MIX on saint-gobain.sg/.my."
+  },
+  {
+   "brand": "Cemix (Ovniver Group)",
+   "group": "Saint-Gobain",
+   "since": "2025",
+   "evidence": "https://www.globalgypsum.com/news/item/2147-saint-gobain-to-acquire-ovniver-group-for-us-815m",
+   "note": "Mexico/Central America; adhesives, renders, surface preparation, waterproofing. Listed by Fosroc's completion release as an earlier Saint-Gobain construction-chemicals acquisition. Not researched: regional (Mexico, Guatemala, Honduras, US) and no corresponding products for several slots were identified."
+  },
+  {
+   "brand": "IMPAC / Matchem / IDP Chemicals",
+   "group": "Saint-Gobain",
+   "since": "2022–2023",
+   "evidence": "https://globalgypsum.com/news/itemlist/tag/construction%20chemicals",
+   "note": "IMPAC (Mexico, construction chemicals), Matchem (Brazil, admixtures), IDP Chemicals (Egypt, admixtures, via Chryso). Regional, mainly admixtures — not researched."
+  },
+  {
+   "brand": "Vandex",
+   "group": "RPM (Tremco CPG Europe) — NOT Saint-Gobain",
+   "since": "n/a",
+   "evidence": "https://tremcocpg.eu/en-gb/media-centre/latest-news/who-is-tremco-cpg-europe",
+   "note": "Vandex products (BB75-Z, BB75E-Z, Concrete Grey/Super, Uni-Mortar, Plug) are distributed in Australia by Fosroc (fosroc.com.au catalogue) but the brand belongs to RPM's Tremco CPG Europe."
+  }
+ ],
+ "entries": [
+  {
+   "slot": "pf/GBM",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "product": "Nitomortar® 903",
+   "type": "two-component, solvent-free, low-viscosity epoxy resin system; primer and binder for epoxy mortars with Nitomortar F4 fillers",
+   "market": "Australia / New Zealand",
+   "source": {
+    "url": "https://prod.fosroc.com.au/sites/default/files/products_file_storage/Fosroc_Nitomortar_903_TDS.pdf",
+    "version": "TDS Mar 2024"
+   },
+   "values": {
+    "basis": "two-component epoxy resin system, solvent-free, low viscosity",
+    "mix_ratio": "100 : 45 base : hardener by weight (2 : 1 by volume)",
+    "viscosity": "approx. 500 cps (mixed, 23 °C)",
+    "pot_life": "30 minutes (binder only, 23 °C; longer with filler or in thin layers)",
+    "overcoat": "apply the coating system within 24 hours of priming; afterwards sand and solvent-wipe",
+    "compressive": "76 MPa (fluid paste 1 binder : 2 F4 filler), 56 MPa (1:3), 50 MPa (1:4), 45 MPa (1:5) — 7 days, typical; up to 90 MPa depending on consistency",
+    "flexural": null,
+    "adhesion": null,
+    "max_moisture": "tolerates damp surfaces; small repairs (≤ 1 m²) dry or SSD; larger flooring overlays: concrete must be dry and meet the moisture limits of the system applied over it",
+    "consumption": "primer 5–6 m²/L (theoretical); mortar: 1 L binder + 2–5 L F4 filler (2.95–7.37 kg) gives 2.4–5.0 L mortar",
+    "application_temp": "min. 5 °C (slower cure below 20 °C); no humidity limit stated",
+    "packaging": "6 L, 30 L and 200 L (made to order) packs",
+    "shelf_life": null
+   },
+   "charts": {
+    "compressive": {
+     "v": 76,
+     "label": "76 MPa (7 d, fluid paste 1 : 2 F4 filler)"
+    },
+    "flexural": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": 30,
+     "label": "30 min (binder only, 23 °C)"
+    }
+   },
+   "notes": "Fosroc Australia sheet (manufacturer site). Asian Fosroc sheets on fosroc.com load via an API that is closed to automated reading. Mixed specific gravity 1.1; initial hardness 24 h, full cure 7 days; max service 60 °C; AS4020 drinking-water contact. Shelf life not stated (store cool and dry)."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "product": "Renderoc® Plug 1 (Renderoc® Plug range)",
+   "type": "rapid-setting, single-component cement-based water-stopping mortar",
+   "market": "United Kingdom (Fosroc International Ltd sheet); 'Renderoc Plug' sold across Asia / Middle East",
+   "source": {
+    "url": "https://industrialcoatingsltd.com/cdn/shop/files/Data_Sheet_Cover_Sheet_2022_7.pdf",
+    "version": "Fosroc Renderoc Plug range TDS, July 2020 (DoP UK9-15 / UK9-23)"
+   },
+   "values": {
+    "components": "1 component, pre-bagged cementitious powder; 1 part clean water : 3 parts powder by volume, stiff consistency",
+    "setting": "initial set approx. 1 minute at 20 °C (Renderoc Plug 20: approx. 20 minutes)",
+    "pot_life": null,
+    "compressive": "10 MPa (1 h); 10 MPa (1 d); 23 MPa (28 d) — tested at 20 °C",
+    "consumption": "6 kg bag yields approx. 3 litres (≈ 2 kg per litre of void); minimum thickness 15 mm",
+    "application_temp": "not when substrate or air ≤ 1 °C and falling; above 35 °C store in shade and use cool water",
+    "packaging": "6 kg bag (Plug 1); 25 kg bag (Plug 20)",
+    "shelf_life": "12 months unopened in dry storage (may fall below 6 months in high heat/humidity)"
+   },
+   "charts": {
+    "compressive": {
+     "v": 10,
+     "label": "10 MPa (1 day, 20 °C)"
+    },
+    "pot_life": {
+     "v": null,
+     "label": "initial set approx. 1 min; working time not stated"
+    }
+   },
+   "notes": "Fosroc's own Asian 'Renderoc Plug' sheet (India, Singapore, Malaysia, UAE etc.) is published only through fosroc.com's datasheet API, which is closed to automated reading; this is the UK Fosroc TDS as hosted by the UK distributor Industrial Coatings Ltd / New Guard Coatings (no manufacturer-hosted copy reachable). A Malaysian distributor page confirms the Asian Renderoc Plug has the same ~1 min initial set and 1 : 3 water : powder mix. EN 1504-3 class R1, chloride < 0.05 %, bond > 0.8 MPa, fire class A1. The same Renderoc Plug is already used for Fosroc in slot cr/IM. Fosroc Australia sells the RPM-owned Vandex Plug instead."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "none": true,
+   "reason": "No crystalline repair / coving mortar in Fosroc's own range (Renderoc Plug is a rapid plug, covered under rc/F20 and cr/IM). Fosroc Australia distributes Vandex Uni-Mortar 1-Z, but Vandex is an RPM (Tremco CPG Europe) brand, not a Fosroc product."
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "none": true,
+   "reason": "Fosroc's only crystalline admixture, Conplast Crystalline, is a powder (see ca/CP360). Its liquid Conplast WP / WL waterproofing admixtures are dispersant / hydrophobic permeability reducers, not crystalline (fosroc.com product pages for Conplast WP200, WP320, WP400, WP500)."
+  },
+  {
+   "slot": "ca/CP360",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "product": "Conplast® Crystalline",
+   "type": "integral crystalline waterproofing admixture (grey powder) for watertight concrete",
+   "market": "India (sheets also for Bangladesh, China, Hong Kong, Indonesia, Malaysia, Singapore, Thailand, Vietnam, Turkey)",
+   "source": {
+    "url": "https://www.space-arc.com/fosroc-conplast-crystalline.html",
+    "version": "authorised Fosroc distributor page (India), accessed 2026-10-24; qualitative claims cross-checked on https://www.fosroc.com/product/show/conplast-crystalline"
+   },
+   "values": {
+    "form": "grey powder",
+    "dosage": "0.8 % by weight of total cementitious content (optimum to be confirmed by trial mixes)",
+    "density": "bulk density 1400 kg/m³",
+    "chloride": null,
+    "self_healing": "fills cracks up to 0.4 mm width over time (fosroc.com product page)",
+    "min_cement": null,
+    "dosing_point": "added during mixing at the batching plant or on site; add separately from Fosroc water-reducing admixtures",
+    "application_temp": null,
+    "packaging": null,
+    "certification": "setting times in compliance with IS 2645-2003 (as stated by the distributor); no EN 934-2 / ASTM C494 classification printed"
+   },
+   "charts": {
+    "dosage": {
+     "v": 0.8,
+     "label": "0.8 % of cementitious content"
+    },
+    "self_healing": {
+     "v": 0.4,
+     "label": "cracks up to 0.4 mm"
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Fosroc's own TDS (India and other Asian countries) is published only through fosroc.com's datasheet API, which is closed to automated reading; dosage, form and bulk density are therefore taken from an authorised Fosroc distributor in India (Space Arc Engineering) — confirm against the Fosroc India TDS before publication. Crack-filling claim (0.4 mm) is from Fosroc's own product page. Fosroc states it is compatible with its full range of water-reducing admixtures."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "product": "Brushbond® Crystal",
+   "type": "crystalline capillary waterproofing slurry, one component, for positive or negative hydrostatic pressure",
+   "market": "global product page (datasheet listed for Egypt)",
+   "source": {
+    "url": "https://www.fosroc.com/product/show/brushbond-crystal",
+    "version": "product page, accessed 2026-10-24"
+   },
+   "values": {
+    "components": "1 component; mixed with water only; brush or spray applied",
+    "negative_pressure": "waterproofs concrete against positive or negative hydrostatic pressure (no value printed)",
+    "permeability": null,
+    "adhesion": null,
+    "capillary": null,
+    "vapour": null,
+    "consumption": null,
+    "coats": null,
+    "pot_life": null,
+    "recoat": null,
+    "curing": null,
+    "application_temp": null,
+    "drinking_water": null,
+    "packaging": null,
+    "shelf_life": null
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "permeability": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "consumption": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Fosroc's own crystalline slurry; the product page gives only qualitative data (penetrates and seals capillaries and hairline cracks, chloride-free, for water tanks, sewage/water treatment plants, pipes, manholes). The TDS (Egypt) is published only through fosroc.com's datasheet API, which is closed to automated reading, and no other copy was found — all numeric values are therefore null. Fosroc Australia instead distributes Vandex Concrete Grey / Vandex Super, which are RPM (Tremco CPG Europe) products, not Fosroc's."
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "none": true,
+   "reason": "No one-component cementitious EN 1504-7 rebar corrosion protection / bond coat. Fosroc's rebar protection is Nitoprime Zincrich (zinc-rich epoxy primer, different chemistry) and its bond coat is Renderoc Primer (two-component polymer/cement slurry, EN 1504-3 bond only, no EN 1504-7 claim) — https://www.fosroc.com/product/show/renderoc-primer; https://www.fosroc.com.au/sites/default/files/resources_file_storage/Fosroc_Solutions_for_Concrete_Repairs_in_Accordance_with_EN1504.pdf"
+  },
+  {
+   "slot": "wp/OS",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "product": "Nitocote® CM210",
+   "type": "two-component polymer-modified cementitious waterproof coating (EN 1504-2 surface protection)",
+   "market": "United Kingdom sheet (datasheets also issued for India, Singapore, Malaysia, Hong Kong, Thailand, UAE, Saudi Arabia etc.)",
+   "source": {
+    "url": "https://www.specifiedby.com/fosroc-international-ltd/nitocote-cm210/Fosroc_Nitocote-CM210_Technical_Datasheet-.pdf",
+    "version": "Fosroc Ltd (UK) TDS, June 2015; DoP UK9-08"
+   },
+   "values": {
+    "components": "2 components: cementitious powder (18.2 kg) + liquid polymer (5.0 kg), supplied as matched packs",
+    "crack_bridging": "static crack accommodation > 1.0 mm (after 21 d at 23 °C + 28 d immersion; 2 × 1 mm wet coats; method not stated)",
+    "adhesion": "> 1.5 (pull-off, EN 1504-2, flexible system with trafficking; unit not printed)",
+    "vapour": "class I, < 5 m (EN 1504-2)",
+    "co2": "> 50 m (EN 1504-2); > 50 m after 5000 h QUV (Taywood method)",
+    "rainproof": "protect from rain until firm; no rainfall within 4 hours at 20 °C",
+    "consumption": "1.8 kg/m² per 1 mm wet film (1 L/m²); recommended minimum 3.6 kg/m² in at least two coats",
+    "thickness": "1 mm wet film per coat, two coats",
+    "pot_life": "1 hour at 20 °C",
+    "overcoat": "first coat firm and unmarkable: min. 4 hours at 20 °C / 50 % r.h. (1–16 h by conditions); no maximum",
+    "application_temp": "min. 5 °C; max. 40 °C ambient",
+    "certification": "EN 1504-2 (principles 1.3, 2.2, 5.1, 8.2), CE; BS 6920 / WRAS approved for potable water; fire class A2",
+    "packaging": "23.2 kg pack (18.2 kg powder bag + 5.0 kg liquid)",
+    "shelf_life": "12 months unopened in dry storage (< 6 months at high temperature / humidity)"
+   },
+   "charts": {
+    "co2": {
+     "v": 50,
+     "label": "> 50 m (EN 1504-2)"
+    },
+    "crack_bridging": {
+     "v": 1.0,
+     "label": "> 1.0 mm static crack accommodation"
+    }
+   },
+   "notes": "Hosted on specifiedby.com's Fosroc International manufacturer profile (fosroc.com's own datasheet API is closed to automated reading). Additional data: positive water pressure 7 bar / negative 3 bar (DIN 1048); capillary absorption < 0.1 kg/m²·h⁰·⁵; mixed density 1850 kg/m³. Limitation printed: not for structures subject to high movement. No OS 5b (Rili-SIB) approval and no EN 1062-7 crack-bridging class printed. Sheet is dated 2015 — check for a newer edition."
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "product": "Nitoflor® DPM",
+   "type": "two-component, solvent-free liquid-applied surface damp-proof membrane and residual-moisture suppressant / damp-tolerant primer",
+   "market": "United Kingdom sheet (Fosroc datasheets also issued for Hong Kong, India, Saudi Arabia)",
+   "source": {
+    "url": "https://industrialcoatingsltd.com/cdn/shop/files/Data_Sheet_Cover_Sheet_2022_1_2_2_333525ad-8482-4aa5-a079-8fa861ed056a.pdf",
+    "version": "Fosroc TDS, July 2014 (distributor-hosted copy)"
+   },
+   "values": {
+    "basis": "two-component (base + hardener), solvent-free; resin type not named on the sheet",
+    "components": "2",
+    "mix_ratio": "pre-weighed pack: whole hardener into base (ratio not printed)",
+    "viscosity": null,
+    "pot_life": "approx. 25 minutes (full pack, 20 °C)",
+    "overcoat": "min. 12 hours, max. 48 hours",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": "bonds to damp concrete (no value); substrate ≥ 25 MPa compressive or ≥ 1.5 MPa surface tensile strength",
+    "negative_pressure": "not stated — Fosroc to be consulted where hydrostatic pressure exists",
+    "max_moisture": "substrate hygrometer readings up to 98 % RH (BS 8203), subject to a ground-stability survey; not if air RH > 90 %",
+    "consumption": "approx. 4 m²/kg at 250 µm per coat; damp-proof system min. 500 µm (2 × 250 µm, ≈ 0.5 kg/m² total)",
+    "application_temp": "ideal 12–30 °C (not below 5 °C); substrate ≥ 3 °C above dew point for 12 h; air RH ≤ 90 %",
+    "packaging": "5 kg and 10 kg packs (red or yellow)",
+    "shelf_life": "18 months unopened, 10–30 °C"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": "not stated (consult Fosroc for hydrostatic pressure)"
+    },
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": 48,
+     "label": "max. 48 h"
+    }
+   },
+   "notes": "Closest Fosroc product to a damp-substrate barrier primer. It is a residual-moisture DPM (up to 98 % RH), not rated for negative pressing water. Copy hosted by the UK distributor Industrial Coatings Ltd / New Guard Coatings, because fosroc.com's datasheet API is closed to automated reading. Dated 2014 — check for a newer edition. Alternative in South-East Asia: Nitoflor DPM CEM (three-component epoxy-cementitious trowel-applied temporary moisture barrier, 2–3 mm; Malaysia datasheet), comparable to Sikafloor-81 EpoCem; no values could be read for it."
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "product": "Nitoflor® FC150 HP",
+   "type": "solvent-free, two-component high-build epoxy floor coating (roller / brush applied)",
+   "market": "Australia / New Zealand",
+   "source": {
+    "url": "https://prod.fosroc.com.au/sites/default/files/products_file_storage/Fosroc_Nitoflor_FC150_HP_TDS.pdf",
+    "version": "TDS Jan 2024"
+   },
+   "values": {
+    "basis": "two-component epoxy resin, solvent-free, high build",
+    "mix_ratio": "pre-measured kit: base 5.2 L + hardener 2.6 L (+ 2 × 500 g colour pots); ratio not printed",
+    "viscosity": null,
+    "pot_life": "40 minutes (8 L, 23 °C)",
+    "overcoat": "10–48 hours at 23 °C; 20–48 hours at 10 °C",
+    "cure": "tack-free 15 h, foot traffic 24 h, vehicles 72 h, full cure 7 days (23 °C)",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "hardness": null,
+    "fire": "AS ISO 9239.1-2003: critical heat flux ≥ 11.0 kW/m², smoke 25 %·min",
+    "slip": "AS/NZS 4586:2013: P1/D1 without grit; P5/D1 with Anti-Slip Grains 01 or 02",
+    "consumption": "floors 4–5 m²/L per coat (200–250 µm DFT per coat, 400–500 µm total); second coat over grit 2–3 m²/L",
+    "application_temp": "substrate and air > 10 °C; substrate moisture < 5 % (Tramex CMEX II); no rising damp or back pressure",
+    "packaging": "8 L kit; 8 L and 15 L pre-tinted kits",
+    "shelf_life": null
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "flexural": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": 10,
+     "label": "10–48 h at 23 °C"
+    }
+   },
+   "notes": "ASODUR-B351 covers both roller coats and self-smoothing thick coats; Fosroc splits these into two products, so both are listed — Nitoflor FC150 HP for the roller-coat use and Nitoflor SL for the self-smoothing use. Shelf life not stated (store dry, 10–30 °C). Primer: Nitomortar 903."
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "product": "Nitoflor® SL",
+   "type": "solvent-free, self-smoothing epoxy screed (pre-measured multi-component kit), 2–4 mm",
+   "market": "Australia / New Zealand",
+   "source": {
+    "url": "https://prod.fosroc.com.au/sites/default/files/products_file_storage/Fosroc_Nitoflor_SL_TDS.pdf",
+    "version": "TDS Jun 2022"
+   },
+   "values": {
+    "basis": "solvent-free epoxy resin, self-smoothing, with fillers",
+    "mix_ratio": "16 L kit: base 6.4 L + hardener 3.1 L + fillers 14 kg + 2 × 500 g colour pots; ratio not printed",
+    "viscosity": null,
+    "pot_life": "30 minutes at 20 °C",
+    "overcoat": "anti-slip overcoat (FC150 HP) after initial cure; time not stated",
+    "cure": "foot traffic 24 h; vehicular traffic 48 h; full cure 7 days",
+    "compressive": "90 MPa",
+    "flexural": "30 MPa",
+    "adhesion": null,
+    "hardness": null,
+    "fire": null,
+    "slip": "not rated; slip resistance by overcoating with FC150 HP and anti-slip aggregate",
+    "consumption": "16 L kit covers 8 m² at 2 mm or 4 m² at 4 mm (theoretical; ≈ 2 L/m² per mm); primer Nitomortar 903 at 5 m²/L",
+    "application_temp": "substrate and air > 10 °C; substrate RH ≤ 75 %; dry, no rising damp",
+    "packaging": "16 L kit",
+    "shelf_life": null
+   },
+   "charts": {
+    "compressive": {
+     "v": 90,
+     "label": "90 MPa"
+    },
+    "flexural": {
+     "v": 30,
+     "label": "30 MPa"
+    },
+    "overcoat": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Self-smoothing counterpart to Nitoflor FC150 HP (see above). Not UV stable. Service temperature up to 60 °C. HACCP certified (splash/spill zone). Shelf life not stated. In Asia / Middle East Fosroc sells the comparable Nitoflor SL2000 (four-component pigmented self-smoothing epoxy), whose sheet is published only through fosroc.com's datasheet API, which is closed to automated reading."
+  },
+  {
+   "slot": "pf/V360",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "product": "Nitoflor® FC130",
+   "type": "two-component water-dispersed epoxy floor and wall coating / sealer (semi-matt)",
+   "market": "Australia / New Zealand",
+   "source": {
+    "url": "https://www.fosroc.com.au/sites/default/files/products_file_storage/Fosroc_Nitoflor_FC130_TDS.pdf",
+    "version": "TDS Jun 2022"
+   },
+   "values": {
+    "basis": "two-component epoxy resin, water-dispersed",
+    "mix_ratio": "clear 25 : 100 base : hardener by weight; coloured 20 : 100",
+    "viscosity": null,
+    "pot_life": "2 hours at 20 °C; 1 hour at 35 °C",
+    "overcoat": "6–24 hours at 20 °C; 4–16 hours at 35 °C (typically 8–24 h)",
+    "cure": "initial hardness 24 h (20 °C) / 16 h (35 °C); full cure 7 days; vehicle traffic 72 h",
+    "adhesion": null,
+    "slip": "AS/NZS 4586:2013: P4 wet pendulum, D1 dry, without grit",
+    "max_moisture": "substrate RH ≤ 80 %; no rising damp; new concrete ≥ 7 days old",
+    "consumption": "first coat 6–8 m²/L, second coat 8–10 m²/L (≈ 100 µm DFT for two coats)",
+    "application_temp": "not below 10 °C; air RH ≤ 85 %; good ventilation",
+    "packaging": "16 L packs (clear, silver grey, mid grey)",
+    "shelf_life": null
+   },
+   "charts": {
+    "adhesion": {
+     "v": null,
+     "label": null
+    },
+    "max_moisture": {
+     "v": null,
+     "label": "substrate RH ≤ 80 % (not a CM value)"
+    },
+    "pot_life": {
+     "v": 120,
+     "label": "2 h at 20 °C"
+    }
+   },
+   "notes": "Fosroc Australia sheet. First coat is back-rolled to penetrate (sealer / primer function on oily old concrete). VOC 64.9 g/L (clear). Shelf life not stated. Asia / Middle East equivalent: Nitoflor EPW100 (three-component water-dispersed epoxy seal, zero VOC) — no values reachable."
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "product": "Nitocote® EP410",
+   "type": "high-build, solvent-free two-pack epoxy coating for concrete and steel in aggressive chemical exposure and immersion (process plants, sewage works)",
+   "market": "Australia / New Zealand",
+   "source": {
+    "url": "https://prod.fosroc.com.au/sites/default/files/products_file_storage/Fosroc_Nitocote_EP410_TDS.pdf",
+    "version": "TDS Oct 2022"
+   },
+   "values": {
+    "basis": "two-component epoxy resin, solvent-free (100 % solids)",
+    "mix_ratio": "200 : 43 base : hardener by weight",
+    "density": null,
+    "hardness": null,
+    "pot_life": "40 minutes at 20 °C; 25 minutes at 35 °C",
+    "overcoat": "10 °C: 18–72 h; 20 °C: 8–48 h; 30 °C: 4–24 h",
+    "cure": "tack-free 4–8 h (20 °C); full cure 7 days at 20–30 °C, 14 days at 10 °C",
+    "max_moisture": "concrete dry or saturated-surface-dry; steel grit-blasted to AS 1627.4 Class 2.5; bond 3 MPa on dry and SSD concrete",
+    "chemical": "listed resistance (no ratings): phosphoric, hydrochloric, nitric, sulphuric acid 25 %; tartaric acid 15 %; sodium hydroxide 25 %; saturated citric acid; petrol; kerosene; saturated salt",
+    "consumption": "0.15 L/m² per coat (150 µm wet), min. 2 coats (300 µm DFT); 3 coats (450 µm) for aggressive conditions",
+    "application_temp": "min. 10 °C (not at 10 °C and falling); RH ≤ 90 %",
+    "packaging": "8 L kit (6.1 L base + 1.9 L hardener), grey or white",
+    "shelf_life": null
+   },
+   "charts": {
+    "pot_life": {
+     "v": 40,
+     "label": "40 min at 20 °C"
+    },
+    "overcoat": {
+     "v": 8,
+     "label": "8–48 h at 20 °C"
+    }
+   },
+   "notes": "Fosroc Australia sheet. VOC 5 g/L. Open-weave glass cloth can be embedded to bridge fine cracks. Shelf life not stated. For potable-water linings Fosroc uses Nitocote EP405 instead."
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "Saint-Gobain",
+   "brand": "Fosroc",
+   "product": "Nitoseal® PU400",
+   "type": "low-modulus elastomeric polyurethane joint sealant / adhesive, moisture-curing, for trafficable floor joints",
+   "market": "Australia / New Zealand",
+   "source": {
+    "url": "https://fosroc.com.au/sites/default/files/products_file_storage/Fosroc_Nitoseal_PU400_TDS.pdf",
+    "version": "TDS Sep 2024"
+   },
+   "values": {
+    "basis": "polyurethane, cures on exposure to atmospheric moisture (single-pack sausage)",
+    "density": null,
+    "hardness": "Shore A 40 (ISO 868)",
+    "movement": "movement accommodation factor ±12.5 % (total 25 %)",
+    "tensile": "tensile strength 2–2.5 N/mm²; modulus at 100 % 0.30–0.40 MPa (ISO 8339); elongation at break > 400 %",
+    "skin_time": "tack-free 40 ± 10 minutes (23 °C, 50 % r.h.)",
+    "cure": "24 hours to 3 mm",
+    "service_temp": "−40 to +70 °C",
+    "consumption": "joints 10–35 mm wide (5–50 mm possible); min. depth 10 mm for 10–20 mm joints; width : depth 2 : 1 above 20 mm; 600 mL ≈ 3 m of 20 × 10 mm bead",
+    "application_temp": "5–35 °C",
+    "packaging": "600 mL foil sausage, 12 per carton",
+    "shelf_life": "18 months unopened (10–25 °C, 55 % r.h.)"
+   },
+   "charts": {
+    "hardness": {
+     "v": 40,
+     "label": "Shore A 40 (ISO 868)"
+    },
+    "movement": {
+     "v": 25,
+     "label": "±12.5 % (total 25 %)"
+    },
+    "service_temp": {
+     "v": 70,
+     "label": "−40 to +70 °C"
+    }
+   },
+   "notes": "Fosroc Australia sheet; suitable for foot and light vehicle traffic and water-retaining structures (AS 4020 drinking-water contact). The sheet says 'moisture-cure' without using the words 'one-component', but it is a single 600 mL sausage. In Asia / Middle East Fosroc sells Nitoseal PU40 (sheet only via fosroc.com's API, which is closed to automated reading)."
+  },
+  {
+   "slot": "inj/P4",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "product": "DE NEEF® Elastopack 201",
+   "type": "two-component, phthalate-free, solvent-free polyurethane injection grout curing to a dense elastic material (cracks, joints, voids subject to movement)",
+   "market": "Thailand",
+   "source": {
+    "url": "https://th.gcpat.com/sites/default/files/pdf/current/resource/GCPAT_elastopack_201_th_11476.pdf",
+    "version": "Product Data Sheet, last updated 2026-04-13 (© 2024), valid for Thailand"
+   },
+   "values": {
+    "basis": "polyurethane resin, two-component (polyol blend + di-isocyanate hardener), solvent-free",
+    "components": "2 (A polyol blend, yellow transparent / B di-isocyanate, dark brown)",
+    "mix_ratio": "A : B = 2 : 1 by volume (pre-weighed sets)",
+    "density": "A approx. 0.975 kg/dm³; B approx. 1.230 kg/dm³ (EN ISO 2811)",
+    "viscosity": "mixed approx. 160 mPa·s at 25 °C; approx. 435 mPa·s at 8 °C (EN ISO 3219)",
+    "pot_life": "approx. 45 min at 25 °C; approx. 120 min at 8 °C (EN ISO 9514)",
+    "hardness": "Shore A approx. 65 (EN ISO/R 868, 21 °C)",
+    "cure": null,
+    "consumption": "to be estimated by the engineer from crack / void width and depth",
+    "application_temp": null,
+    "certification": "REACH compliant; no EN 1504-5 declaration printed",
+    "packaging": "3 L set (2 L A + 1 L B); 15 L set (10 L A + 5 L B)",
+    "shelf_life": "2 years (dry, 5–30 °C)"
+   },
+   "charts": {
+    "viscosity": {
+     "v": 160,
+     "label": "approx. 160 mPa·s (mixed, +25 °C)"
+    },
+    "hardness": {
+     "v": 65,
+     "label": "Shore A approx. 65"
+    },
+    "cure": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Cured properties: tensile strength approx. 3.5 MPa and elongation approx. 115 % (EN ISO 527); adhesion to dry concrete approx. 3.1 MPa (EN 1542). Viscosity printed at 25 °C, not 20 °C. No final-cure time and no application-temperature range printed (store the product at room temperature 24 h before use)."
+  },
+  {
+   "slot": "inj/P1",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "product": "DE NEEF® HA Cut AF",
+   "type": "one-component, phthalate-free, non-flammable hydro-active polyurethane injection resin for stopping gushing leaks (rigid closed-cell foam)",
+   "market": "Thailand",
+   "source": {
+    "url": "https://th.gcpat.com/sites/default/files/pdf/current/resource/GCPAT_de_neef_ha_cut_af_th_11521.pdf",
+    "version": "Product Data Sheet, last updated 2026-04-13 (© 2024), valid for Thailand"
+   },
+   "values": {
+    "basis": "polyurethane resin, hydro-active (water-reactive)",
+    "components": "1 (resin) + HA Cut Cat AF catalyst (2–10 %)",
+    "foam_expansion": "foam factor approx. 15 V to 30 V by temperature and catalyst dosage (20 °C: 20 V at 2 %, 23 V at 3 %, 27 V at 5 %, 29 V at 10 % catalyst)",
+    "cure": "expands on contact with water and cures to a rigid closed-cell foam; 20 °C, 2 % catalyst: start approx. 1'20\", end approx. 8'00\" (10 %: 30\" / 2'10\")",
+    "consumption": null,
+    "application_temp": "reactivity data 5–35 °C; improved performance stated below 5 °C (no range printed)",
+    "packaging": "resin 5 kg, 25 kg, 200 kg metal drums; catalyst 0.5 L, 2.5 L bottles, 20 kg drum",
+    "shelf_life": "2 years (dry, 5–30 °C)"
+   },
+   "charts": {
+    "foam_expansion": {
+     "v": 30,
+     "label": "up to approx. 30 V (foam factor; 20–29 V at 20 °C)"
+    }
+   },
+   "notes": "The sheet prints the foam factor in 'V' without defining it (read as multiples of the original volume). Rigid foam (water cut-off), unlike AQUAFIN-P1's visco-plastic foam; GCP's flexible hydrophobic alternative for moving joints is HA Flex LV AF / SLV AF. Viscosity approx. 200 mPa·s at 25 °C; confined cured foam approx. 30 MPa compressive."
+  },
+  {
+   "slot": "inj/IH",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "product": "DE NEEF® Denepox 40",
+   "type": "two-component, solvent-free epoxy injection resin curing rigid in wet and dry conditions (force-transmitting crack filling)",
+   "market": "Thailand",
+   "source": {
+    "url": "https://th.gcpat.com/sites/default/files/pdf/current/resource/GCPAT_de_neef_denepox_40_th_11456.pdf",
+    "version": "Product Data Sheet, last updated 2026-04-13 (© 2024), valid for Thailand"
+   },
+   "values": {
+    "basis": "epoxy resin, two-component (epoxy resin + polyamine hardener), solvent-free",
+    "mix_ratio": "A : B = 100 : 30 by weight (89.5 : 32 by volume)",
+    "viscosity": "approx. 85 mPa·s at 25 °C (EN ISO 3219)",
+    "pot_life": "approx. 80 min (100 g at 25 °C); mix no more than can be used in 60 min",
+    "tensile": "tensile strength > 50 MPa (ISO 527); flexural > 60 MPa, compressive approx. 100 MPa (NBN EN 196); bond > concrete cohesion on dry and damp concrete (EN 1542); CE to EN 1504-5 U (F1) W(3) (1/2) (10/40) (0)",
+    "application_temp": "min. 10 °C",
+    "packaging": "3 kg set (2.3 kg A + 0.7 kg B)",
+    "shelf_life": "2 years (dry, 5–50 °C)"
+   },
+   "charts": {
+    "viscosity": {
+     "v": 85,
+     "label": "approx. 85 mPa·s (+25 °C; sheet does not say whether mixed)"
+    }
+   },
+   "notes": "Injectable crack width from 0.3 mm (EN 1504-5 declaration); suitable for dry and damp cracks. Full chemical resistance after 7 days at 20 °C."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "product": "BETEC™ M-5",
+   "type": "one-component cement-based crystalline waterproofing powder (cement, quartz sand, active chemicals) — slurry, dry-sprinkle or integral use",
+   "market": "Thailand",
+   "source": {
+    "url": "https://th.gcpat.com/sites/default/files/pdf/current/resource/GCPAT_betec_m_5_th_11031.pdf",
+    "version": "Product Data Sheet, last updated 2026-04-13 (© 2024), valid for Thailand"
+   },
+   "values": {
+    "components": "1 component powder; mixed with water at a 'water-cement ratio of 1 : 2.5' (basis not stated)",
+    "negative_pressure": "long-term waterproofing under high water pressure on the positive and negative side; water pressure resistance ≥ 0.8 MPa (slurry, 2 coats, 1.5–2 mm; test method not stated)",
+    "permeability": "water penetration 12 mm at 5 bar for 72 h (method not stated)",
+    "adhesion": null,
+    "capillary": null,
+    "vapour": null,
+    "consumption": "slurry 0.8–1.2 kg/m² per coat, two coats (1.6–2.4 kg/m²); dry sprinkle 1.2 kg/m²",
+    "coats": "two (slurry)",
+    "pot_life": "use within 20 minutes, not more than 30 minutes",
+    "recoat": "second coat after approx. 1–2 hours (max. 24 h), in the alternate direction; re-wet if delayed beyond 24 h",
+    "curing": "protect from rain, frost and ponded water (no damp-curing period printed); initial set ≥ 20 min, final set ≤ 24 h",
+    "application_temp": null,
+    "drinking_water": null,
+    "packaging": "20 kg plastic pail",
+    "shelf_life": "18 months (dry)"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": "≥ 0.8 MPa (8 bar) water-pressure resistance; side (positive/negative) and method not stated"
+    },
+    "permeability": {
+     "v": null,
+     "label": "12 mm penetration at 5 bar / 72 h (not CRD-C 48)"
+    },
+    "pot_life": {
+     "v": 20,
+     "label": "20 min (max. 30 min)"
+    },
+    "consumption": {
+     "v": 2.0,
+     "label": "0.8–1.2 kg/m² × 2 coats = 1.6–2.4 kg/m²"
+    }
+   },
+   "notes": "Only crystalline product in GCP's range (Thailand / South-East Asia). The 0.8 MPa (= 8 bar) water-pressure figure does not say whether it is positive or negative side — use with caution in the negative-pressure chart. No test standards printed. The same product is GCP's only integral crystalline option (see ca/CP360)."
+  },
+  {
+   "slot": "ca/CP360",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "product": "BETEC™ M-5 (integral admixture use)",
+   "type": "crystalline waterproofing powder, used as integral admixture at batching (also slurry / dry-sprinkle)",
+   "market": "Thailand",
+   "source": {
+    "url": "https://th.gcpat.com/sites/default/files/pdf/current/resource/GCPAT_betec_m_5_th_11031.pdf",
+    "version": "Product Data Sheet, last updated 2026-04-13 (© 2024), valid for Thailand"
+   },
+   "values": {
+    "form": "powder",
+    "dosage": "0.8–1.2 % of the cementitious content, on a pre-approved mix design",
+    "density": null,
+    "chloride": null,
+    "self_healing": null,
+    "min_cement": null,
+    "dosing_point": "at batching; pre-mix with a small amount of water to a slurry, ensure a homogeneous mix before discharge",
+    "application_temp": null,
+    "packaging": "20 kg plastic pail (no water-soluble bags)",
+    "certification": null
+   },
+   "charts": {
+    "dosage": {
+     "v": 1.0,
+     "label": "0.8–1.2 % of cementitious content"
+    },
+    "self_healing": {
+     "v": null,
+     "label": null
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Not a dedicated admixture: the BETEC M-5 slurry product's sheet allows integral addition. No crack self-sealing width, chloride content, EN 934-2 / ASTM C494 classification or minimum cement content printed. GCP's own admixture lines (ADVA, MIRA, DCI, ECLIPSE, Darapel) have no crystalline product; in North America the GCP admixture catalogue is now served under Chryso (chrysoinc.com)."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "product": "BETEC™ Seal SC",
+   "type": "two-part (carboxylated SBR latex + powder) cementitious waterproofing slurry, slightly flexible, for positive and negative water pressure",
+   "market": "Thailand",
+   "source": {
+    "url": "https://th.gcpat.com/sites/default/files/pdf/current/resource/GCPAT_betec_seal_sc_th_12636.pdf",
+    "version": "Product Data Sheet, last updated 2026-04-13 (© 2021), valid for Thailand"
+   },
+   "values": {
+    "components": "2 components: BETEC Seal SC Liquid (carboxylated styrene-butadiene latex, 10 kg) + Powder (30 kg); no water added",
+    "positive_pressure": "resists positive water pressure (no value printed)",
+    "negative_pressure": "resists negative water pressure (no value printed)",
+    "adhesion": "> 1.2 N/mm² (ASTM D4541)",
+    "crack_bridging": "'slightly flexible' — no crack-bridging value printed",
+    "consumption": "1 kg/m² per coat; 2 kg/m² for two coats (smooth surface, excl. wastage)",
+    "thickness": null,
+    "pot_life": null,
+    "overcoat": "next coat when tack-free, approx. 2–6 hours by climate; coats in alternate directions",
+    "rainproof": null,
+    "application_temp": null,
+    "certification": "compressive > 7 N/mm² at 3 d (ASTM C109); tensile > 1.2 N/mm² (ASTM C307); no waterproofing-slurry approval printed",
+    "packaging": "30 kg powder bag + 10 kg liquid pail",
+    "shelf_life": "12 months (dry, cool)"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "consumption": {
+     "v": null,
+     "label": "1 kg/m² per coat (thickness not printed)"
+    }
+   },
+   "notes": "GCP has no one-component rigid slurry; Seal SC is its rigid-structure slurry (basement walls and floors, wet areas, lift pits) but is two-component latex-modified and described as slightly flexible."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "product": "BETEC™ Flex S150",
+   "type": "flexible two-part polymer-modified cementitious waterproofing slurry",
+   "market": "Thailand",
+   "source": {
+    "url": "https://th.gcpat.com/sites/default/files/pdf/current/resource/GCPAT_betec_flex_s150_th_11021.pdf",
+    "version": "Product Data Sheet, last updated 2026-04-13 (© 2021), valid for Thailand"
+   },
+   "values": {
+    "components": "2 components: 25 kg powder + 17 kg liquid (≈ 1.5 : 1 by weight from pack sizes; ratio not printed)",
+    "crack_bridging": "bridges cracks up to 2 mm (ASTM C836); 10-cycle crack test at 1 mm: pass (ASTM C836)",
+    "positive_pressure": null,
+    "negative_pressure": null,
+    "adhesion": "≥ 1.2 N/mm² to concrete (ASTM D4541)",
+    "elongation": "≥ 200 % (ASTM D412); tensile strength ≥ 1.8 N/mm² (ASTM D412)",
+    "vapour": null,
+    "co2": null,
+    "consumption": "min. 2 kg/m² (by substrate porosity)",
+    "thickness": "min. 1.2 mm total dry film; min. 2 coats (internal wet areas), 3 coats (non-chlorinated water-retaining structures)",
+    "pot_life": null,
+    "application_temp": null,
+    "certification": "tested to ASTM D412, ASTM D4541, ASTM C836; no EN 14891 declaration printed",
+    "packaging": "42 kg set (25 kg powder + 17 kg liquid)",
+    "shelf_life": "12 months (dry)"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": 2,
+     "label": "up to 2 mm (ASTM C836)"
+    },
+    "positive_pressure": {
+     "v": null,
+     "label": null
+    },
+    "elongation": {
+     "v": 200,
+     "label": "≥ 200 % (ASTM D412)"
+    }
+   },
+   "notes": "Second coat after approx. 2–4 hours; re-wet if overcoating after more than 24 hours. Uses: bathrooms, balconies, wet areas, planters, non-chlorinated pools and water-retaining structures."
+  },
+  {
+   "slot": "wp/RB400",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No rapid flexible thick-layer cementitious (bitumen-free) waterproofing; GCP's below-grade range is sheet membranes (PREPRUFE, BITUTHENE), liquid PU / PMMA (SILCOR, PROCOR) and thin slurries (BETEC Flex S150, see wp/AQ2K)."
+  },
+  {
+   "slot": "wp/OS",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No crack-bridging cementitious surface-protection system with EN 1504-2 / OS 5b claims; BETEC Flex S150 (wp/AQ2K) publishes no CO₂ / vapour diffusion or EN 1504-2 data."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No crystalline repair / coving mortar; BETEC range (Thailand) is limited to BETEC M-5, Flex S150 and Seal SC."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No rapid-setting plugging mortar; active leaks are handled with DE NEEF PU injection (HA Cut AF, see inj/P1)."
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No liquid crystalline admixture (GCP admixture lines ADVA, MIRA, CONCERA, DCI, ECLIPSE, V-MAR are plasticisers / corrosion inhibitor / shrinkage reducers)."
+  },
+  {
+   "slot": "cr/BIS540",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No concrete repair mortars in GCP's current range (global and Thailand product menus: membranes, liquid waterproofing, injection, fireproofing, admixtures; BETEC only as grouts / waterproofing slurries)."
+  },
+  {
+   "slot": "cr/BIS16",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No fine smoothing / repair mortars in GCP's range."
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No rebar corrosion-protection coating / bond coat (GCP's corrosion product is the DCI admixture, a different category)."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No crystalline repair mortar or rapid plug in GCP's range."
+  },
+  {
+   "slot": "pf/GBM",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No resin flooring products (epoxy primers / binders) in GCP's range."
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No epoxy barrier primer; GCP's under-slab moisture product is FLORPRUFE, a bonded sheet vapour barrier (different category)."
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No epoxy floor coatings in GCP's range."
+  },
+  {
+   "slot": "pf/V360",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No water-based epoxy sealers in GCP's range."
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No chemical-resistant epoxy coatings in GCP's range."
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "Saint-Gobain",
+   "brand": "GCP Applied Technologies",
+   "none": true,
+   "reason": "No polyurethane joint sealants; GCP's joint products are waterstops (ADCOR, SWELLSEAL), a different category."
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "product": "Chryso® CWA Liquid 200",
+   "type": "liquid crystalline (nanotechnology-based) integral waterproofing admixture",
+   "market": "South Africa",
+   "source": {
+    "url": "https://za.chryso.com/wp-content/uploads/sites/14/2025/06/Chryso-CWA-Liquid-200-Brochure-9-Single.pdf",
+    "version": "product brochure / data sheet dated 03/06/2025"
+   },
+   "values": {
+    "form": "liquid, translucent (agitate before use)",
+    "dosage": "0.8–1 L per 100 kg of total cementitious material; 2–3 L per 100 kg under certain conditions (precast section prints '2–3 kg per 100 kg')",
+    "density": "specific gravity approx. 1.21–1.23",
+    "chloride": "nil",
+    "self_healing": "seals hairline cracks up to 0.5 mm",
+    "setting_effect": "increases workability; may reduce the dosage of other admixtures; overdosing may accelerate set — check workability, slump retention and setting in trial mixes",
+    "min_cement": null,
+    "dosing_point": "automatic dispensers at batching; precast: onto aggregates and sand for 3 minutes before cement and water",
+    "application_temp": null,
+    "packaging": "25 L jerry can, 200 L drum, 1000 L flow bin, bulk on request",
+    "certification": "no EN 934-2 / ASTM C494 classification printed; durability tests to SANS 3001-C03 (OPI, sorptivity, chloride conductivity)"
+   },
+   "charts": {
+    "dosage": {
+     "v": null,
+     "label": "0.8–1 L per 100 kg cementitious (volume per weight, not % by weight)"
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Only liquid crystalline admixture found in the Chryso range (South Africa; not offered on the Chryso India, Australia, Philippines or Gulf sites). pH 13–14. Shelf life 1 year (store ≥ 7 °C, protect from frost). Trial data at w/c 0.57: sorptivity 4.49 vs 6.61 control, water penetration 22.66 vs 25.83 (units not printed)."
+  },
+  {
+   "slot": "ca/CP360",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "product": "CHRYSO® CWA 10",
+   "type": "crystalline waterproofing admixture, grey powder (water-resisting admixture)",
+   "market": "India (also sold in the Gulf as CHRYSO CWA 10 / CWA 10 Plus)",
+   "source": {
+    "url": "https://www.chryso.in/wp-content/uploads/sites/7/2026/07/FT_K0160A_EN_IN.pdf?t=1784182010",
+    "version": "Chryso India technical data sheet dated 16/07/2026"
+   },
+   "values": {
+    "form": "grey powder",
+    "dosage": "0.8–1 % by weight of cement or cementitious binder",
+    "density": "apparent density 0.560 ± 0.020",
+    "chloride": "ions content ≤ 0.200 %",
+    "self_healing": "seals cracks or voids up to 0.5 mm",
+    "min_cement": null,
+    "dosing_point": "batching plant: added during batching before the mixing water; transit mixer: slurry approx. 2 parts admixture : 1 part water by weight added at the pouring point",
+    "application_temp": null,
+    "packaging": "20 kg laminated waterproof HDPE bag (no water-soluble bags)",
+    "certification": "IS 2645-2003; ACI 212.3R-10"
+   },
+   "charts": {
+    "dosage": {
+     "v": 0.9,
+     "label": "0.8–1 % of cement weight"
+    },
+    "self_healing": {
+     "v": 0.5,
+     "label": "cracks or voids up to 0.5 mm"
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Shelf life 12 months. Compatible with plasticisers and superplasticisers; 'no side effects on fresh or hardened concrete' (no setting-time data). No EN 934-2 classification."
+  },
+  {
+   "slot": "inj/P4",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No injection resins in Chryso's range (Saint-Gobain's injection resins are GCP's DE NEEF line and Fosroc Nitofill)."
+  },
+  {
+   "slot": "inj/P1",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No injection resins in Chryso's range."
+  },
+  {
+   "slot": "inj/IH",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No epoxy injection resins in Chryso's range."
+  },
+  {
+   "slot": "cr/BIS540",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No repair mortars; Chryso's ranges (India, Australia, Philippines, Gulf, South Africa, France) are concrete / cement admixtures, curing compounds, release agents, decorative-concrete products."
+  },
+  {
+   "slot": "cr/BIS16",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No fine repair / smoothing mortars in Chryso's range."
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No rebar corrosion-protection coating; Chryso's corrosion products are admixtures (DCI corrosion inhibitor), a different category."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No crystalline repair mortar or rapid plug in Chryso's range."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No waterproofing slurries; Chryso's waterproofing is integral admixtures only (CWA, Fuge, Struco)."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No flexible waterproofing slurries in Chryso's range."
+  },
+  {
+   "slot": "wp/RB400",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No thick-layer cementitious waterproofing in Chryso's range."
+  },
+  {
+   "slot": "wp/OS",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No surface-protection coatings in Chryso's range."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No crystalline slurry (brush / spray) — Chryso's crystalline products CWA 10 / CWA Liquid 200 are concrete admixtures (see ca slots)."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No crystalline repair mortar in Chryso's range."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No plugging mortar in Chryso's range."
+  },
+  {
+   "slot": "pf/GBM",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No resin flooring products (Chryso floors are decorative concrete, screed admixtures and Cemexa screeds)."
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No epoxy primers in Chryso's range."
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No epoxy floor coatings in Chryso's range."
+  },
+  {
+   "slot": "pf/V360",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No water-based epoxy sealers in Chryso's range."
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No chemical-resistant epoxy coatings in Chryso's range."
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "Saint-Gobain",
+   "brand": "Chryso",
+   "none": true,
+   "reason": "No joint sealants in Chryso's range."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weberdry crystallize hybrid",
+   "type": "cement-based crystalline penetrating waterproofing (slurry or dry broadcast), positive and negative side",
+   "market": "Vietnam",
+   "source": {
+    "url": "https://www.vn.weber/files/vn/2025-09/TDS_weberdry_crystallize_09.2025.pdf?cb=c3f0b0ac",
+    "version": "Weber Vietnam product data sheet, issued 12/2024 (file 09.2025)"
+   },
+   "values": {
+    "components": "1 component powder (grey); product : water by volume 8.0 : 2.5 (brush) or 7 : 2 (trowel)",
+    "negative_pressure": "for positive- and negative-side waterproofing (no negative-pressure value printed)",
+    "permeability": "water penetration depth approx. 11 mm at 5 bar for 72 h (BS EN 12390)",
+    "adhesion": "≥ 0.5 N/mm² initial, after chlorine contact and after lime-water contact (BS EN 14891)",
+    "capillary": null,
+    "vapour": null,
+    "consumption": "wet application approx. 1.0 kg/m² per coat, approx. 2.0 kg/m² total; dry broadcast 1.5–2.0 kg/m²",
+    "coats": "two (second coat at right angles, ≈ 2 mm total); dry broadcast single application",
+    "pot_life": null,
+    "recoat": "15–60 minutes, when touch-dry; dampen the first coat before the second",
+    "curing": "keep damp for at least 7 days",
+    "application_temp": "not stated (avoid strong sun and wind)",
+    "drinking_water": null,
+    "packaging": "5 kg plastic bucket; 20 kg bag",
+    "shelf_life": "12 months unopened (dry, ventilated)"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "permeability": {
+     "v": null,
+     "label": "11 mm penetration at 5 bar / 72 h (EN 12390-8 type test, not CRD-C 48)"
+    },
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "consumption": {
+     "v": 2.0,
+     "label": "approx. 2.0 kg/m² (two coats)"
+    }
+   },
+   "notes": "Bulk density 1.0–1.3 g/cm³. Working time not stated as a number (do not use once setting begins). Uses: wet areas, water tanks, pools, basements, lift pits. A separate Weber VN test report is published (https://www.vn.weber/files/vn/2023-10/Test_Report%20_Crystallize_Hybrid.pdf)."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weberdry top",
+   "type": "two-component flexible cement-based waterproofing slurry",
+   "market": "Vietnam",
+   "source": {
+    "url": "https://www.vn.weber/files/vn/2025-09/TDS_weberdry%20top_new.pdf?cb=da8299aa",
+    "version": "Weber Vietnam product data sheet, issued 12/2024"
+   },
+   "values": {
+    "components": "2 components: A grey powder + B white liquid; A : B = 2 : 1 by weight",
+    "crack_bridging": "≥ 0.75 mm under standard conditions (BS EN 14891 product)",
+    "positive_pressure": "no water penetration at 1.5 bar hydrostatic pressure for 7 days (BS EN 14891)",
+    "negative_pressure": null,
+    "adhesion": "≥ 0.5 N/mm² initial, after water contact, chlorinated water, heat ageing and lime water (BS EN 14891)",
+    "elongation": null,
+    "vapour": null,
+    "co2": null,
+    "consumption": "water tanks 3.0 kg/m² (2–3 coats); wet areas 1.5–2.0 kg/m² (2 coats)",
+    "thickness": null,
+    "pot_life": "approx. 30 minutes at 30 °C",
+    "application_temp": "+10 to +35 °C (air and substrate)",
+    "certification": "tested to BS EN 14891; marketed as low-VOC and suitable for potable-water tanks (no certificate number printed)",
+    "packaging": "5 kg pack (3.33 kg powder + 1.67 kg liquid); 15 kg pack",
+    "shelf_life": "9 months unopened"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": 0.75,
+     "label": "≥ 0.75 mm (EN 14891, standard conditions)"
+    },
+    "positive_pressure": {
+     "v": 1.5,
+     "label": "1.5 bar, 7 days (EN 14891)"
+    },
+    "elongation": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Each coat dries in approx. 3 h at 30 °C; second coat at right angles. Weber VN also sells weberdry 2Kflex (two-component elastic cementitious, 25 kg kit, 1.5 bar EN 14891, no crack-bridging value printed); weberdry top was chosen because it publishes EN 14891 crack bridging."
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "webershield 320",
+   "type": "two-component solvent-free, tar-free epoxy protective coating for wastewater and chemical exposure",
+   "market": "Vietnam",
+   "source": {
+    "url": "https://www.vn.weber/files/vn/2025-09/TDS_webershield%20320_09.2025.pdf?cb=2f7aa7a3",
+    "version": "Weber Vietnam product data sheet, Dec 2024 (file 09.2025)"
+   },
+   "values": {
+    "basis": "two-component epoxy resin (A resin + B hardener), free of coal tar and hazardous solvents; solids approx. 80 % (ISO 3251)",
+    "mix_ratio": "A : B = 4 : 1 by volume",
+    "density": "approx. 1.77 g/cm³ (ISO 2811-1)",
+    "hardness": null,
+    "pot_life": "approx. 30 minutes at 30 °C",
+    "overcoat": "6–24 hours between coats; outdoors next coat within 3 days, otherwise sand first",
+    "cure": "no foot traffic for 24 h after the last coat; immersion / leak testing after 9 days",
+    "max_moisture": "primer weberprime Epox 094 on surface moisture ≤ 6 %; concrete ≥ 25 MPa, surface tensile ≥ 1.5 MPa",
+    "chemical": "chemical resistance tested to ASTM D1308; list given in a separate test report (not on the sheet)",
+    "consumption": "approx. 0.75 kg/m² for two coats (≈ 300 µm DFT); primer 0.15–0.16 kg/m²",
+    "application_temp": "10–35 °C air and substrate; ≥ 3 °C above dew point; RH ≤ 85 %",
+    "packaging": "18 L kit (14.4 L A + 3.6 L B)",
+    "shelf_life": "12 months"
+   },
+   "charts": {
+    "pot_life": {
+     "v": null,
+     "label": "approx. 30 min at 30 °C (not 20 °C)"
+    },
+    "overcoat": {
+     "v": null,
+     "label": "6–24 h (temperature not stated)"
+    }
+   },
+   "notes": "Uses: waste and wastewater tanks, septic tanks, chemical storage tanks, waste transport wagons; not intended as a floor coating. Adhesion ≥ 1.5 MPa (ASTM D7234). '80 % solids' with a 'free of hazardous solvents' claim — the sheet does not say 100 % solvent-free. SGS test report: https://www.vn.weber/files/vn/2023-10/Test%20report_Shield%20320_SGS_2023.pdf."
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weberseal PU",
+   "type": "one-component, moisture-curing, high-elasticity polyurethane joint sealant",
+   "market": "Vietnam",
+   "source": {
+    "url": "https://www.vn.weber/en/weberseal-pu",
+    "version": "product page, accessed 2026-10-24 (English TDS 2023 linked but not readable)"
+   },
+   "values": {
+    "basis": "one-component polyurethane, moisture curing",
+    "density": "approx. 1.16 (printed as '~1,16 g/litre', i.e. g/cm³)",
+    "hardness": "Shore A ≥ 40 after 28 days (+23 °C, 50 % r.h.)",
+    "movement": "±50 %",
+    "tensile": "tear strength approx. 10 N/mm²; modulus at 100 % approx. 0.3 N/mm²; elongation at break > 600 %; elastic recovery > 70 %; shear strength 0.4 N/mm²",
+    "skin_time": "approx. 70 minutes (+23 °C, 50 % r.h.)",
+    "cure": "approx. 3 mm per 24 hours (+23 °C, 50 % r.h.)",
+    "service_temp": "−40 to +80 °C",
+    "consumption": null,
+    "application_temp": "+5 to +40 °C",
+    "packaging": "300 ml cartridge (25/box); 600 ml sausage (20/box)",
+    "shelf_life": "12 months unopened (10–25 °C)"
+   },
+   "charts": {
+    "hardness": {
+     "v": 40,
+     "label": "Shore A ≥ 40 (28 d)"
+    },
+    "movement": {
+     "v": null,
+     "label": "±50 % printed without test standard (total vs ± basis unclear)"
+    },
+    "service_temp": {
+     "v": 80,
+     "label": "−40 to +80 °C"
+    }
+   },
+   "notes": "Uses printed: joints in floors and walls, pipelines, door frames, façades, wood and steel structures. The ±50 % movement capability has no test standard (no ISO 11600 / ASTM C920 class printed), so it is not strictly comparable with the 25 % total deformation of INDUFLEX-PU. The English TDS PDF (https://www.vn.weber/files/vn/2023-05/TDS_weberseal%20PU_EN.pdf) returned an error; values are from Weber Vietnam's product page."
+  },
+  {
+   "slot": "cr/BIS540",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weber.rep R4 duo",
+   "type": "polymer-modified mineral PCC concrete repair mortar and fine filler, EN 1504-3 class R4 (combined product)",
+   "market": "Germany (Saint-Gobain Weber GmbH)",
+   "source": {
+    "url": "https://www.de.weber/files/de/2025-05/TM_weber_rep_R4_duo_368_de.pdf",
+    "version": "Technisches Merkblatt, Stand 2026-08-19"
+   },
+   "values": {
+    "class": "EN 1504-3 class R4; tested as a system with weber.rep KB duo",
+    "compressive": "45 N/mm² (28 d); other ages not printed",
+    "flexural": "8 N/mm² (7 d)",
+    "adhesion": null,
+    "e_modulus": null,
+    "chloride": null,
+    "capillary": null,
+    "carbonation": "no value printed (weber.tec surface protection recommended for added carbonation protection)",
+    "thickness": "repair mortar approx. 50 mm per work step (several steps for deeper defects); fine filler 2–5 mm; minimum not stated; max. grain 0.5 mm",
+    "consumption": "approx. 1.9 kg/m² per mm",
+    "water": "14.5 % = 2.9 l per 20 kg bag (+ up to 0.3 l for filler consistency)",
+    "pot_life": "60–90 minutes",
+    "overcoat": "approx. 12 h between repair layers; coatings over the repair after > 5 days",
+    "application_temp": "5–30 °C",
+    "packaging": "20 kg bag",
+    "shelf_life": "min. 9 months (dry, unopened)"
+   },
+   "charts": {
+    "compressive": {
+     "v": 45,
+     "label": "45 N/mm² (28 d)"
+    },
+    "e_modulus": {
+     "v": null,
+     "label": null
+    },
+    "thickness": {
+     "v": null,
+     "label": "minimum not stated (filler use from 2 mm)"
+    },
+    "consumption": {
+     "v": 1.9,
+     "label": "approx. 1.9 kg/m² per mm"
+    }
+   },
+   "notes": "Weber Germany sheet. No repair mortar is published on the Weber Vietnam / India sites; Weber Thailand and Malaysia sites block automated reading. Substrate surface tensile strength must be > 1.5 N/mm². The same product also covers the fine-filler use (see cr/BIS16)."
+  },
+  {
+   "slot": "cr/BIS16",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weber.rep R4 duo (fine-filler use)",
+   "type": "polymer-modified mineral repair mortar and fine filler, EN 1504-3 class R4; used here as 2–5 mm skim coat",
+   "market": "Germany (Saint-Gobain Weber GmbH)",
+   "source": {
+    "url": "https://www.de.weber/files/de/2025-05/TM_weber_rep_R4_duo_368_de.pdf",
+    "version": "Technisches Merkblatt, Stand 2026-08-19"
+   },
+   "values": {
+    "class": "EN 1504-3 class R4",
+    "compressive": "45 N/mm² (28 d)",
+    "flexural": "8 N/mm² (7 d)",
+    "adhesion": null,
+    "chloride": null,
+    "capillary": null,
+    "thickness": "fine filler approx. 2–5 mm; up to 5 mm wet in wet",
+    "consumption": "approx. 1.9 kg/m² per mm",
+    "water": "2.9 l per 20 kg bag + up to 0.3 l (1.5 %) for filler consistency",
+    "pot_life": "60–90 minutes",
+    "overcoat": "felt / sponge finish after 15–90 minutes; overcoating after > 1 day",
+    "application_temp": "5–30 °C",
+    "packaging": "20 kg bag",
+    "shelf_life": "min. 9 months"
+   },
+   "charts": {
+    "compressive": {
+     "v": 45,
+     "label": "45 N/mm² (28 d)"
+    },
+    "thickness": {
+     "v": 5,
+     "label": "up to 5 mm per step"
+    },
+    "pot_life": {
+     "v": 75,
+     "label": "60–90 min"
+    }
+   },
+   "notes": "Weber combines repair mortar and fine filler in one R4 product; no separate R2/R3 fine-smoothing mortar was found. Substrate surface tensile strength ≥ 1.3 N/mm² for the filler use. Minimum layer thickness for the filler use not printed (2–5 mm range)."
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weber.rep KB duo",
+   "type": "polymer-modified mineral corrosion protection for reinforcing steel and bonding bridge (combined product), EN 1504-7",
+   "market": "Germany (Saint-Gobain Weber GmbH)",
+   "source": {
+    "url": "https://www.de.weber/files/de/2025-05/TM_weber_rep_KB_Duo_367_de.pdf",
+    "version": "Technisches Merkblatt, Stand 2026-07-15"
+   },
+   "values": {
+    "class": "DIN EN 1504-7; BASt-listed; tested as a system with weber.rep R4 duo (ZTV-ING / DAfStb guideline)",
+    "components": "1 (dry mortar: cement, mineral fillers, polymers, additives)",
+    "adhesion": null,
+    "thickness": "1 mm; corrosion protection in two coats",
+    "consumption": "corrosion protection approx. 190 g per m of 14 mm bar (two coats); bonding bridge approx. 1.5–2.5 kg/m² by roughness",
+    "water": "30 % = 6 l per 20 kg bag (1.5 l per 5 kg) for both uses",
+    "pot_life": "80 minutes",
+    "overcoat": "second coat after approx. 2–3 hours; weber.rep R4 duo applied wet in wet into the fresh bonding bridge",
+    "application_temp": "5–30 °C",
+    "packaging": "5 kg bag (4 per pack); 20 kg bag",
+    "shelf_life": "min. 12 months (dry, unopened)"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 80,
+     "label": "80 min"
+    },
+    "adhesion": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Direct functional equivalent of ASOCRET-HS-FLEX (one product for rebar protection and bond coat). No adhesion value printed; substrate surface tensile strength must be > 1.5 N/mm²."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weber.tec 933",
+   "type": "water-impermeable, fast-setting, shrinkage-compensated fibre-reinforced mineral cove and levelling mortar (Hohlkehlenspachtel) for waterproofing systems",
+   "market": "Germany (Saint-Gobain Weber GmbH)",
+   "source": {
+    "url": "https://www.de.weber/files/de/2025-07/TM_weber_tec_933_488_de.pdf",
+    "version": "Technisches Merkblatt, Stand 2026-07-15"
+   },
+   "values": {
+    "class": "mineral, water-impermeable, non-capillary, sulphate-resistant; conforms to DIN 18533 — not crystalline",
+    "compressive": "> 25 N/mm² (28 d)",
+    "thickness": "2–10 mm (flat); up to 50 mm as mortar plug",
+    "consumption": "levelling approx. 18.0 kg/m² per cm (≈ 1.8 kg/m² per mm); cove approx. 3.0 kg/m",
+    "water": "2.5–3 l per 25 kg bag",
+    "pot_life": "approx. 15 minutes",
+    "overcoat": "1–2 h between applications; overcoat with sealing slurries, bitumen thick coatings or FPD after hardening (through-dry approx. 60 min)",
+    "application_temp": "5–30 °C",
+    "packaging": "25 kg bag",
+    "shelf_life": "min. 12 months"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 15,
+     "label": "approx. 15 min"
+    }
+   },
+   "notes": "Weber has no crystalline repair mortar. weber.tec 933 is its cove / levelling mortar for slurry waterproofing systems (the same role ASOCRET-IM plays in the AQUAFIN-IC system) but works by dense mineral mortar, not crystallisation. Product page adds: flexural > 5 N/mm² (7 d), adhesion 1.8 N/mm². For active leaks Weber uses weber.rep 760 (see rc/F20)."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "none": true,
+   "reason": "No crystalline repair / coving mortar. Weber's cove mortar weber.tec 933 is non-crystalline (listed under cr/IM); Weber Vietnam's crystalline product weberdry crystallize hybrid is a slurry only."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weber.rep 760 Blitzzement",
+   "type": "rapid-setting cement (Blitzzement) for plugging seepage and quick repairs (formerly CERINOL Fix)",
+   "market": "Germany (Saint-Gobain Weber GmbH)",
+   "source": {
+    "url": "https://www.de.weber/files/de/2025-08/TM_weber_rep_760_360_de.pdf",
+    "version": "Technisches Merkblatt, Stand 2026-07-15"
+   },
+   "values": {
+    "components": "1 component quick-setting cement; 2–3 parts product : 1 part water by volume (3 : 1 plastic-stiff for sealing)",
+    "setting": "setting begins after approx. 3–8 minutes, ends after 12–15 minutes",
+    "pot_life": "working time 3–8 minutes",
+    "compressive": "> 15 N/mm² (60 min); > 40 N/mm² (1 d); > 54 N/mm² (28 d)",
+    "consumption": "0.8–1.8 kg/dm³ depending on use",
+    "application_temp": "min. +1 °C (warm water below +5 °C)",
+    "packaging": "1 kg cup, 5 kg bag, 15 kg pail",
+    "shelf_life": "min. 9 months"
+   },
+   "charts": {
+    "compressive": {
+     "v": 40,
+     "label": "> 40 N/mm² (1 day)"
+    },
+    "pot_life": {
+     "v": 5.5,
+     "label": "3–8 min working time"
+    }
+   },
+   "notes": "Flexural strength 10.1 N/mm² (1 d), > 7 N/mm² (28 d). The sheet does not say whether the mortar expands (swells)."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weber.tec 930",
+   "type": "mineral sealing slurry (MDS), cement-based, mixed with water only; rigid",
+   "market": "Germany (Saint-Gobain Weber GmbH)",
+   "source": {
+    "url": "https://www.de.weber/files/de/2025-08/TM_weber_tec_930_485_de.pdf",
+    "version": "Technisches Merkblatt, Stand 2026-08-03"
+   },
+   "values": {
+    "components": "1 component dry mortar mixed with water (quantity per bag not printed)",
+    "positive_pressure": "soil moisture, non-pressing and pressing water (pressing water by special agreement; no bar value)",
+    "negative_pressure": "max. 3 m water column (by special agreement)",
+    "adhesion": null,
+    "crack_bridging": "rigid — substrate must be crack-free",
+    "consumption": "approx. 4.0 kg/m² for 2 mm dry layer (soil moisture / non-pressing water); approx. 6.0 kg/m² for 3 mm (pressing water); ≈ 2.0 kg/m² per mm",
+    "thickness": "2–3 mm per coat; max. 3 mm per coat and 5 mm total",
+    "pot_life": "approx. 60 minutes",
+    "overcoat": "next coat after approx. 1 hour",
+    "rainproof": "no rain during application; keep damp ≥ 24 h, protect from sun / frost 5 more days; through-dry approx. 3 days",
+    "application_temp": "5–30 °C",
+    "certification": "abP (general building-authority test certificate); MDS to DIN 18535; DVGW W 347 / W 270 drinking water; DIN 4030 strongly aggressive exposure",
+    "packaging": "25 kg bag",
+    "shelf_life": "min. 12 months"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": 0.29,
+     "label": "max. 3 m water column (≈ 0.29 bar), by special agreement"
+    },
+    "pot_life": {
+     "v": 60,
+     "label": "approx. 60 min"
+    },
+    "consumption": {
+     "v": 2.0,
+     "label": "≈ 2.0 kg/m² per mm (4.0 kg/m² at 2 mm)"
+    }
+   },
+   "notes": "Weber Germany sheet; no one-component rigid slurry on the reachable Asian Weber sites (Weber Vietnam's slurries are two-component flexible). Water quantity per bag not printed."
+  },
+  {
+   "slot": "wp/RB400",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weber.tec Superflex D 24",
+   "type": "two-component, fast-setting, highly flexible, bitumen-free thick coating (FPD), radon-tight",
+   "market": "Germany (Saint-Gobain Weber GmbH)",
+   "source": {
+    "url": "https://www.de.weber/files/de/2025-06/TM_weber_tec_Superflex_D_24_520_de.pdf",
+    "version": "Technisches Merkblatt, Stand 2026-07-21"
+   },
+   "values": {
+    "components": "2 components; A : B = 1 : 1 by weight (cement, quartz sand, reactive polymers, reactive fillers)",
+    "crack_bridging": "≥ 2 mm (test not named)",
+    "positive_pressure": "watertight at 1 bar after 24 h; ETA: up to 8 m pressing water",
+    "negative_pressure": "internal (negative-side) sealing and tanks up to 10 m water column; no separate negative-pressure value",
+    "adhesion": null,
+    "co2": null,
+    "rainproof": "approx. 1.5 h at 4 mm; protection boards after approx. 4 h; through-dry approx. 2.5 h (23 °C / 50 % r.h.)",
+    "consumption": "≥ 1.07 kg/m² per mm dry film (+ 1–1.5 kg/m² scratch coat / filling)",
+    "thickness": "dry film by water-impact class (DIN 18533): W1-E ≥ 3 mm; W2.1-E ≥ 4 mm; W3-E ≥ 4 mm; W4-E ≥ 2 mm; internal pressing water ≥ 3 mm",
+    "application_temp": "1–30 °C (air and substrate)",
+    "certification": "PMBC to DIN EN 15814 (CB2-R3-W2A-C2A); abP to PG-MDS, PG-FPD, PG-FBB part 1; ETA; EMICODE EC1 PLUS; radon-tight",
+    "packaging": "6 kg and 24 kg combination packs",
+    "shelf_life": "min. 12 months"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": 2,
+     "label": "≥ 2 mm"
+    },
+    "positive_pressure": {
+     "v": 1,
+     "label": "watertight at 1 bar after 24 h (ETA: up to 8 m pressing water)"
+    },
+    "rainproof": {
+     "v": 1.5,
+     "label": "approx. 1.5 h at 4 mm"
+    }
+   },
+   "notes": "Close counterpart to AQUAFIN-RB400 (rapid, bitumen-free, flexible thick coating). Pot life approx. 45 min (23 °C). Density approx. 1.05 kg/dm³."
+  },
+  {
+   "slot": "wp/OS",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weber.tec Superflex OS 5b",
+   "type": "two-component, fast-setting, reactive crack-bridging flexible polymer-modified coating (FPD) and OS 5b surface protection",
+   "market": "Germany (Saint-Gobain Weber GmbH)",
+   "source": {
+    "url": "https://www.de.weber/files/de/2025-06/TM_weber_tec_Superflex_OS_5b_2179_de.pdf",
+    "version": "Technisches Merkblatt, Stand 2026-07-28"
+   },
+   "values": {
+    "components": "2 components; A : B = 1 : 1 by weight",
+    "crack_bridging": "class B2 at −20 °C (static class / EN 1062-7 not printed)",
+    "adhesion": "> 0.8 N/mm² (concrete)",
+    "vapour": "Sd H₂O < 5 m",
+    "co2": "Sd CO₂ > 200 m",
+    "rainproof": "after approx. 2 hours",
+    "consumption": "≥ 2.5 kg/m² for ≥ 2 mm dry film; approx. 1.25 kg/m² per mm dry film (+ 0.5–1.5 kg/m² for filler / scratch coats)",
+    "thickness": "min. 2 mm dry film in at least 2 coats",
+    "pot_life": "50 minutes",
+    "overcoat": "wall areas after approx. 120 min (23 °C / 50 % r.h.); through-dry 10 h",
+    "application_temp": "5–30 °C",
+    "certification": "OS 5b per DIN EN 1504-2 and TR Instandhaltung; FPD (PG-FPD, RÜ-2); abP; MDS per DIN 18533; EMICODE EC1 PLUS; fire class E",
+    "packaging": "24 kg combination pack",
+    "shelf_life": "min. 12 months"
+   },
+   "charts": {
+    "co2": {
+     "v": 200,
+     "label": "Sd CO₂ > 200 m"
+    },
+    "crack_bridging": {
+     "v": null,
+     "label": "B2 at −20 °C; static value at +20 °C not printed"
+    }
+   },
+   "notes": "Direct counterpart to AQUAFIN-OS (OS 5b + EN 1504-2, two-component reactive). Pressure-water tight 1.5 bar after 1 day; flexible to −20 °C."
+  },
+  {
+   "slot": "pf/GBM",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weber.floor 4712 Grundierung EP sehr emissionsarm",
+   "type": "two-component, water-free, very low-emission epoxy primer; binder for scratch coats and epoxy screed mortar; moisture / vapour barrier",
+   "market": "Germany (Saint-Gobain Weber GmbH)",
+   "source": {
+    "url": "https://www.de.weber/files/de/2025-05/TM_weber_floor_4712_226_de.pdf",
+    "version": "Technisches Merkblatt, Stand 2026-08-04"
+   },
+   "values": {
+    "basis": "two-component epoxy reaction resin, transparent, water-free (solvent-free not stated explicitly)",
+    "mix_ratio": "A : B = 100 : 37 parts by weight",
+    "viscosity": "low viscosity (no value printed)",
+    "pot_life": "approx. 20–50 minutes (filled mixes slightly longer)",
+    "overcoat": "no min./max. printed; moisture-barrier second coat once walkable, at the latest after 36 h",
+    "compressive": "epoxy screed 1 resin : 10 sand classified SR C35-F10-AR1-B1.5-IR4 (EN 13813)",
+    "flexural": "class F10 (EN 13813, 1 : 10 screed mortar)",
+    "adhesion": "class B1.5 (≥ 1.5 N/mm², EN 13813); substrate ≥ 1.5 N/mm² surface tensile strength",
+    "max_moisture": "concrete and cement screed up to 5 CM-%",
+    "consumption": "primer approx. 300–500 g/m²; scratch coat approx. 400–550 g/m² (1 : 0.5–1.0 sand); screed mortar approx. 2.1 kg/m² per mm (1 : 10); vapour barrier 500–600 + 400–500 g/m²",
+    "application_temp": "air and substrate 15–30 °C; ≥ 3 °C above dew point; r.h. < 75 % during and 24 h after application",
+    "packaging": "1 kg, 10 kg and 30 kg double packs",
+    "shelf_life": "min. 24 months (≥ 10 °C)"
+   },
+   "charts": {
+    "compressive": {
+     "v": 35,
+     "label": "class C35 (EN 13813) as 1 : 10 epoxy screed"
+    },
+    "flexural": {
+     "v": 10,
+     "label": "class F10 (EN 13813) as 1 : 10 epoxy screed"
+    },
+    "pot_life": {
+     "v": 35,
+     "label": "approx. 20–50 min"
+    }
+   },
+   "notes": "EN 13813 class values are minimum classes of the 1 : 10 resin screed, not resin-binder strengths. Walkable after 10–26 h; full load after 7 days; fire class Bfl-s1; radon-tight. UK alternative: weberfloor 4720 epoxy primer."
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "product": "weberfloor DPM Pro",
+   "type": "two-component epoxy surface damp-proof membrane for residual construction moisture, one-coat application",
+   "market": "United Kingdom",
+   "source": {
+    "url": "https://www.uk.weber/files/gb/2024-03/weberfloor%20DPM%20Pro%20TDS%203-24_0.pdf?cb=1fe344c5",
+    "version": "TDS rev. 28/03/24"
+   },
+   "values": {
+    "basis": "two-component epoxy (resin + hardener); solvent-free not stated",
+    "components": "2",
+    "mix_ratio": "pre-weighed packs: 16.8 kg A + 3.2 kg B (≈ 84 : 16 by weight; ratio not printed)",
+    "viscosity": null,
+    "pot_life": "25–30 minutes (1 litre at 20 °C)",
+    "overcoat": "overlay after min. 3 h; overcoat within 24 h (further DPM coat possible within 48 h; after 48 h abrade + extra coat)",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": "3.6 MPa (BS EN 1542); compatibility with wet concrete 3.0 MPa (EN 13578)",
+    "negative_pressure": "not stated — only for residual construction moisture; not for substrates without a structural DPM",
+    "max_moisture": "concrete / cement screeds up to 98 % RH (hood hygrometer)",
+    "consumption": "approx. 0.3 kg/m² (min. 250 µm wet film, one coat; two coats on rough surfaces)",
+    "application_temp": "min. 5 °C (application affected below 10 °C)",
+    "packaging": "10 kg and 20 kg packs",
+    "shelf_life": "min. 12 months"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": "not rated for hydrostatic / negative pressure"
+    },
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": 24,
+     "label": "overcoat within 24 h (48 h with an extra DPM coat)"
+    }
+   },
+   "notes": "Water-vapour transmission 0.4 g/m²·day at 250 µm (EN ISO 7783); liquid water permeability 0.001 kg/m²·h⁰·⁵ (EN 1062-3). Germany's weber.floor 4712 also works as a vapour barrier but needs ≤ 5 CM-%."
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "none": true,
+   "reason": "No epoxy floor coating found in the reachable Weber ranges: Weber Vietnam and India publish none, Weber UK's industrial floors are cementitious screeds, and the Weber Germany industrial-floor category pages could not be read. Treat as 'not found' rather than confirmed absent; Weber Thailand and Malaysia sites block automated reading."
+  },
+  {
+   "slot": "pf/V360",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "none": true,
+   "reason": "No water-based epoxy floor sealer found (Weber India's weberprim Epox 501 is a water-based epoxy primer for waterproofing systems, not a seal coat; Weber Vietnam, UK and Germany pages show none). Not confirmed absent — see pf/B351."
+  },
+  {
+   "slot": "inj/P4",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "none": true,
+   "reason": "No PU crack-injection resin found. Weber Germany's only injection product is weber.tec 946, an injection cream for horizontal damp barriers (different category). Weber Singapore lists 'pressure grouting, epoxy crack repair' under concrete repair, but its product listing could not be read. Saint-Gobain's injection resins are sold under GCP (DE NEEF) and Fosroc (Nitofill)."
+  },
+  {
+   "slot": "inj/P1",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "none": true,
+   "reason": "No water-reactive PU injection foam found in Weber's reachable ranges (see inj/P4)."
+  },
+  {
+   "slot": "inj/IH",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "none": true,
+   "reason": "No epoxy crack-injection resin confirmed; Weber Singapore mentions 'epoxy crack repair' but the product could not be read (see inj/P4)."
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "none": true,
+   "reason": "No crystalline concrete admixture; Weber India's webertec mixIL is a non-crystalline integral additive for mortar / concrete. Saint-Gobain's crystalline admixtures are sold under Chryso and Fosroc."
+  },
+  {
+   "slot": "ca/CP360",
+   "group": "Saint-Gobain",
+   "brand": "Weber",
+   "none": true,
+   "reason": "No powder crystalline admixture; weberdry crystallize hybrid (Vietnam) is a slurry / dry-broadcast product, not a concrete admixture (see rc/IC)."
+  }
+ ]
+}

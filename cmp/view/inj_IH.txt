@@ -1,0 +1,91 @@
+SLOT inj/IH ASODUR-IH — two-component epoxy injection resin for the force-locking bonding of cracks
+competitors 9, listed 1, none: Xypex, Kryton, Penetron, Denka
+
+== basis | OURS: epoxy resin, two-component, solvent-free
+   Sika                               Sikadur®-52 Injection Normal   : Epoxy
+   Master Builders Solutions (Sika)   SikaInject®-1360 (formerly Mas : Two-component epoxy-based injection resin
+   Fosroc (Saint-Gobain)              Nitofill LV                    : Epoxy (two-part base and hardener)
+   GCP Applied Technologies (Saint-Go DE NEEF® Denepox 40            : epoxy resin, two-component (epoxy resin + polyamine hardener), solvent-free
+   Euclid Chemical (RPM)              DURAL 452 LV                   : epoxy resin, two-component, 100 % solids, moisture-insensitive
+   Bostik (Arkema)                    RENO E753 INJECT XTREM (former : two-component hard-elastic epoxy resin, solvent-free
+   Mapei                              EPOJET LV                      : Two-component epoxy resin with very low viscosity (solvent-free)
+   Oriental Yuhong                    YH-102 High-penetration Modifi : modified epoxy resin, two-component, solvent-free (JC/T 1041-2007 《混凝土裂缝用环氧树脂灌浆材料》, grout type N, cured type Ⅱ)
+   MC-Bauchemie                       MC-Injekt 1264 compact         : epoxy-based duromer resin, two-component, low viscosity, transparent
+== mix_ratio | OURS: see technical data sheet
+   Sika                               Sikadur®-52 Injection Normal   : Part A : Part B = 2 : 1 parts by weight
+   Master Builders Solutions (Sika)   SikaInject®-1360 (formerly Mas : 3.45:1 by weight (100:29); 3:1 by volume
+   Fosroc (Saint-Gobain)              Nitofill LV                    : 2 parts base : 1 part hardener by volume
+   GCP Applied Technologies (Saint-Go DE NEEF® Denepox 40            : A : B = 100 : 30 by weight (89.5 : 32 by volume)
+   Euclid Chemical (RPM)              DURAL 452 LV                   : 2 : 1 by volume (A : B)
+   Bostik (Arkema)                    RENO E753 INJECT XTREM (former : A : B = 2 : 1 by weight (2 : 0.9 by volume)
+   Mapei                              EPOJET LV                      : comp. A : comp. B = 4 : 1
+   Oriental Yuhong                    YH-102 High-penetration Modifi : A : B = 2 : 1 by mass
+   MC-Bauchemie                       MC-Injekt 1264 compact         : 4 : 1 by volume (A : B)
+== viscosity | OURS: low viscosity (see technical data sheet)
+   Sika                               Sikadur®-52 Injection Normal   : ~1200 mPa·s at +10 °C; ~430 mPa·s at +20 °C; ~220 mPa·s at +30 °C (Part A+B mixed)
+   Master Builders Solutions (Sika)   SikaInject®-1360 (formerly Mas : 190 mPa·s at +21 °C (mixed, ISO 3219)
+   Fosroc (Saint-Gobain)              Nitofill LV                    : 250-450 cps @10°C; 150-200 cps @20°C; 50-100 cps @30°C
+   GCP Applied Technologies (Saint-Go DE NEEF® Denepox 40            : approx. 85 mPa·s at 25 °C (EN ISO 3219)
+   Euclid Chemical (RPM)              DURAL 452 LV                   : < 250 cp (mixed)
+   Bostik (Arkema)                    RENO E753 INJECT XTREM (former : 300 mPa·s (mixed, +20 °C; method not stated)
+   Mapei                              EPOJET LV                      : None
+   Oriental Yuhong                    YH-102 High-penetration Modifi : initial viscosity 66 mPa·s typical (requirement < 200 mPa·s); grout density 1.15 g/cm³
+   MC-Bauchemie                       MC-Injekt 1264 compact         : approx. 310 mPa·s (EN ISO 3219; laboratory values at 21 °C ± 2 °C, 50 % r.h.)
+== pot_life | OURS: see technical data sheet
+   Sika                               Sikadur®-52 Injection Normal   : ~120 minutes at +5 °C; ~80 minutes at +10 °C; ~25 minutes at +23 °C; ~10 minutes at +30 °C (1 kg)
+   Master Builders Solutions (Sika)   SikaInject®-1360 (formerly Mas : 120 min at +15 °C; 70 min at +21 °C; 47 min at +35 °C (100 ml, ISO 9514)
+   Fosroc (Saint-Gobain)              Nitofill LV                    : 40 mins @ 10°C; 20 mins @ 20°C; 10 mins @ 30°C
+   GCP Applied Technologies (Saint-Go DE NEEF® Denepox 40            : approx. 80 min (100 g at 25 °C); mix no more than can be used in 60 min
+   Euclid Chemical (RPM)              DURAL 452 LV                   : gel time 50 minutes (ASTM C 881)
+   Bostik (Arkema)                    RENO E753 INJECT XTREM (former : approx. 1 hour (+20 °C)
+   Mapei                              EPOJET LV                      : 35 minutes (at +23°C)
+   Oriental Yuhong                    YH-102 High-penetration Modifi : working time 50 min typical (requirement > 30 min)
+   MC-Bauchemie                       MC-Injekt 1264 compact         : approx. 25 min (100 g)
+== tensile | OURS: force-locking bonding of cracks; CE / DoP to DIN EN 1504-5
+   Sika                               Sikadur®-52 Injection Normal   : 37 N/mm² at 7 days, +23 °C (23 N/mm² at 1 day; 35 N/mm² at 3 days); tensile adhesion strength to concrete > 4 N/mm² (failure in concrete), 7 days +23 °C
+   Master Builders Solutions (Sika)   SikaInject®-1360 (formerly Mas : 13 N/mm² after 7 days at +23 °C
+   Fosroc (Saint-Gobain)              Nitofill LV                    : >25 MPa; flexural strength >50 MPa; adhesion to concrete >2.5 MPa
+   GCP Applied Technologies (Saint-Go DE NEEF® Denepox 40            : tensile strength > 50 MPa (ISO 527); flexural > 60 MPa, compressive approx. 100 MPa (NBN EN 196); bond > concrete cohesion on dry and damp concrete (EN 1542); CE to EN 15
+   Euclid Chemical (RPM)              DURAL 452 LV                   : tensile strength 54.8 MPa, elongation 1.5 % (7 d, ASTM D 638); compressive 90.0 MPa (7 d, ASTM D 695); bond strength 14.6 MPa (2 d) / 15.5 MPa (14 d) (ASTM C 882); ASTM C
+   Bostik (Arkema)                    RENO E753 INJECT XTREM (former : None
+   Mapei                              EPOJET LV                      : None
+   Oriental Yuhong                    YH-102 High-penetration Modifi : tensile strength 44 MPa (≥ 15); tensile shear 18 MPa (≥ 8.0); compressive 72 MPa (≥ 70); bond dry 5.3 MPa (≥ 4.0), wet 4.1 MPa (≥ 2.5); impermeability pressure 1.3 MPa (≥
+   MC-Bauchemie                       MC-Injekt 1264 compact         : tensile strength approx. 45.7 N/mm² (DIN 53455); E-modulus approx. 2,600 N/mm² (EN ISO 178); compressive strength approx. 60 N/mm² (EN ISO 604); elongation 6.1 %; tensile
+== application_temp | OURS: approx. 5–30 °C
+   Sika                               Sikadur®-52 Injection Normal   : +5 °C to +30 °C (injection temperature range and substrate temperature)
+   Master Builders Solutions (Sika)   SikaInject®-1360 (formerly Mas : +8 °C to +35 °C (ambient air and substrate); do not apply below +8 °C nor above +35 °C
+   Fosroc (Saint-Gobain)              Nitofill LV                    : None
+   GCP Applied Technologies (Saint-Go DE NEEF® Denepox 40            : min. 10 °C
+   Euclid Chemical (RPM)              DURAL 452 LV                   : surface and ambient 10–32 °C; material at least 10 °C and rising
+   Bostik (Arkema)                    RENO E753 INJECT XTREM (former : from +5 °C
+   Mapei                              EPOJET LV                      : Do not use Epojet LV at temperatures below +10°C (BPIR)
+   Oriental Yuhong                    YH-102 High-penetration Modifi : None
+   MC-Bauchemie                       MC-Injekt 1264 compact         : component and substrate 8–35 °C; stop below 8 °C
+== packaging | OURS: combination containers
+   Sika                               Sikadur®-52 Injection Normal   : Parts A+B 1 kg pre-batched unit, box of 10 units; bulk on request
+   Master Builders Solutions (Sika)   SikaInject®-1360 (formerly Mas : Part A 3.86 kg + Part B 1.14 kg = 5 kg unit
+   Fosroc (Saint-Gobain)              Nitofill LV                    : 450 ml twin cartridge; proportioning pump kit 15 litre (base 10 litre + hardener 5 litre)
+   GCP Applied Technologies (Saint-Go DE NEEF® Denepox 40            : 3 kg set (2.3 kg A + 0.7 kg B)
+   Euclid Chemical (RPM)              DURAL 452 LV                   : 2 kg and 15 kg sets
+   Bostik (Arkema)                    RENO E753 INJECT XTREM (former : component A 7 kg + component B 3.5 kg tin pails
+   Mapei                              EPOJET LV                      : 4 kg kits: 3.2 kg drums (comp. A) + 0.8 kg bottles (comp. B); also 2.5 kg kits (2 kg + 0.5 kg)
+   Oriental Yuhong                    YH-102 High-penetration Modifi : iron drums, 10 kg per component
+   MC-Bauchemie                       MC-Injekt 1264 compact         : box of 6 × 1 l; 10 l canister component A + 2.5 l canister component B
+== shelf_life | OURS: 12 months
+   Sika                               Sikadur®-52 Injection Normal   : None
+   Master Builders Solutions (Sika)   SikaInject®-1360 (formerly Mas : None
+   Fosroc (Saint-Gobain)              Nitofill LV                    : None
+   GCP Applied Technologies (Saint-Go DE NEEF® Denepox 40            : 2 years (dry, 5–50 °C)
+   Euclid Chemical (RPM)              DURAL 452 LV                   : 2 years in original, unopened package
+   Bostik (Arkema)                    RENO E753 INJECT XTREM (former : 12 months (dry, above +5 °C)
+   Mapei                              EPOJET LV                      : None
+   Oriental Yuhong                    YH-102 High-penetration Modifi : None
+   MC-Bauchemie                       MC-Injekt 1264 compact         : at least 24 months, original sealed packs, 10–30 °C, dry
+## chart viscosity (mPa·s, lower) OURS None :: Sikadur®-52 Injection =430, SikaInject®-1360 (form=190, Nitofill LV=175, DE NEEF® Denepox 40=85, RENO E753 INJECT XTREM=300, YH-102 High-penetratio=66, MC-Injekt 1264 compact=310
+
+WHY:
+  - A solvent-free epoxy injection resin of the same family as the AQUAFIN injection resins: the packers, pumps and the surface seal (ASODUR-EKF) are shared across the system.
+  - CE-marked to DIN EN 1504-5 for the force-locking filling of cracks — the structural repair, where the PU resins seal.
+  - Values of the comparable products are quoted from their sheets; the current ASODUR-IH technical data sheet is the reference for the project.
+
+LISTED: Sobute GP808 Modified Epoxy Grout

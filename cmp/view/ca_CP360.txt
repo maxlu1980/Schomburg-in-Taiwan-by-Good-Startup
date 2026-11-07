@@ -1,0 +1,164 @@
+SLOT ca/CP360 BETOCRETE-CP360-WP — powder crystalline waterproofing admixture with hydrophobic properties, in water-soluble bags
+competitors 14, listed 1, none: 
+
+== form | OURS: powder
+   Sika                               Sika WT-200 P                  : Grey powder with some small agglomerations (break down during mixing)
+   Master Builders Solutions (Sika)   SikaControl®-3760 WT (MBS Mast : grey powder
+   Fosroc (Saint-Gobain)              Conplast® Crystalline          : grey powder
+   GCP Applied Technologies (Saint-Go BETEC™ M-5 (integral admixture : powder
+   Chryso (Saint-Gobain)              CHRYSO® CWA 10                 : grey powder
+   Xypex (Saint-Gobain)               Xypex Admix C-1000 NF          : Light grey powder (pH 12.0–12.4)
+   Vandex (RPM)                       VANDEX AM 10                   : powder
+   Bostik (Arkema)                    MIX X510 Boscoseal Admix       : powder
+   Mapei                              IDROCRETE KR 1000              : Powder, grey
+   Kryton                             Krystol Internal Membrane (KIM : Grey powder
+   Penetron                           PENETRON ADMIX                 : Powder (PENETRON ADMIX LIQUID also available)
+   Oriental Yuhong                    PCC-502 Cementitious Capillary : powder, grey
+   Denka                              Estomax MX100                  : powder (grey)
+   MC-Bauchemie                       Centrament Proof CP 10         : powder (grey)
+== dosage | OURS: approx. 0.75–1.25 % of the cement weight; never above 1.25 %
+   Sika                               Sika WT-200 P                  : 2 x 1.75 kg bags per m³ of concrete (no % of cement given)
+   Master Builders Solutions (Sika)   SikaControl®-3760 WT (MBS Mast : recommended 1 % by weight of binder; up to 2 % by weight of binder; ready-mix typically 5 kg per m³ of concrete
+   Fosroc (Saint-Gobain)              Conplast® Crystalline          : 0.8 % by weight of total cementitious content (optimum to be confirmed by trial mixes)
+   GCP Applied Technologies (Saint-Go BETEC™ M-5 (integral admixture : 0.8–1.2 % of the cementitious content, on a pre-approved mix design
+   Chryso (Saint-Gobain)              CHRYSO® CWA 10                 : 0.8–1 % by weight of cement or cementitious binder
+   Xypex (Saint-Gobain)               Xypex Admix C-1000 NF          : 1–1.5 % by weight of cement (C-1000 NF); min. 3 kg/m³ (5 lb/yd³), max. 6 kg/m³ (10 lb/yd³)
+   Vandex (RPM)                       VANDEX AM 10                   : typically 1–2 % by weight of cementitious material (BWC)
+   Bostik (Arkema)                    MIX X510 Boscoseal Admix       : 0.8–1.0 % by weight of cement, depending on mix design (consult Bostik for enhanced chemical resistance)
+   Mapei                              IDROCRETE KR 1000              : 0.8–3 kg per 100 kg of cementitious materials; minimum 2 kg per 100 kg required for compliance with the Mapei Idrocrete System BBA certification
+   Kryton                             Krystol Internal Membrane (KIM : Up to a maximum of 8 kg/m³ (13.5 lb/yd³), in consultation with an authorized Kryton representative (not expressed as % of cement)
+   Penetron                           PENETRON ADMIX                 : Powder: 0.8–1.0% by weight of cementing materials; Liquid: 16 fl oz per 100 lb of cementing materials (1.0 L per 100 kg), replacing an equal volume of mix water
+   Oriental Yuhong                    PCC-502 Cementitious Capillary : not published (trial mix required to decide whether the mix design must be adjusted)
+   Denka                              Estomax MX100                  : up to 1.5 bar hydrostatic pressure: min. 0.7 % of cement, max. 2.1 kg/m³ concrete; above 1.5 bar: 1.0 % recommended, max. 4.0 kg/m³
+   MC-Bauchemie                       Centrament Proof CP 10         : 5–15 g per kg cement (recommended range)
+== density | OURS: bulk density approx. 0.8 g/cm³
+   Sika                               Sika WT-200 P                  : Bulk density ~0.75 kg/L
+   Master Builders Solutions (Sika)   SikaControl®-3760 WT (MBS Mast : approx. 1.3 g/cm³ at +25 °C
+   Fosroc (Saint-Gobain)              Conplast® Crystalline          : bulk density 1400 kg/m³
+   GCP Applied Technologies (Saint-Go BETEC™ M-5 (integral admixture : None
+   Chryso (Saint-Gobain)              CHRYSO® CWA 10                 : apparent density 0.560 ± 0.020
+   Xypex (Saint-Gobain)               Xypex Admix C-1000 NF          : None
+   Vandex (RPM)                       VANDEX AM 10                   : None
+   Bostik (Arkema)                    MIX X510 Boscoseal Admix       : None
+   Mapei                              IDROCRETE KR 1000              : 2.2 ± 0.1 g/cm³
+   Kryton                             Krystol Internal Membrane (KIM : Specific gravity ~2.8; Bulk density ~1.4 g/cm³ (88 lb/ft³)
+   Penetron                           PENETRON ADMIX                 : None
+   Oriental Yuhong                    PCC-502 Cementitious Capillary : None
+   Denka                              Estomax MX100                  : None
+   MC-Bauchemie                       Centrament Proof CP 10         : None
+== chloride | OURS: ≤ 0.1 %
+   Sika                               Sika WT-200 P                  : <0.1 % w/w (chloride free)
+   Master Builders Solutions (Sika)   SikaControl®-3760 WT (MBS Mast : nil (EN 934)
+   Fosroc (Saint-Gobain)              Conplast® Crystalline          : None
+   GCP Applied Technologies (Saint-Go BETEC™ M-5 (integral admixture : None
+   Chryso (Saint-Gobain)              CHRYSO® CWA 10                 : ions content ≤ 0.200 %
+   Xypex (Saint-Gobain)               Xypex Admix C-1000 NF          : Chloride content < 0.1 %
+   Vandex (RPM)                       VANDEX AM 10                   : < 0.1 M% (EN 480-10)
+   Bostik (Arkema)                    MIX X510 Boscoseal Admix       : None
+   Mapei                              IDROCRETE KR 1000              : Water-soluble chlorides (EN 480-10) < 0.1%
+   Kryton                             Krystol Internal Membrane (KIM : Chloride ion content <0.1% by weight
+   Penetron                           PENETRON ADMIX                 : < 0.10% by mass (EN 934-2 listing)
+   Oriental Yuhong                    PCC-502 Cementitious Capillary : None
+   Denka                              Estomax MX100                  : None
+   MC-Bauchemie                       Centrament Proof CP 10         : ≤ 0.1 % by mass
+== self_healing | OURS: cracks up to 0.4 mm (system statement)
+   Sika                               Sika WT-200 P                  : None
+   Master Builders Solutions (Sika)   SikaControl®-3760 WT (MBS Mast : can seal hairline cracks up to 0.5 mm
+   Fosroc (Saint-Gobain)              Conplast® Crystalline          : fills cracks up to 0.4 mm width over time (fosroc.com product page)
+   GCP Applied Technologies (Saint-Go BETEC™ M-5 (integral admixture : None
+   Chryso (Saint-Gobain)              CHRYSO® CWA 10                 : seals cracks or voids up to 0.5 mm
+   Xypex (Saint-Gobain)               Xypex Admix C-1000 NF          : Can seal static hairline cracks up to 0.5 mm
+   Vandex (RPM)                       VANDEX AM 10                   : seals cracks up to 0.4 mm
+   Bostik (Arkema)                    MIX X510 Boscoseal Admix       : self-healing effect up to 0.4 mm
+   Mapei                              IDROCRETE KR 1000              : closure of microcracks up to 0.4mm wide
+   Kryton                             Krystol Internal Membrane (KIM : Hairline cracks up to 0.5 mm (0.02 in) self-seal; direct flow method: self-sealed a 0.6 mm (0.024 in) leaking crack (Cement and Concrete Institute, Sweden); US Patent 9,0
+   Penetron                           PENETRON ADMIX                 : hairline cracks up to 0.5 mm (printed as 1/51")
+   Oriental Yuhong                    PCC-502 Cementitious Capillary : repairs micro-cracks; repair function reactivates when water is present (no crack width stated)
+   Denka                              Estomax MX100                  : seals cracks or voids up to 0.4 mm by continuous crystallization under suitable conditions
+   MC-Bauchemie                       Centrament Proof CP 10         : heals microcracks up to 0.4 mm (400 µm)
+== min_cement | OURS: CEM I 270 · CEM II 290 · CEM III/A 380 · CEM III/B 400 kg/m³
+   Sika                               Sika WT-200 P                  : Minimum binder content 350 kg/m³; maximum water-binder ratio 0.45; minimum consistence class S3; fly ash/silica fume ≤40 %, GGBS ≤75 %
+   Master Builders Solutions (Sika)   SikaControl®-3760 WT (MBS Mast : None
+   Fosroc (Saint-Gobain)              Conplast® Crystalline          : None
+   GCP Applied Technologies (Saint-Go BETEC™ M-5 (integral admixture : None
+   Chryso (Saint-Gobain)              CHRYSO® CWA 10                 : None
+   Xypex (Saint-Gobain)               Xypex Admix C-1000 NF          : None
+   Vandex (RPM)                       VANDEX AM 10                   : None
+   Bostik (Arkema)                    MIX X510 Boscoseal Admix       : None
+   Mapei                              IDROCRETE KR 1000              : Minimum cementitious content 350 kg/m³; maximum w/c ratio 0.45
+   Kryton                             Krystol Internal Membrane (KIM : None
+   Penetron                           PENETRON ADMIX                 : None
+   Oriental Yuhong                    PCC-502 Cementitious Capillary : None
+   Denka                              Estomax MX100                  : None
+   MC-Bauchemie                       Centrament Proof CP 10         : cement content ≥ 350 kg/m³ recommended (w/c ≤ 0.45 recommended)
+== dosing_point | OURS: plant: onto the aggregates, mixed ≥ 30 s before cement and water, then ≥ 45 s; truck: water-soluble bags into the drum, ≥ 1 min per m³, at least 5 min
+   Sika                               Sika WT-200 P                  : Added to the mixer at the recommended dose before the concrete is batched; water added afterwards up to max w/b; truck mixer at full revolutions for minimum 5 minutes
+   Master Builders Solutions (Sika)   SikaControl®-3760 WT (MBS Mast : batched in either a central or truck mixer; at least 5 minutes of mixing after addition; w/c ratio < 0.5
+   Fosroc (Saint-Gobain)              Conplast® Crystalline          : added during mixing at the batching plant or on site; add separately from Fosroc water-reducing admixtures
+   GCP Applied Technologies (Saint-Go BETEC™ M-5 (integral admixture : at batching; pre-mix with a small amount of water to a slurry, ensure a homogeneous mix before discharge
+   Chryso (Saint-Gobain)              CHRYSO® CWA 10                 : batching plant: added during batching before the mixing water; transit mixer: slurry approx. 2 parts admixture : 1 part water by weight added at the pouring point
+   Xypex (Saint-Gobain)               Xypex Admix C-1000 NF          : Ready-mix truck: bulk powder or soluble bags into the drum immediately prior to adding the rest of the batch, high-speed mixing; central mixer: with the other components 
+   Vandex (RPM)                       VANDEX AM 10                   : into the initial batching sequence, ideally as the aggregate is charged; not after the cementitious ingredients; mix ≥ 8–10 minutes at normal mixing speed after all const
+   Bostik (Arkema)                    MIX X510 Boscoseal Admix       : ready-mix dry batch: powder into the truck drum with 60–70 % of the mix water and 140–230 kg aggregate, mix 2–3 min, then add the balance; central mix: 6–8 kg powder pre-
+   Mapei                              IDROCRETE KR 1000              : Conveyor belt: disperse onto coarse aggregate during loading; premixer: add with other components; truck mixer: add to drum with a small amount of water and mix before lo
+   Kryton                             Krystol Internal Membrane (KIM : Added to ready-mix truck or central mixer; mix at medium/high speed at least 1 minute per m³ (yd³) and at least 3 minutes total; trial batches required
+   Penetron                           PENETRON ADMIX                 : Ready-mix dry batch: add powder to truck drum, add 60–70% of water and 300–500 lb (136–227 kg) aggregate, mix 2–3 minutes; Ready-mix central mix: pre-slurry, add to truck
+   Oriental Yuhong                    PCC-502 Cementitious Capillary : mix thoroughly with the cementitious materials (no plant / truck procedure stated)
+   Denka                              Estomax MX100                  : batching plant: add after cement, sand and aggregates are discharged, mix ≥ 5 min; truck: add on site into the drum, mix ≥ 5 min; trial batches for setting time, slump an
+   MC-Bauchemie                       Centrament Proof CP 10         : add at the start of mixing, preferably to the dry sand and aggregate; mix ≥ 45 s before adding cement, water and liquid admixtures, then a further 60 s after mixing water
+== application_temp | OURS: min. 5 °C
+   Sika                               Sika WT-200 P                  : None
+   Master Builders Solutions (Sika)   SikaControl®-3760 WT (MBS Mast : None
+   Fosroc (Saint-Gobain)              Conplast® Crystalline          : None
+   GCP Applied Technologies (Saint-Go BETEC™ M-5 (integral admixture : None
+   Chryso (Saint-Gobain)              CHRYSO® CWA 10                 : None
+   Xypex (Saint-Gobain)               Xypex Admix C-1000 NF          : Concrete mix temperature above 4 °C
+   Vandex (RPM)                       VANDEX AM 10                   : None
+   Bostik (Arkema)                    MIX X510 Boscoseal Admix       : None
+   Mapei                              IDROCRETE KR 1000              : None
+   Kryton                             Krystol Internal Membrane (KIM : None
+   Penetron                           PENETRON ADMIX                 : None
+   Oriental Yuhong                    PCC-502 Cementitious Capillary : below 5 °C add antifreeze to the fresh concrete and insulate (no range stated)
+   Denka                              Estomax MX100                  : None
+   MC-Bauchemie                       Centrament Proof CP 10         : None
+== packaging | OURS: water-soluble bags; 25 kg bag
+   Sika                               Sika WT-200 P                  : 10 x 1.75 kg soluble bags in a recycled plastic pail
+   Master Builders Solutions (Sika)   SikaControl®-3760 WT (MBS Mast : 16 kg and 25 kg bags (water-soluble bags not mentioned)
+   Fosroc (Saint-Gobain)              Conplast® Crystalline          : None
+   GCP Applied Technologies (Saint-Go BETEC™ M-5 (integral admixture : 20 kg plastic pail (no water-soluble bags)
+   Chryso (Saint-Gobain)              CHRYSO® CWA 10                 : 20 kg laminated waterproof HDPE bag (no water-soluble bags)
+   Xypex (Saint-Gobain)               Xypex Admix C-1000 NF          : Convenient sizes of various types of packaging, including soluble bags (sizes not printed)
+   Vandex (RPM)                       VANDEX AM 10                   : 20 kg bags; others on request
+   Bostik (Arkema)                    MIX X510 Boscoseal Admix       : 20 kg pail
+   Mapei                              IDROCRETE KR 1000              : 20 kg bags; boxes of 5 x 4 kg water-soluble bags
+   Kryton                             Krystol Internal Membrane (KIM : 5 kg (11 lb) and 25 kg (55 lb) resealable pails; pulpable mixer-ready bags in standard and custom sizes
+   Penetron                           PENETRON ADMIX                 : Powder: 20 lb (9 kg), 40 lb (18 kg), 110 lb (50 kg) bags; 55 lb (25 kg) pails; 6.6 lb (3 kg) soluble bags. Liquid: 264 gal (1000 L) and 275 gal (1041 L) totes
+   Oriental Yuhong                    PCC-502 Cementitious Capillary : 15 kg plastic bucket
+   Denka                              Estomax MX100                  : 20 kg pail
+   MC-Bauchemie                       Centrament Proof CP 10         : 18 kg bags
+== certification | OURS: EN 934-2; WGK 1
+   Sika                               Sika WT-200 P                  : BS EN 934-2 Table 9; DoP 84924988, FPC Body 1029, CE mark; BBA Agrément Certificate 20/5722
+   Master Builders Solutions (Sika)   SikaControl®-3760 WT (MBS Mast : PRAH category within ACI 212.3R-10; chloride tested to EN 934
+   Fosroc (Saint-Gobain)              Conplast® Crystalline          : setting times in compliance with IS 2645-2003 (as stated by the distributor); no EN 934-2 / ASTM C494 classification printed
+   GCP Applied Technologies (Saint-Go BETEC™ M-5 (integral admixture : None
+   Chryso (Saint-Gobain)              CHRYSO® CWA 10                 : IS 2645-2003; ACI 212.3R-10
+   Xypex (Saint-Gobain)               Xypex Admix C-1000 NF          : ASTM C494; EN 934-2 + A1; European Technical Assessment as waterproofing admixture (C-1000 NF); NSF 61 (potable water)
+   Vandex (RPM)                       VANDEX AM 10                   : EN 934-2: T9 (water-resisting admixture); NSF 61 (potable water); ASTM C-494 Type S (performance passed)
+   Bostik (Arkema)                    MIX X510 Boscoseal Admix       : AS 1478.1-2000, Type SN (special-purpose normal-setting admixture)
+   Mapei                              IDROCRETE KR 1000              : EN 934-2 water-resisting admixture, Table 9; BBA Agrément Certificate 20/5754 (Mapei Idrocrete System)
+   Kryton                             Krystol Internal Membrane (KIM : NSF/CAN/ANSI 61; ASTM C494; EN 934-2; ACI 212 Chapter 15 (PRAH); CE and UKCA marked; REACH and UK REACH; BBA Certificate 05/4217; KIWA GmbH FPC 0770-CRP-21DE-02410_A; Dub
+   Penetron                           PENETRON ADMIX                 : NSF 61 certified for potable water; EN 934-2 listing with CE marking; exceeds ASTM C494-S; zero VOC (powder)
+   Oriental Yuhong                    PCC-502 Cementitious Capillary : GB 18445-2012 (waterproofing-admixture type), typical values printed equal to limits: water content ≤ 1.5 %; fineness (0.63 mm residue) ≤ 5 %; water-reducing rate < 8 %; 
+   Denka                              Estomax MX100                  : BS 6920 Part 1 (drinking water) complies; water permeability 10.0–15.0 mm at 28 d (DIN 1048 Part 5, G40 concrete, w/c < 0.425); hydrostatic pressure resistance up to 5 ba
+   MC-Bauchemie                       Centrament Proof CP 10         : no CE / EN 934-2 statement on the TDS; notified body KIT / MPA Karlsruhe 0754 named; production control EN ISO 9001
+## chart dosage (%, lower) OURS 1 :: SikaControl®-3760 WT (=1, Conplast® Crystalline=0.8, BETEC™ M-5 (integral a=1.0, CHRYSO® CWA 10=0.9, Xypex Admix C-1000 NF=1.25, VANDEX AM 10=1.5, MIX X510 Boscoseal Adm=0.9, IDROCRETE KR 1000=2, PENETRON ADMIX=0.9, Estomax MX100=1.0, Centrament Proof CP 10=1.0
+## chart self_healing (mm, higher) OURS 0.4 :: SikaControl®-3760 WT (=0.5, Conplast® Crystalline=0.4, CHRYSO® CWA 10=0.5, Xypex Admix C-1000 NF=0.5, VANDEX AM 10=0.4, MIX X510 Boscoseal Adm=0.4, IDROCRETE KR 1000=0.4, Krystol Internal Membr=0.5, PENETRON ADMIX=0.5, Estomax MX100=0.4, Centrament Proof CP 10=0.4
+## chart min_cement (kg/m³, lower) OURS 270 :: Sika WT-200 P=350, IDROCRETE KR 1000=350, Centrament Proof CP 10=350
+
+WHY:
+  - Crystalline and hydrophobic in one powder: the pores are blocked by crystal growth and made water-repellent, two mechanisms against capillary water.
+  - Dosage approx. 0.75–1.25 % of the cement — in water-soluble bags for the mixer truck, with the mixing time per m³ stated.
+  - Minimum cement content from 270 kg/m³ (CEM I) is published; Sika WT-200 P and Idrocrete KR 1000 require 350 kg/m³.
+  - The data sheet names the CEM types and blends for which the dosage applies; the comparable sheets give a general dosage per m³ or per 100 kg of cementitious material.
+
+LISTED: Sobute KLJ®-Ⅳ Penetrating Crystalline Waterproofing Admixture

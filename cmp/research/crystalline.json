@@ -1,0 +1,1059 @@
+{
+ "agent": "crystalline specialists: Xypex, Kryton, Penetron",
+ "accessed": "2026-10-24",
+ "ownership": [
+  {
+   "brand": "Xypex",
+   "group": "Saint-Gobain",
+   "since": "2026 (agreement announced 2026-07-06; closing completed 2026-10-01/02)",
+   "evidence": "https://www.saint-gobain.com/sites/saint-gobain.com/files/media/document/20260706_Acquisition_Xypex_VA.pdf ; https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/saint-gobain-completes-acquisition-xypex"
+  },
+  {
+   "brand": "Kryton",
+   "group": "Kryton",
+   "since": "independent family-owned company since 1973 (acquired Cementec Industries Inc. in 2017); no acquisition of Kryton found",
+   "evidence": "https://www.kryton.com/about/our-story/"
+  },
+  {
+   "brand": "Penetron",
+   "group": "Penetron",
+   "since": "independent (The Penetron Group, Penetron International Ltd., President & CEO Robert Revera); no acquisition found",
+   "evidence": "https://www.penetron.com/penetron-a-global-partnership"
+  }
+ ],
+ "entries": [
+  {
+   "slot": "rc/IC",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "product": "Xypex Concentrate",
+   "type": "Cementitious crystalline waterproofing slurry (Portland cement, finely graded sand, proprietary active chemicals) for pre-saturated concrete, positive or negative side",
+   "market": "International (A4 metric edition, xypex.com)",
+   "source": {
+    "url": "https://www.xypex.com/wp-content/uploads/2022/05/2025-05-30-Concentrate-A4.pdf",
+    "version": "DAT-CON-A4 REV-2025-05-30"
+   },
+   "values": {
+    "components": "1 component powder mixed with clean water: 5 parts powder : 2 parts water (brush, 0.65–0.8 kg/m²); 3 : 1 (brush, 1.0 kg/m²); 5 : 3 (spray); Dry-Pac 6 : 1 by volume",
+    "negative_pressure": "Can be applied to the positive or the negative side of the concrete surface; resists extreme hydrostatic pressure (no bar value stated)",
+    "permeability": "No measurable leakage up to 124 m (405 ft) water head, 175 psi / 1.2 MPa (limit of apparatus), 51 mm samples (USACE CRD C48); DIN 1048 at 7 bar / 24 h: penetration 0 to avg. 4 mm vs 92 mm untreated",
+    "adhesion": "1.23 MPa average of five replicates (EN 1542; two coats at 0.8 kg/m², 0.9 mm cured thickness)",
+    "capillary": null,
+    "vapour": null,
+    "consumption": "0.65–0.8 kg/m² (1.25–1.5 lb/sq yd) per coat, normal surface conditions; brush option 1.0 kg/m²",
+    "coats": "Coverage per coat; second coat (Xypex Concentrate or Xypex Modified) when required",
+    "pot_life": "Do not mix more than can be applied in 20 minutes",
+    "recoat": "Second coat after the first coat has reached initial set but while still 'green' (less than 48 hours); first coat SSD, misted between coats",
+    "curing": "Mist-spray 3 times per day for 2–3 days; protect from rain, frost, wind, puddling and < 2 °C for ≥ 48 h; liquid-holding structures: cure 3 days and set 12 days (18 days waste water) before filling",
+    "application_temp": "Do not apply below 4 °C (40 °F); not in rain or hot, windy conditions",
+    "drinking_water": "NSF 61 (NSF International): potable water exposure testing indicated no harmful effects",
+    "packaging": "9.1 kg (20 lb) pails, 22.7 kg (50 lb) pails and bags",
+    "shelf_life": "2 years, stored dry at min. 7 °C (45 °F)"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "permeability": {
+     "v": 12,
+     "label": "175 psi / 1.2 MPa (124 m head), no measurable leakage, limit of apparatus (CRD C48)"
+    },
+    "pot_life": {
+     "v": 20,
+     "label": "mix only what can be applied in 20 min (no temperature stated)"
+    },
+    "consumption": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Xypex system is Concentrate as first coat and Concentrate or Modified as second coat; sheet states EN 1504-2 Initial Type Testing certified by BSI but prints no EN 1504-2 capillary / vapour values. Consumption chart left empty: only per-coat rate printed (0.65–0.8 kg/m²). Static cracks up to 0.5 mm sealable (crack sealing section)."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "product": "Xypex Patch'n Plug",
+   "type": "Fast-setting hydraulic cement compound (crystalline) for concrete patching and repair; stops flowing water, seals cracks and tie-holes",
+   "market": "International (A4 metric edition, xypex.com)",
+   "source": {
+    "url": "https://www.xypex.com/wp-content/uploads/2022/05/2025-04-03-Patchn-Plug-A4.pdf",
+    "version": "DAT-PNP-A4 REV-2025-04-03"
+   },
+   "values": {
+    "components": "1 component powder; plugging: 1 part water to 3.25–3.5 parts powder by volume (stiff putty); patching: 1 part water to 3–3.5 parts powder by volume",
+    "setting": "Initial set 1:30–4:00 min, final set 4:30–9:00 min (ASTM C266)",
+    "pot_life": "Mix no more than can be used in 3 minutes",
+    "compressive": "12 MPa (24 h); 25 MPa (28 d) (ASTM C109)",
+    "consumption": "One 22.7 kg (50 lb) pail yields 0.0127 m³ (0.45 ft³) of mortar",
+    "application_temp": "Do not use where the substrate is below 4 °C; mixing water ideally approx. 15–20 °C; hot weather: mixing water ≤ 32 °C, material ≤ 21 °C",
+    "packaging": "9.1 kg (20 lb) and 22.7 kg (50 lb) pails",
+    "shelf_life": "2 years, stored dry at min. 7 °C (45 °F)"
+   },
+   "charts": {
+    "compressive": {
+     "v": 12,
+     "label": "12 MPa at 24 h (ASTM C109)"
+    },
+    "pot_life": {
+     "v": 3,
+     "label": "mix no more than can be used in 3 minutes"
+    }
+   },
+   "notes": "Tensile bond pull-off 0.8 MPa (CSA A23.2-6B) also printed. Yield 22.7 kg → 12.7 l of mortar (≈ 1.79 kg per litre of void, derived, not printed)."
+  },
+  {
+   "slot": "cr/BIS540",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "product": "Xypex Megamix II",
+   "type": "One-component, fibre-reinforced, low-shrink crystalline thick repair mortar for patching and resurfacing deteriorated concrete, spray or trowel",
+   "market": "International (A4 metric edition, xypex.com)",
+   "source": {
+    "url": "https://www.xypex.com/wp-content/uploads/2022/05/2025-08-26-Megamix-II-A4.pdf",
+    "version": "DAT-MGMII-A4 REV-2025-08-26"
+   },
+   "values": {
+    "class": "Certified in accordance with EN 1504-3; CE certified as per EN 1504-3 (performance class not printed); NSF 61 for potable water contact",
+    "compressive": "18 / 32 / 42 / 53 MPa (24 h / 3 d / 7 d / 28 d) (ASTM C 109)",
+    "flexural": null,
+    "adhesion": "2.3 MPa direct tensile bond to concrete at 90 days (ASTM C 1583)",
+    "e_modulus": "20.4 GPa at 28 days (EN 13412)",
+    "chloride": null,
+    "capillary": null,
+    "carbonation": "No measurable carbonation depth (EN 13295; at age 49 days, 56 days in 1 % CO2)",
+    "thickness": "10–50 mm (3/8–2 in) as a general guide; spray single layer up to 50 mm vertical, 40 mm overhead",
+    "consumption": "One 25 kg (55 lb) bag covers 1.05 m² (11.3 sq ft) at 12.5 mm thickness",
+    "water": "Max. 3.55 l per 25 kg bag (0.94 US gal per 55 lb); start with approx. 90 % of the water",
+    "pot_life": null,
+    "overcoat": "Successive layers: roughen/score and apply immediately following initial set; full coat into the still-wet scrub coat (generally within 20 minutes)",
+    "application_temp": "Not below 3 °C (39 °F) or above 30 °C (86 °F)",
+    "packaging": "25 kg (55 lb) bags; custom packaging on request",
+    "shelf_life": "2 years, stored dry at min. 7 °C"
+   },
+   "charts": {
+    "compressive": {
+     "v": 53,
+     "label": "53 MPa at 28 days (ASTM C 109)"
+    },
+    "e_modulus": {
+     "v": 20.4,
+     "label": "20.4 GPa at 28 days (EN 13412)"
+    },
+    "thickness": {
+     "v": 10,
+     "label": "10–50 mm general guide"
+    },
+    "consumption": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Xypex's only EN 1504-3 repair mortar; the R-class is not printed, so R4 equivalence cannot be confirmed from the sheet. No pot life printed (setting time initial 3:25 h, final 5:00 h, ASTM C 266). Chloride: only rapid chloride permeability printed (< 572 C at 28 d, < 420 C at 90 d, ASTM C 1202) — not the chloride-content property. Splitting tensile 4.2 MPa (ASTM C 496) printed instead of flexural strength. Coverage implies ≈ 1.9 kg/m² per mm (derived, not printed), so chart left empty."
+  },
+  {
+   "slot": "cr/BIS16",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "product": "Xypex Megamix I",
+   "type": "Two-component, fibre-reinforced, polymer-modified crystalline thin parge coat (powder + Xycrylic Admix) for waterproofing and resurfacing vertical masonry and concrete; cap coat over Xypex Concentrate",
+   "market": "International (A4 metric edition, xypex.com)",
+   "source": {
+    "url": "https://www.xypex.com/wp-content/uploads/2022/05/2025-04-24-Megamix-I-A4.pdf",
+    "version": "DAT-MGMI-A4 REV-2025-04-24"
+   },
+   "values": {
+    "class": "Satisfies the requirements of EN 1504-3 (Initial Type Testing certified by BSI as Notifying Body; class not printed); NSF 61 certified",
+    "compressive": "16.7 MPa (7 d); 24.9 MPa (28 d) (ASTM C109)",
+    "flexural": null,
+    "adhesion": "Tensile bond pull-off 1.54 / 1.24 MPa on concrete block / 24 h Concentrate (ACI 503R Appendix A; pairing of values as printed)",
+    "chloride": null,
+    "capillary": null,
+    "thickness": "Recommended 1.6–3.2 mm (1/16–1/8 in) by substrate porosity; applied up to 10 mm (3/8 in); 1.6 mm only as cap coat over Concentrate",
+    "consumption": "0.6–1.3 lb/sq ft (2.9–6.4 kg/m²); one 22.7 kg (50 lb) pail covers 3.68 m² (40 sq ft) at 3.2 mm",
+    "water": "No water: 4.4–4.7 l (1.16–1.25 US gal) Xycrylic Admix (Part B) per 22.7 kg pail of powder (Part A)",
+    "pot_life": "Do not mix more than can be applied within 15 minutes",
+    "overcoat": "As cap coat: 12–24 h after Xypex Concentrate has set (moist-cured), not later than 48 h",
+    "application_temp": "Not below 3 °C (37.4 °F) and rising or above 30 °C (86 °F) and falling",
+    "packaging": "22.7 kg (50 lb) pails (powder); Xycrylic Admix supplied separately",
+    "shelf_life": "2 years, stored dry at min. 7 °C"
+   },
+   "charts": {
+    "compressive": {
+     "v": 24.9,
+     "label": "24.9 MPa at 28 days (ASTM C109)"
+    },
+    "thickness": {
+     "v": 10,
+     "label": "applied up to 10 mm (3/8 in)"
+    },
+    "pot_life": {
+     "v": 15,
+     "label": "mix only what can be applied within 15 min (no temperature stated)"
+    }
+   },
+   "notes": "Closest Xypex thin resurfacing mortar to a 1–6 mm R2 smoothing mortar; it is polymer-modified (two-component with Xycrylic) and primarily a parge/cap coat for waterproofing, EN 1504-3 class not printed. Water permeability/absorption 87 % reduction (CSN 73 2578). Bond row on the sheet does not clearly pair values and substrates."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "product": "Xypex Concentrate (Dry-Pac)",
+   "type": "Xypex Concentrate crystalline powder mixed to a stiff Dry-Pac consistency, packed into chased cracks (> 0.5 mm, leaking) and faulty construction joints",
+   "market": "International (A4 metric edition, xypex.com)",
+   "source": {
+    "url": "https://www.xypex.com/wp-content/uploads/2022/05/2025-05-30-Concentrate-A4.pdf",
+    "version": "DAT-CON-A4 REV-2025-05-30"
+   },
+   "values": {
+    "application_temp": "Do not apply below 4 °C (40 °F)",
+    "packaging": "9.1 kg (20 lb) pails, 22.7 kg (50 lb) pails and bags (Concentrate)",
+    "shelf_life": "2 years, stored dry at min. 7 °C (45 °F)",
+    "pot_life": "Do not mix more than can be applied in 20 minutes",
+    "compressive": null,
+    "consumption": null,
+    "thickness": "Packed into slots chipped to 37 mm (1.5 in) deep × 25 mm (1 in) wide (no V-slot; saw cuts dovetailed)",
+    "components": "1 component (Concentrate powder); Dry-Pac: 6 parts powder to 1 part clean water by volume, trowel-mixed 10–15 s (lumps present)",
+    "recoat": "Slot brushed with Concentrate slurry, left 10 minutes, then Dry-Pac packed tightly (pneumatic packing tool or hammer and wood block); active leaks: Patch'n Plug first, then Dry-Pac, then a brush coat of Concentrate"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 20,
+     "label": "mix only what can be applied in 20 min (no temperature stated)"
+    },
+    "consumption": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Xypex has no separate crystalline crack/cove mortar: its system fills routed cracks and joints with Concentrate in Dry-Pac consistency (Megamix II is a 10–50 mm resurfacing mortar, entered at cr/BIS540). The Concentrate sheet prints no compressive strength or consumption for Dry-Pac and no cove procedure."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "product": "Xypex Concentrate (Dry-Pac)",
+   "type": "Xypex Concentrate crystalline powder mixed to a stiff Dry-Pac consistency, packed into chased cracks (> 0.5 mm, leaking) and faulty construction joints",
+   "market": "International (A4 metric edition, xypex.com)",
+   "source": {
+    "url": "https://www.xypex.com/wp-content/uploads/2022/05/2025-05-30-Concentrate-A4.pdf",
+    "version": "DAT-CON-A4 REV-2025-05-30"
+   },
+   "values": {
+    "class": "Crystalline, one-component (Xypex Concentrate); Concentrate satisfies EN 1504-2 (ITT certified by BSI)",
+    "compressive": null,
+    "thickness": "Packed into slots chipped to 37 mm (1.5 in) deep × 25 mm (1 in) wide (no V-slot; saw cuts dovetailed)",
+    "consumption": null,
+    "water": "6 parts powder to 1 part clean water by volume (Dry-Pac)",
+    "pot_life": "Do not mix more than can be applied in 20 minutes",
+    "overcoat": "Slot brushed with Concentrate slurry, left 10 minutes, then Dry-Pac packed tightly (pneumatic packing tool or hammer and wood block); active leaks: Patch'n Plug first, then Dry-Pac, then a brush coat of Concentrate",
+    "application_temp": "Do not apply below 4 °C (40 °F)",
+    "packaging": "9.1 kg (20 lb) pails, 22.7 kg (50 lb) pails and bags (Concentrate)",
+    "shelf_life": "2 years, stored dry at min. 7 °C (45 °F)"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 20,
+     "label": "mix only what can be applied in 20 min (no temperature stated)"
+    }
+   },
+   "notes": "Xypex has no separate crystalline crack/cove mortar: its system fills routed cracks and joints with Concentrate in Dry-Pac consistency (Megamix II is a 10–50 mm resurfacing mortar, entered at cr/BIS540). The Concentrate sheet prints no compressive strength or consumption for Dry-Pac and no cove procedure."
+  },
+  {
+   "slot": "ca/CP360",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "product": "Xypex Admix C-1000 NF",
+   "type": "Cementitious crystalline admixture (powder, permeability-reducing admixture for hydrostatic conditions, PRAH) added at batching; normal to mildly delayed set",
+   "market": "International (A4 metric edition, xypex.com); C-1000 NF is the variant listed by Xypex Asia (Singapore)",
+   "source": {
+    "url": "https://www.xypex.com/wp-content/uploads/2022/05/2025-08-05-Admix-C-1000_C-1000-NF-A4.pdf",
+    "version": "DAT-ADM5-A4 REV-2025-08-05"
+   },
+   "values": {
+    "form": "Light grey powder (pH 12.0–12.4)",
+    "dosage": "1–1.5 % by weight of cement (C-1000 NF); min. 3 kg/m³ (5 lb/yd³), max. 6 kg/m³ (10 lb/yd³)",
+    "density": null,
+    "chloride": "Chloride content < 0.1 %",
+    "self_healing": "Can seal static hairline cracks up to 0.5 mm",
+    "min_cement": null,
+    "dosing_point": "Ready-mix truck: bulk powder or soluble bags into the drum immediately prior to adding the rest of the batch, high-speed mixing; central mixer: with the other components per standard batching practice (no mixing time printed); on-site addition not normally recommended (as slurry 3 : 2 powder : water by volume)",
+    "application_temp": "Concrete mix temperature above 4 °C",
+    "packaging": "Convenient sizes of various types of packaging, including soluble bags (sizes not printed)",
+    "certification": "ASTM C494; EN 934-2 + A1; European Technical Assessment as waterproofing admixture (C-1000 NF); NSF 61 (potable water)"
+   },
+   "charts": {
+    "dosage": {
+     "v": 1.25,
+     "label": "1–1.5 % by weight of cement (C-1000 NF)"
+    },
+    "self_healing": {
+     "v": 0.5,
+     "label": "static hairline cracks up to 0.5 mm"
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Same sheet covers C-1000 (regular, 2–3 % by weight of cement, min. 6 / max. 12 kg/m³); NF chosen as the grade closest in dosage to BETOCRETE-CP360-WP and the one listed by Xypex Asia. Sheet notes NF dosage may be as low as 0.8 % depending on cementitious materials. Strength: 49.5 MPa vs 44.5 MPa control at 28 d (ASTM C39). Other C-Series grades (C-500, C-2000, NF and RED variants) have separate sheets."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "product": "Xypex FCM 80",
+   "type": "Flexible two-component cementitious membrane (liquid polymer dispersion + cementitious powder) for moving cracks, construction joints, restoration and waterproofing of concrete",
+   "market": "International (xypex.com; same edition listed by Xypex Asia/Singapore)",
+   "source": {
+    "url": "https://www.xypex.com/wp-content/uploads/2022/05/2022-07-20-FCM-80.pdf",
+    "version": "DAT-FCM80 REV-2022-07-20"
+   },
+   "values": {
+    "components": "2 components (liquid polymer dispersion + cementitious powder); 1 part liquid : 2.5 parts powder by weight",
+    "crack_bridging": "Can be applied directly over cracks up to 1.5 mm (1/16 in) width and will withstand crack movement up to 1.5 mm (no test standard stated); cold bend pass, 9.5 mm mandrel at −16 °C",
+    "positive_pressure": "For optimum performance apply to the positive side of a concrete surface subjected to hydrostatic pressure (no bar value)",
+    "negative_pressure": null,
+    "adhesion": "0.80 MPa (116 psi) (EN 1542, 28 days, lab cured)",
+    "elongation": "60–100 % at break; tensile strength 1.0 MPa (ASTM D 412, 28 days, lab cured)",
+    "vapour": null,
+    "co2": null,
+    "consumption": "One unit (10 kg powder + 4 l liquid) covers approx. 2.6 m² (28 sq ft) at 3 mm two-coat thickness",
+    "thickness": "First coat approx. 1.5 mm; second coat to a total membrane thickness of 3 mm",
+    "pot_life": "Do not mix more material than can be used in 30 minutes",
+    "application_temp": "Ambient 10–30 °C (50–86 °F); keep above 10 °C for 24 h after application",
+    "certification": null,
+    "packaging": "Kit in a carton: 4 l (1.06 US gal) liquid bottle + 10 kg (22 lb) powder pail",
+    "shelf_life": "6 months, stored dry at min. 7 °C (45 °F)"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": null,
+     "label": null
+    },
+    "positive_pressure": {
+     "v": null,
+     "label": null
+    },
+    "elongation": {
+     "v": 80,
+     "label": "60–100 % at break (ASTM D 412, 28 d)"
+    }
+   },
+   "notes": "Only flexible cementitious membrane in the Xypex range. Liquid water permeability Class W3 low, < 0.1 kg/(m²·h^0.5) (EN 1062-1 Table 5). Crack-bridging claim (1.5 mm) is not tied to EN 14891 / ASTM C836, so chart left empty. No EN 14891/EN 1504-2/CE certification printed. Dries 5–6 h at 20 °C; recoat after min. 6 h, max. 24 h; air cure min. 14 days before immersion."
+  },
+  {
+   "slot": "inj/P4",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No injection resins in the Xypex range (xypex.com product overview: coatings, admixtures, repair & accessories only)"
+  },
+  {
+   "slot": "inj/P1",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No polyurethane injection foams in the Xypex range; active leaks are stopped with Patch'n Plug (see rc/F20)"
+  },
+  {
+   "slot": "inj/IH",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No epoxy injection resins in the Xypex range"
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No reinforcement corrosion-protection / bond-coat product (EN 1504-7) in the Xypex range; Megamix II uses a scrub coat of itself"
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No liquid crystalline admixture: all Xypex Admix C-Series grades and Bio-San are powders (powder Admix C-1000 NF entered at ca/CP360)"
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No non-crystalline rigid mineral sealing slurry; Xypex's one-component cementitious slurries are the crystalline Concentrate / Modified, compared at rc/IC"
+  },
+  {
+   "slot": "wp/RB400",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No thick-layer (bitumen-free) flexible cementitious waterproofing in the Xypex range"
+  },
+  {
+   "slot": "wp/OS",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No OS 5b / EN 1504-2 crack-bridging surface protection system in the Xypex range"
+  },
+  {
+   "slot": "pf/GBM",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No epoxy primers or binders in the Xypex range"
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No epoxy barrier primers in the Xypex range"
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No epoxy floor coatings in the Xypex range"
+  },
+  {
+   "slot": "pf/V360",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No water-emulsified epoxy sealers in the Xypex range (Quickset is a silicate hardener/dustproofer, a different category)"
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No epoxy chemical-resistant coatings in the Xypex range"
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "Saint-Gobain",
+   "brand": "Xypex",
+   "none": true,
+   "reason": "No joint sealants in the Xypex range (FCM 80 is a cementitious membrane, not a sealant)"
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "product": "PENETRON ADMIX® LIQUID",
+   "type": "Liquid form of PENETRON ADMIX® integral crystalline waterproofing and durability admixture (PRAH), added with the initial batch water",
+   "market": "USA / global (penetron.com)",
+   "source": {
+    "url": "https://www.penetron.com/products/PENETRON-ADMIX/data-sheet.pdf",
+    "version": "PENETRON ADMIX® data sheet v. Q02 (covers powder and LIQUID)"
+   },
+   "values": {
+    "form": "Liquid",
+    "dosage": "16 oz per 100 lb of cementing materials (1.0 l per 100 kg); replaces an equivalent amount of mix water",
+    "density": null,
+    "chloride": null,
+    "self_healing": "Seals hairline cracks up to 0.5 mm (printed as 1/51\") — stated for PENETRON ADMIX®",
+    "setting_effect": "Retardation of set may occur, depending on mix design and dosage; may develop higher ultimate strengths; trial mixes under project conditions recommended (no numeric values)",
+    "min_cement": null,
+    "dosing_point": "Must be added at the time of batching, introduced into the concrete with the initial batch water",
+    "application_temp": "Concrete mix temperature above 4 °C (40 °F)",
+    "packaging": "1000 l (264 gal) and 1041 l (275 gal) totes",
+    "certification": "Exceeds ASTM C494-S (specific performance admixtures); PRAH; NSF 61 certified for potable water (stated for PENETRON ADMIX®; sheet does not say whether it covers the liquid); EN 934-2 listing on the sheet is for the powder (dry material content ≥ 97 %)"
+   },
+   "charts": {
+    "dosage": {
+     "v": null,
+     "label": null
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Added because the existing ca/CL170 entry (PENETRON ADMIX) is a powder; the liquid has no separate data sheet — its data are in the PENETRON ADMIX® sheet. Dosage is printed by volume per mass of cementing materials (1.0 l / 100 kg); without a printed density it cannot be converted to % by weight, so the chart is empty. Storage: min. 7 °C, do not allow to freeze, agitate periodically; shelf life 24 months. Chloride < 0.10 % and other EN 934-2 values belong to the powder listing."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "product": "Krystol® Repair Grout",
+   "type": "Pre-blended, fibre-reinforced high-performance crystalline repair grout for waterproof concrete and masonry repairs (cracks, spalls, honeycombs); part of the Krystol Leak Repair system",
+   "market": "Global (kryton.com)",
+   "source": {
+    "url": "https://www.kryton.com/technical-info/technical-data-sheets/TDS-Krystol-Repair-Grout-2026-04.pdf",
+    "version": "V2026-04"
+   },
+   "values": {
+    "class": "Crystalline (Krystol technology), one-component pre-blended grout; NSF/ANSI/CAN 61; no EN 1504 classification printed",
+    "compressive": "16 / 38 / 45 / 49 / 52 MPa (1 / 3 / 7 / 28 / 56 d) (ASTM C109)",
+    "thickness": "No layer limit printed; repairs or overlays thicker than 25 mm: extend with clean graded pea gravel (max. size ≤ 1/3 of repair depth)",
+    "consumption": "Yield: 25 kg pail approx. 13 l (0.46 ft³); 5 kg pail approx. 2.6 l",
+    "water": "Concrete/leak repair: 4.5 parts powder to 1 part water by volume; parge coat 4 : 1; bonding slurry 3 : 1",
+    "pot_life": "Working time 30 minutes (20 °C, 50 % RH); hardening time 1–1.5 hours",
+    "overcoat": null,
+    "application_temp": null,
+    "packaging": "25 kg (55 lb) and 5 kg (11 lb) pails",
+    "shelf_life": "At least 3 years for unopened pails stored in a dry, enclosed area"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 30,
+     "label": "30 min (20 °C, 50 % RH)"
+    }
+   },
+   "notes": "Same product as the existing rc/IM Kryton entry. Hydrostatic head resistance 140 m (USACE CRD-C48); pull-off 2.8 MPa (ASTM C1583). Coves and tie holes are not named on the sheet; detailed procedures are in separate Kryton instructions (5.12, 5.22, 5.32). No application temperature range printed ('good cold weather application performance'). Cure: protect 24 h, wet cure 72 h (7 days potable water tanks)."
+  },
+  {
+   "slot": "inj/P4",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "product": "PENETRON® INJECTION RESIN (SR)",
+   "type": "Two-component, low-viscosity, solvent-free semi-rigid (elastic) polyurethane injection resin for permanent sealing of wet and dry cracks, joints and voids",
+   "market": "Greece (Penetron Hellas, penetron.gr)",
+   "source": {
+    "url": "https://www.penetron.gr/index.php/el/all-products/731-penetron-injection-resin-pds-gr",
+    "version": "Penetron Hellas edition 17.08.2026"
+   },
+   "values": {
+    "basis": "Polyurethane resin, two-component, solvent-free (semi-rigid PU injection resin system)",
+    "components": "2 (A base, clear liquid, 1.03 kg/l; B catalyst, brown liquid, 1.23 kg/l)",
+    "mix_ratio": "A : B = 2 : 1 by weight (2.39 : 1 by volume) at 20 °C",
+    "density": "1.09 kg/l (mixed)",
+    "viscosity": "100–300 cps (mixed); A 100–300 cps, B 50–150 cps at 21 °C",
+    "pot_life": "30–60 minutes",
+    "hardness": "Shore A 80 (ASTM D2240, cured film)",
+    "cure": "Curing / maturation 7 days",
+    "consumption": null,
+    "application_temp": "5–40 °C",
+    "certification": null,
+    "packaging": "Part A 19 l pail; Part B 8 l pail",
+    "shelf_life": "12 months in closed, intact packaging; stored dry, min. 7 °C"
+   },
+   "charts": {
+    "viscosity": {
+     "v": 200,
+     "label": "100–300 cps mixed (component values at 21 °C)"
+    },
+    "hardness": {
+     "v": 80,
+     "label": "Shore A 80 (ASTM D2240)"
+    },
+    "cure": {
+     "v": 168,
+     "label": "7 days (temperature not stated)"
+    }
+   },
+   "notes": "Penetron Hellas (Greece) regional range — Penetron-branded but not listed in the Penetron Group global range on penetron.com; the Greek data sheet (issued by Penetron Hellas) was translated. For active leaks the sheet prescribes PENETRON INJECTION FOAM (F) first. Semi-rigid (Shore A 80), much harder than a soft elastic resin. No EN 1504-5 declaration, elongation or consumption printed. The Penetron Group global range only has PENETRON INJECT, a crystalline two-component cementitious injection grout (different chemistry)."
+  },
+  {
+   "slot": "inj/P1",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "product": "PENETRON® INJECTION FOAM (F)",
+   "type": "Fast-reacting, solvent-free, water-reactive flexible polyurethane injection foam (with catalyst) for temporary stopping of water leaks",
+   "market": "Greece (Penetron Hellas, penetron.gr)",
+   "source": {
+    "url": "https://www.penetron.gr/index.php/el/all-products/730-penetron-injection-foam-pds-gr",
+    "version": "Penetron Hellas edition 17.08.2026"
+   },
+   "values": {
+    "basis": "Polyurethane, water-reactive, solvent-free (flexible PU foam system)",
+    "components": "Resin (A, brown, 1.16 kg/l, 100–400 cps at 21 °C) + catalyst (B, clear, 0.99 kg/l, 25–100 cps); A : B = 20 : 3.4 by weight (5 : 1 by volume)",
+    "foam_expansion": "Max. expansion volume 15–20 times; foaming start 5 s, end 20 s (20 °C)",
+    "cure": "Reacts only with water / moisture to a dense, flexible foam that temporarily stops leaks; permanent seal with PENETRON INJECTION RESIN; mixed workability > 2 h in a closed container",
+    "consumption": null,
+    "application_temp": "5–40 °C",
+    "packaging": "Part A 19 l pail; Part B 3.8 l pail",
+    "shelf_life": "12 months in sealed containers; min. 7 °C, do not freeze"
+   },
+   "charts": {
+    "foam_expansion": {
+     "v": 17.5,
+     "label": "max. 15–20 times (20 °C)"
+    }
+   },
+   "notes": "Penetron Hellas (Greece) regional range — Penetron-branded but not listed in the Penetron Group global range on penetron.com; the Greek data sheet (issued by Penetron Hellas) was translated. The catalyst is mixed into the resin before injection (sheet calls it a Set A+B), so it is not a single-component foam like AQUAFIN-P1. The advantages list also claims 'unlimited swelling', which conflicts with the 15–20× in the data table."
+  },
+  {
+   "slot": "cr/BIS540",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "product": "PENETRON® MULTI PATCH",
+   "type": "One-component, fibre-reinforced, non-shrink, thixotropic polymer-modified cementitious repair mortar for concrete repair and stone pointing",
+   "market": "Greece (Penetron Hellas, penetron.gr)",
+   "source": {
+    "url": "https://www.penetron.gr/index.php/el/pds/358-penetron-multipatch-pds-gr",
+    "version": "Penetron Hellas edition 17.08.2026"
+   },
+   "values": {
+    "class": "EN 1504-3 class R4 (compressive ≥ 45 MPa); CE-block lines 'EN 1504-3 / 16 / 12.021-094D060422-06'",
+    "compressive": "31.5 MPa (7 d); 46 MPa (28 d) (EN 12190)",
+    "flexural": "7.5 MPa (28 d) (printed as 'EN 1055-11', presumably EN 1015-11)",
+    "adhesion": "> 2 N/mm² (EN 1504-3 requirement ≥ 2 MPa)",
+    "e_modulus": "NPD",
+    "chloride": "< 0.05 % by mass",
+    "capillary": null,
+    "carbonation": "Considered not to affect corrosion (as declared)",
+    "thickness": "5–40 mm; minimum layer 5 mm; larger cavities in successive layers",
+    "consumption": "One 25 kg bag yields approx. 13 l of mortar",
+    "water": "3.1–3.7 kg clean water per 25 kg bag",
+    "pot_life": null,
+    "overcoat": "Over PENETRON ACRYLIC BONDCRETE bond coat: min. 40 minutes (until tack-free); bond coat stays effective up to 2 weeks if clean and dry",
+    "application_temp": null,
+    "packaging": "25 kg bag",
+    "shelf_life": "12 months in sealed original packaging, dry, 5–30 °C"
+   },
+   "charts": {
+    "compressive": {
+     "v": 46,
+     "label": "46 MPa at 28 days (EN 12190)"
+    },
+    "e_modulus": {
+     "v": null,
+     "label": null
+    },
+    "thickness": {
+     "v": 5,
+     "label": "5–40 mm"
+    },
+    "consumption": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Penetron Hellas (Greece) regional range — Penetron-branded but not listed in the Penetron Group global range on penetron.com; the Greek data sheet (issued by Penetron Hellas) was translated. Flexural test standard printed as 'EN 1055-11' (typo on the sheet, presumably EN 1015-11). Yield 13 l per 25 kg implies ≈ 1.9 kg/m² per mm (derived, not printed). No pot life or application temperature printed (storage 5–30 °C). Restrained shrinkage/expansion bond ≥ 2.0 MPa. Alternative within the global Penetron range: PENECRETE MORTAR (EN 1504-3 R4, crystalline, 13 mm layers up to 6.4 cm for spalls/honeycombs; entered at cr/IM and rc/IM) — MULTI PATCH chosen as the closer polymer-modified 5–40 mm PCC repair mortar."
+  },
+  {
+   "slot": "cr/BIS16",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "product": "PENETRON® CR-90",
+   "type": "One-component, polymer-modified cementitious repair and finishing mortar for thin-section concrete repairs (grey/white)",
+   "market": "Greece (Penetron Hellas, penetron.gr)",
+   "source": {
+    "url": "https://www.penetron.gr/index.php/el/pds/356-penetron-cr-90-gr-pds-2",
+    "version": "Penetron Hellas edition 17.08.2026"
+   },
+   "values": {
+    "class": "EN 1504-3 (DoP 10.20007D310322-01, 1085-CPR-0040): compressive class R3 (≥ 25 MPa), adhesion R3 (≥ 1.5 MPa)",
+    "compressive": "16.6 / 24.8 / 34.5 MPa (1 / 7 / 28 d) (ASTM C109, air cure 21 °C / 50 % RH)",
+    "flexural": "6.9 MPa (28 d) (ASTM C348)",
+    "adhesion": "≥ 1.5 MPa (R3, as declared; test method not named)",
+    "chloride": "< 0.05 % by mass",
+    "capillary": null,
+    "thickness": "Up to approx. 13 mm per application (no minimum stated; coverage example at 1.6 mm)",
+    "consumption": "2.5 kg/m² per 2 mm thickness; 22.7 kg bag covers approx. 9.3 m² at 1.6 mm",
+    "water": "3.8–5.2 l per 22.7 kg bag",
+    "pot_life": "Workability 45 min; initial set 60 min, final set 90 min (ASTM C191, 21 °C / 50 % RH); trowel finishing within 10–15 min",
+    "overcoat": "Further material while the previous layer is still fresh; light foot traffic after approx. 2 h, vehicles after approx. 8 h (21 °C)",
+    "application_temp": "Ambient min. 10 °C; protect from frost and rain for 24 h",
+    "packaging": "22.7 kg paper sack with inner liner",
+    "shelf_life": "12 months, sealed packaging, dry, above 7 °C"
+   },
+   "charts": {
+    "compressive": {
+     "v": 34.5,
+     "label": "34.5 MPa at 28 days (ASTM C109)"
+    },
+    "thickness": {
+     "v": 13,
+     "label": "up to approx. 13 mm per application"
+    },
+    "pot_life": {
+     "v": 45,
+     "label": "workability 45 min (21 °C)"
+    }
+   },
+   "notes": "Penetron Hellas (Greece) regional range — Penetron-branded but not listed in the Penetron Group global range on penetron.com; the Greek data sheet (issued by Penetron Hellas) was translated. Declared R3 values exceed the R2 class of ASOCRET-BIS-1/6; layer range wider (to 13 mm)."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "product": "PENETRON® SEAL COAT™",
+   "type": "One-component polymer-modified cementitious waterproofing slurry (rigid, mixed with water); base of the SEAL COAT systems",
+   "market": "Greece (Penetron Hellas, penetron.gr)",
+   "source": {
+    "url": "https://www.penetron.gr/index.php/el/pds/361-sealcoat-pds-gr",
+    "version": "Penetron Hellas edition 17.08.2026"
+   },
+   "values": {
+    "components": "1 component powder; 5.7 l water (grey) or 6 l water (white) per 22.7 kg bag",
+    "positive_pressure": "For surfaces under positive and generally small hydrostatic pressures (no bar value)",
+    "negative_pressure": null,
+    "adhesion": "≥ 1.5 N/mm² (EN 1504-2 declaration)",
+    "crack_bridging": null,
+    "consumption": "2–3 kg/m² in two coats",
+    "thickness": null,
+    "pot_life": null,
+    "overcoat": "Second coat perpendicular to the first, within 12 hours (if the first coat is undamaged)",
+    "rainproof": "Hardens within 3–4 hours; full cure in 24 hours (no rain-resistance time stated)",
+    "application_temp": "Not below 4 °C surface temperature; not on frozen substrate",
+    "certification": "EN 1504-2 (1085-CPR-0080, Penetron International Ltd.): water vapour permeability class I; capillary water absorption < 0.1 kg/m²·h⁰·⁵ (printed 'kg/m2h'); adhesion ≥ 1.5 N/mm²; reaction to fire NPD (declaration covers SEAL COAT; not stated per variant)",
+    "packaging": "22.7 kg sealed bag (grey or white)",
+    "shelf_life": "12 months in sealed original packaging, dry, min. 7 °C"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "consumption": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Penetron Hellas (Greece) regional range, not listed on penetron.com; EN 1504-2 declaration on the sheet is in the name of Penetron International Ltd. (cert. 1085-CPR-0080). Greek sheet translated. Only total consumption (2–3 kg/m², two coats) printed, not per mm."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "product": "PENETRON® SEAL COAT™ ELASTIC (SEAL COAT™ + PENECRYL™ ELASTIC)",
+   "type": "Two-component, highly flexible elastic cementitious waterproofing system (SEAL COAT powder + PENECRYL ELASTIC acrylic-styrene emulsion) for thermal movement and moving cracks",
+   "market": "Greece (Penetron Hellas, penetron.gr)",
+   "source": {
+    "url": "https://www.penetron.gr/index.php/el/pds/361-sealcoat-pds-gr",
+    "version": "Penetron Hellas edition 17.08.2026"
+   },
+   "values": {
+    "components": "2 components: 22.7 kg SEAL COAT powder + 12 kg PENECRYL ELASTIC liquid, no water added (≈ 1.9 : 1 by weight)",
+    "crack_bridging": "Excellent crack bridging between 1–2 mm (no test standard stated)",
+    "positive_pressure": "Concrete walls under positive or medium negative water pressures (no bar value)",
+    "negative_pressure": "Medium negative water pressures (no bar value); for high negative pressure the sheet refers to PENETRON crystalline products",
+    "adhesion": "≥ 1.5 N/mm² (EN 1504-2 declaration for SEAL COAT); 'excellent adhesion' for the elastic system",
+    "elongation": null,
+    "vapour": "Breathable; class I (EN 1504-2 declaration)",
+    "co2": null,
+    "consumption": "1.4 kg/m² per mm; with reinforcing mesh 2.5–3 kg/m² total (2–3 mm)",
+    "thickness": "Max. 1 mm (1.4 kg/m²) per coat; two coats (small–medium demands) or three (high); 2–3 mm total with mesh",
+    "pot_life": "35 minutes at 20 °C",
+    "application_temp": "Not below 4 °C surface temperature; not on frozen substrate",
+    "certification": "EN 1504-2 (1085-CPR-0080, Penetron International Ltd.): water vapour permeability class I; capillary water absorption < 0.1 kg/m²·h⁰·⁵ (printed 'kg/m2h'); adhesion ≥ 1.5 N/mm²; reaction to fire NPD (declaration covers SEAL COAT; not stated per variant)",
+    "packaging": "22.7 kg sealed SEAL COAT bags; elastic system supplied as pre-weighed components",
+    "shelf_life": "12 months in sealed original packaging, dry, min. 7 °C"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": null,
+     "label": null
+    },
+    "positive_pressure": {
+     "v": null,
+     "label": null
+    },
+    "elongation": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Penetron Hellas (Greece) regional range, not listed on penetron.com; EN 1504-2 declaration on the sheet is in the name of Penetron International Ltd. (cert. 1085-CPR-0080). Greek sheet translated. The sheet also describes an intermediate 'flexible' mix (SEAL COAT + PENECRYL ELASTIC diluted with water, bridging fine cracks up to 0.8 mm); the elastic system is the closer match to AQUAFIN-2K/M-PLUS. Second coat after 12 h (usually next day); min. 14 days in air before permanent immersion. Crack-bridging claim not tied to EN 14891 / ASTM C836, so chart left empty."
+  },
+  {
+   "slot": "pf/GBM",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "product": "PENEPOX™ SF PRIMER",
+   "type": "Two-component, solvent-free, transparent self-levelling epoxy primer; also binder for coloured-quartz resin mortars and consolidation of weak substrates",
+   "market": "Greece (Penetron Hellas, penetron.gr)",
+   "source": {
+    "url": "https://www.penetron.gr/index.php/el/pds/349-penepox-sf-primer-pds-gr",
+    "version": "Penetron Hellas edition 17.08.2026"
+   },
+   "values": {
+    "basis": "Two-component epoxy resin + hardener, solvent-free (100 % solids)",
+    "mix_ratio": "A : B = 100 : 50 by weight",
+    "viscosity": null,
+    "pot_life": "40 minutes (lab conditions 20 °C / 50 % RH)",
+    "overcoat": "After 12 hours, not later than 18 hours; foot traffic 12–24 h; full cure 7 days",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": "> 3.7 N/mm² on concrete, concrete failure (EN 1542); EN 1504-2 declaration ≥ 1.5 (1.0) N/mm²",
+    "max_moisture": "Substrate moisture max. 5 %; fresh concrete dried at least 28 days",
+    "consumption": "Primer approx. 250 g/m², one coat; if overcoated with PU, broadcast dry quartz sand 0.5–1 kg/m²",
+    "application_temp": "12–35 °C ambient and substrate (no dew-point / RH limit printed)",
+    "packaging": "4 + 2 kg and 8 + 4 kg (A + B)",
+    "shelf_life": "Up to 12 months, sealed, dry and cool, storage 5–35 °C"
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "flexural": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": 40,
+     "label": "40 min (20 °C)"
+    }
+   },
+   "notes": "Penetron Hellas (Greece) regional range, not on penetron.com; Greek sheet translated. Shore D 40 (ASTM D 2240). EN 1504-2 declaration: vapour permeability class II, CO2 Sd > 50 m, capillary absorption w < 0.1 kg/m²·h^0.5, fire class F. Scratch coats and screeds are not mentioned (only decorative coloured-quartz resin mortars). Penetron Hellas also sells a separate unbranded 'EP' epoxy range (EP 28, EP 50, EP 150 …) that is not Penetron-named and was not used."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "product": "PENECRETE MORTAR™",
+   "type": "Crystalline repair mortar (Portland cement, specially treated quartz sand, active chemicals) for routed cracks, coves, non-moving joints, tie holes and spalled/honeycombed concrete",
+   "market": "USA / global (penetron.com)",
+   "source": {
+    "url": "https://www.penetron.com/products/PENECRETE-MORTAR/data-sheet.pdf",
+    "version": "v. Q01; CPR ref. 001bCPR2013-07-10"
+   },
+   "values": {
+    "class": "EN 1504-3 CC mortar for structural and non-structural repair: compressive class R4 (≥ 45 MPa); chloride < 0.05 % by mass; adhesive bond NPD; crystalline",
+    "compressive": "11 / 17 / 40 / 48 MPa (1 / 3 / 7 / 28 d) (ASTM C-109)",
+    "thickness": "Spalled / honeycombed repairs in 13 mm (1/2\") layers, total not exceeding 6.4 cm (2.5\")",
+    "consumption": "U-shaped cracks and reglets 25 × 25 mm and triangular coves 38 × 38 mm: approx. 15.2 m (50 ft) per 22.7 kg bag (1.0 lb/ft²)",
+    "water": "4.5 parts powder to 1 part water by volume (routed cracks, coves, non-moving joints), or 101 ml water per 454 g powder",
+    "pot_life": "Mix only as much material as can be used within 20 minutes",
+    "overcoat": "PENETRON applied as soon as PENECRETE MORTAR has set (approx. 1–2 hours)",
+    "application_temp": "Not below 4 °C (40 °F), not on frozen substrate or if freezing expected during the approx. 24 h curing period",
+    "packaging": "22.7 kg (50 lb) bags or 25 kg (55 lb) pails",
+    "shelf_life": "2 years, stored dry at min. 7 °C (45 °F)"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 20,
+     "label": "mix only what can be used within 20 min (no temperature stated)"
+    }
+   },
+   "notes": "Same product as the existing rc/IM Penetron entry. Per-metre consumption implied ≈ 1.5 kg/m (22.7 kg / 15.2 m, derived, not printed)."
+  },
+  {
+   "slot": "cr/BIS540",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "product": "Krystol® Repair Grout",
+   "type": "Pre-blended, fibre-reinforced high-performance crystalline repair grout for waterproof concrete and masonry repairs (cracks, spalls, honeycombs)",
+   "market": "Global (kryton.com)",
+   "source": {
+    "url": "https://www.kryton.com/technical-info/technical-data-sheets/TDS-Krystol-Repair-Grout-2026-04.pdf",
+    "version": "V2026-04"
+   },
+   "values": {
+    "class": "No EN 1504-3 class printed; NSF/ANSI/CAN 61",
+    "compressive": "16 / 38 / 45 / 49 / 52 MPa (1 / 3 / 7 / 28 / 56 d) (ASTM C109)",
+    "flexural": null,
+    "adhesion": "Pull-off strength 2.8 MPa (400 psi) (ASTM C1583)",
+    "e_modulus": null,
+    "chloride": null,
+    "capillary": null,
+    "carbonation": null,
+    "thickness": "No layer limit printed; repairs or overlays thicker than 25 mm: extend with clean graded pea gravel (max. size ≤ 1/3 of repair depth; approx. 4 parts powder : 2 parts gravel : up to 1 part water)",
+    "consumption": "Yield: 25 kg pail approx. 13 l; 5 kg pail approx. 2.6 l",
+    "water": "Concrete/leak repair: 4.5 parts powder to 1 part water by volume (parge coat 4 : 1; bonding slurry 3 : 1)",
+    "pot_life": "Working time 30 minutes (20 °C, 50 % RH); hardening 1–1.5 h",
+    "overcoat": null,
+    "application_temp": null,
+    "packaging": "25 kg (55 lb) and 5 kg (11 lb) pails",
+    "shelf_life": "At least 3 years for unopened pails stored in a dry, enclosed area"
+   },
+   "charts": {
+    "compressive": {
+     "v": 49,
+     "label": "49 MPa at 28 days (ASTM C109)"
+    },
+    "e_modulus": {
+     "v": null,
+     "label": null
+    },
+    "thickness": {
+     "v": null,
+     "label": null
+    },
+    "consumption": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Kryton's only repair mortar (also entered at cr/IM and in the existing rc/IM comparison); it is a crystalline repair grout, not an EN 1504-3 R4 PCC mortar — no R-class, E-modulus or chloride content printed. Hydrostatic head resistance 140 m (USACE CRD-C48). Yield 13 l per 25 kg implies ≈ 1.9 kg/m² per mm (derived, not printed)."
+  },
+  {
+   "slot": "inj/P4",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No polyurethane injection resins in the Kryton range (kryton.com products: admixtures, surface-applied, joints & details, concrete repair)"
+  },
+  {
+   "slot": "inj/P1",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No injection foams; Kryton stops active leaks with Krystol Plug (existing rc/F20 entry)"
+  },
+  {
+   "slot": "inj/IH",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No epoxy injection resins in the Kryton range"
+  },
+  {
+   "slot": "cr/BIS16",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No fine smoothing / resurfacing mortar; Krystol Repair Grout has a parge-coat mix but no thin-layer data (entered at cr/BIS540 and cr/IM)"
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No reinforcement corrosion-protection / bond-coat product (EN 1504-7) in the Kryton range"
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No liquid crystalline admixture: KIM is a grey powder (TDS V2023-09); KIM BioGard, Hard-Cem, Con-Fume (silica fume) and KMA are also powders"
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No non-crystalline rigid mineral sealing slurry; Kryton's slurry is the crystalline Krystol T1 (existing rc/IC entry)"
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No flexible two-component cementitious waterproofing slurry in the Kryton range"
+  },
+  {
+   "slot": "wp/RB400",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No thick-layer flexible cementitious waterproofing in the Kryton range"
+  },
+  {
+   "slot": "wp/OS",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No OS 5b / EN 1504-2 crack-bridging surface protection system in the Kryton range"
+  },
+  {
+   "slot": "pf/GBM",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No epoxy primers or binders in the Kryton range"
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No epoxy barrier primers in the Kryton range"
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No epoxy floor coatings in the Kryton range"
+  },
+  {
+   "slot": "pf/V360",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No water-emulsified epoxy sealers in the Kryton range (Hydrostop Sealer is a water-based silane/siloxane penetrating sealer, a different category)"
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No epoxy chemical-resistant coatings in the Kryton range"
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "Kryton",
+   "brand": "Kryton",
+   "none": true,
+   "reason": "No joint sealants in the Kryton range (Krytonite is a swelling waterstop)"
+  },
+  {
+   "slot": "inj/IH",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "none": true,
+   "reason": "No epoxy injection resin: the Penetron Group range has only PENETRON INJECT (crystalline two-component cementitious injection grout); Penetron Hellas' injection category lists only PU foam/resin and cement grouts"
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "none": true,
+   "reason": "No EN 1504-7 corrosion-protection / bond-coat mortar; PENETRON ACRYLIC BONDCRETE (Penetron Hellas) is an acrylic bonding emulsion, a different category"
+  },
+  {
+   "slot": "wp/RB400",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "none": true,
+   "reason": "No thick-layer (bitumen-free) flexible cementitious waterproofing"
+  },
+  {
+   "slot": "wp/OS",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "none": true,
+   "reason": "No OS 5b / EN 1062-7 classified crack-bridging surface protection; the elastic SEAL COAT system (entered at wp/AQ2K) has no published crack-bridging class"
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "none": true,
+   "reason": "No Penetron-named epoxy barrier primer for damp substrates; PENEPOX W (Penetron Hellas) is a water-based adhesion primer for substrates ≤ 7 % moisture, and the 'EP' range sold by Penetron Hellas is not Penetron-branded"
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "none": true,
+   "reason": "No Penetron-branded epoxy floor coating; Penetron Hellas resells an unbranded 'EP' range (e.g. EP 216 UNIVERSAL), not treated as a Penetron product"
+  },
+  {
+   "slot": "pf/V360",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "none": true,
+   "reason": "No Penetron-branded water-emulsified epoxy floor sealer; PENEPOX W (Penetron Hellas) is a water-based epoxy adhesion primer, not a floor sealer"
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "none": true,
+   "reason": "No Penetron-branded chemically resistant epoxy coating; Penetron Hellas' EP 280/282 WHG are unbranded resale products"
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "Penetron",
+   "brand": "Penetron",
+   "none": true,
+   "reason": "No Penetron-branded joint sealant; Penetron Hellas resells U-SEAL / SiMP SEAL sealants under those names (not Penetron-branded)"
+  }
+ ]
+}

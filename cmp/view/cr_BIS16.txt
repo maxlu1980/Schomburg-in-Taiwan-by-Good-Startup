@@ -1,0 +1,196 @@
+SLOT cr/BIS16 ASOCRET-BIS-1/6 — fine smoothing mortar, EN 1504-3 class R2, 1–6 mm
+competitors 12, listed 0, none: Kryton, Oriental Yuhong, Sobute
+
+== class | OURS: EN 1504-3 class R2
+   Sika                               Sika MonoTop®-3020             : Complies with the general requirements of EN 1504-3: Class R3
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : class R2 according to EN 1504-3
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : conforms to EN 1504-3 (class not printed on the product page)
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : EN 1504-3 class R4
+   Xypex (Saint-Gobain)               Xypex Megamix I                : Satisfies the requirements of EN 1504-3 (Initial Type Testing certified by BSI as Notifying Body; class not printed); NSF 61 certified
+   Volteco (RPM)                      FIBROeRASO                     : EN 1504-3 class R4 (CC); also EN 1504-2 surface protection (MC, IR); reaction to fire Euroclass A1
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : None
+   Mapei                              Planitop 200                   : Class according to EN 1504-2: Coating (C) – principles MC and IR; EN 998-1: GP, category CS IV (not classified to EN 1504-3)
+   Penetron                           PENETRON® CR-90                : EN 1504-3 (DoP 10.20007D310322-01, 1085-CPR-0040): compressive class R3 (≥ 25 MPa), adhesion R3 (≥ 1.5 MPa)
+   Denka                              Estopatch Fine                 : None
+   MC-Bauchemie                       Nafufill KM 110                : EN 1504-3 class R2 (principle 3, procedures 3.1 and 3.3); reaction to fire A2-s1, d0 (product system test, DoP)
+== compressive | OURS: approx. 11 / 30 / 40 N/mm² (24 h / 7 d / 28 d)
+   Sika                               Sika MonoTop®-3020             : 1 day ~10 MPa; 7 days ~24 MPa; 28 days ~34 MPa (EN 12190)
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : 1 day ≥ 15 N/mm²; 7 days ≥ 20 N/mm²; 28 days ≥ 25 N/mm² (EN 12190)
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : None
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : 45 N/mm² (28 d)
+   Xypex (Saint-Gobain)               Xypex Megamix I                : 16.7 MPa (7 d); 24.9 MPa (28 d) (ASTM C109)
+   Volteco (RPM)                      FIBROeRASO                     : 50.7 MPa (28 d, EN 12190; requirement ≥ 45 MPa)
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : ≥ 10 N/mm² (28 days)
+   Mapei                              Planitop 200                   : 1 day > 5 MPa; 7 days > 12 MPa; 28 days > 20 MPa (EN 12190)
+   Penetron                           PENETRON® CR-90                : 16.6 / 24.8 / 34.5 MPa (1 / 7 / 28 d) (ASTM C109, air cure 21 °C / 50 % RH)
+   Denka                              Estopatch Fine                 : 15 N/mm² (BS 1881; age not stated)
+   MC-Bauchemie                       Nafufill KM 110                : 20 / 32 / 38.9 N/mm² (48 h / 7 d / 28 d)
+== flexural | OURS: approx. 2 / 7 / 8 N/mm²
+   Sika                               Sika MonoTop®-3020             : 28 days ~8 MPa (EN 12190)
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : None
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : None
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : 8 N/mm² (7 d)
+   Xypex (Saint-Gobain)               Xypex Megamix I                : None
+   Volteco (RPM)                      FIBROeRASO                     : requirements > 1.0 / > 3.5 / > 5.5 / > 6.5 MPa at 3 h / 1 d / 7 d / 28 d (EN 196-1); certified values not listed
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : ≥ 2 N/mm² (28 days)
+   Mapei                              Planitop 200                   : 28 days > 5.0 MPa (EN 196-1)
+   Penetron                           PENETRON® CR-90                : 6.9 MPa (28 d) (ASTM C348)
+   Denka                              Estopatch Fine                 : None
+   MC-Bauchemie                       Nafufill KM 110                : 4 / 6.5 / 7.3 N/mm² (48 h / 7 d / 28 d)
+== adhesion | OURS: ≥ 0.8 N/mm² (DIN EN 1542)
+   Sika                               Sika MonoTop®-3020             : ≥ 1.5 MPa (EN 1542)
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : Pull-out resistance Concrete 28 days ≥ 2.5 N/mm² (EN 1542)
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : None
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : None
+   Xypex (Saint-Gobain)               Xypex Megamix I                : Tensile bond pull-off 1.54 / 1.24 MPa on concrete block / 24 h Concentrate (ACI 503R Appendix A; pairing of values as printed)
+   Volteco (RPM)                      FIBROeRASO                     : 2.17 MPa (EN 1542; requirement ≥ 2.0 MPa)
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : None
+   Mapei                              Planitop 200                   : Bond strength by pull-off EN 1542: > 2.0 MPa
+   Penetron                           PENETRON® CR-90                : ≥ 1.5 MPa (R3, as declared; test method not named)
+   Denka                              Estopatch Fine                 : None
+   MC-Bauchemie                       Nafufill KM 110                : ≥ 0.8 N/mm² (DoP)
+== chloride | OURS: ≤ 0.05 %
+   Sika                               Sika MonoTop®-3020             : ≤ 0.05 % (EN 1015-17)
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : ≤ 0.02 % (EN 1015-17)
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : None
+   Fosroc (Saint-Gobain)              Renderoc FC                    : Contains no chloride admixtures
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : None
+   Xypex (Saint-Gobain)               Xypex Megamix I                : None
+   Volteco (RPM)                      FIBROeRASO                     : 0.01 % (EN 1015-17)
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : None
+   Mapei                              Planitop 200                   : None
+   Penetron                           PENETRON® CR-90                : < 0.05 % by mass
+   Denka                              Estopatch Fine                 : None
+   MC-Bauchemie                       Nafufill KM 110                : ≤ 0.05 % (DoP)
+== capillary | OURS: ≤ 0.5 kg·m⁻²·h⁻⁰·⁵
+   Sika                               Sika MonoTop®-3020             : ≤ 0.5 kg·m-2·h-0.5 (EN 13057)
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : 28 days ≤ 0.5 kg·m-2·h-0.5 (EN 13057)
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : None
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : None
+   Xypex (Saint-Gobain)               Xypex Megamix I                : None
+   Volteco (RPM)                      FIBROeRASO                     : 0.35 kg·m⁻²·h⁻⁰·⁵ (EN 13057); 0.01 kg·m⁻²·h⁻⁰·⁵ (EN 1062-3)
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : None
+   Mapei                              Planitop 200                   : Category W 2, ≤ 0.20 kg/(m²·min^0.5) (EN 1015-18)
+   Penetron                           PENETRON® CR-90                : None
+   Denka                              Estopatch Fine                 : None
+   MC-Bauchemie                       Nafufill KM 110                : None
+== thickness | OURS: 1–6 mm per application step
+   Sika                               Sika MonoTop®-3020             : Horizontal 1 mm / 5 mm; Vertical 1 mm / 5 mm; Overhead 1 mm / 5 mm (min/max)
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : 0.5 mm (for featheredge / blowhole filling) to 7 mm as levelling mortar; 10 mm for small patch repairs
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : 1 to 40 mm per pass
+   Fosroc (Saint-Gobain)              Renderoc FC                    : infills voids up to 3 mm deep (page wording)
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : fine filler approx. 2–5 mm; up to 5 mm wet in wet
+   Xypex (Saint-Gobain)               Xypex Megamix I                : Recommended 1.6–3.2 mm (1/16–1/8 in) by substrate porosity; applied up to 10 mm (3/8 in); 1.6 mm only as cap coat over Concentrate
+   Volteco (RPM)                      FIBROeRASO                     : 1–40 mm in a single coat
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : applicable thickness 5 mm (Dmax < 1 mm)
+   Mapei                              Planitop 200                   : maximum thickness of 3 mm per coat; up to 6 mm in two coats with Mapenet 150 mesh; Minimum application thickness: 3 mm
+   Penetron                           PENETRON® CR-90                : Up to approx. 13 mm per application (no minimum stated; coverage example at 1.6 mm)
+   Denka                              Estopatch Fine                 : feather edge up to 3 mm per layer; as a render up to 3–5 mm
+   MC-Bauchemie                       Nafufill KM 110                : min. 2 mm, max. 10 mm per pass; max. 10 mm total
+== consumption | OURS: approx. 1.6 kg/m² per mm
+   Sika                               Sika MonoTop®-3020             : ~1.7 kg powder per m2 per mm of layer thickness; yield ~14.8 L per 25 kg bag
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : Approx. 1,500 kg powder is needed to prepare 1 m³ of fresh mortar; 20 kg bag yields approximately 13.6 litres of mortar
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : None
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : approx. 1.9 kg/m² per mm
+   Xypex (Saint-Gobain)               Xypex Megamix I                : 0.6–1.3 lb/sq ft (2.9–6.4 kg/m²); one 22.7 kg (50 lb) pail covers 3.68 m² (40 sq ft) at 3.2 mm
+   Volteco (RPM)                      FIBROeRASO                     : 17.5 kg/m² per cm of thickness (1.75 kg/m² per mm)
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : approx. 1.1–1.3 kg/m² per 1 mm (theoretical)
+   Mapei                              Planitop 200                   : Approximately 1.3 kg/m² per mm of thickness
+   Penetron                           PENETRON® CR-90                : 2.5 kg/m² per 2 mm thickness; 22.7 kg bag covers approx. 9.3 m² at 1.6 mm
+   Denka                              Estopatch Fine                 : 25 kg bag covers 3–5 m² at 3–5 mm; yield approx. 15 L per bag
+   MC-Bauchemie                       Nafufill KM 110                : 1.7 kg/m² per mm
+== water | OURS: 5–5.25 l per 25 kg
+   Sika                               Sika MonoTop®-3020             : 4.6 to 4.7 L water per 25 kg bag
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : 3.8 – 4.5 l Mixing Water for 20 kg
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : None
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : 2.9 l per 20 kg bag + up to 0.3 l (1.5 %) for filler consistency
+   Xypex (Saint-Gobain)               Xypex Megamix I                : No water: 4.4–4.7 l (1.16–1.25 US gal) Xycrylic Admix (Part B) per 22.7 kg pail of powder (Part A)
+   Volteco (RPM)                      FIBROeRASO                     : 3.2–3.4 l per 20 kg bag (16–17 % by weight)
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : 8.5–9.5 l per 25 kg
+   Mapei                              Planitop 200                   : 21.5 % water (20-23 kg water per 100 kg of powder)
+   Penetron                           PENETRON® CR-90                : 3.8–5.2 l per 22.7 kg bag
+   Denka                              Estopatch Fine                 : 7.0–7.5 L per 25 kg bag
+   MC-Bauchemie                       Nafufill KM 110                : approx. 4.50–4.75 L per 25 kg bag (100 : 18–19 by weight)
+== pot_life | OURS: approx. 60 minutes
+   Sika                               Sika MonoTop®-3020             : ~40 minutes at +20 °C
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : 30 - 45 minutes at 21±2°C and 60±10% relative humidity
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : None
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : 60–90 minutes
+   Xypex (Saint-Gobain)               Xypex Megamix I                : Do not mix more than can be applied within 15 minutes
+   Volteco (RPM)                      FIBROeRASO                     : workability time 20 minutes at +20 °C
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : approx. 30 min at +20 °C (working time approx. 25 min)
+   Mapei                              Planitop 200                   : approx. 1 h 30 mins (at +20°C)
+   Penetron                           PENETRON® CR-90                : Workability 45 min; initial set 60 min, final set 90 min (ASTM C191, 21 °C / 50 % RH); trowel finishing within 10–15 min
+   Denka                              Estopatch Fine                 : setting time 30–45 min at 27 °C (BS 5075); no pot life stated
+   MC-Bauchemie                       Nafufill KM 110                : 60 min at 5 °C; 45 min at 20 °C; 30 min at 30 °C
+== overcoat | OURS: min. 24 hours
+   Sika                               Sika MonoTop®-3020             : Waiting time / overcoating at +20 °C at least 24 hours
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : approximately 4 hours (at +20 °C) for vapour-open Sikagard coatings
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : can be painted within 24 hours ('recouvrable par peinture sous 24 heures')
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : felt / sponge finish after 15–90 minutes; overcoating after > 1 day
+   Xypex (Saint-Gobain)               Xypex Megamix I                : As cap coat: 12–24 h after Xypex Concentrate has set (moist-cured), not later than 48 h
+   Volteco (RPM)                      FIBROeRASO                     : ≥ 30 minutes between layers; overcoat with CP1 / CP0 no sooner than 4 hours
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : curing time approx. 24 h; 72 h after over-plastering (no inter-layer time printed)
+   Mapei                              Planitop 200                   : 7 days before coloured finishes
+   Penetron                           PENETRON® CR-90                : Further material while the previous layer is still fresh; light foot traffic after approx. 2 h, vehicles after approx. 8 h (21 °C)
+   Denka                              Estopatch Fine                 : None
+   MC-Bauchemie                       Nafufill KM 110                : second work step after 60 min; coating with MC-Color Flair / MC-Color Flex after approx. 3 h at +20 °C
+== application_temp | OURS: approx. 5–30 °C
+   Sika                               Sika MonoTop®-3020             : Ambient air +5 °C min / +35 °C max; substrate +5 °C min / +35 °C max
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : Ambient air +5 to +30 °C; substrate +5 to +30 °C; material +5 to +30 °C
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : None
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : 5–30 °C
+   Xypex (Saint-Gobain)               Xypex Megamix I                : Not below 3 °C (37.4 °F) and rising or above 30 °C (86 °F) and falling
+   Volteco (RPM)                      FIBROeRASO                     : +5 to +30 °C
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : +5 °C to +35 °C
+   Mapei                              Planitop 200                   : Environment and substrate temperature from +5°C to +35°C
+   Penetron                           PENETRON® CR-90                : Ambient min. 10 °C; protect from frost and rain for 24 h
+   Denka                              Estopatch Fine                 : None
+   MC-Bauchemie                       Nafufill KM 110                : 5–30 °C (air, substrate and material)
+== packaging | OURS: 25 kg bag
+   Sika                               Sika MonoTop®-3020             : Standard bag 25 kg
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : 20 kg paper bags
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : 25 kg bag
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : 20 kg bag
+   Xypex (Saint-Gobain)               Xypex Megamix I                : 22.7 kg (50 lb) pails (powder); Xycrylic Admix supplied separately
+   Volteco (RPM)                      FIBROeRASO                     : 20 kg bags
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : 25 kg kraft bag
+   Mapei                              Planitop 200                   : 25 kg bags
+   Penetron                           PENETRON® CR-90                : 22.7 kg paper sack with inner liner
+   Denka                              Estopatch Fine                 : 25 kg bag
+   MC-Bauchemie                       Nafufill KM 110                : 25 kg bag
+== shelf_life | OURS: min. 12 months
+   Sika                               Sika MonoTop®-3020             : Standard bag 12 months from date of production
+   Master Builders Solutions (Sika)   SikaEmaco® N 5100 FC (formerly : 12 months if stored at below mentioned storage conditions
+   ParexLanko (Sika)                  732 LANKOREP FACADE            : None
+   Fosroc (Saint-Gobain)              Renderoc FC                    : None
+   Weber (Saint-Gobain)               weber.rep R4 duo (fine-filler  : min. 9 months
+   Xypex (Saint-Gobain)               Xypex Megamix I                : 2 years, stored dry at min. 7 °C
+   Volteco (RPM)                      FIBROeRASO                     : 18 months in original packaging
+   Bostik (Arkema)                    Bostik RENO C205 FINISH (old n : max. 12 months (dry, +10 to +25 °C)
+   Mapei                              Planitop 200                   : 12 months in its original unopened packaging in a dry place
+   Penetron                           PENETRON® CR-90                : 12 months, sealed packaging, dry, above 7 °C
+   Denka                              Estopatch Fine                 : 12 months, dry storage, unopened bags
+   MC-Bauchemie                       Nafufill KM 110                : at least 12 months, cool and dry, original unopened packs
+## chart compressive (N/mm², higher) OURS 40 :: Sika MonoTop®-3020=34, SikaEmaco® N 5100 FC (=25, weber.rep R4 duo (fine=45, Xypex Megamix I=24.9, FIBROeRASO=50.7, Bostik RENO C205 FINIS=10, Planitop 200=20, PENETRON® CR-90=34.5, Nafufill KM 110=38.9
+## chart thickness (mm, higher) OURS 6 :: Sika MonoTop®-3020=5, SikaEmaco® N 5100 FC (=7, 732 LANKOREP FACADE=40, Renderoc FC=3, weber.rep R4 duo (fine=5, Xypex Megamix I=10, FIBROeRASO=40, Bostik RENO C205 FINIS=5, Planitop 200=3, PENETRON® CR-90=13, Estopatch Fine=3, Nafufill KM 110=10
+## chart pot_life (min, higher) OURS 60 :: Sika MonoTop®-3020=40, SikaEmaco® N 5100 FC (=38, weber.rep R4 duo (fine=75, Xypex Megamix I=15, FIBROeRASO=20, Bostik RENO C205 FINIS=30, Planitop 200=90, PENETRON® CR-90=45, Nafufill KM 110=45
+
+WHY:
+  - Compressive strength approx. 40 N/mm² at 28 days — the highest of the published values of the fine mortars compared (20–34 N/mm²).
+  - Up to 6 mm in one step on walls and floors; Sika MonoTop-3020 and Planitop 200 stop at 5 and 3 mm per coat.
+  - Pot life approx. 60 minutes for large areas of fine smoothing.
+  - Classified to EN 1504-3 (R2) like the repair mortar it closes — one standard across the system; Planitop 200 is classified as an EN 1504-2 coating.
+
+LISTED: 

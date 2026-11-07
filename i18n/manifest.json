@@ -1,0 +1,200 @@
+[
+ {
+  "file": "c001.json",
+  "strings": 315,
+  "chars": 14057,
+  "first": "HSIM_T|/exit"
+ },
+ {
+  "file": "c002.json",
+  "strings": 266,
+  "chars": 13904,
+  "first": "HSIMS.cr.mats.BIS540.t|/steps/4"
+ },
+ {
+  "file": "c003.json",
+  "strings": 382,
+  "chars": 14000,
+  "first": "HSIMS.ca.t|/phases/3/p"
+ },
+ {
+  "file": "c004.json",
+  "strings": 249,
+  "chars": 13977,
+  "first": "T|/sys.rows/1/2"
+ },
+ {
+  "file": "c005.json",
+  "strings": 332,
+  "chars": 13909,
+  "first": "SCN_T|/note"
+ },
+ {
+  "file": "c006.json",
+  "strings": 403,
+  "chars": 13945,
+  "first": "QT|/ms_scope/3"
+ },
+ {
+  "file": "c007.json",
+  "strings": 361,
+  "chars": 13972,
+  "first": "CRT|/cr.rel.rows/1/1"
+ },
+ {
+  "file": "c008.json",
+  "strings": 270,
+  "chars": 13983,
+  "first": "CR_STEPS|/prep/points/1"
+ },
+ {
+  "file": "c009.json",
+  "strings": 357,
+  "chars": 13947,
+  "first": "WPT|/wp.adv.title"
+ },
+ {
+  "file": "c010.json",
+  "strings": 282,
+  "chars": 13809,
+  "first": "WPT|/rc.note"
+ },
+ {
+  "file": "c011.json",
+  "strings": 304,
+  "chars": 13776,
+  "first": "WPT|/rc.m3d.co/rcwall/2/1"
+ },
+ {
+  "file": "c012.json",
+  "strings": 312,
+  "chars": 13844,
+  "first": "WPT|/ca.m3d.sub"
+ },
+ {
+  "file": "c013.json",
+  "strings": 182,
+  "chars": 13582,
+  "first": "WPT|/ca.tech.sub"
+ },
+ {
+  "file": "c014.json",
+  "strings": 243,
+  "chars": 13954,
+  "first": "WPT|/pf.intro"
+ },
+ {
+  "file": "c015.json",
+  "strings": 250,
+  "chars": 13610,
+  "first": "WPT|/pf.adv.cards/3/3"
+ },
+ {
+  "file": "c016.json",
+  "strings": 256,
+  "chars": 13963,
+  "first": "WPT|/pf.calc.note"
+ },
+ {
+  "file": "c017.json",
+  "strings": 273,
+  "chars": 13995,
+  "first": "WPT|/rc.tech.cmp.rows/1/4"
+ },
+ {
+  "file": "c018.json",
+  "strings": 407,
+  "chars": 13900,
+  "first": "WPT|/wp.lb/trowelC"
+ },
+ {
+  "file": "c019.json",
+  "strings": 151,
+  "chars": 13911,
+  "first": "WP_STEPS|/prepE/overview"
+ },
+ {
+  "file": "c020.json",
+  "strings": 135,
+  "chars": 13976,
+  "first": "WP_STEPS|/cleanW/overview"
+ },
+ {
+  "file": "c021.json",
+  "strings": 162,
+  "chars": 13941,
+  "first": "WP_STEPS|/prepB/points/0"
+ },
+ {
+  "file": "c022.json",
+  "strings": 357,
+  "chars": 13880,
+  "first": "WPS_T|/layers/barrier/1"
+ },
+ {
+  "file": "c023.json",
+  "strings": 129,
+  "chars": 14000,
+  "first": "RC_STEPS|/plugR/short"
+ },
+ {
+  "file": "c024.json",
+  "strings": 272,
+  "chars": 13959,
+  "first": "RCS_T|/layers/plugL/4"
+ },
+ {
+  "file": "c025.json",
+  "strings": 115,
+  "chars": 13806,
+  "first": "CA_STEPS|/planA/points/3"
+ },
+ {
+  "file": "c026.json",
+  "strings": 313,
+  "chars": 13999,
+  "first": "CAS_T|/catank/solution"
+ },
+ {
+  "file": "c027.json",
+  "strings": 310,
+  "chars": 13995,
+  "first": "PFP_T|/SG3F/data/18/0"
+ },
+ {
+  "file": "c028.json",
+  "strings": 302,
+  "chars": 13938,
+  "first": "PFP_T|/QS/areas/0"
+ },
+ {
+  "file": "c029.json",
+  "strings": 108,
+  "chars": 13731,
+  "first": "PF_STEPS|/planF/points/2"
+ },
+ {
+  "file": "c030.json",
+  "strings": 108,
+  "chars": 13563,
+  "first": "PF_STEPS|/coatThinF/overview"
+ },
+ {
+  "file": "c031.json",
+  "strings": 245,
+  "chars": 13981,
+  "first": "PF_STEPS|/notesF/overview"
+ },
+ {
+  "file": "c032.json",
+  "strings": 317,
+  "chars": 13861,
+  "first": "CMP.pf.products[0].params[4].label|"
+ },
+ {
+  "file": "c033.json",
+  "strings": 205,
+  "chars": 9466,
+  "first": "CMP.wp.products[2].why|/0"
+ }
+]

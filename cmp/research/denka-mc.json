@@ -1,0 +1,1545 @@
+{
+ "agent": "Denka + MC-Bauchemie",
+ "accessed": "2026-10-24",
+ "ownership": [
+  {
+   "brand": "Denka",
+   "group": "Denka",
+   "since": "independent (Denka Company Limited, TSE 4061)",
+   "evidence": "https://www.denka.co.jp/product/ (Denka official site; Special Cement Additives Dept., Elastomer & Infrastructure Solutions Division)"
+  },
+  {
+   "brand": "Denka (Denka Construction Solutions Malaysia Sdn Bhd, ex-ESTOP; Esto-/Estop product names)",
+   "group": "Denka",
+   "since": "2015 majority stake via Denka Chemicals Holdings Asia Pacific; 100 % and renamed from ESTOP on 1 Apr 2018",
+   "evidence": "https://denka-cs.com"
+  },
+  {
+   "brand": "MC-Bauchemie",
+   "group": "MC-Bauchemie",
+   "since": "independent, privately held, family-run for three generations",
+   "evidence": "https://www.mc-bauchemie.com/about/"
+  }
+ ],
+ "entries": [
+  {
+   "slot": "inj/IH",
+   "group": "Denka",
+   "brand": "Denka",
+   "none": true,
+   "reason": "No epoxy crack-injection resin: Denka Japan's crack-injection/impregnation resin is Denka Hardlock II DK550-003, a two-component low-odour ACRYLIC resin (denka-tokkon.jp/product/578) — different chemistry; Denka Construction Solutions Malaysia's epoxies are mortars/grouts and a bonding agent (Estorex BC, Estorex EPS 75, Estobond ES), none for crack injection."
+  },
+  {
+   "slot": "cr/BIS540",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "RISフィニッシュエース (RIS Finish Ace)",
+   "type": "one-component trowel-applied high-performance PAE polymer-cement section repair mortar, fast-hardening, thick-build (polymer premixed, add water only)",
+   "market": "Japan",
+   "source": {
+    "url": "https://denka-tokkon.jp/files/pdf/RIS%E3%83%95%E3%82%A3%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%B9_%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0.pdf",
+    "version": "Catalog T-297 SZ1, first issued Oct 2020, revised Mar 2022 (K2)"
+   },
+   "values": {
+    "class": "Meets NEXCO 'Structure Construction Management Guidelines' quality standard for trowel-applied section repair materials (左官工法による断面修復材の品質規格); no EN 1504-3 class stated",
+    "compressive": "9.5 / 20.5 / 32.0 / 40.5 N/mm² (4 h / 1 d / 7 d / 28 d; JIS A 1171; one example)",
+    "flexural": "3.2 / 4.5 / 5.2 / 6.1 N/mm² (4 h / 1 d / 7 d / 28 d; one example)",
+    "adhesion": "1.5 N/mm² (7 d) / 2.0 N/mm² (28 d) (JIS A 6909; one example)",
+    "e_modulus": null,
+    "chloride": null,
+    "capillary": null,
+    "carbonation": null,
+    "thickness": "standard single-layer thickness 5–40 mm; up to 40 mm per layer on walls and 30 mm per layer on ceilings",
+    "consumption": "17.5 kg/m² at 10 mm thickness (1,750 kg per m³; one 12.5 kg bag ≈ 0.7 m² at 10 mm, ≈ 7 L of mortar)",
+    "water": "2.1 kg water per 12.5 kg bag (294 kg water per 1,750 kg product per m³)",
+    "pot_life": "setting (hardening) time 50 min at 20 °C (one example); usable time depends on temperature and humidity — trial mix required",
+    "overcoat": "when the previous layer has fully hardened (≥ 6 h at 5 °C, ≥ 3 h at 20 °C, ≥ 2 h at 30 °C) apply RIS211E primer (3× diluted, 150 g/m²) before the next layer",
+    "application_temp": "stop work or provide suitable heat protection when the outdoor air temperature is 3 °C or below (no range stated)",
+    "packaging": "12.5 kg bag",
+    "shelf_life": null
+   },
+   "charts": {
+    "compressive": {
+     "v": 40.5,
+     "label": "40.5 N/mm² (28 d, JIS A 1171, one example)"
+    },
+    "e_modulus": {
+     "v": null,
+     "label": null
+    },
+    "thickness": {
+     "v": 5,
+     "label": "5–40 mm standard single layer"
+    },
+    "consumption": {
+     "v": 1.75,
+     "label": "17.5 kg/m² at 10 mm"
+    }
+   },
+   "notes": "Japanese NEXCO-spec PAE polymer-cement mortar, not EN 1504-3 classified; 28-d strength (40.5 N/mm²) is below the R4 threshold (≥ 45 N/mm²), so it is not an R4 equivalent. Chosen over Denka's general-purpose RIS321エース (10–20 mm per layer) because its 5–40 mm single-layer range matches BIS-5/40. Catalog table columns are scrambled in the PDF text; age assignment (4 h → 28 d) checked against Denka's technical data Dec 2016 (≈22 / 31 / 41 N/mm² at 1 / 7 / 28 d, 20 °C). Shelf life not printed (store like cement: dry, cool, dark). Primer RIS211E (EVA) and rebar paste RIS防錆パウダー + RIS111 form the system. Published list price 310 JPY/kg (product page). Denka Group alternative in South-East Asia: Estopatch ST (Denka Construction Solutions Malaysia, ex-ESTOP) — single-component polymer-modified structural repair mortar, 25 / 53 N/mm² at 1 / 28 d (ASTM C942, w/p 0.11), flexural 9 N/mm², slant shear 23 N/mm² (BS 6319), min. 5 mm, up to 20–25 mm vertical, 2.5–3.0 L water per 25 kg, ≈ 1.2 m² per bag at 10 mm (TDS https://www.denka-cs.com/storage/products/pdfs/Estopatch_ST_-_Data_Sheet_-_211107.pdf); no EN 1504-3 class either."
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "RIS防錆パウダー (RIS Rust-Prevention Powder) + 鉄筋防錆処理剤 RIS111",
+   "type": "polymer-cement nitrite-type rebar rust-prevention paste: redispersible-powder-resin premix mixed on site with RIS111 (25 % lithium-nitrite solution), brush-applied to rebar",
+   "market": "Japan",
+   "source": {
+    "url": "https://denka-tokkon.jp/files/pdf/RIS%E9%98%B2%E9%8C%86%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%20%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0201712.pdf",
+    "version": "Catalog file dated 2017.12 (edition line in the text read as 2015.10); RIS111 catalog Jan 2016 (K4) used for RIS111 data"
+   },
+   "values": {
+    "class": "Rebar rust-prevention material meeting the NEXCO Structure Construction Management Guidelines (Table 3-5-1, H22.7) performance items — rust-prevention rate treated section 94 % (criterion ≥ 50 %), untreated section 54 % (≥ −10 %), bond to rebar 15.3 N/mm² (≥ 7.8 N/mm²), alkali resistance no abnormality (tested by Japan Paint Inspection Association, West Branch); JR West quality standard claimed; no EN 1504-7",
+    "components": "2: RIS防錆パウダー (12.5 kg powder) + RIS111 (5.0 kg lithium-nitrite solution) mixed on site into a paste",
+    "adhesion": "bond to concrete 1.8 N/mm² (7 d) / 2.1 N/mm² (28 d); bond to repair mortar 1.6 / 1.9 N/mm² (JIS A 1171, 20 °C, 80 % r.h.; one example)",
+    "thickness": null,
+    "consumption": "600–900 g/m² of rebar surface (standard 750 g/m²), brush application",
+    "water": "no water — 12.5 kg powder + 5.0 kg RIS111 (1,350 kg powder + 540 kg RIS111 per m³ of paste)",
+    "pot_life": null,
+    "overcoat": null,
+    "application_temp": null,
+    "packaging": "RIS防錆パウダー 12.5 kg paper bag; RIS111 5 kg and 20 kg cans",
+    "shelf_life": null
+   },
+   "charts": {
+    "pot_life": {
+     "v": null,
+     "label": null
+    },
+    "adhesion": {
+     "v": 2.1,
+     "label": "2.1 N/mm² to concrete (28 d, JIS A 1171 pull-off)"
+    }
+   },
+   "notes": "Two-part system (powder + lithium-nitrite solution), not a one-component product and not a bond coat: Denka primes the concrete with the EVA primer RIS211E (3× diluted) instead. Corrosion inhibition is by nitrite (RIS111), not by alkalinity alone. Number of coats, layer thickness, pot life, waiting time, application temperature and shelf life are not printed (property data at 5/20/30 °C; RIS111 stored above 0 °C in a cool dark place). Do not spray. List prices: powder 400 JPY/kg, RIS111 5,600 JPY/kg (20 kg). Denka Construction Solutions Malaysia lists no cementitious rebar primer (its Estobond Acryl is an acrylic bonding emulsion and Estotect Zincrich a solvent-free zinc-modified epoxy coating for steel/linings)."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "デンカキューテックス TYPE-3 (Denka Cutex TYPE-3)",
+   "type": "quick-setting water-stop and repair cement (止水・補修セメント) of special rapid-hardening cement and inorganic materials, one component (add water only)",
+   "market": "Japan",
+   "source": {
+    "url": "https://denka-tokkon.jp/pdf/デンカキューテックス_TYPEー3技術資料.pdf",
+    "version": "Technical data No. 1, January 2022; type/consumption data from catalog T-25 (Mar 2015, K4 Sept 2015): https://denka-tokkon.jp/files/pdf/%E3%83%87%E3%83%B3%E3%82%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%202015.09.pdf"
+   },
+   "values": {
+    "class": "rapid-setting water-stop cement, one component, non-shrink; NOT crystalline; no standard classification (water-tightness tested to JIS A 1404)",
+    "compressive": "2.9 (1 h) / 12.8 (3 h) / 14.8 (1 d) / 35.8 (7 d) / 40.5 N/mm² (28 d) (JIS R 5201, W/B 30 %)",
+    "thickness": null,
+    "consumption": "approx. 1,550 kg per m³ of filled volume, excluding loss (catalog, TYPE-100/-1/-3)",
+    "water": "water / Cute-Tex ratio 30 % (0.3 L per 1.0 kg)",
+    "pot_life": null,
+    "overcoat": null,
+    "application_temp": null,
+    "packaging": "20 kg can",
+    "shelf_life": null
+   },
+   "charts": {
+    "pot_life": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Denka has no crystalline repair mortar; entered as the nearest corresponding product for sealing water-bearing cracks, construction joints and joints (as the other brands' plug mortars in this slot). Setting time 3 min 10 s (strength specimens) / 2 min 50 s (bond specimens), so no 30-min working time; usable time not printed. Bond shear strength 1.5 (1 d) / 2.5 (28 d) N/mm² (push-out, steel ring); water permeation 0 g at 1/7/28 d (JIS A 1404). The 2015 catalog gives 3.1 / 5.0 / 14.9 / 42.6 N/mm² (1 h / 3 h / 1 d / 28 d, 20 °C, 80 % r.h.) for TYPE-3 — the 2022 technical data are used here. List price 550 JPY/kg. Denka Group alternative in South-East Asia: Estop Water Plug (Denka Construction Solutions Malaysia) — chloride-free hydraulic plugging cement, hardening < 180 s at 25 °C, > 10 / 13 / 23 / 35 N/mm² at 30 min / 1 d / 3 d / 28 d (BS 6319-2), w/p 0.31, 5 kg tin ≈ 2.5 L (TDS code 050304, https://www.denka-cs.com/storage/products/pdfs/Estop_Waterplug_-_Data_Sheet_-_050304.pdf)."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "デンカキューテックス TYPE-3 (Denka Cutex TYPE-3)",
+   "type": "quick-setting water-stop and repair cement (止水・補修セメント) of special rapid-hardening cement and inorganic materials, one component (add water only)",
+   "market": "Japan",
+   "source": {
+    "url": "https://denka-tokkon.jp/pdf/デンカキューテックス_TYPEー3技術資料.pdf",
+    "version": "Technical data No. 1, January 2022; type/consumption data from catalog T-25 (Mar 2015, K4 Sept 2015): https://denka-tokkon.jp/files/pdf/%E3%83%87%E3%83%B3%E3%82%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%202015.09.pdf"
+   },
+   "values": {
+    "components": "1 component (special rapid-hardening cement + inorganic materials); water / Cute-Tex ratio 30 % (0.3 L water per 1.0 kg)",
+    "setting": "setting time 3 min 10 s (strength specimens) / 2 min 50 s (bond specimens) at W/B 30 %, 20 °C mixing water",
+    "pot_life": null,
+    "compressive": "2.9 N/mm² (1 h); 12.8 N/mm² (3 h); 14.8 N/mm² (1 d); 27.4 N/mm² (3 d); 35.8 N/mm² (7 d); 40.5 N/mm² (28 d) (JIS R 5201)",
+    "consumption": "approx. 1,550 kg per m³ of filled volume, excluding loss (catalog, TYPE-100/-1/-3)",
+    "application_temp": null,
+    "packaging": "20 kg can",
+    "shelf_life": null
+   },
+   "charts": {
+    "compressive": {
+     "v": 14.8,
+     "label": "14.8 N/mm² at 1 d (JIS R 5201, 2022 technical data; catalog 2015: 14.9)"
+    },
+    "pot_life": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Denka's water-stop cement comes in TYPE-0 (dry powder pressed in, instant), TYPE-100 (instant on water contact), TYPE-1 and TYPE-3 (fast-setting water stop; TYPE-3 with higher adhesion and water-stopping), and TYPE-10/-20/-B20/-U1 for product repair. TYPE-3 chosen because Denka publishes its own technical data (2022) and it corresponds to a ~2-min plugging mortar. Bond shear strength 1.5 (1 d) / 2.3 (7 d) / 2.5 (28 d) N/mm²; length change air-dry −0.009 % at 28 d; water permeation 0 g (JIS A 1404). Usable time, application temperature and shelf life are not printed (cement-based, store dry and use promptly). Not swellable in the sense of an expanding plug; described as non-shrink. Denka Group alternative in South-East Asia: Estop Water Plug (Denka Construction Solutions Malaysia) — chloride-free hydraulic plugging cement, hardening < 180 s at 25 °C, > 10 / 13 / 23 / 35 N/mm² at 30 min / 1 d / 3 d / 28 d (BS 6319-2), w/p 0.31, 5 kg tin ≈ 2.5 L (TDS code 050304, https://www.denka-cs.com/storage/products/pdfs/Estop_Waterplug_-_Data_Sheet_-_050304.pdf)."
+  },
+  {
+   "slot": "inj/P4",
+   "group": "Denka",
+   "brand": "Denka",
+   "none": true,
+   "reason": "No two-component elastic PU injection resin in either Denka range: Japan (Special Cement Additives Dept. catalog K16, Sept 2024) has only the acrylic crack-injection resin Hardlock II DK550-003; Denka Construction Solutions Malaysia (ex-ESTOP) offers only water-reactive PU foams (Estofoam PU semi-rigid resin + catalyst; Estofoam PU Super 1-component flexible foam — see inj/P1)."
+  },
+  {
+   "slot": "inj/P1",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estofoam PU Super",
+   "type": "one-component flexible polyurethane foam that reacts with water to a closed-cell foam, for sealing water leakage in concrete joints and cracks",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estofoam_PU_Super_-_Data_sheet_-180405.pdf",
+    "version": "data sheet code 180405 (file name; no edition printed); product page https://www.denka-cs.com/products/4/111 accessed 2026-10-24"
+   },
+   "values": {
+    "basis": "polyurethane resin, water-reactive (forms closed-cell flexible foam)",
+    "components": "1",
+    "foam_expansion": "expansion rate 1100 (unit not printed)",
+    "cure": "reaction time 180 s in contact with water (23 ± 2 °C); remains flexible, elongation 200–300 %",
+    "consumption": null,
+    "application_temp": null,
+    "packaging": "10 kg pail",
+    "shelf_life": "6 months from date of manufacture (stored at 15–38 °C, dry)"
+   },
+   "charts": {
+    "foam_expansion": {
+     "v": null,
+     "label": "expansion rate 1100 (unit not printed)"
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (former ESTOP, 100 % Denka since 1 Apr 2018); not sold under the Denka name in Japan. Viscosity 400–600 mPa·s (25 °C), specific gravity 1.08. TDS is an older ESTOP-format sheet with no test standards. The alternative Estofoam PU (resin + 2–10 % catalyst, semi-rigid closed-cell foam, 120 cps at 25 °C, cream/rise 56/145 s at 5 % catalyst; TDS code 190902) is the two-part counterpart."
+  },
+  {
+   "slot": "cr/BIS16",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estopatch Fine",
+   "type": "single-component polymer-modified cementitious fairing coat (thin-layer refacing mortar), add water on site",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estopatch_Fine_-_Data_Sheet_-_100102.pdf",
+    "version": "data sheet code 100102 (file name; no edition printed); product page https://www.denka-cs.com/products/9/77"
+   },
+   "values": {
+    "class": null,
+    "compressive": "15 N/mm² (BS 1881; age not stated)",
+    "flexural": null,
+    "adhesion": null,
+    "chloride": null,
+    "capillary": null,
+    "thickness": "feather edge up to 3 mm per layer; as a render up to 3–5 mm",
+    "consumption": "25 kg bag covers 3–5 m² at 3–5 mm; yield approx. 15 L per bag",
+    "water": "7.0–7.5 L per 25 kg bag",
+    "pot_life": "setting time 30–45 min at 27 °C (BS 5075); no pot life stated",
+    "overcoat": null,
+    "application_temp": null,
+    "packaging": "25 kg bag",
+    "shelf_life": "12 months, dry storage, unopened bags"
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": "15 N/mm² (BS 1881, age not stated)"
+    },
+    "thickness": {
+     "v": 3,
+     "label": "feather edge to 3 mm per layer (render 3–5 mm)"
+    },
+    "pot_life": {
+     "v": null,
+     "label": "setting time 30–45 min at 27 °C (not pot life)"
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP); Denka Japan has no cementitious levelling/fine mortar. No EN 1504-3 class; density 2,000 kg/m³ (hardened), fresh 2,300 kg/m³; used with Estobond Acryl bonding primer (4–6 m²/L). Compressive strength age not printed, so not charted against the 28-d figure. Very old sheet (code 100102 → likely 2010)."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estokote Grey",
+   "type": "cement-based, two-component, polymer-modified waterproof coating (slurry) that seals fine non-moving cracks and masonry pores",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estokote_Grey_-_Data_Sheet_-_231110.pdf",
+    "version": "data sheet code 231110 (file name; no edition printed); product page https://www.denka-cs.com/products/4/114"
+   },
+   "values": {
+    "components": "2 components: Part A grey powder 17.5 kg + Part B white liquid polymer 5.0 kg (no water to be added)",
+    "positive_pressure": null,
+    "negative_pressure": null,
+    "adhesion": "> 0.5 N/mm² (pull-off, ASTM D7234-12)",
+    "crack_bridging": null,
+    "consumption": "1.0 kg/m² per coat; 22.5 kg set ≈ 11 m² in 2 coats",
+    "thickness": null,
+    "pot_life": "use within 30 minutes of mixing",
+    "overcoat": "second coat after approx. 4–8 hours above 20 °C (floors within 24 h; pre-wet if ≥ 12 h); ≥ 3 days before cementitious overcoating",
+    "rainproof": "protect from direct rain for at least 4 hours; cure 3–5 days before other trades",
+    "application_temp": null,
+    "certification": "BS 6920 Part 1:2000 (suitability for contact with drinking water, tested by SIRIM Bhd); water absorption < 1.0 % (BS 1881 Part 122:2011)",
+    "packaging": "22.5 kg set (17.5 kg powder bag + 5.0 kg liquid bottle)",
+    "shelf_life": "12 months, dry on pallets"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": 30,
+     "label": "use within 30 min of mixing"
+    },
+    "consumption": {
+     "v": null,
+     "label": "1.0 kg/m² per coat (thickness not printed)"
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP). Not a one-component rigid slurry: it is two-component and described as 'flexible' (accommodates bending of water-retaining structures), but it seals only non-moving fine cracks and gives no crack-bridging value — it is the closest Denka counterpart of a rigid sealing slurry (comparable to SikaTop Seal-107 in this slot); the elastomeric Estokote Flexi is entered under wp/AQ2K. No water-pressure values printed. Denka Japan has no waterproofing slurry."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estokote Flexi",
+   "type": "two-component polymer-modified elastomeric cementitious waterproofing membrane (synthetic resin dispersion + cements, aggregates and additives), brush/roller/trowel",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estokote_Flexi_-_Data_Sheet_-_231111.pdf",
+    "version": "data sheet code 231111 (file name; no edition printed); product page https://www.denka-cs.com/products/4/113"
+   },
+   "values": {
+    "components": "2 components: Part A powder 22.8 kg + Part B liquid 10.2 kg (33 kg set)",
+    "crack_bridging": "passed (method and width not stated)",
+    "positive_pressure": "no penetration — passed (DIN 1048; pressure not stated)",
+    "negative_pressure": "no penetration — passed (in-house method; pressure not stated)",
+    "adhesion": "> 1 N/mm² (method not stated; ASTM D4541 cited among standards)",
+    "elongation": "150 % (ASTM D412); tensile strength 1.8 N/mm² (ASTM D412)",
+    "vapour": null,
+    "co2": null,
+    "consumption": "approx. 1 kg/m² per coat; 33 kg set ≈ 16.5 m² in two coats",
+    "thickness": "two coats, total approx. 1 mm (more coats for moderate/heavy pedestrian areas)",
+    "pot_life": "approx. 1 hour at 35 °C",
+    "application_temp": "dampen surface; above 27 °C water may be added to the liquid to adjust consistency (no range stated)",
+    "certification": "BS 6920 Parts 1 & 2; water absorption < 1.0 % (BS 1881 Part 122:1983, SIRIM Bhd); ASTM D412; DIN 1048",
+    "packaging": "33 kg set (22.8 kg powder bag + 10.2 kg liquid bottle)",
+    "shelf_life": "12 months, dry on pallets"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": null,
+     "label": "passed (width not stated)"
+    },
+    "positive_pressure": {
+     "v": null,
+     "label": "passed, DIN 1048 (pressure not stated)"
+    },
+    "elongation": {
+     "v": 150,
+     "label": "150 % (ASTM D412)"
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP). Shore A 60 (25 °C, 7 d); 25 mm mandrel flexibility passed; ≥ 3 days before cementitious overcoat; protect from rain ≥ 4 h. Use fabric reinforcement at joints/cracks. Denka Japan has no cementitious waterproofing slurry."
+  },
+  {
+   "slot": "wp/RB400",
+   "group": "Denka",
+   "brand": "Denka",
+   "none": true,
+   "reason": "No bitumen-free flexible thick-layer cementitious waterproofing: Denka Japan has no waterproofing slurries (only the acrylic bridge-deck system デッキコート複合防水工法); Denka Construction Solutions Malaysia offers thin elastomeric Estokote Flexi (≈ 1 mm, entered under wp/AQ2K) and liquid/sheet membranes (Estoflex PU/acrylic, Estoproof)."
+  },
+  {
+   "slot": "wp/OS",
+   "group": "Denka",
+   "brand": "Denka",
+   "none": true,
+   "reason": "No crack-bridging cementitious surface-protection system classified OS 5b / EN 1504-2 in either Denka range (Japan catalog K16 Sept 2024; denka-cs.com product list); Denka Japan's surface treatments are acrylic anti-spalling coatings (NS Guard, 剥落マモリータ)."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estokote Crystalline",
+   "type": "crystalline capillary waterproofing system (slurry coat or dry-shake): active chemicals react with free lime in moist concrete to form insoluble crystals",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estokote_Crystalline_-Data_Sheet_-_240413.pdf",
+    "version": "data sheet code 240413 (file name; no edition printed); product page https://www.denka-cs.com/products/4/112"
+   },
+   "values": {
+    "components": "1 component powder; slurry 1 part water to 3 parts powder (by volume, not stated otherwise)",
+    "negative_pressure": "no water penetration at 3 bar on the negative side for 72 h (DIN 1048 Part 5:1991)",
+    "permeability": null,
+    "adhesion": null,
+    "capillary": "water absorption < 1 % (BS 1881 Part 122)",
+    "vapour": null,
+    "consumption": "slurry: 1st coat 0.85–1.00 kg/m², 2nd coat 0.5–0.6 kg/m², total 1.35–1.60 kg/m²; dry-shake 1.10 kg/m² (existing lean concrete) or 1.22–1.35 kg/m² (new concrete)",
+    "coats": "slurry: first coat plus second coat if required; dry-shake single application",
+    "pot_life": "mix only what can be used within 20 minutes (24 °C, 50 % r.h.)",
+    "recoat": "second coat after the first has taken initial set, usually within one hour (dampen if dried out)",
+    "curing": "keep moist ≥ 24 h; water/fog spray 3–4 times daily for 48 h; protect 48 h; foot traffic after 48 h, heavy traffic after 7 days",
+    "application_temp": null,
+    "drinking_water": "complies with MS 1583 Part 1:2003 (potable water); SIRIM approval for potable water (product page)",
+    "packaging": "25 kg bag or 20 kg pail",
+    "shelf_life": "1 year, unopened, dry protected storage"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": 3,
+     "label": "no penetration at 3 bar negative side, 72 h (DIN 1048-5)"
+    },
+    "permeability": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": 20,
+     "label": "use within 20 min (24 °C, 50 % r.h.)"
+    },
+    "consumption": {
+     "v": 1.475,
+     "label": "1.35–1.60 kg/m² total, two slurry coats"
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP); Denka Japan has no crystalline products. Seals hairline non-structural cracks up to 0.5 mm; chloride-free. 3 bar is the test pressure (no failure value published). No CRD-C 48 result, no pull-off value. Water/powder ratio is printed as '1 part water to 3 parts powder' without stating volume or mass."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "Denka",
+   "brand": "Denka",
+   "none": true,
+   "reason": "No crystalline repair mortar for chased cracks and coves: Estokote Crystalline (Malaysia) is only a slurry/dry-shake with no dedicated repair mortar, and Denka Japan has no crystalline products (its water-stop cement キューテックス is entered under rc/F20 and cr/IM)."
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estomix G15",
+   "type": "dual-purpose liquid integral waterproofing admixture: forms a hydrophobic material with cement hydration products and starts a continuing crystallization process; also water-reducing",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estomix_G15_-_Data_Sheet_-250404.pdf",
+    "version": "data sheet code 250404 (file name; '25-04-04' printed in text); product page https://www.denka-cs.com/products/4/141"
+   },
+   "values": {
+    "form": "liquid (brown solution)",
+    "dosage": "typically 1.0 % (1 litre per 100 kg Portland cement); optimum by trial mixes",
+    "density": "specific gravity 1.10 (20 °C)",
+    "chloride": "nil (BS 5075)",
+    "self_healing": null,
+    "setting_effect": "water-reducing: lower w/c at the same workability; double overdose increases retardation and workability and reduces short-term strength",
+    "min_cement": "≥ 300 kg/m³ recommended; OPC only, no cement replacement materials",
+    "dosing_point": "add to the gauging (mixing) water with a recommended dispenser; max. free w/c 0.50 before dosing; slump before dosing 50–70 mm (normal) / 60–80 mm (pump)",
+    "application_temp": null,
+    "packaging": "200 L drum, 20 L pail",
+    "certification": "water absorption < 1.5 % (BS 1881-122:1983) meets draft EN 934-2 water-absorption requirement; permeability < 15 mm (DIN 1048-5:1991); potable: MS 1583 Part 1:2003"
+   },
+   "charts": {
+    "dosage": {
+     "v": 1.0,
+     "label": "1.0 % of cement (1 L per 100 kg)"
+    },
+    "min_cement": {
+     "v": 300,
+     "label": "≥ 300 kg/m³ (recommended)"
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP); hybrid hydrophobic + crystalline (not a pure crystalline admixture). Dosage given in litres per 100 kg cement ('1.0 %'); with SG 1.10 this is ≈ 1.1 % by mass — chart uses the printed 1.0 %. No crack-sealing width stated. Test example: C35, 350 kg OPC, w/c 0.36–0.38, absorption < 1.5 % vs 5.9 % control. Not EN 934-2 certified (only 'meets draft EN 934-2' absorption requirement). Shelf life ≥ 12 months. Denka Japan's concrete admixtures (Power CSA expansive agent, Non-Hibi Master shrinkage reducer, Σ/Λ high-strength admixtures) are not crystalline."
+  },
+  {
+   "slot": "ca/CP360",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estomax MX100",
+   "type": "powder crystalline waterproofing admixture: reacts with water to form a non-soluble crystalline matrix in the capillary voids",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estomax_MX100_-_Data_Sheet_-_220711.pdf",
+    "version": "data sheet code 220711 (file name; no edition printed); product page https://www.denka-cs.com/products/4/115"
+   },
+   "values": {
+    "form": "powder (grey)",
+    "dosage": "up to 1.5 bar hydrostatic pressure: min. 0.7 % of cement, max. 2.1 kg/m³ concrete; above 1.5 bar: 1.0 % recommended, max. 4.0 kg/m³",
+    "density": null,
+    "chloride": null,
+    "self_healing": "seals cracks or voids up to 0.4 mm by continuous crystallization under suitable conditions",
+    "min_cement": null,
+    "dosing_point": "batching plant: add after cement, sand and aggregates are discharged, mix ≥ 5 min; truck: add on site into the drum, mix ≥ 5 min; trial batches for setting time, slump and workability",
+    "application_temp": null,
+    "packaging": "20 kg pail",
+    "certification": "BS 6920 Part 1 (drinking water) complies; water permeability 10.0–15.0 mm at 28 d (DIN 1048 Part 5, G40 concrete, w/c < 0.425); hydrostatic pressure resistance up to 5 bar"
+   },
+   "charts": {
+    "dosage": {
+     "v": 1.0,
+     "label": "1.0 % (> 1.5 bar); min. 0.7 % (≤ 1.5 bar)"
+    },
+    "self_healing": {
+     "v": 0.4,
+     "label": "up to 0.4 mm"
+    },
+    "min_cement": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP). Not supplied in water-soluble bags (20 kg pail). Promotes ettringite formation at 1.0 % (mitigates early shrinkage cracks). Shelf life max. 24 months from production. No EN 934-2 / ASTM C494 classification, no chloride or minimum-cement figure printed."
+  },
+  {
+   "slot": "pf/GBM",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estoprime LV",
+   "type": "two-component, low-viscosity, solvent-free epoxy primer for the Estogard epoxy coatings, toppings and screeds",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estoprime_LV_-_Data_Sheet_-_210203.pdf",
+    "version": "data sheet code 210203 (file name; no edition printed); product page https://www.denka-cs.com/products/11/41"
+   },
+   "values": {
+    "basis": "two-component epoxy, solvent-free, low viscosity",
+    "mix_ratio": null,
+    "viscosity": null,
+    "pot_life": "30–60 min at 30 °C",
+    "overcoat": "overcoat within 24 h at 20 °C or 12 h at 30 °C (otherwise abrade, solvent-degrease and re-prime); screeds trowelled onto the still-tacky primer",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "max_moisture": "substrate RH ≤ 75 % (BS 8203 Appendix A); new concrete cured ≥ 28 days; not on surfaces prone to rising damp",
+    "consumption": "approx. 5 m²/L (theoretical), allow approx. 10 % extra",
+    "application_temp": "not below 10 °C; substrate RH ≤ 75 %",
+    "packaging": "5 L pack",
+    "shelf_life": "12 months, dry store 5–30 °C, original unopened packs"
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "flexural": {
+     "v": null,
+     "label": null
+    },
+    "pot_life": {
+     "v": null,
+     "label": "30–60 min at 30 °C (not at 20 °C)"
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP); Denka Japan has no epoxy flooring products (its resin line Hardlock II is acrylic). Sold as a primer only — no binder use for scratch coats/mortars/screeds and no mechanical values printed; mix ratio = complete packs."
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estogard EMB",
+   "type": "three-component self-levelling epoxy-cementitious underlayment, used as a moisture barrier under epoxy and PU floors (also on high-moisture / green concrete)",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estogard_EMB_-__Data_Sheet_-_240402.pdf",
+    "version": "data sheet code 240402 (file name; no edition printed); product page https://www.denka-cs.com/products/11/68"
+   },
+   "values": {
+    "basis": "epoxy cementitious, self-levelling or trowel-applied",
+    "components": "3 (Part A 3.5 kg + Part B 1.5 kg + Part C 19.0 kg)",
+    "mix_ratio": "complete 24 kg kit: A 3.5 kg + B 1.5 kg + C 19.0 kg (no separate ratio printed)",
+    "viscosity": null,
+    "pot_life": null,
+    "overcoat": "wait 36–48 hours before topping (advantages list: overcoatable as early as 24 h)",
+    "compressive": "> 45 MPa",
+    "flexural": null,
+    "adhesion": "> 1.5 MPa",
+    "negative_pressure": null,
+    "max_moisture": "recommended as moisture barrier (min. 2 mm) over high-moisture and green concrete; no numeric limit",
+    "consumption": "2.0 kg/m² per mm; self-levelling screed 1.0–3.0 mm; moisture barrier min. 2 mm",
+    "application_temp": null,
+    "packaging": "24 kg kit (3.5 + 1.5 + 19.0 kg)",
+    "shelf_life": "min. 12 months, dry, cool, well-ventilated"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "compressive": {
+     "v": 45,
+     "label": "> 45 MPa"
+    },
+    "overcoat": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP). Not a solvent-free epoxy barrier primer but an epoxy-cement moisture-barrier underlayment (same category as Sikafloor®-81 EpoCem® already in this slot). Primer: Estoprime WB (4–6 h before application). Abrasion < 100 mg. The '24 h' overcoat in the advantages conflicts with the 36–48 h waiting time in the instructions."
+  },
+  {
+   "slot": "pf/B351",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estogard S100e",
+   "type": "four-component pigmented epoxy self-smoothing floor topping with graded aggregates (1.0–1.5 mm)",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estogard_S100e_-_Data_Sheet_-_070102.pdf",
+    "version": "data sheet code 070102 (file name; no edition printed); product page https://www.denka-cs.com/products/11/58"
+   },
+   "values": {
+    "basis": "epoxy resin binder (pigmented) with graded aggregates, four components",
+    "mix_ratio": "complete packs: colour pack into base, then hardener, then aggregate pack (no ratio printed)",
+    "viscosity": null,
+    "pot_life": "< 90 min at 28 °C; workable time < 60 min",
+    "overcoat": null,
+    "cure": "initial cure 24 hours; final cure 7 days",
+    "compressive": "45–50 N/mm² (7 days, BS 6319 Part 2)",
+    "flexural": "30–40 N/mm² (7 days, BS 6319 Part 3)",
+    "adhesion": "1.5 N/mm², concrete failure (standard printed as ASTM D412)",
+    "hardness": null,
+    "fire": null,
+    "slip": null,
+    "consumption": "7.0–7.5 m² per 8 L (12 kg) pack at 1 mm; application thickness 1.0–1.5 mm",
+    "application_temp": null,
+    "packaging": "8 L (12 kg) pack; primer Estoprime LV 5 L",
+    "shelf_life": "12 months, dry store, unopened"
+   },
+   "charts": {
+    "compressive": {
+     "v": 47.5,
+     "label": "45–50 N/mm² (7 d, BS 6319-2)"
+    },
+    "flexural": {
+     "v": 35,
+     "label": "30–40 N/mm² (7 d, BS 6319-3)"
+    },
+    "overcoat": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP); very old ESTOP sheet (code 070102 → likely 2007). Self-smoothing thick coat only (no roller-coat variant on this sheet; Estogard CS10e is the solvent-based 100 µm roller coat). Solvent content not stated; flammable. Tensile 15–20 N/mm² (BS 6319-7); SG 1.43–1.47. Do not apply at RH > 75 % (BS 8203) or with rising damp."
+  },
+  {
+   "slot": "pf/V360",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estogard WA10e",
+   "type": "two-component water-dispersed epoxy floor coating, two coats to approx. 100 µm DFT",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estogard_WA10e_-_Data_Sheet_-_241006.pdf",
+    "version": "data sheet code 241006 (file name; no edition printed); product page https://www.denka-cs.com/products/11/64"
+   },
+   "values": {
+    "basis": "two-component water-dispersed epoxy (non-solvent, breathable, low odour)",
+    "mix_ratio": null,
+    "viscosity": null,
+    "pot_life": "45 minutes at 25 °C",
+    "overcoat": "recoat 16 hours; second coat once the first is initially dry",
+    "cure": "touch dry 6–8 hours at 25 °C",
+    "adhesion": null,
+    "slip": null,
+    "max_moisture": "new concrete aged 28 days and ≤ 4 % substrate moisture content",
+    "consumption": "6–7 m²/kg per coat (100 µm wet / 50 µm dry per coat); 2–3 coats",
+    "application_temp": "10–30 °C (above 30 °C shortens pot life)",
+    "packaging": "5 kg",
+    "shelf_life": "6 months, dry store, unopened"
+   },
+   "charts": {
+    "adhesion": {
+     "v": null,
+     "label": null
+    },
+    "max_moisture": {
+     "v": 4,
+     "label": "≤ 4 % moisture content (method not stated)"
+    },
+    "pot_life": {
+     "v": 45,
+     "label": "45 min at 25 °C"
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP). A coating, not described as a primer/sealer in one: priming with the water-based epoxy Estoprime WB134 is recommended. Volume solids 47–52 %. Touch-dry/recoat layout on the sheet is ambiguous. Pot life is at 25 °C, not 20 °C."
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estotect EN600",
+   "type": "two-part chemical-resistant, 100 % solids, low-odour epoxy coating/topping (seamless, up to 500 µm in multiple layers)",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estotect_EN600_-_Data_Sheet_-_180103.pdf",
+    "version": "data sheet code 180103 (file name; no edition printed); product page https://www.denka-cs.com/products/9/85"
+   },
+   "values": {
+    "basis": "two-part epoxy (epoxy resin + amines), 100 % volume solids, solvent-free",
+    "mix_ratio": null,
+    "density": null,
+    "hardness": "Shore D 70–75",
+    "pot_life": "25–30 min at 25 °C",
+    "overcoat": "recoat 4–18 hours at 25 °C; second coat after overnight cure",
+    "cure": "full cure 7 days at 25 °C",
+    "max_moisture": "dry; do not apply over moisture or in damp conditions (no numeric limit); new concrete ≥ 28 days",
+    "chemical": "splash and spillage (not immersion) resistance to a listed range of chemicals incl. dilute and concentrated hydrochloric, nitric, sulphuric and phosphoric acids, sodium and potassium hydroxide, toluene, hexane, MIBK, isopropanol, fuels and oils, brine, sea water and hydrogen peroxide",
+    "consumption": "approx. 4.0 m²/kg per coat at 150 µm DFT (theoretical); two or more coats, max. 500 µm total",
+    "application_temp": "not below 7 °C; above 30 °C shortens pot life",
+    "packaging": "5 kg and 20 kg packs",
+    "shelf_life": "12 months, unopened, dry store"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 27.5,
+     "label": "25–30 min at 25 °C"
+    },
+    "overcoat": {
+     "v": 4,
+     "label": "recoat 4–18 h at 25 °C"
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP). Listed uses include wastewater treatment and desalination plants, chemical plants, food processing. Tensile > 12 MPa, compressive > 45 MPa, adhesion: concrete failure; Taber abrasion 0.1 g (CS-17, 1000 g, ASTM D4060); temperature resistance 80 °C; primer Estoprime LV. Pot life and recoat at 25 °C (not 20 °C). Not an elastic (Shore A) coating like ASODUR-V2370. Alternative for immersion linings: Estotect Zincrich (2-c solvent-free zinc-modified epoxy, 98 % volume solids, 2 × 200 µm, pot life 1 h at 25 °C, uses incl. sewerage work, immersion and non-immersion; TDS code 210202) — chosen EN600 because it lists wastewater treatment plants and publishes a chemical-resistance list for concrete."
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "Denka",
+   "brand": "Denka",
+   "product": "Estoseal 109",
+   "type": "one-part, gun-applied, moisture-curing polyurethane sealant curing to a flexible rubber seal",
+   "market": "Malaysia (Denka Construction Solutions Malaysia Sdn Bhd, Denka Group)",
+   "source": {
+    "url": "https://www.denka-cs.com/storage/products/pdfs/Estoseal_109_-_Data_Sheet_-_210805.pdf",
+    "version": "data sheet code 210805 (file name; no edition printed); linked from https://www.denka-cs.com/products/4/107 (the Estoseal 109 page https://www.denka-cs.com/products/4/106 links only the primer sheet)"
+   },
+   "values": {
+    "basis": "one-part moisture-curing polyurethane",
+    "density": null,
+    "hardness": "Shore A approx. 25 (ASTM C661-98)",
+    "movement": "movement accommodation factor 25 % for butt joints (ASTM E1399-97); also stated 'Class A sealant – total joint movement 50 % (±25 %)'",
+    "tensile": null,
+    "skin_time": "60–180 minutes",
+    "cure": "3–6 days (6–20 mm depth) / 6–12 days (20–30 mm depth) at 25 °C",
+    "service_temp": null,
+    "consumption": "litres per metre (no wastage): 10 × 10 mm 0.100; 15 × 10 mm 0.150; 15 × 15 mm 0.230; 20 × 15 mm 0.300; 20 × 20 mm 0.400",
+    "application_temp": "5–35 °C",
+    "packaging": "cartons of 20 × 600 ml foil sachets",
+    "shelf_life": "12 months in sealed foil packs, stored dry at 5–25 °C"
+   },
+   "charts": {
+    "hardness": {
+     "v": 25,
+     "label": "Shore A approx. 25 (ASTM C661)"
+    },
+    "movement": {
+     "v": 25,
+     "label": "MAF 25 % (butt joints, ASTM E1399)"
+    },
+    "service_temp": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "Denka Group product from Denka Construction Solutions Malaysia (ex-ESTOP). Uses listed are movement joints in precast panels, curtain walls, window/door surrounds — floor joints are NOT listed (Denka's floor/pavement sealants are the two-part Estoseal C200PF, polysulphide Estoseal T600 and hot-poured Estoseal E77 / Estoliastic). UV resistance passed (ASTM C793-05); no primer on concrete, aluminium, brick, granite. Denka Japan has no joint sealants."
+  },
+  {
+   "slot": "inj/P4",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-Injekt 2300 top",
+   "type": "polyurethane-based elastomer injection resin, two-component, low viscosity, water-displacing, no foam formation",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-Injekt_2300_top_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 05.08.2026 (3 pages)"
+   },
+   "values": {
+    "basis": "polyurethane-based elastomer resin, two-component; water-displacing, non-foaming",
+    "components": "2 (component A + component B); product colour light brown",
+    "mix_ratio": "1 : 1 by volume (100 : 111 by mass), A : B",
+    "density": "approx. 1.04 kg/dm³ mixture (A approx. 0.98, B approx. 1.09 kg/dm³; DIN 53479)",
+    "viscosity": "approx. 55 mPa·s, mixture (EN ISO 3219; laboratory values at 21 °C ± 2 °C, 50 % r.h.)",
+    "pot_life": "working time approx. 35 min (EN 1504-5, up to 1,000 mPa·s); reaction time / pot life approx. 90 min (ASTM D7487-13)",
+    "hardness": null,
+    "cure": null,
+    "consumption": null,
+    "application_temp": "component and substrate 5–40 °C; stop work below 5 °C",
+    "certification": "CE to EN 1504-5: U(D2) W(1) (1/2/3/4) (5/40); DIBt general building authority approvals (injection into soil and groundwater; chemical resistance in LAU facilities); fire class B2 (DIN 4102); EPD",
+    "packaging": "box of 6 × 1 l packs; canisters of 5 l, 10 l or 20 l per component",
+    "shelf_life": "at least 18 months, original sealed packs, dry, 5–30 °C"
+   },
+   "charts": {
+    "viscosity": {
+     "v": 55,
+     "label": "approx. 55 mPa·s (EN ISO 3219, 21 ± 2 °C)"
+    },
+    "hardness": {
+     "v": null,
+     "label": null
+    },
+    "cure": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "MC's standard elastic PU crack/joint sealing resin, also the permanent seal after MC-Injekt 2133. No Shore A value and no curing time printed (described as 'ductile and flexible', 'high elasticity'). Further values: elongation free approx. 100 % (EN ISO 527), in the crack approx. 11–17 % (EN 12618-2); pressure-water tightness approx. 7 bar (EN 14068); adhesive tensile strength approx. 0.46–1.31 N/mm² on dry and moist concrete (EN 12618-1); volume change with water approx. 4 % (EN 14406); Tg −34.2 °C. 'Variable control of reaction times' stated without values. Low-viscosity sister product MC-Injekt 2300 flow is moisture-reactive and expands with water."
+  },
+  {
+   "slot": "inj/P1",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-Injekt 2133",
+   "type": "fast-foaming, one-component polyurethane-based elastomer foam resin for temporary sealing (phthalate-plasticiser-free)",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-Injekt_2133_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 11.10.2023"
+   },
+   "values": {
+    "basis": "polyurethane-based elastomer foam resin, water-reactive",
+    "components": "1, ready to use (optional accelerator MC-KAT 20, up to approx. 5 %)",
+    "foam_expansion": "volume change factor approx. 60–70 (free foaming, with 10 % water)",
+    "cure": "reaction on contact with water: start approx. 10–15 s, end approx. 60–70 s; processing time unlimited without water contact",
+    "consumption": null,
+    "application_temp": "component and substrate 5–40 °C; stop below 5 °C; pre-wet dry structures",
+    "packaging": "10 l canister; box of 6 × 1 l; MC-KAT 20 in 400 ml aluminium bottles (5 per box)",
+    "shelf_life": "at least 18 months, original sealed packs, dry, 5–35 °C"
+   },
+   "charts": {
+    "foam_expansion": {
+     "v": 65,
+     "label": "factor approx. 60–70 (free foaming, 10 % water)"
+    }
+   },
+   "notes": "Density 1.125 kg/dm³ (DIN 53479); viscosity approx. 400 mPa·s (EN ISO 3219); lab values at 21 ± 2 °C, 50 % r.h. Stops strongly flowing water; permanent sealing afterwards with MC-Injekt 2300 top or 2300 flow. Clean with MC-Verdünnung PU / MC-Cleaner eco (no water)."
+  },
+  {
+   "slot": "inj/IH",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-Injekt 1264 compact",
+   "type": "rigid bonding and sealing injection resin: low-viscosity epoxy-based duromer resin, for dry and moist conditions",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-Injekt_1264_compact_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 07.10.2026; DoP IN 5205000 v2.6 (13.10.2023) https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-Injekt_1264_compact_DE_DE_EN_DOP.pdf"
+   },
+   "values": {
+    "basis": "epoxy-based duromer resin, two-component, low viscosity, transparent",
+    "mix_ratio": "4 : 1 by volume (A : B)",
+    "viscosity": "approx. 310 mPa·s (EN ISO 3219; laboratory values at 21 °C ± 2 °C, 50 % r.h.)",
+    "pot_life": "approx. 25 min (100 g)",
+    "tensile": "tensile strength approx. 45.7 N/mm² (DIN 53455); E-modulus approx. 2,600 N/mm² (EN ISO 178); compressive strength approx. 60 N/mm² (EN ISO 604); elongation 6.1 %; tensile adhesive strength > 3 N/mm² (DoP); CE to EN 1504-5: U(F1) W(2) (1/2) (8/35) (1)",
+    "application_temp": "component and substrate 8–35 °C; stop below 8 °C",
+    "packaging": "box of 6 × 1 l; 10 l canister component A + 2.5 l canister component B",
+    "shelf_life": "at least 24 months, original sealed packs, 10–30 °C, dry"
+   },
+   "charts": {
+    "viscosity": {
+     "v": 310,
+     "label": "approx. 310 mPa·s (EN ISO 3219, 21 ± 2 °C)"
+    }
+   },
+   "notes": "Force-transmitting filling of cracks, voids and interstices (EN 1504-5 'F'); injectability class 2 (0.2 mm) dry and non-dry; Shore D approx. 78; Tg approx. 55 °C. Density mixture 1.08 kg/dm³ (EN ISO 2811-1). The lower-viscosity MC-Injekt 1264 TF is the version for fine cracks under dry conditions only. Curing time not printed."
+  },
+  {
+   "slot": "cr/BIS540",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "Nafufill KM 250",
+   "type": "fire-resistant, fibre-reinforced PCC/SPCC concrete replacement for repairs in statically relevant and non-statically relevant areas (hand or wet-spray)",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/Nafufill_KM_250_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 23.07.2026; DoP IN4417000 v3.0 (23.01.2024) https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/Nafufill_KM_250_DE_DE_EN_DOP.pdf"
+   },
+   "values": {
+    "class": "EN 1504-3 class R4 (also principles 3, 4, 7); reaction to fire A1 (EN 13501-1); F90/F120 (ISO 834 / ETK)",
+    "compressive": "hand: 34.4 / 50.4 / 55 N/mm² (48 h / 7 d / 28 d); spray: 57.5 / 68.1 N/mm² (7 d / 28 d) (lab, 21 ± 2 °C, 50 % r.h.)",
+    "flexural": "hand: 4.7 / 5.8 / 8.5 N/mm² (48 h / 7 d / 28 d); spray: 5.3 / 9.3 N/mm² (7 d / 28 d)",
+    "adhesion": "≥ 2.0 MPa (DoP)",
+    "e_modulus": "static 22,600 N/mm² (hand) / 25,000 N/mm² (spray) at 28 d; DoP ≥ 20 GPa",
+    "chloride": "≤ 0.05 % (DoP)",
+    "capillary": "0.098 kg·m⁻²·h⁻⁰·⁵ (DoP)",
+    "carbonation": "passed (DoP); carbonation depth 0 mm at 90 d, < 1.5 mm at 730 d (TDS)",
+    "thickness": "min. 6 mm per pass (10 mm per work step under ZTV-ING), max. 30 mm per pass; max. 60 mm total (50 mm ZTV-ING), up to 100 mm as reprofiling mortar",
+    "consumption": "1.8 kg/m² per mm (hand); 1.85 kg/m² per mm (spray)",
+    "water": "approx. 3.75–4.00 L per 25 kg bag (powder : water 100 : 15–16 by weight)",
+    "pot_life": "60 min at 5 °C; 45 min at 20 °C; 30 min at 30 °C",
+    "overcoat": null,
+    "application_temp": "5–30 °C (air, substrate and material)",
+    "packaging": "25 kg bag; Big Bag",
+    "shelf_life": "at least 12 months, cool and dry, original unopened packs"
+   },
+   "charts": {
+    "compressive": {
+     "v": 55,
+     "label": "55 N/mm² at 28 d (hand-applied; spray 68.1)"
+    },
+    "e_modulus": {
+     "v": 22.6,
+     "label": "22,600 N/mm² static, hand-applied (spray 25,000)"
+    },
+    "thickness": {
+     "v": 6,
+     "label": "min. 6 mm per pass (10 mm under ZTV-ING)"
+    },
+    "consumption": {
+     "v": 1.8,
+     "label": "1.8 kg/m² per mm (hand)"
+    }
+   },
+   "notes": "MC's flagship R4 PCC repair mortar. Hand application requires the bond coat Nafufill KMH (wet-in-wet). Max. grain 2 mm; fresh density 2.06 kg/dm³ (PCC) / 2.15 (SPCC); chloride migration coefficient 1.28·10⁻¹² m²/s (spray); curing usually 3 days. Waiting time between layers / overcoat not printed. Thermal compatibility (freeze–thaw with de-icing salt; thunder-shower) ≥ 2.0 MPa (DoP). Sulphate-resistant variant Nafufill KM 250 HS; R3 sister Nafufill KM 230."
+  },
+  {
+   "slot": "cr/BIS16",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "Nafufill KM 110",
+   "type": "one-component polymer-modified fine mortar for levelling of concrete surfaces (EN 1504-3 R2)",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/Nafufill_KM_110_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 05.06.2025; DoP IN4447001 v2.5 (13.10.2023) https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/Nafufill_KM_110_DE_DE_EN_DOP.pdf"
+   },
+   "values": {
+    "class": "EN 1504-3 class R2 (principle 3, procedures 3.1 and 3.3); reaction to fire A2-s1, d0 (product system test, DoP)",
+    "compressive": "20 / 32 / 38.9 N/mm² (48 h / 7 d / 28 d)",
+    "flexural": "4 / 6.5 / 7.3 N/mm² (48 h / 7 d / 28 d)",
+    "adhesion": "≥ 0.8 N/mm² (DoP)",
+    "chloride": "≤ 0.05 % (DoP)",
+    "capillary": null,
+    "thickness": "min. 2 mm, max. 10 mm per pass; max. 10 mm total",
+    "consumption": "1.7 kg/m² per mm",
+    "water": "approx. 4.50–4.75 L per 25 kg bag (100 : 18–19 by weight)",
+    "pot_life": "60 min at 5 °C; 45 min at 20 °C; 30 min at 30 °C",
+    "overcoat": "second work step after 60 min; coating with MC-Color Flair / MC-Color Flex after approx. 3 h at +20 °C",
+    "application_temp": "5–30 °C (air, substrate and material)",
+    "packaging": "25 kg bag",
+    "shelf_life": "at least 12 months, cool and dry, original unopened packs"
+   },
+   "charts": {
+    "compressive": {
+     "v": 38.9,
+     "label": "38.9 N/mm² at 28 d"
+    },
+    "thickness": {
+     "v": 10,
+     "label": "2–10 mm per pass"
+    },
+    "pot_life": {
+     "v": 45,
+     "label": "45 min at 20 °C"
+    }
+   },
+   "notes": "Max. grain 1 mm; fresh density 2.05 kg/dm³; E-modulus static 14,000 / dynamic 23,000 N/mm² (28 d). Carbonation NPD in DoP. For thinner work (0–3 mm) MC offers Nafufill KM 103 (R2) — KM 110 chosen as MC's bestseller fine levelling mortar covering the 1–6 mm range from 2 mm."
+  },
+  {
+   "slot": "cr/HSF",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "Nafufill KMH",
+   "type": "one-component cement-based corrosion protection coat and bond coat (powder mixed with water)",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/Nafufill_KMH_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 05.06.2025"
+   },
+   "values": {
+    "class": "certified to EN 1504-7, principle 11, procedure 11.1",
+    "components": "1 (cement-grey powder mixed with water)",
+    "adhesion": null,
+    "thickness": "corrosion protection in two work steps; bond coat in one application (thickness not stated)",
+    "consumption": "corrosion protection approx. 120 g per metre of bar (Ø 8 mm); bond coat 1,000–1,100 g/m²",
+    "water": "powder : water 100 : 18–19 by weight (approx. 0.9–0.95 L per 5 kg bag; 3.6–3.8 L per 20 kg bag)",
+    "pot_life": "75 min at 5 °C; 60 min at 20 °C; 45 min at 30 °C",
+    "overcoat": "2nd layer after approx. 3 h; bond coat after approx. 3 h on the 2nd layer; repair mortar fresh-in-fresh into the bond coat",
+    "application_temp": "≥ 5 °C and ≤ 35 °C",
+    "packaging": "2 × 5 kg bags; 20 kg bag",
+    "shelf_life": "at least 12 months, cool and dry, original unopened packs"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 60,
+     "label": "60 min at 20 °C"
+    },
+    "adhesion": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "System component of Nafufill KM 250 / KM 230 (hand application requires KMH as bond coat). Dry mortar density 1.7 kg/dm³. Not sold in 25 kg bags (5 kg and 20 kg). Adhesive tensile strength not printed. MC also offers the two-component Nafufill MK (active corrosion protection coating)."
+  },
+  {
+   "slot": "wp/AQ1K",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-Proof 101 HS",
+   "type": "one-component, sulphate-resistant mineral sealing slurry, suitable as internal (negative-side) sealing to WTA leaflet 4-6",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-Proof_101_HS_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 13.03.2026"
+   },
+   "values": {
+    "components": "1 component; 4.8–5.2 L water per 25 kg (25 : 4.8–5.2)",
+    "positive_pressure": "impermeable to water under positive pressure (no pressure value stated)",
+    "negative_pressure": "impermeable to water under negative pressure; proof of suitability as internal sealing according to WTA leaflet 4-6 (no pressure value stated)",
+    "adhesion": null,
+    "crack_bridging": null,
+    "consumption": "1.7 kg/m² per mm (factory-dried mortar)",
+    "thickness": "total wet layer 3 mm (ground moisture / non-accumulating seepage water, ≥ 2.5 mm dry) or 3.5 mm (pressing water, ≥ 3 mm dry), in at least two coats",
+    "pot_life": "approx. 60 min at 20 °C",
+    "overcoat": "overworkable after approx. 3 h (1st to 2nd layer)",
+    "rainproof": "accessible after 12 h; resistant to pressurised water after 5 days; protect from rain and frost during curing",
+    "application_temp": "≥ 5 °C to ≤ 30 °C (air, substrate and material)",
+    "certification": "proof of suitability as internal sealing according to WTA leaflet 4-6 (observe WTA 4-6-14/D); sulphate-resistant",
+    "packaging": "25 kg bag",
+    "shelf_life": "at least 12 months, cool and dry, original unopened packs"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": "WTA 4-6 internal sealing, no bar value printed"
+    },
+    "pot_life": {
+     "v": 60,
+     "label": "approx. 60 min at 20 °C"
+    },
+    "consumption": {
+     "v": 1.7,
+     "label": "1.7 kg/m² per mm"
+    }
+   },
+   "notes": "Rigidity not stated on the sheet; no crack bridging claimed. Compressive 29 N/mm² and flexural 6 N/mm² at 7 d; fresh density approx. 2 kg/dm³; thermal resistance −20 to +70 °C. No PG-MDS / DIN 18533 / DIN 18535 reference on the TDS. Basic alternative MC-Proof 100 (hydraulic mineral slurry, 46 N/mm² 28 d, adhesion approx. 2.3 N/mm², 5 / 7 kg/m² for 2.5 / 3.5 mm, working time 120 min; TDS 05.11.2025) carries no certification — 101 HS chosen for the WTA 4-6 proof that matches AQUAFIN-1K."
+  },
+  {
+   "slot": "wp/AQ2K",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-Proof 501 flex",
+   "type": "two-component flexible, crack-bridging mineral sealing slurry for buried components and composite sealing under tiles",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-Proof_501_flex_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 05.06.2025; product page https://www.mc-bauchemie.com/products/waterproofing/sealing-slurries (ZDB classes)"
+   },
+   "values": {
+    "components": "2 components; powder : liquid = 2 : 1 by weight",
+    "crack_bridging": null,
+    "positive_pressure": "watertight up to 1 bar",
+    "negative_pressure": null,
+    "adhesion": null,
+    "elongation": null,
+    "vapour": null,
+    "co2": null,
+    "consumption": "1.6 kg/m² per mm",
+    "thickness": "wet layer 2.5 mm (ground moisture / non-accumulating seepage water, ≥ 2.5 mm dry, as printed) or 3.5 mm (pressing water, ≥ 3 mm dry); at least two coats",
+    "pot_life": "approx. 30 min at 20 °C",
+    "application_temp": "≥ 5 °C and ≤ 30 °C (air, substrate and material)",
+    "certification": "TDS: observe WTA leaflet 4-6-05/D and the mineral-sealing-slurry guideline; product page: tested for ZDB stress classes A0, A, B0 and B (composite sealing under tiles)",
+    "packaging": "20 kg bag (powder) + 10 kg liquid",
+    "shelf_life": "12 months, cool and dry, original unopened packs; protect from frost"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": null,
+     "label": "described as crack-bridging, no value printed"
+    },
+    "positive_pressure": {
+     "v": 1,
+     "label": "up to 1 bar"
+    },
+    "elongation": {
+     "v": null,
+     "label": null
+    }
+   },
+   "notes": "MC's only two-component flexible sealing slurry on the international range; the TDS gives no EN 14891 classes, no crack-bridging width, no adhesion and no elongation ('flexible and crack-bridging', 'open to diffusion'). Overworkable after approx. 4 h; fresh density approx. 1.6 kg/dm³; thermal resistance −20 to +70 °C; no water may be added. One-component flexible alternatives: MC-Proof 600 Xtra (PG-MDS/FPD, DIN 18533, OS 5b, crack-bridging down to −20 °C) and MC-Proof 601 HT (to +70 °C)."
+  },
+  {
+   "slot": "wp/RB400",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-Proof 800 Next",
+   "type": "two-component reactive, flexible polymer-modified thick coating (FPD) for mineral substrates, bitumen-free (reactive sealant / FPMC range)",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-Proof_800_Next_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 25.09.2026"
+   },
+   "values": {
+    "components": "2 components; A : B = 1 : 1.5 kg:kg (12 kg liquid + 18 kg powder)",
+    "crack_bridging": null,
+    "positive_pressure": null,
+    "negative_pressure": null,
+    "adhesion": null,
+    "co2": null,
+    "rainproof": "rainproof after approx. 4 h (23 °C, 50 % r.h.); mechanically resilient after approx. 24 h",
+    "consumption": "approx. 1.3 kg/m² per mm dry film (2.0 mm dry = 2.6 kg/m²; 3.0 mm = 3.9 kg/m²; 4.0 mm = 5.2 kg/m²); mixture density 1.3 kg/dm³",
+    "thickness": "dry film 2.0 mm (DIN 18533 W1-E on concrete, W4-E; MDS W1-E to W2-B) to 3.0 mm (FPD W1-E, W3-E with reinforcement) and 4.0 mm (FPD W2.1-E with Nafuflex GRID 25 NF; joints PG-FBB); max. 5 mm wet per coat, min. two coats",
+    "application_temp": "air and substrate ≥ 5 °C to ≤ 30 °C",
+    "certification": "tested to PG-MDS/FPD/FBB; waterproofing to DIN 18533 water exposure classes W1-E, W2.1-E, W3-E, W4-E, W1-B, W2-B; EMICODE EC1Plus",
+    "packaging": "30 kg set (12 kg liquid component A + 18 kg powder component B)",
+    "shelf_life": "at least 12 months, cool and dry, unopened"
+   },
+   "charts": {
+    "crack_bridging": {
+     "v": null,
+     "label": "'crack bridging due to high flexibility', no value printed"
+    },
+    "positive_pressure": {
+     "v": null,
+     "label": null
+    },
+    "rainproof": {
+     "v": 4,
+     "label": "approx. 4 h (23 °C, 50 % r.h.)"
+    }
+   },
+   "notes": "Bitumen-free per MC's category description of 'Reactive sealants (FPMC)' (mc-bauchemie.com/products/waterproofing); the TDS itself does not use the word. Working time approx. 45 min (23 °C); drying approx. 24 h; sd (H₂O) approx. 2 m; compressive 3 N/mm²; radon-resistant. Backfill only after full drying verified on a reference sample. No crack-bridging width or water-pressure values on the TDS. MC-Proof protect (wp/OS) is a second 2-c FPD with OS 5b approval."
+  },
+  {
+   "slot": "wp/OS",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-Proof protect",
+   "type": "two-component flexible polymer-modified thick coating (FPD) for waterproofing and surface protection system OS 5b",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-Proof_protect_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 15.10.2026"
+   },
+   "values": {
+    "components": "2 components; 1 : 1 kg:kg",
+    "crack_bridging": "'high' (no static/dynamic class or width printed)",
+    "adhesion": null,
+    "vapour": "H₂O diffusion-equivalent air layer < 2 m at 2 mm (OS 5b requirement < 5 m)",
+    "co2": "CO₂ diffusion-equivalent air layer > 200 m at 2 mm (OS 5b requirement > 50 m)",
+    "rainproof": "after approx. 4 h (23 °C, 50 % r.h.); resilient to load after approx. 24 h",
+    "consumption": "approx. 1.2 kg/m² per mm; OS 5b: 2.7 kg/m² (2.3 mm wet / 2.0 mm dry)",
+    "thickness": "OS 5b 2.0 mm dry film; waterproofing 2.0–4.0 mm dry by water load (MDS / FPD); at least two coats",
+    "pot_life": "approx. 30 min (23 °C, 50 % r.h.)",
+    "overcoat": "second coat wet-on-wet on ground moisture / non-rising damp; on rising damp only after the first coat is dry enough",
+    "application_temp": "≥ 1 °C and ≤ 40 °C (air, substrate and material)",
+    "certification": "surface protection system OS 5b; abP to PG-MDS/FPD (flexible polymer-modified thick coating and flexible mineral sealing slurry); abP PG-FBB (waterproof joint sealing); DIN 18533 W1-E to W4-E, DIN 18535 W1-B/W2-B scopes",
+    "packaging": "20 kg hobbock",
+    "shelf_life": "at least 12 months, dry, 1–40 °C"
+   },
+   "charts": {
+    "co2": {
+     "v": 200,
+     "label": "> 200 m at 2 mm"
+    },
+    "crack_bridging": {
+     "v": null,
+     "label": "'high', no class/width printed"
+    }
+   },
+   "notes": "Chosen over the one-component MC-Proof 600 Xtra (flexible mineral slurry, also OS 5b) because AQUAFIN-OS is two-component. Mixture density approx. 1.2 kg/dm³; max. pressure load 2.5 N/mm²; VOC ≤ 10 g/l. EN 1504-2 / EN 1062-7 classes and EN 1542 adhesion are not printed on this TDS. Layer-thickness allowance ≥ 25 % under DIN 18533."
+  },
+  {
+   "slot": "cr/IM",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "ombran W",
+   "type": "rapid-curing, expanding, cement-bound one-component plugging mortar to stop local water infiltration",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/ombran_W_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 04.07.2025"
+   },
+   "values": {
+    "class": "rapid-curing expanding plugging mortar, one component; WW repair mortar B1-XWW3 and WW jointing mortar XWW3 (DIN 19573:2016-03); NOT crystalline",
+    "compressive": "approx. 8 N/mm² (1 h); ≥ 16 N/mm² (24 h); ≥ 30 N/mm² (7 d and 28 d) (lab, 21 ± 2 °C, 50 % r.h.)",
+    "thickness": null,
+    "consumption": null,
+    "water": "powder : water = 1 : 0.2 by mass (approx. 0.2 L per kg dry mortar)",
+    "pot_life": "working time approx. 60 seconds",
+    "overcoat": null,
+    "application_temp": "5–30 °C (air, substrate and material)",
+    "packaging": "15 kg tub",
+    "shelf_life": "at least 6 months, original sealed packs, dry, 5–25 °C"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 1,
+     "label": "approx. 60 s working time"
+    }
+   },
+   "notes": "MC has no crystalline repair mortar; ombran W (Ombran sewer-rehabilitation range) is MC's plugging mortar for water-bearing defects, entered like the other brands' plug mortars in this slot. Expands on curing in contact with water; fresh density approx. 2.2 kg/dm³; max. grain approx. 1.2 mm; flexural approx. 2.5 (1 h) / ≥ 4 (24 h) / ≥ 6 N/mm² (7–28 d); volume stability to DIN 1164. Consumption printed only as 'kg/m²/mm depending on substrate' without a figure. Hand-mixed approx. 30 s in small batches. For areal seepage MC offers ombran IW (superfast sealing mortar)."
+  },
+  {
+   "slot": "rc/F20",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "ombran W",
+   "type": "rapid-curing, expanding, cement-bound one-component plugging mortar to stop local water infiltration",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/ombran_W_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 04.07.2025"
+   },
+   "values": {
+    "components": "1 component (cement-bound ready mix); powder : water = 1 : 0.2 by mass (approx. 0.2 L water per kg)",
+    "setting": null,
+    "pot_life": "working time approx. 60 seconds",
+    "compressive": "approx. 8 N/mm² (1 h); ≥ 16 N/mm² (24 h); ≥ 30 N/mm² (7 d); ≥ 30 N/mm² (28 d) (lab, 21 ± 2 °C, 50 % r.h.)",
+    "consumption": null,
+    "application_temp": "5–30 °C (air, substrate and material)",
+    "packaging": "15 kg tub",
+    "shelf_life": "at least 6 months, original sealed packs, dry, 5–25 °C"
+   },
+   "charts": {
+    "compressive": {
+     "v": 16,
+     "label": "≥ 16 N/mm² at 24 h"
+    },
+    "pot_life": {
+     "v": 1,
+     "label": "approx. 60 s"
+    }
+   },
+   "notes": "Expanding (swelling) on curing when exposed to water — corresponds to FIX-20-T's swellable plug. Setting start/end times not printed (only 60 s working time and strength development). DIN 19573 WW repair mortar B1-XWW3 / jointing mortar XWW3. Fresh density approx. 2.2 kg/dm³ (consumption per litre of void not printed). Not EN 1504-3 classified."
+  },
+  {
+   "slot": "rc/IC",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "none": true,
+   "reason": "No crystalline waterproofing slurry in MC's international range: the sealing slurries (MC-Proof 100, 101 HS, 501 flex, 600 Xtra, 601 HT, 601 HT Flex) are mineral / polymer-modified slurries, none crystalline; MC's crystalline technology is offered only as concrete admixtures (Centrament Proof CL 1 / CP 10, see ca/ slots)."
+  },
+  {
+   "slot": "rc/IM",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "none": true,
+   "reason": "No crystalline repair mortar for chased cracks and coves (no crystalline surface-applied products at all — crystalline only as the admixtures Centrament Proof CL 1 / CP 10); MC's plugging mortar ombran W is entered under rc/F20 and cr/IM."
+  },
+  {
+   "slot": "ca/CL170",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "Centrament Proof CL 1",
+   "type": "liquid crystalline waterproofing admixture with plasticising effect",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/Centrament_Proof_CL_1_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 14.07.2026"
+   },
+   "values": {
+    "form": "liquid (yellowish)",
+    "dosage": "15–25 g per kg cement (recommended range)",
+    "density": "approx. 1.1 ± 0.02 kg/dm³",
+    "chloride": "≤ 0.1 % by mass",
+    "self_healing": "heals cracks up to 0.4 mm",
+    "setting_effect": "plasticising admixture (EN 934-2: T2): improved workability, similar or higher final compressive strength than the reference concrete",
+    "min_cement": "cement content ≥ 350 kg/m³ recommended (w/c ≤ 0.45 recommended)",
+    "dosing_point": "add at the end of the mixing process, with or after the last portion of mixing water; mix a further 60 s after all admixtures have been added",
+    "application_temp": null,
+    "packaging": "30 kg canister, 200 kg drum, 1,000 kg container",
+    "certification": "EN 934-2: T2 (plasticising admixture); notified body KIT / MPA Karlsruhe 0754; production control EN ISO 9001"
+   },
+   "charts": {
+    "dosage": {
+     "v": 2.0,
+     "label": "15–25 g/kg cement (1.5–2.5 %)"
+    },
+    "min_cement": {
+     "v": 350,
+     "label": "≥ 350 kg/m³ (recommended)"
+    }
+   },
+   "notes": "Launched 2021 as part of the Centrament Proof C line (press release 24.03.2021) with the powder CP 10. Alkali content max. 15.0 % by mass (as printed); values at 21 ± 2 °C, 50 % r.h. Can be combined with MC-PowerFlow superplasticiser or Centrament Proof HL 20 (additional hydrophobic effect); lab trials for low-clinker / high-fly-ash mixes; mild surface efflorescence is normal. Shelf life ≥ 12 months. MC's minimum is a single recommended figure (≥ 350 kg/m³) rather than per cement type."
+  },
+  {
+   "slot": "ca/CP360",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "Centrament Proof CP 10",
+   "type": "powdered crystalline waterproofing admixture with plasticising effect",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/Centrament_Proof_CP_10_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 09.07.2026"
+   },
+   "values": {
+    "form": "powder (grey)",
+    "dosage": "5–15 g per kg cement (recommended range)",
+    "density": null,
+    "chloride": "≤ 0.1 % by mass",
+    "self_healing": "heals microcracks up to 0.4 mm (400 µm)",
+    "min_cement": "cement content ≥ 350 kg/m³ recommended (w/c ≤ 0.45 recommended)",
+    "dosing_point": "add at the start of mixing, preferably to the dry sand and aggregate; mix ≥ 45 s before adding cement, water and liquid admixtures, then a further 60 s after mixing water and superplasticiser",
+    "application_temp": null,
+    "packaging": "18 kg bags",
+    "certification": "no CE / EN 934-2 statement on the TDS; notified body KIT / MPA Karlsruhe 0754 named; production control EN ISO 9001"
+   },
+   "charts": {
+    "dosage": {
+     "v": 1.0,
+     "label": "5–15 g/kg cement (0.5–1.5 %)"
+    },
+    "self_healing": {
+     "v": 0.4,
+     "label": "up to 0.4 mm"
+    },
+    "min_cement": {
+     "v": 350,
+     "label": "≥ 350 kg/m³ (recommended)"
+    }
+   },
+   "notes": "Not described as supplied in water-soluble bags (18 kg bags). Plasticising effect (improved workability); early strength may be slightly accelerated or retarded; mild efflorescence normal. Alkali content < 15.0 % by mass. Shelf life ≥ 12 months. MC press release (24.03.2021): CP 10 is easier to store and has a longer shelf life than the liquid CL 1, which is easier to dose automatically."
+  },
+  {
+   "slot": "pf/GBM",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-DUR 1200 VK",
+   "type": "two-component, low-viscosity, transparent epoxy resin, highly fillable with mineral aggregates (primer, scratch coat and binder for reaction-resin mortars)",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-DUR_1200_VK_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 16.04.2026"
+   },
+   "values": {
+    "basis": "two-component epoxy resin, low viscosity, transparent",
+    "mix_ratio": "3 : 1 by mass (base : hardener)",
+    "viscosity": "approx. 600 mPa·s (20 °C, 50 % r.h.)",
+    "pot_life": "approx. 30 min (1 kg) / 25 min (5 kg) / 20 min (10 kg) / 15 min (30 kg) at 20 °C, 50 % r.h.",
+    "overcoat": "overcoat within 24 h; otherwise broadcast the fresh layer with oven-dried quartz sand 0.1–0.3 mm (no minimum stated); accessible after approx. 12 h",
+    "compressive": "approx. 100 N/mm² at 7 d (mortar 1 : 8 pbw with MC-Spezialkörnung SK 1)",
+    "flexural": "approx. 30 N/mm² at 7 d (mortar 1 : 8 pbw with MC-Spezialkörnung SK 1)",
+    "adhesion": null,
+    "max_moisture": null,
+    "consumption": "primer approx. 300 g/m²; bond coat approx. 300–500 g/m² (needed from 1 : 4); scratch/levelling coat approx. 600 g/m² (1 : 1 with quartz sand 0.1–0.3 mm); mortars self-levelling up to 1 : 3, liquid-tight up to approx. 1 : 10 (SK 1), up to approx. 1 : 15",
+    "application_temp": "air, substrate and material ≥ 10 °C and ≤ 30 °C; r.h. ≤ 85 %; ≥ 3 K above dew point",
+    "packaging": "6 × 1 kg, 5 kg, 10 kg, 30 kg",
+    "shelf_life": "24 months, cool (below 20 °C), dry, frost-free"
+   },
+   "charts": {
+    "compressive": {
+     "v": 100,
+     "label": "approx. 100 N/mm² (mortar 1 : 8 with SK 1, 7 d)"
+    },
+    "flexural": {
+     "v": 30,
+     "label": "approx. 30 N/mm² (mortar 1 : 8 with SK 1, 7 d)"
+    },
+    "pot_life": {
+     "v": 30,
+     "label": "approx. 30 min (1 kg) – 15 min (30 kg) at 20 °C"
+    }
+   },
+   "notes": "MC's standard epoxy primer/binder. Strengths are for the 1 : 8 resin mortar (not neat resin), so not directly comparable with neat-resin values. Tested in surface-protection system OS 8 (TR-IH 2020 / DIN EN 1504-2); VOC ≤ 500 g/l (2004/42 All/j); full resilience 7 d. Substrate moisture refers to MC leaflet 'Industrial Flooring – Substrate and Substrate Preparation' (no limit on the TDS). Thixotropic with 3–5 % MC-Stellmittel TX 19."
+  },
+  {
+   "slot": "pf/SG3",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-DUR 1365 HBF",
+   "type": "two-component filled epoxy resin primer that bonds to damp, mineral and other difficult substrates; saponification- and chemical-resistant",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-DUR_1365_HBF_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 21.08.2026"
+   },
+   "values": {
+    "basis": "two-component filled epoxy resin",
+    "components": "2",
+    "mix_ratio": "3 : 1 by mass (base : hardener)",
+    "viscosity": "approx. 12,000 mPa·s (20 °C, 50 % r.h.)",
+    "pot_life": "approx. 35 min (20 °C, 50 % r.h.)",
+    "overcoat": "12–24 h between coats and before overcoating (20 °C, 50 % r.h.)",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "negative_pressure": null,
+    "max_moisture": "suitable for damp mineral substrates (no numeric limit)",
+    "consumption": "approx. 0.8–1 kg/m² per operation (0.6–0.8 kg/m² on tiles); quartz-sand broadcast 0.3–0.8 mm approx. 1,000–2,000 g/m²",
+    "application_temp": "air, substrate and material ≥ 10 °C and ≤ 30 °C; r.h. ≤ 85 %",
+    "packaging": "10 kg",
+    "shelf_life": "12 months, cool (below 20 °C), dry, frost-free"
+   },
+   "charts": {
+    "negative_pressure": {
+     "v": null,
+     "label": null
+    },
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": 24,
+     "label": "12–24 h"
+    }
+   },
+   "notes": "MC's epoxy primer for damp substrates; the TDS does not claim resistance to negative water pressure or an osmosis-barrier function, and gives no strengths. Density 1.34 g/cm³; green colour; VOC ≤ 500 g/l (2004/42 j). Must not be used under MC-DUR TopSpeed (intermediate MC-DUR 1200 VK required). Water-based alternative for dry/damp substrates: MC-DUR 1101 (2 : 1, 900 mPa·s, pot life 45 min, mortar 1 : 4 compressive approx. 38–45 N/mm² at 7 d, VOC ≤ 140 g/l)."
+  },
+  {
+   "slot": "pf/B351",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-DUR 1200",
+   "type": "two-component pigmented epoxy resin coating for industrial areas, 1–6 mm on mineral substrates (filled / broadcast)",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-DUR_1200_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 11.09.2025"
+   },
+   "values": {
+    "basis": "two-component pigmented epoxy resin",
+    "mix_ratio": "3 : 1 by mass (base : hardener); for layers > 1 mm filled 1 : 0.5 pbw with oven-dried quartz sand 0.1–0.3 mm",
+    "viscosity": "approx. 1,900 mPa·s (20 °C, 50 % r.h.)",
+    "pot_life": "40 min (10 kg) / 30 min (30 kg) at 20 °C, 50 % r.h.",
+    "overcoat": "applied 12–24 h after the MC-DUR 1200 VK scratch coat",
+    "cure": "accessible after approx. 12 h; full resilience after 7 days (20 °C, 50 % r.h.)",
+    "compressive": null,
+    "flexural": null,
+    "adhesion": null,
+    "hardness": null,
+    "fire": null,
+    "slip": "higher surface friction by broadcasting quartz sand 0.3–0.8 mm or coarser (no R class stated)",
+    "consumption": "approx. 1.4 kg/m² per mm; bond coat approx. 1–1.5 kg/m²; broadcast approx. 5–6 kg/m² quartz sand",
+    "application_temp": "air, substrate and material ≥ 8 °C and ≤ 30 °C; r.h. ≤ 85 %; ≥ 3 K above dew point",
+    "packaging": "10 kg and 30 kg",
+    "shelf_life": "18 months, cool (below 20 °C), dry, frost-free"
+   },
+   "charts": {
+    "compressive": {
+     "v": null,
+     "label": null
+    },
+    "flexural": {
+     "v": null,
+     "label": null
+    },
+    "overcoat": {
+     "v": 12,
+     "label": "12–24 h after scratch coat"
+    }
+   },
+   "notes": "MC's universal pigmented epoxy floor coating (system with MC-DUR 1200 VK). No mechanical values, hardness, fire or slip class on the TDS. Density 1.37 g/cm³; VOC ≤ 500 g/l. If mechanical values are needed, the highly chemical-resistant MC-DUR 1800 (5 : 1, approx. 4,000 mPa·s, compressive approx. 80 N/mm², flexural approx. 40 N/mm², pot life approx. 20 min) publishes them."
+  },
+  {
+   "slot": "pf/V360",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-DUR 111",
+   "type": "water-based two-component epoxy resin dispersion, pigmented, semi-gloss floor/wall sealer",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-DUR_111_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 17.07.2026"
+   },
+   "values": {
+    "basis": "water-based two-component epoxy resin dispersion, pigmented",
+    "mix_ratio": "17 : 10 by mass (base : hardener)",
+    "viscosity": "approx. 1,200 mPa·s (20 °C, 50 % r.h.)",
+    "pot_life": "approx. 30 min (20 °C, 50 % r.h.)",
+    "overcoat": "min. 12 h, max. 48 h (20 °C), also between primer/scratch coat and first coat",
+    "cure": "accessible after approx. 12 h; full resilience after 7 days (20 °C, 50 % r.h.)",
+    "adhesion": null,
+    "slip": null,
+    "max_moisture": "dry and slightly damp mineral substrates without visible moisture (no CM limit stated)",
+    "consumption": "approx. 0.25–0.3 kg/m² per operation (approx. 100 µm at 250 g/m²)",
+    "application_temp": "air, substrate and material ≥ 10 °C and ≤ 30 °C; r.h. ≤ 85 %; ≥ 3 K above dew point",
+    "packaging": "5 kg and 10 kg",
+    "shelf_life": "12 months, cool (below 20 °C), dry, frost-free"
+   },
+   "charts": {
+    "adhesion": {
+     "v": null,
+     "label": null
+    },
+    "max_moisture": {
+     "v": null,
+     "label": "slightly damp, no CM value"
+    },
+    "pot_life": {
+     "v": 30,
+     "label": "approx. 30 min at 20 °C"
+    }
+   },
+   "notes": "Primer/scratch coat is the transparent version MC-DUR 111 transparent (or MC-DUR 111 eco with up to 5 % water for priming); no dilution of the pigmented sealer stated. AgBB 2018, GEV-EMICODE EC1PLUS R, VOC ≤ 140 g/l; density approx. 1.35 g/cm³; also tunnel coating per ÖBV leaflet. MC's transparent water-dispersed epoxy primer/impregnation is MC-DUR 1177 WV-A (56 : 44, 250 mPa·s, pot life approx. 60 min, 0.1–0.4 kg/m²)."
+  },
+  {
+   "slot": "pf/V2370",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-PowerPro HCR",
+   "type": "two-component pigmented duroelastic reaction-resin coating (polymer system with integrated DPM technology) for chemically loaded surfaces in sewage, agriculture and waste management; resistant to biogenic sulphuric acid",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-PowerPro_HCR_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 24.10.2026 (as printed)"
+   },
+   "values": {
+    "basis": "two-component pigmented polymer reaction resin, duroelastic, nonylphenol-free (resin type not named on the TDS; cleaning with MC-Verdünnung EP); 94 vol.-% solids",
+    "mix_ratio": "10 : 3 by mass (base : hardener)",
+    "density": "1.24 g/cm³ (mixture, 20 °C, 50 % r.h.)",
+    "hardness": null,
+    "pot_life": "60 min at 10 °C; 45 min at 20 °C; 30 min at 30 °C",
+    "overcoat": "primer → base filler 2–4 h; base filler → 1st roller coat 12–24 h; 1st → 2nd roller coat 12–24 h",
+    "cure": "accessible after 24 h; full resilience after 7 days",
+    "max_moisture": "cement-based substrates and steel (no moisture limit stated)",
+    "chemical": "resistant to biogenic sulphuric acid corrosion, liquid manure, slurry and silage seepage (no itemised list or pH range)",
+    "consumption": "standard 3-coat build: base filler 250–350 g/m² (+ 3 % MC-Stellmittel TX 19), 2nd and 3rd roller coat 450–500 g/m² each (dry film ≥ 700 µm); on steel 2 × approx. 300 g/m²",
+    "application_temp": "air, substrate and material ≥ 8 °C and ≤ 30 °C; r.h. ≤ 85 %; ≥ 3 K above dew point",
+    "packaging": "10 kg",
+    "shelf_life": "at least 12 months, original sealed packs, 8–20 °C, dry"
+   },
+   "charts": {
+    "pot_life": {
+     "v": 45,
+     "label": "45 min at 20 °C"
+    },
+    "overcoat": {
+     "v": 12,
+     "label": "12–24 h between roller coats"
+    }
+   },
+   "notes": "Named by MC for sewage plants (enclosed gas zones, biogenic sulphuric acid); crack bridging static A2 (23 °C), dynamic B2 (−20 °C) and B3.1 (23 °C); EN 1504-2 principles 1, 2, 5, 8; tested to DIBt principles for JGS (manure/silage) coatings; viscosity 3,000 mPa·s; VOC < 500 g/l. The TDS does not call it an epoxy — if a strictly epoxy counterpart is required, MC-DUR 1800 (highly chemical-resistant pigmented EP floor coating, no media list on TDS) is the alternative. Shore hardness not printed."
+  },
+  {
+   "slot": "pf/IPU",
+   "group": "MC-Bauchemie",
+   "brand": "MC-Bauchemie",
+   "product": "MC-FLEX PU 22 Construct",
+   "type": "one-component, moisture-curing polyurethane joint sealant, thixotropic, paintable, UV-resistant",
+   "market": "International (MC-Bauchemie Germany, English TDS)",
+   "source": {
+    "url": "https://pim.mc-bauchemie.de/media/MCBAUCHEMIEData/DO/base/MC-FLEX_PU_22_Construct_DE_DE_EN_TDS.pdf",
+    "version": "Technical datasheet, edition 01.10.2026"
+   },
+   "values": {
+    "basis": "one-component polyurethane, moisture-curing",
+    "density": "approx. 1.15 g/cm³",
+    "hardness": "Shore A approx. 40 (after 7 days)",
+    "movement": "±25 % (ISO 9047); ±35 % (ASTM C 719); total deformation 25 % of the initial joint width",
+    "tensile": "elongation at break ≥ 500 % (DIN 53504 S2); recovery > 70 % (EN 27389); tensile strength not stated",
+    "skin_time": "approx. 20 min (23 °C, 50 % r.h.)",
+    "cure": "approx. 2 mm per day (23 °C, 50 % r.h.)",
+    "service_temp": "> −30 °C to < 80 °C",
+    "consumption": "joint width generally 10–35 mm; consumption (ml/m) = width × depth, e.g. 10 × 10 mm 100 ml/m, 20 × 10 mm 200 ml/m, 30 × 15 mm 450 ml/m",
+    "application_temp": "≥ 5 °C to ≤ 35 °C (air and substrate)",
+    "packaging": "600 ml sausage (box of 20); 280 ml cartridge (box of 12)",
+    "shelf_life": "at least 12 months, original sealed packs, 5–25 °C, dry"
+   },
+   "charts": {
+    "hardness": {
+     "v": 40,
+     "label": "Shore A approx. 40 (7 d)"
+    },
+    "movement": {
+     "v": 25,
+     "label": "±25 % (ISO 9047); total deformation 25 %"
+    },
+    "service_temp": {
+     "v": 80,
+     "label": "> −30 to < 80 °C"
+    }
+   },
+   "notes": "For horizontal and vertical joints indoors and outdoors. ASTM C920 Type S, Grade NS, Class 35, Use T, NT, A, M. Primer Mycoflex 251 on porous substrates (flash-off > 1 h, < 6 h) or MC-DUR 1177 WV-A; not for marble/natural stone. Width : depth ratio not printed (backfill with Mycoflex joint filler / PE). EN 15651-4 / ISO 11600 class not stated. For chemically loaded floor joints MC offers the 2-c polysulphide Mycoflex 4000 VE (EN 15651-4, 25 %)."
+  }
+ ]
+}

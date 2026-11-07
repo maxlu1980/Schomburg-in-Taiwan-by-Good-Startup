@@ -1,0 +1,167 @@
+SLOT wp/OS AQUAFIN-OS — crack-bridging cementitious surface protection system, OS 5b / EN 1504-2
+competitors 10, listed 1, none: Xypex, Kryton, Penetron, Oriental Yuhong, Denka, Sobute
+
+== components | OURS: 2 components; A : B = 2 : 1 by weight
+   Sika                               SikaTop®-126 Pro               : 2 components (A: polymer dispersion; B: special cement mix); A : B = 1 : 1.3 by weight
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : One-component; 5.6-6.2 litres of water per 15 kg bag (38-41%)
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : Two-component (Comp. A powder, Comp. B liquid), pre-batched 20 kg double pack; ratio not stated
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : 2 components: cementitious powder (18.2 kg) + liquid polymer (5.0 kg), supplied as matched packs
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : 2 components; A : B = 1 : 1 by weight
+   Vandex (RPM)                       VANDEX OS 5                    : 2: VANDEX OS 5 powder 20 kg + VANDEX ELASTICIZER PK 75 liquid 10 kg (2 : 1 by mass)
+   Volteco (RPM)                      CP1                            : 2: powder + liquid resin (white latex); mix ratio not printed (do not alter powder/resin ratio)
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : 2 components: grey powder (cement, fine silica) + white acrylic polymer liquid; 35 kg set = 20 kg powder + 15 kg liquid
+   Mapei                              Mapelastic Smart               : Two-component; A:B = 2:1; fluid-brushable consistency
+   MC-Bauchemie                       MC-Proof protect               : 2 components; 1 : 1 kg:kg
+== crack_bridging | OURS: static class A4 (2.0 mm) at +20 °C; dynamic class B2 at −20 °C after 2000 h UV (DIN EN 1062-7)
+   Sika                               SikaTop®-126 Pro               : class B2 (−20 °C) declared to EN 1504-2 (DoP); static class not declared; PG FPD crack class RÜ3-E / R3-B (2.0 mm)
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : Static (EN 1062-7): Class A4 (23 C), Class A3 (-10 C); dynamic (EN 1062-7): Class B3.1 (23 C), Class B3.1 (-10 C)
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : None
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : static crack accommodation > 1.0 mm (after 21 d at 23 °C + 28 d immersion; 2 × 1 mm wet coats; method not stated)
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : class B2 at −20 °C (static class / EN 1062-7 not printed)
+   Vandex (RPM)                       VANDEX OS 5                    : static 2.0 mm at +4 °C and at −20 °C; class B2 (−20 °C); dynamic 0.10–0.15 mm after 2000 h UV weathering (−20 °C, 1000 cycles)
+   Volteco (RPM)                      CP1                            : static (EN 1062-7): class A4, 1.3 mm; with Flexonet mesh A5, 2.9 mm; with Xnet mesh A4, 1.4 mm
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : bridges cracks (no value printed)
+   Mapei                              Mapelastic Smart               : > 2 mm (standard not stated on page); with Mapetex Sel reinforcement 'exceeds 3 mm' (Technical Notebook)
+   MC-Bauchemie                       MC-Proof protect               : 'high' (no static/dynamic class or width printed)
+== adhesion | OURS: ≥ 0.8 N/mm² (DIN EN 1542)
+   Sika                               SikaTop®-126 Pro               : ≥ 0.8 N/mm² mean (single value ≥ 0.5 N/mm²), pull-off adhesion (DoP EN 1504-2); also ≥ 0.8 (0.5) N/mm² after thermal compatibility
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : > 1.5 MPa (EN 1542); > 0.5 N/mm2 initial and after conditioning (EN 14891)
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : None
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : > 1.5 (pull-off, EN 1504-2, flexible system with trafficking; unit not printed)
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : > 0.8 N/mm² (concrete)
+   Vandex (RPM)                       VANDEX OS 5                    : ≥ 0.8 MPa (EN 1542, 20 °C, dry storage); ≥ 0.6 MPa after freeze-thaw / de-icing salt
+   Volteco (RPM)                      CP1                            : 1.05 MPa (EN 1542; requirement ≥ 0.8 MPa)
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : > 1 N/mm² to concrete (ASTM D 4541)
+   Mapei                              Mapelastic Smart               : None
+   MC-Bauchemie                       MC-Proof protect               : None
+== vapour | OURS: Sd class I, > 50 m (as printed)
+   Sika                               SikaTop®-126 Pro               : water vapour permeability class I (DoP EN 1504-2; no Sd value printed)
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : Class I (SD< 5 m) (EN ISO 7783)
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : None
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : class I, < 5 m (EN 1504-2)
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : Sd H₂O < 5 m
+   Vandex (RPM)                       VANDEX OS 5                    : class I, sD > 5 m (as printed)
+   Volteco (RPM)                      CP1                            : Class I, Sd 1.03 m (EN 7783-2)
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : None
+   Mapei                              Mapelastic Smart               : None
+   MC-Bauchemie                       MC-Proof protect               : H₂O diffusion-equivalent air layer < 2 m at 2 mm (OS 5b requirement < 5 m)
+== co2 | OURS: Sd > 200 m
+   Sika                               SikaTop®-126 Pro               : Sd > 50 m (CO₂ permeability, DoP EN 1504-2)
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : SD: 104 m (SD > 50m) (EN 1062-6)
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : > 50 m (BS EN 1062-6 Method A)
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : > 50 m (EN 1504-2); > 50 m after 5000 h QUV (Taywood method)
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : Sd CO₂ > 200 m
+   Vandex (RPM)                       VANDEX OS 5                    : sD > 50 m; carbonation barrier per DIN EN 1062-6
+   Volteco (RPM)                      CP1                            : Sd 78 m (EN 1062-6; requirement > 50 m)
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : None
+   Mapei                              Mapelastic Smart               : None
+   MC-Bauchemie                       MC-Proof protect               : CO₂ diffusion-equivalent air layer > 200 m at 2 mm (OS 5b requirement > 50 m)
+== rainproof | OURS: 4 hours
+   Sika                               SikaTop®-126 Pro               : None
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : None
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : None
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : protect from rain until firm; no rainfall within 4 hours at 20 °C
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : after approx. 2 hours
+   Vandex (RPM)                       VANDEX OS 5                    : 4 h at 20 °C (curing condition 23 °C / 50 % r.h.)
+   Volteco (RPM)                      CP1                            : None
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : None
+   Mapei                              Mapelastic Smart               : None
+   MC-Bauchemie                       MC-Proof protect               : after approx. 4 h (23 °C, 50 % r.h.); resilient to load after approx. 24 h
+== consumption | OURS: approx. 5.5 kg/m² (OS 5b and EN 1504-2); approx. 1.8 kg/m² per mm
+   Sika                               SikaTop®-126 Pro               : approx. 2.65 kg/m² for OS 5b (≥ 2.0 mm dry film); approx. 1.33 kg/m² per mm
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : ~ 1.2 Kg/m2/mm of mixed product; ~ 0.9 Kg/m2/mm of powder product; one bag of 15 Kg covers approx. 8.3 m2 at 2 mm
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : ~1.8 kg/m2 at 1 mm thickness; ~2.7 kg/m2 at 1.5 mm
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : 1.8 kg/m² per 1 mm wet film (1 L/m²); recommended minimum 3.6 kg/m² in at least two coats
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : ≥ 2.5 kg/m² for ≥ 2 mm dry film; approx. 1.25 kg/m² per mm dry film (+ 0.5–1.5 kg/m² for filler / scratch coats)
+   Vandex (RPM)                       VANDEX OS 5                    : OS 5b / EN 1504-2 application: 5.5 kg/m² (3.0 mm); waterproofing 3.4–6.8 kg/m² (2–4 mm); wet density approx. 1.7 kg/l
+   Volteco (RPM)                      CP1                            : 2.5 kg/m² for 2 mm
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : approx. 20–25 m² per 35 kg set, two coats
+   Mapei                              Mapelastic Smart               : 1.6 kg/m2 per mm of thickness (trowel or roller); 2.2 kg/m2 per mm of thickness (spray)
+   MC-Bauchemie                       MC-Proof protect               : approx. 1.2 kg/m² per mm; OS 5b: 2.7 kg/m² (2.3 mm wet / 2.0 mm dry)
+== thickness | OURS: up to 3 mm per step
+   Sika                               SikaTop®-126 Pro               : OS 5b: ≥ 2.0 mm dry film (approx. 2.2 mm wet) in 2 coats; max. < 2 mm per coat
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : Layer thickness 0.5 - 1,5 mm (up to 5 mm for reprofiling); first layer approx. 0,5 mm, second layer approx. 1,5 mm; minimum total thickness 2 mm
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : 2 mm total applied thickness in minimum 2 layers (general); 1.5 mm total in minimum 2 layers (facade)
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : 1 mm wet film per coat, two coats
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : min. 2 mm dry film in at least 2 coats
+   Vandex (RPM)                       VANDEX OS 5                    : max. 2–3 mm per working step; 3.0 mm for OS 5b
+   Volteco (RPM)                      CP1                            : first coat approx. 1.5 mm, second coat approx. 0.5 mm (2 mm total)
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : dry film 1.2–1.5 mm
+   Mapei                              Mapelastic Smart               : Minimum applicable thickness 2 mm, applied in 2 coats
+   MC-Bauchemie                       MC-Proof protect               : OS 5b 2.0 mm dry film; waterproofing 2.0–4.0 mm dry by water load (MDS / FPD); at least two coats
+== pot_life | OURS: approx. 30 minutes
+   Sika                               SikaTop®-126 Pro               : approx. 45 min (+23 °C); approx. 60 min (+8 °C); approx. 25 min (+30 °C)
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : About 45 minutes at 20 C; about 30 minutes at 30 C
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : None
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : 1 hour at 20 °C
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : 50 minutes
+   Vandex (RPM)                       VANDEX OS 5                    : approx. 30 minutes at 20 °C
+   Volteco (RPM)                      CP1                            : workability 30 minutes at +20 °C
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : 45–60 minutes
+   Mapei                              Mapelastic Smart               : approximately 1 hour
+   MC-Bauchemie                       MC-Proof protect               : approx. 30 min (23 °C, 50 % r.h.)
+== overcoat | OURS: approx. 3 hours
+   Sika                               SikaTop®-126 Pro               : approx. 6 h at +23 °C (next coat only after the previous layer has dried — colour change to anthracite)
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : second layer after 2 hours (2-5 hours); tiles after 4-8 hours; water pressure or mechanical loads after 3 days
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : +20 C ~6 hours; +30 C ~3 hours
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : first coat firm and unmarkable: min. 4 hours at 20 °C / 50 % r.h. (1–16 h by conditions); no maximum
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : wall areas after approx. 120 min (23 °C / 50 % r.h.); through-dry 10 h
+   Vandex (RPM)                       VANDEX OS 5                    : next layer while the previous one is still green (depends on temperature and humidity; no fixed time)
+   Volteco (RPM)                      CP1                            : second coat after ≥ 4 hours (dry to touch); topcoats (PAINT AIR, PAINT PROTECTION, CP0) after ≥ 3 days at +20 °C / 60 % r.h.
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : subsequent coats after 4–6 hours; min. 7 days before screed or tiling
+   Mapei                              Mapelastic Smart               : 4-5 hours in good weather (Technical Notebook)
+   MC-Bauchemie                       MC-Proof protect               : second coat wet-on-wet on ground moisture / non-rising damp; on rising damp only after the first coat is dry enough
+== application_temp | OURS: approx. 5–30 °C
+   Sika                               SikaTop®-126 Pro               : +5 to +30 °C (air and substrate); ≥ 3 °C above dew point
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : +5 C min. / +35 C max. (material, ambient air and substrate)
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : +5 C min. / 45 C max. (ambient air and substrate)
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : min. 5 °C; max. 40 °C ambient
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : 5–30 °C
+   Vandex (RPM)                       VANDEX OS 5                    : min. +5 °C; not on frozen surfaces or in direct sunlight
+   Volteco (RPM)                      CP1                            : +5 to +30 °C (service −5 to +50 °C)
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : None
+   Mapei                              Mapelastic Smart               : +5C to +40C
+   MC-Bauchemie                       MC-Proof protect               : ≥ 1 °C and ≤ 40 °C (air, substrate and material)
+== certification | OURS: OS 5b (Rili-SIB / DIN V 18026); EN 1504-2
+   Sika                               SikaTop®-126 Pro               : CE as OS 5b (DI) surface protection system to EN 1504-2 / DIN V 18026; PG MDS and PG FPD test certificate; DIN 18533 / 18535; reaction to fire Efl
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : CE Marking and DoP to EN 1504-2 (coating); CE Marking and DoP to EN 14891; WRAS approval; Directive (EU) 2020/2184 (drinking water, subject to local regulation); EPD EN 1
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : Reaction to fire Class A2-s1,d0 (EN 13501-1); water permeability < 0.1 kg/(m2*h^0.5) (BS EN 1062-3); EN 1504-2, EN 14891, drinking water not stated
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : EN 1504-2 (principles 1.3, 2.2, 5.1, 8.2), CE; BS 6920 / WRAS approved for potable water; fire class A2
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : OS 5b per DIN EN 1504-2 and TR Instandhaltung; FPD (PG-FPD, RÜ-2); abP; MDS per DIN 18533; EMICODE EC1 PLUS; fire class E
+   Vandex (RPM)                       VANDEX OS 5                    : OS 5b; EN 1504-2:2004/ZA.1d,1e, CE (notified body 0761); DIN EN 1062-6; DIN EN 1062-11; P-SAC 02/5.1/17-290
+   Volteco (RPM)                      CP1                            : EN 1504-2 (DoP 0009): PI, MC, IR; Euroclass F; EPD 0298
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : no EN 1504-2 / OS 5b certification; tests to ASTM D 4541, ASTM D 2370, EN 12390-8
+   Mapei                              Mapelastic Smart               : EN 1504-2 coating (C) principles PI, MC and IR; EN 14891; EMICODE EC1 R Plus
+   MC-Bauchemie                       MC-Proof protect               : surface protection system OS 5b; abP to PG-MDS/FPD (flexible polymer-modified thick coating and flexible mineral sealing slurry); abP PG-FBB (waterproof joint sealing); D
+== packaging | OURS: combination pack
+   Sika                               SikaTop®-126 Pro               : 23 kg set: comp. A 10 kg plastic bucket + comp. B 13 kg bag
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : 15 kg bags
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : 20 kg double pack
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : 23.2 kg pack (18.2 kg powder bag + 5.0 kg liquid)
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : 24 kg combination pack
+   Vandex (RPM)                       VANDEX OS 5                    : 20 kg PE-lined paper bag (powder) + 10 kg PE container (liquid)
+   Volteco (RPM)                      CP1                            : 15 kg powder bags + 5.7 kg resin pails
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : 35 kg set (20 kg powder + 15 kg liquid)
+   Mapei                              Mapelastic Smart               : 30 kg units (20 kg bags + 10 kg tanks)
+   MC-Bauchemie                       MC-Proof protect               : 20 kg hobbock
+== shelf_life | OURS: min. 12 months
+   Sika                               SikaTop®-126 Pro               : 12 months from production (unopened, +5 to +30 °C)
+   Master Builders Solutions (Sika)   Sikalastic-6100 FX (formerly M : 12 months from production
+   Master Builders Solutions (Sika)   SikaTop-550 Seal (formerly Mas : 9 months from date of production
+   Fosroc (Saint-Gobain)              Nitocote® CM210                : 12 months unopened in dry storage (< 6 months at high temperature / humidity)
+   Weber (Saint-Gobain)               weber.tec Superflex OS 5b      : min. 12 months
+   Vandex (RPM)                       VANDEX OS 5                    : 12 months (dry / frost-free, unopened)
+   Volteco (RPM)                      CP1                            : None
+   Bostik (Arkema)                    BLOCK C750 BOSCOLASTIC (former : min. 12 months
+   Mapei                              Mapelastic Smart               : 12 months for Comp. A; 24 months for Comp. B
+   MC-Bauchemie                       MC-Proof protect               : at least 12 months, dry, 1–40 °C
+## chart co2 (m, higher) OURS 200 :: SikaTop®-126 Pro=50, Sikalastic-6100 FX (fo=104, SikaTop-550 Seal (form=50, Nitocote® CM210=50, weber.tec Superflex OS=200, VANDEX OS 5=50, CP1=78, MC-Proof protect=200
+## chart crack_bridging (mm, higher) OURS 2 :: Sikalastic-6100 FX (fo=2, Nitocote® CM210=1.0, CP1=1.3, Mapelastic Smart=2
+
+WHY:
+  - Classified as an OS 5b surface protection system (Rili-SIB / DIN V 18026) — the German class for crack-bridging protection of concrete; none of the comparison sheets claims the class.
+  - Dynamic crack bridging class B2 at −20 °C after 2,000 hours of UV weathering is published — the behaviour in winter and after ageing, not only the static value at +20 °C.
+  - CO₂ diffusion Sd > 200 m against 104 m (Sikalastic-6100 FX) and > 50 m (SikaTop-550 Seal): a carbonation brake of twice the thickness-equivalent.
+  - Consumption for the OS 5b build-up is published as a system value (approx. 5.5 kg/m²).
+
+LISTED: ParexLanko 228 LANKOLASTIC

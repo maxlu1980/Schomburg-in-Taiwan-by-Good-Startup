@@ -1,0 +1,184 @@
+/* ===== (V83) SCHOMBURG CIS for the game's controls — from the SCHOMBURG design system (tokens.json, components/bundle.css):
+   white and grey grounds; SCHOMBURG Red #e3000f for the one primary action and for the active state (#b3000c pressed); black #231f20 for text
+   and hairlines; blue #005baa for focus, progress and right answers; square corners; no shadows, no gradients on controls; Futura (Jost
+   stands in) Bold for labels, Book for small text, Light for running text; Noto Sans TC for Chinese. Circles only where the system allows
+   one: pictograms (coins, stamps, pins, dots) and the circular inset with a white ring (the minimap; the stick is drawn the same way). ===== */
+:root,.isle,.kin{--cis-red:#e3000f;--cis-redh:#b3000c;--cis-blue:#005baa;--cis-navy:#002f57;--cis-ice:#d4effc;--cis-ink:#231f20;--cis-g70:#5e5f62;--cis-g20:#d1d3d4;--cis-g10:#e6e7e8;--cis-cyan:#00aeef}
+.isle :focus-visible,.kin :focus-visible{outline:2px solid var(--cis-blue)!important;outline-offset:2px!important}
+.isle button,.isle .isle__btn,.isle .isle__opt,.isle .isle__chip,.isle .isle__ico svg{transition:background-color .15s,color .15s,border-color .15s}
+.isle .isle__ico:hover svg,.isle .isle__btn:hover,.isle .isle__btn:active,.isle .isle__opt:hover,.isle .isle__opt:active,.isle .isle__rot button:active{transform:none}
+
+/* ---- the HUD: white tiles with a black hairline over the city (the system's white button on a picture) ---- */
+.isle .isle__chip{background:#fff;border:1px solid var(--cis-ink);padding:5px 12px;font:700 14px/20px var(--font-sans);color:var(--cis-ink)}
+.isle .isle__chip span{color:var(--cis-red);font-weight:700}
+.isle .isle__ico svg{background:#fff;border:1px solid var(--cis-ink);stroke:var(--cis-ink);stroke-linecap:square;stroke-linejoin:miter}
+.isle .isle__ico:hover svg{background:var(--cis-ice)}
+.isle .isle__ico span{background:#fff;color:var(--cis-ink);font:700 11px/13px var(--font-sans);padding:1px 5px}
+.isle .isle__ico--exit svg{background:var(--cis-ink);border-color:var(--cis-ink);stroke:#fff}
+.isle .isle__ico--exit:hover svg{background:var(--cis-red);border-color:var(--cis-red)}
+.isle .isle__ico--pocket svg{fill:none;stroke:var(--cis-red)}
+.isle .isle__rot button,.isle.is-narrow .isle__navfab:not([hidden]){background:#fff;border:1px solid var(--cis-ink)}
+.isle .isle__rot svg,.isle.is-narrow .isle__navfab svg{stroke:var(--cis-ink);stroke-linecap:square;stroke-linejoin:miter}
+.isle .isle__viewchip,.isle .isle__toast{background:var(--cis-ink);color:#fff;font:700 14px/20px var(--font-sans);padding:9px 16px}
+.isle .isle__gsradar{border:3px solid #fff;box-shadow:none}
+.isle .isle__stick{border:2px solid #fff;background:rgba(35,31,32,.22)}
+.isle .isle__bar{border:1px solid var(--cis-ink);background:var(--cis-g20)}
+.isle .isle__bar i{background:var(--cis-red)}
+/* the subtitles: Jost / Noto Sans TC on a dark band (the system's text on the dark part of a picture), not outlined lettering */
+.isle .isle__fssub{gap:0}
+.isle .isle__fssub b{font:700 clamp(17px,2.6vw,26px)/1.35 var(--font-sans);color:#fff;text-shadow:none;background:rgba(35,31,32,.8);padding:6px 14px}
+.isle .isle__fssub small{font:400 12px/16px var(--font-sans);letter-spacing:.02em;color:var(--cis-ice);background:rgba(35,31,32,.8);padding:3px 14px 0}
+
+/* ---- cards: a plain white card over the dimmed city; its title Bold over a black hairline; the text Light ---- */
+.isle .isle__card{background:rgba(35,31,32,.5)}
+.isle .isle__cin{background:#fff;border:0;padding:24px 24px 20px;color:var(--cis-ink)}
+.isle .isle__cin>h2{font:700 24px/28px var(--font-sans);margin:0 48px 16px 0;padding:0 0 8px;border-bottom:1px solid var(--cis-ink)}
+.isle .isle__cin h3{font-weight:700}
+.isle .isle__x{right:8px;top:8px;width:44px;height:44px;border:0;background:transparent;font:300 32px/1 var(--font-sans);color:var(--cis-ink)}
+.isle .isle__x:hover{background:var(--cis-g10)}
+.isle .isle__sub{font:300 16px/26px var(--font-sans);color:var(--cis-ink)}
+.isle .isle__kick,.isle .isle__kick2{color:var(--cis-red)!important;font:700 13px/18px var(--font-sans)!important;letter-spacing:.04em}
+.isle .isle__why{border-left:0;border-top:3px solid var(--cis-blue);background:var(--cis-g10);padding:10px 12px}
+/* buttons: the secondary is a black hairline that fills black on hover; the one primary is red */
+.isle .isle__btn{border:1px solid var(--cis-ink);background:#fff;color:var(--cis-ink);box-shadow:none}
+.isle .isle__btn:hover{background:var(--cis-ink);color:#fff}
+.isle .isle__btn:hover small,.isle .isle__btn:hover span{color:#fff}
+.isle .isle__btn--go,.util__isle,.isle .isle__board.is-roll{background:var(--cis-red);border-color:var(--cis-red);color:#fff}
+.isle .isle__btn--go:hover,.util__isle:hover{background:var(--cis-redh);border-color:var(--cis-redh)}
+.isle .isle__cact--st .isle__btn{background:#fff}
+.isle .isle__board{background:var(--cis-g10)}
+/* options (menus, quizzes, settings): hairline rows; the key in a black square; chosen = ice with a red key; right = blue, wrong = red (told apart by lightness, not hue alone) */
+.isle .isle__opt{border:1px solid var(--cis-ink);background:#fff;color:var(--cis-ink);font:400 15px/22px var(--font-sans);box-shadow:none}
+.isle .isle__opt:hover{background:var(--cis-g10)}
+.isle .isle__opt i{background:var(--cis-ink);color:#fff;font:700 15px/30px var(--font-sans)}
+.isle .isle__opt.is-on{background:var(--cis-ice);border-color:var(--cis-ink)}
+.isle .isle__opt.is-on i{background:var(--cis-red)}
+.isle .isle__opt.is-ok{background:var(--cis-ice);border-color:var(--cis-blue)}
+.isle .isle__opt.is-ok i{background:var(--cis-blue)}
+.isle .isle__opt.is-bad{background:#fff;border-color:var(--cis-red)}
+.isle .isle__opt.is-bad i{background:var(--cis-red)}
+.isle .isle__menu .isle__opt small,.isle .isle__menu--qual .isle__opt small{color:var(--cis-g70);font:400 12px/16px var(--font-sans);opacity:1}
+.isle .isle__line::before{background:var(--cis-red)}
+.isle .isle__gi.is-on{box-shadow:inset 0 0 0 2px var(--cis-red)}
+/* the conversation */
+.isle .isle__talk{background:#fff;border:0;padding:24px 28px 22px;color:var(--cis-ink)}
+.isle .isle__who{background:var(--cis-red);border:0;color:#fff;font:700 15px/20px var(--font-sans);padding:4px 12px}
+.isle .isle__talk p{font:400 18px/28px var(--font-sans)}
+.isle.is-narrow .isle__talk p{font-size:16px;line-height:26px}
+/* the title */
+.isle .isle__tin{background:#fff;border:0;backdrop-filter:none;-webkit-backdrop-filter:none}
+.isle .isle__h1{font-weight:700;letter-spacing:0}
+.isle .isle__h1 span{background:none;-webkit-background-clip:border-box;background-clip:border-box;color:var(--cis-red);-webkit-text-fill-color:var(--cis-red);filter:none}
+.isle .isle__langs button{border:1px solid transparent;font:400 14px/1 var(--font-sans)}
+.isle .isle__langs button[aria-pressed="true"]{border-color:var(--cis-ink);background:#fff;font-weight:700}
+.isle .isle__langm{background:#fff;border:1px solid var(--cis-ink)}
+.isle .isle__langm button{font:400 14px/20px var(--font-sans)}
+.isle .isle__langm button[aria-checked="true"]{background:var(--cis-red);color:#fff;font-weight:700}
+.isle .isle__chip--lang:focus-visible{outline-color:var(--cis-blue)}
+/* action, vehicle, skill and fight controls: red = the action, black = the second action, blue = the other gauge */
+.isle .isle__act,.isle .isle__fbtn--atk,.isle .isle__sk.is-on{background:var(--cis-red);color:#fff}
+.isle .isle__fbtn--dodge{background:var(--cis-ink);color:#fff}
+.isle .isle__veh button[aria-pressed="true"],.isle .isle__pop button[aria-pressed="true"]{background:var(--cis-red);border-color:var(--cis-red);color:#fff}
+.isle .isle__dlbar i{background:var(--cis-blue)}
+.isle .isle__sbar--hp i,.isle .isle__sbbar .is-now{background:var(--cis-red)}
+.isle .isle__sbar--fp i{background:var(--cis-blue)}
+.isle .isle__sbar--st i{background:var(--cis-cyan)}
+.isle .isle__sbtn{background:rgba(35,31,32,.88)}
+.isle .isle__sbtn.is-down{background:var(--cis-g70);transform:none}
+.isle .isle__sbtn--red i{background:var(--cis-red)}
+.isle .isle__sbtn--blue i{background:var(--cis-blue)}
+.isle .isle__sbtn--item i{background:#fff}
+/* the club's menu: the system's inverse ground (navy, ice) instead of neon */
+.isle .isle__cin--bar{background:var(--cis-navy)!important;color:var(--cis-ice)}
+.isle .isle__cin--bar .isle__kick2{color:var(--cis-ice)!important}
+.isle .isle__menu--bar .isle__opt{background:transparent;border-color:rgba(212,239,252,.5);color:#fff}
+.isle .isle__menu--bar .isle__opt:hover,.isle .isle__menu--bar .isle__opt:focus-visible{background:rgba(212,239,252,.12);border-color:var(--cis-ice)}
+.isle .isle__menu--bar .isle__opt small{color:var(--cis-ice)}
+.isle .isle__menu--bar .isle__opt small.isle__buff{color:#fff;font-weight:700}
+.isle .isle__bcard-f{background:#fff}
+/* the opening film's two buttons */
+.kin .kin__skip,.kin .kin__snd{border-radius:0;box-shadow:none}
+/* the navigation: hairline items marked by a small square in the category's colour (no coloured side stripes); the route bar's button and the pins in red */
+.isle .isle__navb{border:1px solid var(--cis-ink);border-left:1px solid var(--cis-ink);padding:8px 12px 8px 30px;position:relative;box-shadow:none}
+.isle .isle__navb::before{content:'';position:absolute;left:11px;top:14px;width:10px;height:10px;background:var(--nc,#e3000f)}
+.isle .isle__navb:hover,.isle .isle__navb:focus-visible{transform:none;box-shadow:none;background:var(--cis-g10)}
+.isle .isle__navb.is-on{background:var(--cis-ice)}
+.isle .isle__navb b{font:700 14px/18px var(--font-sans)}
+.isle .isle__navb small{font:400 12px/16px var(--font-sans);color:var(--cis-g70);opacity:1}
+.isle .isle__navg{font:700 13px/18px var(--font-sans)}
+.isle .isle__navg i{border-radius:0}
+.isle .isle__navgo{background:var(--cis-red);border-radius:0;font:700 13px/16px var(--font-sans)}
+.isle .isle__navgo:hover{background:var(--cis-redh)}
+.isle .isle__navgo.is-auto{background:#fff;color:var(--cis-ink)}
+.isle .isle__navar svg{fill:var(--cis-red)}
+.isle .isle__navtx small{color:var(--cis-ice);font-weight:400}
+.isle .isle__navpa{border-bottom-color:var(--cis-red)}
+.isle .isle__navpin.is-edge .isle__navpa{background:var(--cis-red)}
+
+/* ---- (V83b) the remaining warm grounds, gold accents and serif headings, brought into the system ---- */
+/* the HUD row: the clock in Book grey (red stays for the one action); the weather chip gives way before the place name does */
+.isle .isle__chip span{color:var(--cis-g70);font-weight:400}
+.isle .isle__tl>.isle__chip--place,.isle.is-tight .isle__tl>.isle__chip--place{flex:0 0 auto}
+.isle .isle__tl>.isle__chip--place b,.isle.is-tight .isle__tl>.isle__chip--place b{flex:0 0 auto;max-width:9em}
+.isle .isle__tl>.isle__chip--wx,.isle.is-tight .isle__tl>.isle__chip--wx{flex:0 1 auto;min-width:46px}
+.isle .isle__tl>.isle__chip--wx b,.isle.is-tight .isle__tl>.isle__chip--wx b{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.isle .isle__credit,.isle .isle__snd{color:var(--cis-g70)}
+/* the board-game button: a white hairline tile; rolling = the red action */
+.isle .isle__board{background:#fff;color:var(--cis-ink);text-shadow:none}
+.isle .isle__board.is-roll{color:#fff}
+/* chosen, locked and empty tiles */
+.isle .isle__gi.is-on{background:var(--cis-ice)}
+.isle .isle__gi.is-none,.isle .isle__sk.is-locked{background:var(--cis-g10)}
+.isle .isle__ride-r:hover{background:var(--cis-g10)}
+.isle .isle__btn--pcity{border-color:var(--cis-red);background:#fff}
+.isle .isle__omi.is-res{background:#fff}
+.isle .isle__omi.is-res b{color:var(--cis-red)}
+.isle .isle__st circle{stroke:var(--cis-g20)}
+.isle .isle__st path{fill:var(--cis-g10)}
+.isle .isle__st.is-on circle{fill:var(--cis-ice)}
+/* headings: Futura (Jost) Bold everywhere, no serif display face */
+.isle .isle__serif{font-family:var(--font-sans)!important;letter-spacing:0}
+/* the touch fight pad: the punch is the red action, a ready move is ice with a red frame, the two specials ice */
+.isle .isle__gsact button{background:#fff}
+.isle .isle__gsact button[data-a="punch"]{background:var(--cis-red);border-color:var(--cis-red)}
+.isle .isle__gsact button[data-a="punch"] svg{fill:#fff}
+.isle .isle__gsact button[data-a="punch"] span{color:#fff}
+.isle .isle__gsact button.is-ready{background:var(--cis-ice);box-shadow:inset 0 0 0 3px var(--cis-red)}
+.isle .isle__gsact #isOcBtn,.isle .isle__gsact #isSpBtn{background:var(--cis-ice)}
+.isle .isle__gsphb{background:var(--cis-ink)}
+.isle .isle__gsphb em{background:var(--cis-red)}
+.isle .isle__phtop,.isle .isle__phhd{background:var(--cis-navy)}
+/* the duel's bars and pad: flat ink, white hairlines, white/ice labels (no gold, no glow) */
+.isle .isle__sbn b{font:700 17px/22px var(--font-sans);color:#fff;text-shadow:none;letter-spacing:0}
+.isle .isle__sbbar{background:rgba(35,31,32,.8);border:1px solid #fff}
+.isle .isle__sbst{background:rgba(35,31,32,.6)}
+.isle .isle__sbst i{background:#fff}
+.isle .isle__sbtn{border:1px solid rgba(255,255,255,.85)}
+.isle .isle__sbtn em{color:var(--cis-ice)}
+.isle .isle__sbtn span{color:#fff;text-shadow:none}
+.isle .isle__sbtn--lt{border:2px solid var(--cis-red)}
+.isle .isle__sbtn--lt.is-down{background:var(--cis-redh)}
+.isle .isle__sbtn--art{border-color:var(--cis-ice)}
+.isle .isle__sbtn--lock.is-on{background:var(--cis-red);border-color:var(--cis-red);color:#fff}
+.isle .isle__sbtn--lock.is-on i{border-color:#fff;background:radial-gradient(circle,#fff 30%,transparent 34%)}
+.isle .isle__sover,.isle .isle__gsover{background:rgba(35,31,32,.82)}
+.isle .isle__sover b{font:700 clamp(34px,7vw,72px)/1.1 var(--font-sans);letter-spacing:.08em;color:var(--cis-red);text-shadow:none}
+.isle .isle__sover.is-win b{color:#fff;text-shadow:none}
+.isle .isle__gsover b{color:#fff;text-shadow:none}
+.isle .isle__gsover span{color:var(--cis-ice)}
+.isle .isle__dmg.is-big{color:#fff}
+/* the route bar */
+.isle .isle__navbar{background:rgba(35,31,32,.92);border:0;border-top:3px solid var(--cis-red)}
+/* the graphics card: right = blue, warn = red, a plain hairline instead of a dashed rule */
+.isle .kgfx__stat b.is-ok{color:var(--cis-blue)}
+.isle .kgfx__stat b.is-warn,.isle .kgfx__cus{color:var(--cis-red)}
+.isle .kgfx__adv{border-top:1px solid var(--cis-ink)}
+.isle .kgfx__seg button:hover{background:var(--cis-g10)}
+.isle .kgfx__seg button.is-on{background:var(--cis-ink);color:#fff}
+/* the opening film: the system's white button on a picture (ice on hover); sound off = the red action */
+.kin .kin__skip,.kin .kin__snd,.kin.is-map .kin__skip,.kin.is-map .kin__snd:not(.is-off){background:#fff;border:1px solid #fff;color:var(--cis-ink);font-weight:700}
+.kin .kin__skip:hover,.kin .kin__snd:hover{background:var(--cis-ice);border-color:var(--cis-ice)}
+.kin .kin__snd.is-off{background:var(--cis-red);border-color:var(--cis-red);color:#fff}
+.kin .kin__pin::before{background:var(--cis-red)}
+/* (V84) on narrow screens the duel pad's item names leave the tiles but stay in the accessible name (visually hidden, not display:none) */
+.isle.is-narrow .isle__sitems .isle__sbtn span{display:block;position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
