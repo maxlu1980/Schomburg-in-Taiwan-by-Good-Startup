@@ -1,0 +1,5 @@
+# (V87) the controls: a finger on the right side of the screen turns the view while one on the left walks (Köln's part k_ctl.js decides;
+# everywhere else the canvas's handlers go on as they were)
+patch('01_island_b', "try { cv.setPointerCapture(e.pointerId); } catch (er) {}\n", "try { cv.setPointerCapture(e.pointerId); } catch (er) {} if (typeof kctlDown === 'function' && kctlDown(e, ptr[e.pointerId], ptr)) return;\n")
+patch('01_island_b', "var p = ptr[e.pointerId]; if (!p) return; var r = cv.getBoundingClientRect(); p.x = e.clientX - r.left; p.y = e.clientY - r.top;\n", "var p = ptr[e.pointerId]; if (!p) return; var r = cv.getBoundingClientRect(); p.x = e.clientX - r.left; p.y = e.clientY - r.top; if (typeof kctlMove === 'function' && kctlMove(e, p)) return;\n")
+patch('01_island_b', "function up(e) { var p = ptr[e.pointerId]; if (!p) return; delete ptr[e.pointerId]; if (Object.keys(ptr).length < 2) gest = null;", "function up(e) { var p = ptr[e.pointerId]; if (!p) return; delete ptr[e.pointerId]; var hadG = !!gest; if (Object.keys(ptr).length < 2) gest = null; if (typeof kctlUp === 'function' && kctlUp(e, p, ptr, hadG)) return;")

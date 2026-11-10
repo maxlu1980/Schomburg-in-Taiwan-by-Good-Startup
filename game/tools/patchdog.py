@@ -100,3 +100,38 @@ rep5("    if (o.ml) { kn.add(M(tube([V(0, 0.008, 0), V(0, -o.L2 * 0.5, 0), V(0, 
 rep5("  function tube(pts, r0, r1, o) {", "  /* a limb's radius: tapering from r0 to r1, with rounded ends (a fraction a of the length at the start, b at the end) */\n  function rnd(r0, r1, a, b) { return function (t) { var e0 = Math.sin(Math.min(1, t / a) * Math.PI * 0.5), e1 = Math.sin(Math.min(1, (1 - t) / b) * Math.PI * 0.5); return (r0 + (r1 - r0) * t) * Math.sqrt(e0 * e1) + 0.0015; }; }\n  function tube(pts, r0, r1, o) {")
 open(DST, 'w').write(s); print('DOG.js V65b', len(s))
 
+# ===== (V87) at rest no part of the dog lies under the floor =====
+# Sitting or lying, the hip is brought down to a fixed share of its standing height (0.4 for the sit); for the shepherd's deep trunk and
+# full thighs that put the croup, the thighs and the hocks under the ground (the paws stayed on it: they are placed by the legs' solver).
+# Now the pose is measured: once a rest pose has settled, the lowest point of the body and legs (the tail apart: it is kept off the
+# ground by its own rule) is found in the dog's frame, and the hip is raised by what lies under the floor; measured a few times until it
+# holds, then kept for that pose. Moving, the lift goes back to nothing.
+s = open(DST).read()
+def rep7(old, new, n=1):
+    global s
+    c = s.count(old)
+    if c != n: raise SystemExit('DOG V87 patch: %d found for %r' % (c, old[:90]))
+    s = s.replace(old, new)
+LIFT = r'''  /* (V87) the lowest point of the body and the legs over the ground, in the dog's own frame (the tail apart) */
+  var _dm1 = new THREE.Matrix4(), _dm2 = new THREE.Matrix4();
+  function lowest(D) { D.root.updateMatrixWorld(true); _dm1.copy(D.root.matrixWorld).invert(); var lo = 1e9;
+    D.body.traverse(function (x) { if (!x.isMesh || !x.visible || !x.geometry || !x.geometry.attributes.position) return; for (var q = x; q && q !== D.body; q = q.parent) if (q === D.tail) return; _dm2.multiplyMatrices(_dm1, x.matrixWorld); var P = x.geometry.attributes.position, e = _dm2.elements, st = Math.max(1, Math.floor(P.count / 1500)), i; for (i = 0; i < P.count; i += st) { var y = e[1] * P.getX(i) + e[5] * P.getY(i) + e[9] * P.getZ(i) + e[13]; if (y < lo) lo = y; } }); return lo; }
+  /* (V87) at rest the hip is raised by whatever of the dog lies under the floor (measured when the pose has settled; kept per pose) */
+  function restLift(D, m, moving, dt) { var rest = !moving && (m === 'sit' || m === 'ride' || m === 'lie' || m === 'loaf' || m === 'groom' || m === 'scratch' || m === 'bow'), L = D.liftC || (D.liftC = {}), c = L[m], cur = D.lift || 0;
+    if (!rest) D.liftT = 0; else { if (!c) c = L[m] = { v: 0, n: 0 }; if (c.n < 5 && D.modeT > 0.7 + c.n * 0.45 && Math.abs(cur - c.v) < 0.0015) { var lo = lowest(D); if (lo < -0.004) c.v = Math.min(D.hipY * 0.7, c.v - lo + 0.002); c.n++; } D.liftT = c.v; }
+    D.lift = cur + (D.liftT - cur) * (1 - Math.exp(-dt * 10)); }
+'''
+# lying: the forepaws were set far ahead of the shoulders (0.6 of the leg), which the two-bone leg can only reach by driving the elbow 6 cm
+# under the floor; a lying dog's elbows rest on the ground behind the shoulders with the forearms flat before them
+# (measured over the five kinds: with the hip at 0.22 of its standing height, the forepaws just behind the shoulders and the hind paws
+# 0.35 of the leg ahead of the hips, the chest and belly rest on the floor — 1 to 2 mm over it — and the measured lift is 1 to 7 cm)
+rep7("if (m === 'lie') { P.p = 0.0; P.hy = H * 0.38; P.tg = [['u', 0.6 * ll], ['u', 0.6 * ll], ['u', 0.2 * ll], ['u', 0.2 * ll]];", "if (m === 'lie') { P.p = 0.0; P.hy = H * 0.22; P.tg = [['u', -0.05 * ll], ['u', -0.05 * ll], ['u', 0.35 * ll], ['u', 0.35 * ll]];")
+# sitting: the hip was held at 0.4 of its standing height — the croup hung 8 cm over the floor (a squat, not a sit). A sitting dog's rump is
+# on the ground with the chest upright over straight forelegs: the body pitched up further, the hip down to 0.2, the hind paws further
+# under it (the Maltese keeps its own pose; riding on the scooter's pillion keeps the old one, which the seat was fitted to)
+rep7("P.hx = 0.45; P.wagA = 0.12; P.wagF = 4; if (D.kind === 'maltese') { P.p = -0.32; P.hy = H * 0.55; P.hx = 0.25; } }", "P.hx = 0.45; P.wagA = 0.12; P.wagF = 4; if (D.kind === 'maltese') { P.p = -0.32; P.hy = H * 0.55; P.hx = 0.25; } else if (m === 'sit') { P.p = -0.85; P.hy = H * 0.2; P.tg[2][1] = P.tg[3][1] = 0.42 * ll; } }")
+rep7("var p = D.p + gp * D.mw, hy = D.hy + gb * D.mw, cp = Math.cos(p)", "var p = D.p + gp * D.mw, hy = D.hy + gb * D.mw + (D.lift || 0), cp = Math.cos(p)")
+rep7("    var pant = moving || m === 'bow'", "    restLift(D, m, moving, dt);\n    var pant = moving || m === 'bow'")
+rep7("  function setMode(D, m) { if (D.mode === m) return;", LIFT + "  function setMode(D, m) { if (D.mode === m) return;")
+rep7("  return { build: build, update: update, setMode: setMode };", "  return { build: build, update: update, setMode: setMode, lowest: lowest };")
+open(DST, 'w').write(s); print('DOG.js V87', len(s))

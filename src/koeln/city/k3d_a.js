@@ -57,6 +57,9 @@ var KOELN3D = (function () {
   /* the tracks across the hall (v: across the axis, + towards the cathedral) and the platforms between them */
   var HT = { 1: 29.2, 2: 25.45, 3: 14.5, 4: 10.75, 5: -0.2, 6: -3.95, 7: -14.9, 8: -18.65, 9: -29.6, 10: -33.35, 11: -44.3 };
   var HP = [[31.0, 37.0, [1]], [16.3, 23.65, [2, 3]], [1.6, 8.95, [4, 5]], [-13.1, -5.75, [6, 7]], [-27.8, -20.45, [8, 9]], [-42.5, -35.15, [10, 11]]];
+  /* (V87) the stairs between the passages and the platforms, as a station's stairs are built: 36 risers of 16.2 cm (5.83 m from the passage's
+     floor to the platform), treads of 30 cm, a landing 1.8 m long after the 18th riser; 3.6 m wide. Measures in units of 1.2 m. */
+  var HSTR = { foot: 3, n: 36, g: 0.25, land: 1.5 }; HSTR.run = 2 * (HSTR.n / 2 - 1) * HSTR.g + HSTR.land;
   var HPASS = [[-10, 10], [48, 64]]; /* (stairs rise from inside them: each platform's stair foot 3 units in from the passage's west side) */ /* the two passages under the tracks (u ranges) */
   /* the streets: x ranges for the north–south ones, z ranges for the east–west ones */
   var RMZ = [-150, -140], RKO = [-66, -56], RMA = [-262, -252], RKA = [252, 266], RKE = [634, 648], ROT = [-60, -50];
@@ -175,6 +178,15 @@ var KOELN3D = (function () {
   function hallRoofT() { return tset('hroof2', 256, 256, function (g, w, h) { g.clearRect(0, 0, w, h); g.fillStyle = 'rgba(214,226,234,0.42)'; g.fillRect(0, 0, w, h / 2); for (var y = 0; y < h / 2; y += 21) { g.fillStyle = 'rgba(70,80,86,1)'; g.fillRect(0, y, w, 3); } for (var x = 0; x < w; x += 64) { g.fillStyle = 'rgba(70,80,86,1)'; g.fillRect(x, 0, 4, h / 2); }
       g.fillStyle = '#8c9296'; g.fillRect(0, h / 2, w, h / 2); for (x = 0; x < w; x += 8) { g.fillStyle = 'rgba(40,46,50,0.35)'; g.fillRect(x, h / 2, 3, h / 2); g.fillStyle = 'rgba(230,236,240,0.25)'; g.fillRect(x + 4, h / 2, 2, h / 2); } g.fillStyle = 'rgba(60,66,70,1)'; g.fillRect(0, h / 2, w, 4); g.fillRect(0, h - 4, w, 4); N(g, w, h / 2, 400, 0.06, '#7a8a96', 1, 3, 9261); }, null, 1); }
 
+  /* (V87) the platforms' paving: grey concrete slabs of 30 cm laid in a bond, worn darker along the middle where people walk (one tile =
+     2 x 2 units) */
+  function platT() { return tset('plat', 256, 256, function (g, w, h) { var r = rnd(9281); g.fillStyle = '#77787a'; g.fillRect(0, 0, w, h); for (var y = 0; y < 8; y++) for (var x = -1; x < 8; x++) { var t = r(), ox = (y % 2) * 16, sh = 124 + t * 22 | 0; g.fillStyle = 'rgb(' + sh + ',' + (sh + 1) + ',' + (sh + 3) + ')'; g.fillRect(x * 32 + ox + 1, y * 32 + 1, 30, 30); }
+      N(g, w, h, 5200, 0.14, '#3e3f42', 0.4, 1.3, 9282); N(g, w, h, 1500, 0.1, '#d4d5d8', 0.4, 1.0, 9283); for (var k = 0; k < 16; k++) { g.fillStyle = 'rgba(30,30,32,' + (0.05 + r() * 0.08) + ')'; g.beginPath(); g.ellipse(r() * w, r() * h, 3 + r() * 9, 2 + r() * 5, r() * 3, 0, 7); g.fill(); } },
+    function (g, w, h) { g.fillStyle = '#505050'; for (var y = 0; y <= 8; y++) g.fillRect(0, y * 32 - 1, w, 2); for (y = 0; y < 8; y++) for (var x = 0; x <= 8; x++) g.fillRect(x * 32 + (y % 2) * 16 - 1, y * 32, 2, 32); }, 0.6); }
+  /* (V87) the guiding strips for the blind as Köln's station has them: white, ribbed along the way (one tile = one strip's width) */
+  function tactWT() { return tset('tactW', 64, 64, function (g, w, h) { g.fillStyle = '#d9d9d4'; g.fillRect(0, 0, w, h); for (var y = 0; y < 5; y++) { var y0 = 4 + y * 12; g.fillStyle = '#f6f6f2'; g.fillRect(0, y0, w, 6); g.fillStyle = 'rgba(70,70,70,0.5)'; g.fillRect(0, y0 + 6, w, 2); g.fillStyle = 'rgba(255,255,255,0.9)'; g.fillRect(0, y0, w, 1); } N(g, w, h, 300, 0.1, '#77756f', 0.4, 1.0, 9291); },
+    function (g, w, h) { g.fillStyle = '#404040'; g.fillRect(0, 0, w, h); for (var y = 0; y < 5; y++) { g.fillStyle = '#e0e0e0'; g.fillRect(0, 4 + y * 12, w, 6); } }, 1.6); }
+
   /* ---------------- materials ---------------- */
   function mats() { if (MX) return MX; init(); var LL = function (m) { return K.llights ? K.llights(m) : m; }, C = function (m) { return LL(K.curved(m)); }, S = function (m) { return LL(K.see(K.curved(m))); };
     function tm(t, o) { o = o || {}; var m = new THREE.MeshStandardMaterial({ map: t.map, normalMap: t.normalMap || null, normalScale: new THREE.Vector2(o.ns || 1, o.ns || 1), roughness: o.r == null ? 0.8 : o.r, metalness: o.m || 0, envMapIntensity: o.e == null ? 0.6 : o.e, vertexColors: !!o.vc }); if (o.emi) { m.emissive = new THREE.Color(o.ec || 0xffd8a0); m.emissiveMap = o.emi; m.emissiveIntensity = 0; } return o.see ? S(m) : C(m); }
@@ -185,6 +197,8 @@ var KOELN3D = (function () {
     MX.fac = []; for (i = 0; i < 8; i++) { var ft = deFacadeT(i); MX.fac.push(tm(ft, { r: 0.78, m: 0.02, e: 0.6, see: true, emi: ft.emi, ec: 0xffd8a0 })); }
     var gt = gableT(); MX.gable = tm(gt, { r: 0.75, e: 0.5, see: true, emi: gt.emi, vc: true });
     MX.hroof = C(new THREE.MeshStandardMaterial({ map: hallRoofT().map, roughness: 0.35, metalness: 0.25, transparent: true, opacity: 1.0, side: THREE.DoubleSide, envMapIntensity: 1.1, depthWrite: true }));
+    /* (V87) the station's own: the platforms' slabs, the white guiding strips */ MX.plat = tm(platT(), { r: 0.84, e: 0.35 }); MX.tactW = tm(tactWT(), { r: 0.7, e: 0.4, ns: 1.4 });
+    /* (V87) the trains' paint: a satin coat that keeps its colours under the hall's roof (the engine's glossy paint mirrors the open sky and washed every colour pale) */ MX.car = C(new THREE.MeshStandardMaterial({ color: 0xffffff, vertexColors: true, metalness: 0.1, roughness: 0.34, envMapIntensity: 0.42 }));
     MX.water = null; /* made at build (it shares the sky's uniforms) */
     MX.neon = C(new THREE.MeshBasicMaterial({ vertexColors: true, toneMapped: false })); natMats(MX, M); K.wind(MX.bark); return MX; }
 
@@ -199,6 +213,12 @@ var KOELN3D = (function () {
     /* the station's name over the entrance hall (white letters on the glass front's dark band) and the platform numbers */
     put('hbf', 1024, 128, function (g, w, h) { g.fillStyle = '#20262c'; g.fillRect(0, 0, w, h); txt(g, 'Köln Hauptbahnhof', w / 2, h / 2 + 4, 76, '#ffffff', 700); });
     for (var gl = 1; gl <= 11; gl++) (function (n) { put('gl' + n, 128, 128, function (g, w, h) { g.fillStyle = '#1a3a8a'; g.fillRect(0, 0, w, h); g.fillStyle = '#ffffff'; g.fillRect(8, 8, w - 16, h - 16); txt(g, String(n), w / 2, h / 2 + 4, 86, '#1a3a8a', 800); }); })(gl);
+    /* (V87) the platforms' sections (white letters on blue cubes over the platforms), the timetable sheets at the stairs (the departures on
+       yellow, the arrivals on white — rows of small print, no real times) */
+    'ABCDEFG'.split('').forEach(function (L) { put('sec' + L, 96, 96, function (g, w, h) { g.fillStyle = '#17377f'; g.fillRect(0, 0, w, h); txt(g, L, w / 2, h / 2 + 4, 70, '#ffffff', 700); }); });
+    [['abf', '#f6d21c', 'Abfahrt', 'Departure'], ['ank', '#f4f4f0', 'Ankunft', 'Arrival']].forEach(function (q) { put(q[0], 256, 360, function (g, w, h) { var r = rnd(q[0] === 'abf' ? 9301 : 9302); g.fillStyle = '#c9ccce'; g.fillRect(0, 0, w, h); g.fillStyle = q[1]; g.fillRect(8, 8, w - 16, h - 16); txt(g, q[2], 20, 34, 30, '#111111', 800, 'left'); txt(g, q[3], 20, 58, 15, '#222222', 500, 'left'); txt(g, 'Köln Hbf', w - 20, 34, 17, '#111111', 700, 'right'); g.fillStyle = '#111111'; g.fillRect(16, 70, w - 32, 2);
+      for (var c2 = 0; c2 < 2; c2++) for (var y = 0; y < 30; y++) { var x0 = 18 + c2 * 114, yy = 82 + y * 9; if (y % 6 === 0) { g.fillStyle = 'rgba(0,0,0,0.75)'; g.fillRect(x0, yy, 22, 5); continue; } g.fillStyle = 'rgba(0,0,0,0.6)'; g.fillRect(x0, yy, 12, 3); g.fillStyle = r() < 0.3 ? 'rgba(190,20,30,0.75)' : 'rgba(0,0,0,0.5)'; g.fillRect(x0 + 17, yy, 14 + r() * 8, 3); g.fillStyle = 'rgba(0,0,0,0.42)'; g.fillRect(x0 + 44, yy, 26 + r() * 30, 3); g.fillStyle = 'rgba(0,0,0,0.6)'; g.fillRect(x0 + 100, yy, 6, 3); } }); });
+    /* (V87) the Roman-Germanic Museum's name as it stands on the building: red letters on the pale slabs */ put('rgm2', 1024, 64, function (g, w, h) { g.fillStyle = '#e7e3d8'; g.fillRect(0, 0, w, h); txt(g, 'RÖMISCH-GERMANISCHES MUSEUM', w / 2, h / 2 + 3, 50, '#c2121f', 700); });
     put('gleis', 512, 96, function (g, w, h) { g.fillStyle = '#1a3a8a'; g.fillRect(0, 0, w, h); txt(g, 'Gleis  ·  Platform  ·  月台', w / 2, h / 2 + 3, 40, '#ffffff', 600); });
     put('reise', 512, 96, function (g, w, h) { g.fillStyle = '#ffffff'; g.fillRect(0, 0, w, h); g.fillStyle = '#c8102e'; g.fillRect(0, h - 12, w, 12); txt(g, 'Reisezentrum · Tickets', w / 2, h / 2 - 3, 42, '#20262c', 700); });
     put('info', 256, 96, function (g, w, h) { g.fillStyle = '#ffffff'; g.fillRect(0, 0, w, h); txt(g, 'i', 46, h / 2 + 2, 70, '#1a3a8a', 800); txt(g, 'Information', 156, h / 2 + 2, 30, '#20262c', 600); });

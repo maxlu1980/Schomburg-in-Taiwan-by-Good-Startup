@@ -1,0 +1,15 @@
+<!doctype html><meta charset="utf-8"><title>dog rest poses</title>
+<script src="../node_modules/three/build/three.min.js"></script>
+<script src="../src/koeln/lib/KIT.js"></script>
+<script src="../src/koeln/lib/LUNA.js"></script>
+<script src="../src/koeln/lib/PROPS.js"></script>
+<script src="../src/koeln/lib/DOG.js"></script>
+<script>
+/* every kind in every rest pose, three seconds each: the lowest point of the body and legs under the floor (the tail apart), and which part it is */
+function lowestOf(D) { D.root.updateMatrixWorld(true); var inv = new THREE.Matrix4().copy(D.root.matrixWorld).invert(), mm = new THREE.Matrix4(), lo = 1e9, who = '', parts = {};
+  D.body.traverse(function (x) { if (!x.isMesh || !x.geometry || !x.geometry.attributes.position) return; var q, nm = ''; for (q = x; q && q !== D.body; q = q.parent) { if (q === D.tail) return; D.legs.forEach(function (L, j) { if (q === L.piv) nm = 'leg' + j + (x.parent === L.paw || (x.parent && x.parent.parent === L.paw) ? ' paw' : x.parent === L.kn ? ' lower' : ' upper'); }); if (q === D.neck) nm = nm || 'neck/head'; } nm = nm || 'trunk';
+    mm.multiplyMatrices(inv, x.matrixWorld); var P = x.geometry.attributes.position, e = mm.elements, m0 = 1e9; for (var i = 0; i < P.count; i++) { var y = e[1] * P.getX(i) + e[5] * P.getY(i) + e[9] * P.getZ(i) + e[13]; if (y < m0) m0 = y; } if (parts[nm] == null || m0 < parts[nm]) parts[nm] = m0; if (m0 < lo) { lo = m0; who = nm; } });
+  return { lo: lo, who: who, parts: parts }; }
+window.RUN = function () { var out = [], sc = new THREE.Scene(); ['shepherd', 'collie', 'tugou', 'maltese', 'cat'].forEach(function (kind) { ['sit', 'lie', 'loaf', 'groom', 'scratch', 'bow', 'ride', 'stand'].forEach(function (m) { var D = DOG.build(kind); sc.add(D.root); DOG.setMode(D, m); for (var i = 0; i < 240; i++) DOG.update(D, 1 / 60, {}); var r = lowestOf(D), worst = Object.keys(r.parts).filter(function (k) { return r.parts[k] < -0.004; }).map(function (k) { return k + ' ' + (r.parts[k] * 120).toFixed(1); });
+    out.push([kind, m, +(r.lo * 120).toFixed(1), r.who, 'lift ' + ((D.lift || 0) * 120).toFixed(1), 'trunk ' + ((r.parts.trunk || 0) * 120).toFixed(1), worst.join(', ')].join(' | ')); sc.remove(D.root); }); }); return out.join('\n'); };
+</script>

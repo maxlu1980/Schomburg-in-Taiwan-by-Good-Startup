@@ -1,0 +1,23 @@
+{
+ "arr_4": ["de", "Gleis vier. Es fährt ein: Schnellzug fünfhundertdreiundzwanzig nach Berlin Hauptbahnhof, über Wuppertal und Hannover. Bitte Vorsicht bei der Einfahrt."],
+ "arr_6": ["de", "Gleis sechs. Es fährt ein: Schnellzug dreihundertsechzehn nach Brüssel Süd, über Aachen und Lüttich. Bitte Vorsicht bei der Einfahrt."],
+ "arr_3": ["de", "Gleis drei. Es fährt ein: Schnellzug einhundertacht nach Basel, über Bonn, Koblenz und Mainz. Bitte Vorsicht bei der Einfahrt."],
+ "arr_2": ["de", "Gleis zwei. Es fährt ein: Regional-Express eins nach Aachen Hauptbahnhof, über Köln-Ehrenfeld und Düren. Bitte Vorsicht bei der Einfahrt."],
+ "arr_8": ["de", "Gleis acht. Es fährt ein: Regional-Express fünf nach Wesel, über Düsseldorf und Duisburg. Bitte Vorsicht bei der Einfahrt."],
+ "arr_10": ["de", "Gleis zehn. Es fährt ein: S-Bahn Linie zwölf nach Au an der Sieg, über Köln Messe Deutz und Troisdorf. Bitte Vorsicht bei der Einfahrt."],
+ "arr_11": ["de", "Gleis elf. Es fährt ein: S-Bahn Linie neunzehn nach Düren, über Köln-Ehrenfeld und Horrem. Bitte Vorsicht bei der Einfahrt."],
+ "dep_4": ["de", "Gleis vier. Bitte einsteigen. Die Türen schließen. Vorsicht bei der Abfahrt."],
+ "dep_6": ["de", "Gleis sechs. Bitte einsteigen. Die Türen schließen. Vorsicht bei der Abfahrt."],
+ "dep_3": ["de", "Gleis drei. Bitte einsteigen. Die Türen schließen. Vorsicht bei der Abfahrt."],
+ "dep_2": ["de", "Gleis zwei. Bitte einsteigen. Die Türen schließen. Vorsicht bei der Abfahrt."],
+ "dep_8": ["de", "Gleis acht. Bitte einsteigen. Die Türen schließen. Vorsicht bei der Abfahrt."],
+ "dep_10": ["de", "Gleis zehn. Bitte einsteigen. Die Türen schließen. Vorsicht bei der Abfahrt."],
+ "dep_11": ["de", "Gleis elf. Bitte einsteigen. Die Türen schließen. Vorsicht bei der Abfahrt."],
+ "en_4": ["en", "Platform four. Now arriving: the express train to Berlin main station. Please stand back from the platform edge."],
+ "en_6": ["en", "Platform six. Now arriving: the express train to Brussels South. Please stand back from the platform edge."],
+ "en_3": ["en", "Platform three. Now arriving: the express train to Basel. Please stand back from the platform edge."],
+ "welcome": ["de", "Köln Hauptbahnhof. Herzlich willkommen in Köln."],
+ "n1": ["de", "Sehr geehrte Reisende, bitte lassen Sie Ihr Gepäck nicht unbeaufsichtigt."],
+ "n2": ["de", "Bitte beachten Sie: Rauchen ist nur in den gekennzeichneten Bereichen gestattet."],
+ "n3": ["de", "Bitte treten Sie von der Bahnsteigkante zurück, bis der Zug hält."]
+}

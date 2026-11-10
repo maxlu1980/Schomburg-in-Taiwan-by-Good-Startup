@@ -93,7 +93,7 @@ game/
   tools/                 port.py (assembles kisle.js), mkcss.py, mkcity.sh, namecheck.py, the kpatch_*.py patch sets, model and music sources
   css/isle_raw.css       the engine's base stylesheet
   dom/                   the cathedral's build parts (→ src/koeln/city/k3d_dom.js)
-  tts/                   Mira's voice lines and the generator script (the model is not included)
+  tts/                   Mira's voice lines and the station's announcements, with their generator scripts (the model is not included)
 qa/                      the QA harness (Playwright): see below
 ktest/                   small pages that load the game alone (used by the game harness)
 docs/                    DEVLOG.md (the development log, V61–V84), previews/, FACTS (the city research)
@@ -107,6 +107,7 @@ game/css/isle_raw.css + src/koeln/isle/k_style.css + k_cis.css  ──mkcss.py�
 src/koeln/city/*.js  ──mkcity.sh──▶  src/koeln/koeln3d.js
 game/ref/parts/*.js (reference engine, not included) + src/koeln/isle/*.js + kpatch_*.py  ──port.py──▶  src/koeln/kisle.js
 game/tools/mkscore85.py (FluidSynth + MuseScore General soundfont)  ──▶  src/koeln/score85.js (the opening film's recorded score)
+game/tts/ann_lines.json + annplay.js  ──make_ann.py (Supertonic 3, not included)──▶  src/koeln/isle/k_ann.js (the station's announcements)
 src/* + fonts/* (+ node_modules)  ──build.py──▶  dist/*
 ```
 
@@ -116,7 +117,7 @@ src/* + fonts/* (+ node_modules)  ──build.py──▶  dist/*
 (`game/ref/`, an earlier project of the same author) by `game/tools/port.py`; those parts are
 not published here. The assembled `src/koeln/kisle.js` *is* committed, so the page builds and
 runs from the repository as it is — only re-assembling the game from the reference needs
-`game/ref/`. The same goes for the voice model behind `game/tts/make_vox.py`.
+`game/ref/`. The same goes for the voice model behind `game/tts/make_vox.py` and `game/tts/make_ann.py`.
 
 ### Quality checks (`qa/`)
 
@@ -132,6 +133,7 @@ Start the server (`npm run serve`) and run from the repository root:
 | `npm run test:leaks` / `test:docs` | no English left after switching to German; every document kind × guide × language generates (preview, Word, PDF) |
 | `npm run test:sim` / `test:sim:full` | the simulators on phone/tablet/desktop with synthetic touch; every phase of all five simulators completes |
 | `npm run test:game` / `test:game:a11y` / `test:film` | the game's cards and HUD on desktop and phone, collisions, controls, graphics settings, indoors; axe on the game; the opening film on the audio clock |
+| `npm run test:controls` / `test:dog` / `audit:feet` | the camera with mouse, keys, on-screen buttons and touch (stick + look + pinch), the key hints; the dog's rest poses on the floor; every named place: walkers stand on the surface that is drawn |
 
 ### Deployment
 
@@ -230,6 +232,7 @@ src/* + fonts/*（+ node_modules）  ──build.py──▶  dist/*
 | `npm run test:leaks` / `test:docs` | 切到德文後沒有殘留英文；每種文件 × 指南 × 語言都能產生（預覽、Word、PDF） |
 | `npm run test:sim` / `test:sim:full` | 模擬器在手機／平板／桌機的合成觸控操作；五個模擬器每個階段都能完成 |
 | `npm run test:game` / `test:game:a11y` / `test:film` | 遊戲在桌機與手機的卡片與 HUD、碰撞、操控、畫質設定、室內；遊戲的 axe 檢查；開場影片的音訊時脈 |
+| `npm run test:controls` / `test:dog` / `audit:feet` | 滑鼠、鍵盤、螢幕按鈕與觸控（搖桿＋視角＋雙指縮放）的鏡頭操作與按鍵提示；狗的坐、趴姿貼地；每個具名地點：角色站在畫面上看得到的地面 |
 
 ### 部署
 

@@ -244,8 +244,8 @@ var DOG = (function () {
   /* ---------- motion ---------- */
   var GAIT = { walk: { off: [0.25, 0.75, 0, 0.5], duty: 0.62, kS: 0.75, lift: 0.16 }, trot: { off: [0, 0.5, 0.5, 0], duty: 0.46, kS: 1.0, lift: 0.2 }, gallop: { off: [0.5, 0.42, 0, 0.1], duty: 0.32, kS: 1.45, lift: 0.26 } }; /* LF RF LH RH */
   function pose(D, m, t) { var H = D.hipY, ll = D.legLen, P = { p: 0, hy: H, pz: 0, br: 0, tg: null, hx: 0, hyaw: 0, tailUp: 0, wagA: 0.2, wagF: 5, ears: 0 };
-    if (m === 'sit' || m === 'ride') { P.p = -0.6; P.hy = H * 0.4; P.pz = 0.02 * ll / 0.32; P.tg = [['u', 0.01], ['u', 0.01], ['u', 0.36 * ll], ['u', 0.36 * ll]]; P.hx = 0.45; P.wagA = 0.12; P.wagF = 4; if (D.kind === 'maltese') { P.p = -0.32; P.hy = H * 0.55; P.hx = 0.25; } }
-    if (m === 'lie') { P.p = 0.0; P.hy = H * 0.38; P.tg = [['u', 0.6 * ll], ['u', 0.6 * ll], ['u', 0.2 * ll], ['u', 0.2 * ll]]; P.hx = 0.1 + Math.sin(t * 0.4) * 0.06; P.wagA = 0.05; P.wagF = 2; if (D.kind === 'maltese') P.hy = H * 0.55; }
+    if (m === 'sit' || m === 'ride') { P.p = -0.6; P.hy = H * 0.4; P.pz = 0.02 * ll / 0.32; P.tg = [['u', 0.01], ['u', 0.01], ['u', 0.36 * ll], ['u', 0.36 * ll]]; P.hx = 0.45; P.wagA = 0.12; P.wagF = 4; if (D.kind === 'maltese') { P.p = -0.32; P.hy = H * 0.55; P.hx = 0.25; } else if (m === 'sit') { P.p = -0.85; P.hy = H * 0.2; P.tg[2][1] = P.tg[3][1] = 0.42 * ll; } }
+    if (m === 'lie') { P.p = 0.0; P.hy = H * 0.22; P.tg = [['u', -0.05 * ll], ['u', -0.05 * ll], ['u', 0.35 * ll], ['u', 0.35 * ll]]; P.hx = 0.1 + Math.sin(t * 0.4) * 0.06; P.wagA = 0.05; P.wagF = 2; if (D.kind === 'maltese') P.hy = H * 0.55; }
     if (m === 'sniff') { P.hx = -0.9; P.hyaw = Math.sin(t * 1.7) * 0.35; P.wagA = 0.18; P.wagF = 5; P.tailUp = 0.15; }
     if (m === 'bow') { P.p = 0.42; P.hy = H * 0.97 + Math.max(0, Math.sin(t * 9)) * H * 0.04; P.tg = [['u', 0.55 * ll], ['u', 0.55 * ll], ['u', -0.04 * ll], ['u', -0.04 * ll]]; P.hx = -0.9; P.tailUp = 0.75; P.wagA = 0.6; P.wagF = 13; P.ears = 1; }
     if (m === 'rear') { var w = Math.sin(t * 11); P.p = -1.0; P.hy = H * 0.98 + Math.max(0, Math.sin(t * 5.5)) * H * 0.06; P.tg = [['r', 0.33 * ll + w * 0.06 * ll, -0.48 * ll + w * 0.08 * ll], ['r', 0.33 * ll - w * 0.06 * ll, -0.48 * ll - w * 0.08 * ll], ['u', 0.2 * ll], ['u', 0.2 * ll]]; P.hx = 0.85; P.tailUp = 0.35; P.wagA = 0.5; P.wagF = 12; P.ears = 1; }
@@ -268,7 +268,7 @@ var DOG = (function () {
     if (o.look != null && m !== 'spin') P.hyaw = clamp(o.look, -1.1, 1.1);
     if (o.wind) P.ears = Math.max(P.ears, o.wind);
     D.p = lerp(D.p, P.p, k); D.hy = lerp(D.hy, P.hy, k); D.pz = lerp(D.pz, P.pz, k); D.br = lerp(D.br, P.br, k);
-    var p = D.p + gp * D.mw, hy = D.hy + gb * D.mw, cp = Math.cos(p), sp2 = Math.sin(p), Hy = D.hipY, Hz = D.hipZ;
+    var p = D.p + gp * D.mw, hy = D.hy + gb * D.mw + (D.lift || 0), cp = Math.cos(p), sp2 = Math.sin(p), Hy = D.hipY, Hz = D.hipZ;
     D.body.rotation.x = p; D.body.rotation.z = D.br; D.body.position.set(0, hy - (Hy * cp - Hz * sp2), Hz + D.pz - (Hy * sp2 + Hz * cp));
     var by = D.body.position.y, bz = D.body.position.z;
     /* the paws: the pose's targets, blended with the gait's planted steps */
@@ -285,9 +285,18 @@ var DOG = (function () {
     if (D.kind === 'collie' || D.kind === 'shepherd') { /* the world angle of the tail (0 hangs, pi/2 streams back, more is raised), kept off the ground */ var tw = (D.kind === 'shepherd' ? 0.18 + D.tailUp * 1.5 : 0.3 + D.tailUp * 1.9), ty0 = D.body.position.y + D.tail.position.y * cp - D.tail.position.z * sp2, cmax = (ty0 - 0.03) / (D.tailLen || 0.235); if (cmax < 1) tw = Math.max(tw, Math.acos(clamp(cmax, -1, 1))); D.tail.rotation.x = tw - p; } else D.tail.rotation.x = -D.tailUp * 0.3 - p * 0.6;
     if (D.ears) D.ears.forEach(function (e, j) { var s = j ? -1 : 1, fl = Math.sin(t * (moving ? f * 6.283 : 1.1) + j) * (moving ? 0.12 : 0.03); if (D.kind === 'maltese') { e.rotation.x = -P.ears * 0.5 + fl + (moving ? -0.15 : 0); e.rotation.z = s * (0.05 + P.ears * 0.25); } else if (D.kind === 'tugou' || D.kind === 'cat' || D.kind === 'shepherd') { e.rotation.x = (D.kind === 'shepherd' ? -0.06 - P.ears * 0.45 : -0.1 - P.ears * 0.3) + fl * 0.5; } else { e.rotation.x = -0.1 - P.ears * 0.55 + fl; if (e.userData.tip) e.userData.tip.rotation.x = 1.15 - P.ears * 0.5 + fl * 2; } });
     if (D.coat) { var sw = moving ? Math.sin(D.ph * Math.PI * 4) * 0.02 * Math.min(1, sp / 0.6) : 0; D.coat.scale.set(1 + sw, 1 - Math.abs(sw) * 0.4, 1 - sw * 0.4); D.coat.rotation.x = moving ? -0.03 * D.mw : 0; }
+    restLift(D, m, moving, dt);
     var pant = moving || m === 'bow' || m === 'rear' || m === 'spin' || o.excited; if (D.tongue) D.tongue.visible = !!pant; if (D.jaw) D.jaw.rotation.x = pant ? 0.22 + Math.sin(t * 14) * 0.05 : 0.0; }
+  /* (V87) the lowest point of the body and the legs over the ground, in the dog's own frame (the tail apart) */
+  var _dm1 = new THREE.Matrix4(), _dm2 = new THREE.Matrix4();
+  function lowest(D) { D.root.updateMatrixWorld(true); _dm1.copy(D.root.matrixWorld).invert(); var lo = 1e9;
+    D.body.traverse(function (x) { if (!x.isMesh || !x.visible || !x.geometry || !x.geometry.attributes.position) return; for (var q = x; q && q !== D.body; q = q.parent) if (q === D.tail) return; _dm2.multiplyMatrices(_dm1, x.matrixWorld); var P = x.geometry.attributes.position, e = _dm2.elements, st = Math.max(1, Math.floor(P.count / 1500)), i; for (i = 0; i < P.count; i += st) { var y = e[1] * P.getX(i) + e[5] * P.getY(i) + e[9] * P.getZ(i) + e[13]; if (y < lo) lo = y; } }); return lo; }
+  /* (V87) at rest the hip is raised by whatever of the dog lies under the floor (measured when the pose has settled; kept per pose) */
+  function restLift(D, m, moving, dt) { var rest = !moving && (m === 'sit' || m === 'ride' || m === 'lie' || m === 'loaf' || m === 'groom' || m === 'scratch' || m === 'bow'), L = D.liftC || (D.liftC = {}), c = L[m], cur = D.lift || 0;
+    if (!rest) D.liftT = 0; else { if (!c) c = L[m] = { v: 0, n: 0 }; if (c.n < 5 && D.modeT > 0.7 + c.n * 0.45 && Math.abs(cur - c.v) < 0.0015) { var lo = lowest(D); if (lo < -0.004) c.v = Math.min(D.hipY * 0.7, c.v - lo + 0.002); c.n++; } D.liftT = c.v; }
+    D.lift = cur + (D.liftT - cur) * (1 - Math.exp(-dt * 10)); }
   function setMode(D, m) { if (D.mode === m) return; D.mode = m; D.modeT = 0; if (m === 'spin') D.spinDir = Math.random() < 0.5 ? -1 : 1; }
-  return { build: build, update: update, setMode: setMode };
+  return { build: build, update: update, setMode: setMode, lowest: lowest };
 })();
 
 

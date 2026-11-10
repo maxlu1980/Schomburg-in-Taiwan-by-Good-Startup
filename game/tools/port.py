@@ -10,7 +10,7 @@ P = str(REF / 'parts') + '/'; OUT = str(SRC) + '/'
 ORDER = ['00_island_a', '01_island_b', '02_island_d', '03_island_e', '04_island_f', '05_island_f2', '06_island_g', '07_island_h', '08_island_i', '09_island_j',
          '11_island_k', '12_island_l', '13_island_m', '14_island_n', '15_island_o', '16_island_p', '17_island_q', '18_island_r', '19_island_s',
          '20_island_t', '26_island_z', '@koeln', '27_island_c']
-KPARTS = ['k_world.js', 'k_city.js', 'kt_ui.js', 'k_play.js', 'k_train.js', 'k_ui.js', 'kt_world.js', 'kt_street.js', 'kt_fight.js', 'k_voice.js', 'k_vox.js', 'k_arms.js', 'k_indoor.js', 'k_perf.js', 'k_pol.js', 'k_dom.js', 'k_cam.js', 'k_rtx.js', 'k_portal.js', 'k_load.js', 'k_crowd.js', 'k_peds.js', 'k_intro.js', 'k_fix.js', 'k_gfx.js', 'k_col.js', 'k_dev.js']   # the Köln parts (in src/koeln/isle/), inserted at '@koeln' in this order (those that exist)
+KPARTS = ['k_world.js', 'k_city.js', 'kt_ui.js', 'k_play.js', 'k_train.js', 'k_ui.js', 'kt_world.js', 'kt_street.js', 'kt_fight.js', 'k_voice.js', 'k_vox.js', 'k_arms.js', 'k_indoor.js', 'k_perf.js', 'k_pol.js', 'k_dom.js', 'k_cam.js', 'k_rtx.js', 'k_portal.js', 'k_load.js', 'k_crowd.js', 'k_peds.js', 'k_intro.js', 'k_fix.js', 'k_gfx.js', 'k_col.js', 'k_ann.js', 'k_ctl.js', 'k_dev.js']   # the Köln parts (in src/koeln/isle/), inserted at '@koeln' in this order (those that exist)
 PATCH = {}
 RECOLOR = {}   # part -> {old: new}: every occurrence (colours of effects)
 SECT = {}   # part -> [(start marker, end marker (inclusive line), file)] : the lines from the start marker to the end of the end marker's line are replaced by the file
@@ -40,7 +40,7 @@ patch('07_island_h', "if (W.fog) { W.fog.near = 70; W.fog.far = 460; } }\n", "if
 patch('27_island_c', "[['zh', '繁體中文'], ['en', 'English'], ['ja', '日本語']]", "[['en', 'English'], ['zh', '繁體中文'], ['de', 'Deutsch']]")
 
 # ---- the text agents' patches (exact strings, per part) ----
-for _pf in ['kpatch_ui.py', 'kpatch_world.py', 'kpatch_street.py', 'kpatch_fight.py', 'kpatch_k.py', 'kpatch_v80.py', 'kpatch_v83.py', 'kpatch_v84.py', 'kpatch_v85.py']:
+for _pf in ['kpatch_ui.py', 'kpatch_world.py', 'kpatch_street.py', 'kpatch_fight.py', 'kpatch_k.py', 'kpatch_v80.py', 'kpatch_v83.py', 'kpatch_v84.py', 'kpatch_v85.py', 'kpatch_v87.py']:
     if (ROOT / 'game' / 'tools' / _pf).exists(): exec(open(ROOT / 'game' / 'tools' / _pf, encoding='utf-8').read())
 
 def build():

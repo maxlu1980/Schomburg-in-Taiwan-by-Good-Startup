@@ -33,7 +33,13 @@ General soundfont; the recording is embedded as MP3 in `src/koeln/score85.js`; t
 fallback). Mira's German voice lines were synthesised offline
 with the Supertonic text-to-speech model (Supertone Inc., OpenRAIL licence; run through
 sherpa-onnx by `game/tts/make_vox.py`) and are embedded as MP3 clips in
-`src/koeln/isle/k_vox.js`; the model itself is not part of the repository.
+`src/koeln/isle/k_vox.js`; the model itself is not part of the repository. The station's
+announcements (`src/koeln/isle/k_ann.js`, V87) are written for this project in the usual order of
+a German platform announcement and spoken by the same text-to-speech model (a man's voice;
+`game/tts/make_ann.py`); the chime is the game's own. No railway's recordings, jingle or
+logo are used, and the trains are the game's own designs: its fast train is not a copy of any
+railway's rolling stock, and the line names on the indicators (RE 1, RE 5, S 12, S 19) are
+used as the names of the lines that call at Köln Hbf.
 
 ## Third-party software and fonts
 

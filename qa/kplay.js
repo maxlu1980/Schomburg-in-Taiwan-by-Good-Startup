@@ -12,7 +12,7 @@ const SC = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
   await p.goto('http://127.0.0.1:8765/ktest/' + (o.page || 'game.html'), { waitUntil: 'load', timeout: 300000 });
   await p.waitForFunction(() => window.KT_READY, null, { timeout: 300000 }).catch(() => errs.push('READY timeout'));
   const be = await p.evaluate(() => window.__bootErr || null); if (be) console.log('BOOT', be);
-  async function steps(n, dt) { return p.evaluate(([n, dt]) => { try { return ISLE_x.ev('(function(){ cancelAnimationFrame(raf); for (var i = 0; i < ' + n + '; i++) { var nw = performance.now(); last = ' + (dt ? 'nw - ' + (dt * 1000) : '0') + '; frame(nw); cancelAnimationFrame(raf); } return mode; })()'); } catch (e) { return 'ERR ' + e.message; } }, [n, dt || 0]); }
+  async function steps(n, dt) { return p.evaluate(([n, dt]) => { try { return ISLE_x.ev('(function(){ cancelAnimationFrame(raf); for (var i = 0; i < ' + n + '; i++) { var nw = performance.now(); last = ' + (dt ? 'nw - ' + (dt * 1000) : '0') + '; try { GFX.lastF = 0; } catch (e0) {} /* (the frame cap would drop a step that comes sooner than its interval) */ frame(nw); cancelAnimationFrame(raf); } return mode; })()'); } catch (e) { return 'ERR ' + e.message; } }, [n, dt || 0]); }
   for (const a of SC.actions) {
     const t0 = Date.now(); let r;
     try {

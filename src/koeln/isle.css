@@ -783,6 +783,96 @@ body.isle-open > :not(.isle):not(.hsim):not(.kload):not(script):not(style){displ
 .kgfx__foot{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin-top:14px}.kgfx__foot .isle__why{flex:1 1 220px;margin:0}
 @media (max-width:440px){.kgfx__row{grid-template-columns:1fr}.kgfx__seg{flex-wrap:nowrap}.kgfx__seg button{flex:1 1 0;min-width:0;padding:0 4px}}
 
+/* (V87) the station's announcements: the words on a dark blue plate under the top bar — what is heard, and what it means */
+.isle__ann{position:absolute;left:50%;top:max(96px,calc(env(safe-area-inset-top,0px) + 96px));transform:translate(-50%,-8px);z-index:6;display:flex;flex-direction:column;align-items:center;gap:3px;width:max-content;max-width:min(92vw,760px);padding:8px 16px 10px;text-align:center;pointer-events:none;opacity:0;transition:opacity .3s,transform .3s;background:rgba(11,30,74,.82);border-left:4px solid #fff;color:#fff;box-sizing:border-box}
+.isle__ann.is-on{opacity:1;transform:translate(-50%,0)}
+.isle__ann small{font:700 11px/1.3 system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:#ffd24a}
+.isle__ann b{font:700 clamp(13px,1.9vw,17px)/1.35 var(--font-sans,system-ui),sans-serif}
+.isle__ann i{font:400 clamp(12px,1.7vw,15px)/1.4 var(--font-sans,system-ui),sans-serif;font-style:normal;color:#dbe4ff}
+.isle.is-narrow .isle__ann{top:max(118px,calc(env(safe-area-inset-top,0px) + 118px));padding:6px 10px 8px}
+.isle__ann.is-on.is-held{opacity:0}
+/* a low window (a phone held sideways): the meaning in the page's language alone where there is one, else two lines of the announcement */
+@media (max-height:480px){.isle__ann{max-width:min(70vw,620px);padding:5px 12px 7px}.isle__ann.has-tr b{display:none}.isle__ann b{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.isle__ann i{font-size:13px;color:#fff}}
+/* …and there the round map reaches up to the top bar on the left and the actions stand on the right: the plate between them, not across the map */
+@media (max-height:480px) and (min-width:700px){.isle__ann{left:max(198px,calc(env(safe-area-inset-left,0px) + 198px));max-width:calc(100vw - 430px);transform:translate(0,-8px);align-items:flex-start;text-align:left}.isle__ann.is-on{transform:none}}
+@media (prefers-reduced-motion:reduce){.isle__ann{transition:none}}
+
+/* (V87) the controls on the screen: the view's pad, the walking keys as buttons, the key under each button, the hint; the help card's keyboard */
+.isle__ctl{position:absolute;z-index:5;display:none;pointer-events:auto}
+.isle__ctl button{appearance:none;position:relative;width:42px;height:42px;padding:0;border:1px solid var(--ink);border-radius:0;background:rgba(255,255,255,.93);color:var(--ink);display:flex;align-items:center;justify-content:center;cursor:pointer;touch-action:none;-webkit-user-select:none;user-select:none;box-sizing:border-box}
+.isle__ctl button:active{background:#ffd24a}
+.isle__ctl button:focus-visible{outline:3px solid #005baa;outline-offset:2px}
+.isle__ctl button[aria-pressed="false"]{background:rgba(255,255,255,.6)}
+.isle__ctl svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;pointer-events:none}
+.isle.is-kctl .isle__ctl--cam{display:flex;gap:6px;left:50%;bottom:max(14px,env(safe-area-inset-bottom,0px));transform:translateX(-50%)}
+.isle.is-kctl .isle__rot{display:none}
+.isle__kc{position:absolute;right:-5px;bottom:-7px;min-width:17px;height:17px;padding:0 4px;box-sizing:border-box;font:700 10px/15px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;text-align:center;background:#231f20;color:#fff;border:1px solid #fff;border-radius:0;pointer-events:none;display:none;white-space:nowrap;z-index:1}
+.isle.is-kctl:not(.is-touch):not(.is-kctl-min) .isle__kc{display:block}
+.isle__kc[data-k]::after,.isle__ctl--move kbd[data-k]::after{content:attr(data-k)}
+/* the caps of the buttons that are the game's own (their insides are rewritten while playing — a cap put into them as an element was lost until the next look): drawn from an attribute of the button itself */
+.isle [data-kc]::after{content:attr(data-kc);position:absolute;right:-5px;bottom:-7px;min-width:17px;height:17px;padding:0 4px;box-sizing:border-box;font:700 10px/15px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:0;text-transform:none;text-align:center;background:#231f20;color:#fff;border:1px solid #fff;border-radius:0;pointer-events:none;display:none;white-space:nowrap;z-index:1}
+.isle.is-kctl:not(.is-touch):not(.is-kctl-min) [data-kc]::after{display:block}
+.isle__ico{position:relative}
+.isle__ico .isle__kc{right:2px;bottom:auto;top:37px}
+.isle .isle__ico[data-kc]::after{right:2px;bottom:auto;top:37px}
+.isle.is-kctl.is-touch .isle__ctl--cam{left:max(14px,env(safe-area-inset-left,0px));transform:none;bottom:max(16px,env(safe-area-inset-bottom,0px));gap:8px}
+.isle.is-kctl.is-touch .isle__ctl--cam button{width:46px;height:46px}
+.isle.is-kctl.is-touch .isle__ctl--cam [data-c="up"],.isle.is-kctl.is-touch .isle__ctl--cam [data-c="dn"],.isle.is-kctl.is-touch .isle__ctl--cam [data-c="zi"],.isle.is-kctl.is-touch .isle__ctl--cam [data-c="zo"],.isle.is-kctl.is-touch .isle__ctl--cam [data-c="pad"]{display:none}
+.isle.is-kctl:not(.is-touch):not(.is-kctl-min) .isle__ctl--move{display:grid;grid-template-columns:repeat(3,38px) auto;grid-template-rows:38px 38px;gap:4px;left:max(198px,calc(env(safe-area-inset-left,0px) + 198px));bottom:max(14px,env(safe-area-inset-bottom,0px))}
+.isle__ctl--move button{width:38px;height:38px}
+.isle__ctl--move .is-w{grid-column:2;grid-row:1}
+.isle__ctl--move .is-a{grid-column:1;grid-row:2}
+.isle__ctl--move .is-s{grid-column:2;grid-row:2}
+.isle__ctl--move .is-d{grid-column:3;grid-row:2}
+.isle__ctl--move .is-sh{grid-column:4;grid-row:2;width:auto;padding:0 9px;gap:7px;margin-left:6px}
+.isle__ctl--move kbd{font:700 13px/1 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:var(--ink);pointer-events:none}
+.isle__ctl--move .is-sh span{font:700 11px/1 var(--font-sans);pointer-events:none}
+.isle.is-kctl:not(.is-touch):not(.is-phone) .isle__gsact{display:flex;gap:9px}
+.isle.is-kctl:not(.is-touch) .isle__gsact button{width:54px;height:54px;position:relative;cursor:pointer}
+.isle.is-kctl:not(.is-touch) .isle__gsact button[data-a="punch"]{width:62px;height:62px}
+.isle.is-kctl:not(.is-touch) .isle__gsact .isle__kc{right:auto;left:-8px;bottom:auto;top:-6px}
+.isle.is-kctl:not(.is-touch) .isle__gsact [data-kc]::after{right:auto;left:-8px;bottom:auto;top:-6px}
+.isle__act{position:relative}
+.isle__act .isle__kc{right:-6px;bottom:-7px}
+.isle .isle__act[data-kc]::after{right:-6px;bottom:-7px}
+.isle__gsphb{overflow:visible}
+.isle__ctltip{position:absolute;left:50%;bottom:max(64px,calc(env(safe-area-inset-bottom,0px) + 64px));transform:translateX(-50%);z-index:5;margin:0;width:max-content;max-width:min(92vw,760px);padding:7px 14px;background:rgba(12,14,18,.86);color:#fff;font:700 13px/1.5 var(--font-sans);text-align:center;pointer-events:none;box-sizing:border-box}
+.isle__ctltip[hidden]{display:none}
+.isle.is-touch .isle__ctltip{bottom:auto;top:max(150px,calc(env(safe-area-inset-top,0px) + 150px))}
+/* beside the walking keys the view's pad stands clear of them (on a narrower window the walking keys go: the keyboard has them) */
+@media (min-width:941px){.isle.is-kctl:not(.is-touch):not(.is-kctl-min) .isle__ctl--cam{left:max(50%,628px)}}
+@media (max-width:940px){.isle.is-kctl:not(.is-touch):not(.is-kctl-min) .isle__ctl--move{display:none}}
+/* a low window: the actions in rows of three (a column of them would run up into the top bar) */
+@media (max-height:620px){.isle.is-kctl:not(.is-touch):not(.is-phone) .isle__gsact{flex-direction:row;flex-wrap:wrap-reverse;justify-content:flex-end;align-items:flex-end;width:178px;gap:10px 8px}.isle.is-kctl:not(.is-touch) .isle__gsact button{width:50px;height:50px}.isle.is-kctl:not(.is-touch) .isle__gsact button[data-a="punch"]{width:50px;height:50px}}
+/* (V87) a low, wide window under a finger (a phone held sideways): the actions' column — five buttons from 166 px up — was taller than the screen and ran up over the top bar. Two rows in the corner under the thumb instead: strike, jump and car below, overclock and special above; the phone beside them; the corner itself stays free for the action of the place */
+@media (max-height:620px) and (min-aspect-ratio:1/1){.isle.is-touch:not(.is-phone) .isle__gsact{flex-direction:row-reverse;flex-wrap:wrap-reverse;justify-content:flex-start;align-items:flex-end;width:190px;gap:8px;bottom:max(88px,calc(env(safe-area-inset-bottom,0px) + 88px))}.isle.is-touch .isle__gsact button{width:58px;height:58px}.isle.is-touch .isle__gsact button[data-a="punch"]{order:-3}.isle.is-touch .isle__gsact button[data-a="jump"]{order:-2}.isle.is-touch .isle__gsact button[data-a="car"]{order:-1}.isle.is-touch .isle__gsphb{right:max(214px,calc(env(safe-area-inset-right,0px) + 214px));bottom:max(88px,calc(env(safe-area-inset-bottom,0px) + 88px));width:52px;height:52px}}
+.isle__khelp{display:grid;gap:16px;text-align:left}
+.isle__ksec h3{margin:0 0 8px;font:700 14px/1.3 var(--font-sans);letter-spacing:.04em}
+.isle__kb{display:flex;flex-direction:column;gap:4px;max-width:100%;overflow-x:auto;padding-bottom:4px}
+.isle__kbr{display:flex;gap:4px}
+.isle__kk{flex:0 0 auto;min-width:30px;height:30px;padding:0 5px;box-sizing:border-box;display:flex;align-items:center;justify-content:center;border:1px solid #9aa0a6;background:#f4f4f2;color:#5f6368;font:700 11px/1 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.isle__kk.is-wide{min-width:46px}
+.isle__kk.is-space{min-width:150px}
+.isle__kk.is-m,.isle__kdot.is-m{background:#005baa;border-color:#005baa;color:#fff}
+.isle__kk.is-c,.isle__kdot.is-c{background:#f2b632;border-color:#8a6508;color:#231f20}
+.isle__kk.is-a,.isle__kdot.is-a{background:#c8000d;border-color:#c8000d;color:#fff}
+.isle__kk.is-p,.isle__kdot.is-p{background:#231f20;border-color:#231f20;color:#fff}
+.isle__kleg{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px 18px;margin-top:12px}
+.isle__kleg ul,.isle__klist{list-style:none;margin:0;padding:0}
+.isle__kleg li{display:flex;align-items:baseline;gap:7px;font:400 13px/1.6 var(--font-sans)}
+.isle__kleg li b{font:700 12px/1.4 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:nowrap}
+.isle__kleg li.isle__kgh{font-weight:700;margin-top:4px}
+.isle__kdot{flex:0 0 auto;width:9px;height:9px;align-self:center;border:0}
+.isle__kmrow{display:flex;gap:16px;align-items:center}
+.isle__kms{width:44px;height:66px;flex:0 0 auto}
+.isle__klist li{font:400 13px/1.6 var(--font-sans);padding-left:13px;position:relative}
+.isle__klist li::before{content:"";position:absolute;left:0;top:.62em;width:5px;height:5px;background:currentColor}
+.isle__ktc{flex:0 0 auto;width:104px;height:60px;border:1px solid #231f20;display:grid;grid-template-columns:54% 46%;box-sizing:border-box}
+.isle__ktc span{display:flex;align-items:center;justify-content:center;font:700 11px/1 var(--font-sans)}
+.isle__ktc .is-l{background:#005baa;color:#fff}
+.isle__ktc .is-r{background:#f2b632;color:#231f20}
+@media (max-width:640px){.isle__kleg{grid-template-columns:1fr}}
+
 /* ===== (V83) SCHOMBURG CIS for the game's controls — from the SCHOMBURG design system (tokens.json, components/bundle.css):
    white and grey grounds; SCHOMBURG Red #e3000f for the one primary action and for the active state (#b3000c pressed); black #231f20 for text
    and hairlines; blue #005baa for focus, progress and right answers; square corners; no shadows, no gradients on controls; Futura (Jost
