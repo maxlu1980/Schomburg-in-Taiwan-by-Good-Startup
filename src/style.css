@@ -1194,6 +1194,8 @@ html[lang="de"] h1,html[lang="de"] h2,html[lang="de"] h3,html[lang="de"] h4,html
 .sim .sim__cardin .sim__phase{color:var(--red-ink)}
 .sim .sim__cardin h2{color:var(--ink);padding-bottom:var(--space-3);border-bottom:var(--border-hair) solid var(--line-strong)}
 .sim .sim__cardin p{font-weight:300}
+/* (V86) who made the system: one small line under a simulator's result */
+.sim .sim__cardin p.sim__dev{margin-top:var(--space-5);padding-top:10px;border-top:1px solid var(--grey-20);font:400 12px/16px var(--font-sans);letter-spacing:.02em;color:var(--ink-muted)}
 .sim .sim__brief li{border-top-color:var(--line)}
 .sim .sim__brief li::before{color:var(--red-ink)}
 .sim .sim__keys{color:var(--ink-muted)}
@@ -1227,6 +1229,10 @@ html[lang="de"] h1,html[lang="de"] h2,html[lang="de"] h3,html[lang="de"] h4,html
 .kload__skip:hover{background:#fff;color:#231f20}
 .kload__btn:focus-visible,.kload__skip:focus-visible{outline:2px solid #fff;outline-offset:2px}
 .kload.has-video::after{background:linear-gradient(transparent,rgba(0,47,87,.85))}
+/* (V86) who made the system: one small line at the loading screen's lower edge */
+.kload__dev{position:absolute;left:0;right:0;bottom:max(14px,env(safe-area-inset-bottom,0px));z-index:2;margin:0;padding:0 16px;text-align:center;font:400 12px/16px var(--font-sans);letter-spacing:.04em;color:rgba(212,239,252,.9);pointer-events:none}
+@media (max-width:720px){.kload__dev{bottom:max(68px,calc(env(safe-area-inset-bottom,0px) + 68px))}} /* (clear of the button in the corner) */
+@media (max-height:480px){.kload__dev{left:max(16px,env(safe-area-inset-left,0px));right:auto;padding:0;text-align:left;bottom:max(14px,env(safe-area-inset-bottom,0px))}} /* (a phone held sideways: the free corner, clear of the start button) */
 /* (V84) red TEXT uses --red-ink (the signature red in the light theme, the lighter red of the night theme so small text keeps ≥ 4.5:1);
    white on the night theme's lighter blue would not, so the step tags take the surface colour there; muted text is a grey that passes on the grey-10 panels too */
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .tl-step__tag{color:var(--surface)}}

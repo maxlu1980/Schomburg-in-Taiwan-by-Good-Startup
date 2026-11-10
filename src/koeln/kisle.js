@@ -5331,8 +5331,8 @@ var ISLE = (function () {
   /* opened later (the header's button) with no loading screen on the page: build one, the same */
   function kldMake() { var T2 = { zh: ['施工指南的科隆城市遊戲', '第一次載入約需 10–30 秒，之後會更快；進度會自動儲存。'], en: ["The guide's city game", 'The first load takes about 10–30 s; later visits are faster. Your progress is saved automatically.'], de: ['Das Stadtspiel des Leitfadens', 'Der erste Start dauert etwa 10–30 s, danach geht es schneller. Dein Fortschritt wird automatisch gespeichert.'] }[LANG] || null; if (!T2) T2 = ["The guide's city game", ''];
     var L = document.createElement('div'); L.className = 'kload'; L.id = 'kLoad'; L.setAttribute('role', 'status'); L.setAttribute('aria-live', 'polite');
-    L.innerHTML = '<div class="kload__bg" aria-hidden="true"><i></i><i></i></div><div class="kload__in"><div class="kload__mark" aria-hidden="true"><svg viewBox="0 0 120 120"><defs><linearGradient id="klg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd27a"/><stop offset=".55" stop-color="#ff8400"/><stop offset="1" stop-color="#e3000f"/></linearGradient></defs><circle class="kload__r0" cx="60" cy="60" r="46"/><circle class="kload__r1" cx="60" cy="60" r="46" stroke="url(#klg2)"/><circle class="kload__r2" cx="60" cy="60" r="38"/></svg><b></b><b></b><b></b></div><p class="kload__kick">SCHOMBURG · KÖLN</p><h2 class="kload__h"></h2><div class="kload__bar" aria-hidden="true"><i id="kLoadBar"></i><span></span></div><p class="kload__st"><span id="kLoadSt"></span> <b id="kLoadPct"></b></p><p class="kload__note"></p><div class="kload__act" id="kLoadAct" hidden><button type="button" class="kload__btn" id="kLoadGo"></button><button type="button" class="kload__btn kload__btn--q" id="kLoadMute" aria-pressed="true"></button></div></div>';
-    L.querySelector('.kload__h').textContent = T2[0]; L.querySelector('.kload__note').textContent = T2[1]; document.body.appendChild(L); KLD.done = false; KLD.ready = false; return L; }
+    L.innerHTML = '<div class="kload__bg" aria-hidden="true"><i></i><i></i></div><div class="kload__in"><div class="kload__mark" aria-hidden="true"><svg viewBox="0 0 120 120"><defs><linearGradient id="klg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd27a"/><stop offset=".55" stop-color="#ff8400"/><stop offset="1" stop-color="#e3000f"/></linearGradient></defs><circle class="kload__r0" cx="60" cy="60" r="46"/><circle class="kload__r1" cx="60" cy="60" r="46" stroke="url(#klg2)"/><circle class="kload__r2" cx="60" cy="60" r="38"/></svg><b></b><b></b><b></b></div><p class="kload__kick">SCHOMBURG · KÖLN</p><h2 class="kload__h"></h2><div class="kload__bar" aria-hidden="true"><i id="kLoadBar"></i><span></span></div><p class="kload__st"><span id="kLoadSt"></span> <b id="kLoadPct"></b></p><p class="kload__note"></p><div class="kload__act" id="kLoadAct" hidden><button type="button" class="kload__btn" id="kLoadGo"></button><button type="button" class="kload__btn kload__btn--q" id="kLoadMute" aria-pressed="true"></button></div></div><p class="kload__dev" id="kLoadDev"></p>';
+    L.querySelector('.kload__h').textContent = T2[0]; L.querySelector('.kload__note').textContent = T2[1]; /* (V86) who made the system */ try { L.querySelector('.kload__dev').textContent = kdevText(); } catch (e) {} document.body.appendChild(L); KLD.done = false; KLD.ready = false; return L; }
   var _openLd = open; open = function (o) { var L = kldEl(); o = o || {}; if (!L && !built && !(window.ISLE_TEST && !window.KL_ASYNC) && typeof THREE !== 'undefined') L = kldMake();
     if (window.KLOAD_SKIP) { if (L) kldClose(); return; }
     if (built || !L || (window.ISLE_TEST && !window.KL_ASYNC)) { _openLd(o); if (L) { kldSet(1, 's4', 0.2); kldDone(); } return; }
@@ -6040,6 +6040,35 @@ var ISLE = (function () {
   window.ISLE_x = window.ISLE_x || {}; window.ISLE_x.col = function () { return { sub: KCOL.sub, push: KCOL.push, beats: KCOL.fixed, n: KCOL.n }; };
   /* (V80) an easing step for a rate k (per second) over dt, the same at every frame rate (calibrated so that 60 fps behaves as before) */
   function kfi(dt, k) { var a = Math.min(0.999, Math.max(0, k / 60)); return 1 - Math.pow(1 - a, Math.max(0, dt) * 60); }
+
+/* ===== [k_dev.js] ===== */
+  /* ===== ISLE part K27 (Köln, V86): who made it. "System developed by Good Startup" (系統由好時新創 Good Startup 開發) is stated, in one
+     small line, on the game's interfaces: under the title card's text; on the loading screen (src/body.html and k_load.js) and on the veil
+     of every screen transition (a ride, a door, a train: the fade between two places); on the opening film's closing title; as a footer of
+     the panels opened from the HUD (menu, map, navigation, the pocket door, the phone, bag, handbook, gear, graphics, help, the way back to
+     the guides); and on the result cards (a duel won or lost, a ride's end). Not on the 3D picture while playing: nothing stands in the
+     view. One wording per language; every such element is marked data-kdev and filled by kdevFill, also when the language changes. ===== */
+  var KDEV = { on: 0 };
+  var KDEVT = { zh: '系統由好時新創 Good Startup 開發', en: 'System developed by Good Startup', de: 'System entwickelt von Good Startup' };
+  function kdevText() { return KDEVT[LANG] || KDEVT.en; }
+  function kdevFill(scope) { var L = (scope || document).querySelectorAll('[data-kdev]'), i, tx = kdevText(); for (i = 0; i < L.length; i++) if (L[i].textContent !== tx) L[i].textContent = tx; }
+  function kdevEl(tag, cls) { var e = document.createElement(tag); e.className = cls; e.setAttribute('data-kdev', ''); e.textContent = kdevText(); return e; }
+  /* the title card (over its small print) and the transitions' veil (the line shows and goes with the veil; not in a hit's flash) */
+  var _buildDomDev = buildDom; buildDom = function () { _buildDomDev.apply(this, arguments); try { var cr = $('isCredit'); if (cr && !root.querySelector('.isle__dev--title')) cr.parentNode.insertBefore(kdevEl('p', 'isle__dev isle__dev--title'), cr);
+      var fd = $('isFade'); if (fd && !fd.querySelector('.isle__dev')) fd.appendChild(kdevEl('p', 'isle__dev isle__dev--fade')); } catch (e) { if (window.ISLE_TEST) throw e; } };
+  var _labelsDev = labels; labels = function () { _labelsDev.apply(this, arguments); try { kdevFill(root); } catch (e) {} };
+  /* the cards: a footer under the content of the panels opened from the HUD and of the result cards. The panels' openers mark their card
+     (KDEV.on); a panel that draws itself again (a choice made in it) is known by its kind; a result card by what it shows (the duel's
+     verdict, the retry after a defeat, a reward with nothing to decide, the stars after a ride). Prompts in play (a stall, a gate, a quiz)
+     carry none. */
+  function kdevResult(cin, cls) { var h2 = cin.querySelector('h2'), tx = h2 ? h2.textContent : ''; if (tx && (tx === tg('felled') || tx === tg('died'))) return true; if (cin.querySelector('#isRetry') || cin.querySelector('.isle__stars')) return true; return !!(cls && /isle__cin--boss(\s|$)/.test(cls) && !cin.querySelector('.isle__cact')); }
+  var _cardDev = card; card = function (html, cls) { var C = _cardDev(html, cls); try { var cin = C.querySelector('.isle__cin'); if (cin && !cin.querySelector('.isle__dev') && (KDEV.on || (cls && /isle__cin--(map|nav|gear|menu|gfx|wide|portal|book)(\s|$)/.test(cls)) || kdevResult(cin, cls))) cin.appendChild(kdevEl('p', 'isle__dev isle__dev--card')); } catch (e) { if (window.ISLE_TEST) throw e; } return C; };
+  function kdevWrap(f) { return function () { KDEV.on++; try { return f.apply(this, arguments); } finally { KDEV.on--; } }; }
+  moreCard = kdevWrap(moreCard); helpCard = kdevWrap(helpCard); mapCard = kdevWrap(mapCard); phoneCard = kdevWrap(phoneCard); bagCard = kdevWrap(bagCard); bookCard = kdevWrap(bookCard); gearCard = kdevWrap(gearCard); guidesCard = kdevWrap(guidesCard); navCard = kdevWrap(navCard); qualCard = kdevWrap(qualCard);
+  /* the opening film's closing title: the line between the tag and the film's own credits */
+  var _kinOverlayDev = kinOverlay; kinOverlay = function () { var O = _kinOverlayDev.apply(this, arguments); try { var Tt = O && O.querySelector('#kinTitle'); if (Tt && !Tt.querySelector('.kin__dev')) { var em = Tt.querySelector('em'), d = kdevEl('i', 'kin__dev'); if (em) Tt.insertBefore(d, em); else Tt.appendChild(d); } if (O) kdevFill(O); } catch (e) { if (window.ISLE_TEST) throw e; } return O; };
+  /* (the tests) every such line now in the page: [class, text, x, y, w, h, laid out and not hidden, the opacity it is seen at] */
+  window.ISLE_x = window.ISLE_x || {}; window.ISLE_x.dev = function () { return [].map.call(document.querySelectorAll('[data-kdev]'), function (e) { var r = e.getBoundingClientRect(), o = 1, p; for (p = e; p && p.nodeType === 1 && !(p.classList && p.classList.contains('isle__cin')); p = p.parentNode) o *= +getComputedStyle(p).opacity; return [e.className, e.textContent, Math.round(r.left), Math.round(r.top), Math.round(r.width), Math.round(r.height), !!(e.offsetWidth || e.offsetHeight) && getComputedStyle(e).visibility !== 'hidden', +o.toFixed(2)]; }); };
 
 /* ===== [island_c.js] ===== */
   /* ===== ISLE part 3: the frame, the people, the cards, the board game, the journeys, the bosses ===== */

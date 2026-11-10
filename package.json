@@ -1,6 +1,6 @@
 {
   "name": "schomburg-in-taiwan-by-good-startup",
-  "version": "85.0.0",
+  "version": "86.0.0",
   "description": "Schomburg in Taiwan by Good Startup — SCHOMBURG application guides — six interactive construction-chemistry guides (crack injection, concrete restoration, mineral waterproofing, crystalline waterproofing, crystalline admixture, protective flooring) with hands-on 3D simulators, document generation (quotes, method statements, specifications, submittals, comparisons) and the Köln training game. One self-contained HTML page in English, Traditional Chinese (Taiwan) and German.",
   "homepage": "https://maxlu1980.github.io/Schomburg-in-Taiwan-by-Good-Startup/",
   "repository": {
@@ -38,7 +38,8 @@
     "test:stairs": "node qa/kplay.js qa/scenarios/stairs_up.json && node qa/kplay.js qa/scenarios/stairs_down.json",
     "audit:coplanar": "node qa/coplanar.js station && node qa/coplanar.js city",
     "audit:flicker": "node qa/flicker.js 8765 shots/flicker.json local && python3 qa/flicker_diff.py shots/flicker.json",
-    "score": "python3 game/tools/mkscore85.py"
+    "score": "python3 game/tools/mkscore85.py",
+    "test:credit": "node qa/kplay.js qa/scenarios/credit.json && node qa/credit.js"
   },
   "dependencies": {
     "docx": "9.11.0",
