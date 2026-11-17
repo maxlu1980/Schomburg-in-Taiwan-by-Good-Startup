@@ -1,28 +1,68 @@
 <!-- (V69) the game's loading screen: shown from the first paint while the page and the 3D city load; its animations run on the compositor,
-     so they keep moving while the city is being built; the game's own script reports the real stages and removes it -->
-<div class="kload" id="kLoad" role="status" aria-live="polite" hidden>
+     so they keep moving while the city is being built; the game's own script reports the real stages and removes it.
+     (V88) On the start page it is the start page: the technical pages first — the six application guides, each one click away from the
+     first paint, with the products they cover — and beside them the city game, loading. A guide chosen while the city is still being
+     built keeps the game from opening over it (k_load.js); the game's own address (#/island, ?isle=1) keeps the plain loading screen. -->
+<div class="kload" id="kLoad" role="region" hidden>
   <div class="kload__bg" aria-hidden="true"><i></i><i></i></div>
-  <div class="kload__in">
-    <div class="kload__mark" aria-hidden="true"><svg viewBox="0 0 120 120"><defs><linearGradient id="klg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd27a"/><stop offset=".55" stop-color="#ff8400"/><stop offset="1" stop-color="#e3000f"/></linearGradient></defs><circle class="kload__r0" cx="60" cy="60" r="46"/><circle class="kload__r1" cx="60" cy="60" r="46" stroke="url(#klg)"/><circle class="kload__r2" cx="60" cy="60" r="38"/></svg><b></b><b></b><b></b></div>
-    <p class="kload__kick">SCHOMBURG · KÖLN</p>
-    <h2 class="kload__h" id="kLoadH">The guide's city game</h2>
-    <div class="kload__bar" aria-hidden="true"><i id="kLoadBar"></i><span></span></div>
-    <p class="kload__st"><span id="kLoadSt">Loading…</span> <b id="kLoadPct"></b></p>
-    <ul class="kload__tips" id="kLoadTips"><li></li><li></li><li></li><li></li></ul>
-    <p class="kload__note" id="kLoadNote"></p>
-    <div class="kload__act" id="kLoadAct" hidden><button type="button" class="kload__btn" id="kLoadGo"></button><button type="button" class="kload__btn kload__btn--q" id="kLoadMute" aria-pressed="true"></button></div>
-    <button type="button" class="kload__skip" id="kLoadSkip"></button>
+  <div class="kload__lang" id="kStartLang" role="group" hidden><button type="button" data-l="en" lang="en" aria-pressed="false">English</button><button type="button" data-l="zh" lang="zh-Hant-TW" aria-pressed="false">繁體中文</button><button type="button" data-l="de" lang="de" aria-pressed="false">Deutsch</button></div>
+  <div class="kload__grid">
+    <section class="kload__tech" id="kStart" aria-labelledby="kStartH" hidden>
+      <p class="kload__tk" id="kStartK"></p>
+      <h2 class="kload__th" id="kStartH"></h2>
+      <p class="kload__ti" id="kStartI"></p>
+      <ul class="kload__guides" id="kStartG"></ul>
+      <p class="kload__hint" id="kStartN"></p>
+    </section>
+    <div class="kload__in">
+      <p class="kload__or" id="kStartOr" hidden></p>
+      <div class="kload__mark" aria-hidden="true"><svg viewBox="0 0 120 120"><defs><linearGradient id="klg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd27a"/><stop offset=".55" stop-color="#ff8400"/><stop offset="1" stop-color="#e3000f"/></linearGradient></defs><circle class="kload__r0" cx="60" cy="60" r="46"/><circle class="kload__r1" cx="60" cy="60" r="46" stroke="url(#klg)"/><circle class="kload__r2" cx="60" cy="60" r="38"/></svg><b></b><b></b><b></b></div>
+      <p class="kload__kick">SCHOMBURG · KÖLN</p>
+      <h2 class="kload__h" id="kLoadH">The guide's city game</h2>
+      <div class="kload__bar" aria-hidden="true"><i id="kLoadBar"></i><span></span></div>
+      <p class="kload__st" role="status" aria-live="polite"><span id="kLoadSt">Loading…</span> <b id="kLoadPct"></b></p>
+      <ul class="kload__tips" id="kLoadTips"><li></li><li></li><li></li><li></li></ul>
+      <p class="kload__note" id="kLoadNote"></p>
+      <div class="kload__act" id="kLoadAct" hidden><button type="button" class="kload__btn" id="kLoadGo"></button><button type="button" class="kload__btn kload__btn--q" id="kLoadMute" aria-pressed="true"></button></div>
+      <button type="button" class="kload__skip" id="kLoadSkip"></button>
+    </div>
   </div>
   <p class="kload__dev" id="kLoadDev"></p>
 </div>
-<script>(function(){var L=document.getElementById('kLoad');if(!L)return;var h=location.hash||'',q=location.search||'',want=(h===''||h==='#'||h==='#/'||h==='#/island'||/[?&]isle=1/.test(q))&&!/[?&]isle=0/.test(q);if(!want){L.parentNode.removeChild(L);return;}
-var lg='en';try{var s=localStorage.getItem('aquafin-p4-lang');if(s==='zh'||s==='en'||s==='de')lg=s;}catch(e){}L.setAttribute('lang',lg==='zh'?'zh-Hant-TW':lg);
-var T={zh:{dev:'系統由好時新創 Good Startup 開發',h:'施工指南的科隆城市遊戲',st:'載入中…',note:'第一次載入約需 10–30 秒，之後會更快；進度會自動儲存。',skip:'先看施工指南',tips:['提示：按 O 開啟米菈的口袋之門，一步到達科隆的地標。','提示：拖曳畫面環顧四周；雙指或滾輪可拉近拉遠。','提示：完成模擬現場可得 30 S 幣與一枚印章。','小知識：科隆大教堂高 157 公尺，從 1248 年到 1880 年蓋了 632 年。']},
-en:{dev:'System developed by Good Startup',h:"The guide's city game",st:'Loading…',note:'The first load takes about 10–30 s; later visits are faster. Your progress is saved automatically.',skip:'Read the guides first',tips:["Tip: press O for Mira's pocket door — one step to Köln's landmarks.",'Tip: drag to look around; pinch or scroll to zoom.','Tip: every simulator you finish earns 30 S coins and a stamp.','Did you know? The Dom is 157 m tall and took 632 years to build (1248–1880).']},
-de:{dev:'System entwickelt von Good Startup',h:'Das Stadtspiel des Leitfadens',st:'Wird geladen …',note:'Der erste Start dauert etwa 10–30 s, danach geht es schneller. Dein Fortschritt wird automatisch gespeichert.',skip:'Erst die Leitfäden lesen',tips:['Tipp: Mit O öffnest du Miras Taschentür – ein Schritt zu Kölns Wahrzeichen.','Tipp: Ziehen zum Umsehen; zoomen mit zwei Fingern oder dem Mausrad.','Tipp: Jeder geschaffte Simulator bringt 30 S-Münzen und einen Stempel.','Schon gewusst? Der Dom ist 157 m hoch; gebaut wurde 632 Jahre lang (1248–1880).']}}[lg];
-document.getElementById('kLoadH').textContent=T.h;document.getElementById('kLoadSt').textContent=T.st;document.getElementById('kLoadNote').textContent=T.note;var dv=document.getElementById('kLoadDev');if(dv)dv.textContent=T.dev;var sk=document.getElementById('kLoadSkip');sk.textContent=T.skip;
-[].forEach.call(document.querySelectorAll('#kLoadTips li'),function(li,i){li.textContent=T.tips[i];});
-sk.addEventListener('click',function(){L.classList.add('is-done');window.KLOAD_SKIP=true;try{location.hash='#how';}catch(e){}setTimeout(function(){if(L.parentNode)L.parentNode.removeChild(L);},600);});
+<script>(function(){var L=document.getElementById('kLoad');if(!L)return;var h=location.hash||'',q=location.search||'',isle1=/[?&]isle=1/.test(q),start=(h===''||h==='#'||h==='#/')&&!isle1,want=(start||h==='#/island'||isle1)&&!/[?&]isle=0/.test(q);if(!want){L.parentNode.removeChild(L);return;}
+function $k(id){return document.getElementById(id);}
+var lg='en';try{var s=localStorage.getItem('aquafin-p4-lang');if(s==='zh'||s==='en'||s==='de')lg=s;}catch(e){}
+var TT={zh:{dev:'系統由好時新創 Good Startup 開發',h:'施工指南的科隆城市遊戲',st:'載入中…',note:'第一次載入約需 10–30 秒，之後會更快；進度會自動儲存。',skip:'先看施工指南',tips:['提示：按 O 開啟米菈的口袋之門，一步到達科隆的地標。','提示：拖曳畫面環顧四周；雙指或滾輪可拉近拉遠。','提示：完成模擬現場可得 30 S 幣與一枚印章。','小知識：科隆大教堂高 157 公尺，從 1248 年到 1880 年蓋了 632 年。'],
+ region:'起始頁',k:'技術頁面 · 6 套 SCHOMBURG 施工指南',th:'直接進入技術頁面',ti:'選一套系統即可開始：系統構成、施工步驟、3D 模型、模擬現場、技術資料表、用量計算與文件。不必等遊戲載入。',n:'之後也能隨時從頁首的「科隆遊戲」進入遊戲。',or:'或者，邊玩邊學',lang:'語言',
+ g:{wr:'防水與修復',ct:'混凝土技術',fl:'地坪系統',cr:'混凝土修復',wp:'水泥基防水材料',rc:'混凝土後施防水',inj:'裂縫封閉／灌注樹脂',ca:'結晶型混凝土摻料',pf:'地坪保護／塗裝系統'}},
+en:{dev:'System developed by Good Startup',h:"The guide's city game",st:'Loading…',note:'The first load takes about 10–30 s; later visits are faster. Your progress is saved automatically.',skip:'Read the guides first',tips:["Tip: press O for Mira's pocket door — one step to Köln's landmarks.",'Tip: drag to look around; pinch or scroll to zoom.','Tip: every simulator you finish earns 30 S coins and a stamp.','Did you know? The Dom is 157 m tall and took 632 years to build (1248–1880).'],
+ region:'Start',k:'Technical pages · 6 SCHOMBURG application guides',th:'Go straight to the technical pages',ti:'Pick a system to begin: build-up, procedure, 3D model, hands-on simulator, technical data sheets, consumption calculator and documents. No need to wait for the game.',n:'You can enter the game any time later with “Köln game” at the top of the page.',or:'Or learn by playing',lang:'Language',
+ g:{wr:'Waterproofing and Restoration',ct:'Concrete Technology',fl:'Flooring',cr:'Concrete Restoration',wp:'Waterproofing Materials – Mineral-Based',rc:'Retrospective Concrete Waterproofing',inj:'Crack Sealing / Injection Resins',ca:'Crystalline Concrete Admixture',pf:'Protective Flooring / Coating Systems'}},
+de:{dev:'System entwickelt von Good Startup',h:'Das Stadtspiel des Leitfadens',st:'Wird geladen …',note:'Der erste Start dauert etwa 10–30 s, danach geht es schneller. Dein Fortschritt wird automatisch gespeichert.',skip:'Erst die Leitfäden lesen',tips:['Tipp: Mit O öffnest du Miras Taschentür – ein Schritt zu Kölns Wahrzeichen.','Tipp: Ziehen zum Umsehen; zoomen mit zwei Fingern oder dem Mausrad.','Tipp: Jeder geschaffte Simulator bringt 30 S-Münzen und einen Stempel.','Schon gewusst? Der Dom ist 157 m hoch; gebaut wurde 632 Jahre lang (1248–1880).'],
+ region:'Start',k:'Technische Seiten · 6 SCHOMBURG-Anwendungsleitfäden',th:'Direkt zu den technischen Seiten',ti:'Wählen Sie ein System: Aufbau, Verarbeitung, 3D-Modell, Simulator, technische Merkblätter, Verbrauchsrechner und Dokumente. Ohne auf das Spiel zu warten.',n:'Das Spiel erreichen Sie jederzeit über „Köln-Spiel“ oben auf der Seite.',or:'Oder spielend lernen',lang:'Sprache',
+ g:{wr:'Abdichtung und Instandsetzung',ct:'Betontechnologie',fl:'Bodensysteme',cr:'Beton\u00adinstand\u00adsetzung',wp:'Abdichtungsstoffe – mineralisch',rc:'Nachträgliche Beton\u00adabdichtung',inj:'Rissabdichtung / Injektionsharze',ca:'Kristallines Beton\u00adzusatz\u00admittel',pf:'Bodenschutz- / Beschich\u00adtungs\u00adsysteme'}}};
+/* the six guides in the order of the products menu: [id, address, group, products, icon] */
+var GG=[['cr','#/concrete-restoration','wr','ASOCRET-BIS-5/40 · BIS-1/6 · IM · HS-FLEX','<path d="M3.5 20.5l6-6"/><path d="M8.5 11.5l6.5-6.5 4.5 4.5-6.5 6.5z"/><path d="M15 5l1.5-1.5"/>'],
+['wp','#/mineral-waterproofing','wr','AQUAFIN-1K · 2K/M-PLUS · RB400 · OS','<path d="M3 8.5l9-4.5 9 4.5-9 4.5z"/><path d="M3 12.5l9 4.5 9-4.5"/><path d="M3 16.5l9 4.5 9-4.5"/>'],
+['rc','#/retrospective-concrete-waterproofing','wr','AQUAFIN-IC · ASOCRET-IM · FIX-20-T','<path d="M12 3s6 6.4 6 10.8a6 6 0 0 1-12 0C6 9.4 12 3 12 3z"/><path d="M9.2 14l2 2 3.8-4"/>'],
+['inj','#/crack-injection','wr','AQUAFIN-P1 · P4 · ASODUR-IH','<path d="M4 3.5l4 5.5-3 3.5 5 8"/><path d="M13 11l7-7"/><path d="M16.5 4H20v3.5"/><path d="M12.5 15.5l2.5-2.5"/>'],
+['ca','#/concrete-technology/crystalline-concrete-admixture','ct','BETOCRETE-CL170-P · CL210-WP · CP360-WP · CP350-CI','<path d="M12 3l6 5.5-6 12.5-6-12.5z"/><path d="M6 8.5h12"/><path d="M12 3l-2.5 5.5L12 21l2.5-12.5z"/>'],
+['pf','#/protective-flooring-coating-systems','fl','ASODUR-SG2 · B351 · V2370 · INDUFLEX-PU','<path d="M2.5 19.5l4-11h11l4 11z"/><path d="M4.4 14h15.2"/><path d="M10 8.5l-1.4 11M14 8.5l1.4 11"/>']];
+function esc(t){return String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;');}
+function go(hh,g){if(L.classList.contains('is-done'))return;window.KLOAD_SKIP=true;if(typeof window.KLOAD_ABORT==='function'){try{window.KLOAD_ABORT();}catch(e){}}L.classList.add('is-done');try{location.hash=hh;}catch(e){}
+ setTimeout(function(){if(L.parentNode)L.parentNode.removeChild(L);var m=document.querySelector('main[data-cat="'+g+'"] h1');if(m&&m.offsetHeight){if(!m.hasAttribute('tabindex'))m.setAttribute('tabindex','-1');try{m.focus({preventScroll:true});}catch(e){}}},650);}
+function label(l,first){var T=TT[l];lg=l;L.setAttribute('lang',l==='zh'?'zh-Hant-TW':l);L.setAttribute('aria-label',start?T.region:T.h);
+ $k('kLoadH').textContent=T.h;$k('kLoadNote').textContent=T.note;var dv=$k('kLoadDev');if(dv)dv.textContent=T.dev;$k('kLoadSkip').textContent=T.skip;if(first)$k('kLoadSt').textContent=T.st;
+ [].forEach.call(document.querySelectorAll('#kLoadTips li'),function(li,i){li.textContent=T.tips[i];});
+ if(!start)return;$k('kStartK').textContent=T.k;$k('kStartH').textContent=T.th;$k('kStartI').textContent=T.ti;$k('kStartN').textContent=T.n;$k('kStartOr').textContent=T.or;$k('kStartLang').setAttribute('aria-label',T.lang);
+ var u='';GG.forEach(function(G){u+='<li><a class="kload__g" href="'+G[1]+'" data-g="'+G[0]+'"><i class="kload__gi" aria-hidden="true"><svg viewBox="0 0 24 24">'+G[4]+'</svg></i><span class="kload__gt"><small>'+esc(T.g[G[2]])+'</small><b>'+esc(T.g[G[0]])+'</b><span class="kload__gp" lang="en">'+G[3].split(' · ').map(function(x,i,A){return '<span class="kload__pn">'+esc(x)+(i<A.length-1?' ·':'')+'</span>';}).join(' ')+'</span></span><svg class="kload__ga" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h13M13 6l6 6-6 6"/></svg></a></li>';});
+ $k('kStartG').innerHTML=u;[].forEach.call(document.querySelectorAll('#kStartG a'),function(a){a.addEventListener('click',function(e){if(e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();go(a.getAttribute('href'),a.getAttribute('data-g'));});});
+ [].forEach.call(document.querySelectorAll('#kStartLang button'),function(b){b.setAttribute('aria-pressed',b.getAttribute('data-l')===l?'true':'false');});}
+if(start){L.classList.add('is-start');
+ /* the keyboard stays on the start page while it is up (the game's title and the site lie under it) */ L.addEventListener('keydown',function(e){if(e.key!=='Tab'||L.classList.contains('is-done'))return;var F=[].filter.call(L.querySelectorAll('a[href],button:not([disabled])'),function(x){return !!(x.offsetWidth||x.offsetHeight)&&getComputedStyle(x).visibility!=='hidden';});if(!F.length)return;var a=document.activeElement,i=F.indexOf(a);if(e.shiftKey&&(i<=0)){e.preventDefault();F[F.length-1].focus();}else if(!e.shiftKey&&(i===F.length-1||i<0)){e.preventDefault();F[0].focus();}});$k('kStart').hidden=false;$k('kStartOr').hidden=false;$k('kStartLang').hidden=false;window.KSTART=true;
+ [].forEach.call(document.querySelectorAll('#kStartLang button'),function(b){b.addEventListener('click',function(){var l=b.getAttribute('data-l');try{localStorage.setItem('aquafin-p4-lang',l);}catch(e){}label(l);if(typeof setLang==='function'){try{setLang(l);}catch(e){}}});});}
+label(lg,true);
+$k('kLoadSkip').addEventListener('click',function(){L.classList.add('is-done');window.KLOAD_SKIP=true;try{location.hash='#how';}catch(e){}setTimeout(function(){if(L.parentNode)L.parentNode.removeChild(L);},600);});
 L.hidden=false;window.KLOAD_T0=Date.now();})();</script>
 
 <a class="vh" href="#how" id="skipLink" data-i18n="a11y.skip">Skip to content</a>

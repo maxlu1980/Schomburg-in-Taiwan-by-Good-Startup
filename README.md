@@ -134,6 +134,7 @@ Start the server (`npm run serve`) and run from the repository root:
 | `npm run test:sim` / `test:sim:full` | the simulators on phone/tablet/desktop with synthetic touch; every phase of all five simulators completes |
 | `npm run test:game` / `test:game:a11y` / `test:film` | the game's cards and HUD on desktop and phone, collisions, controls, graphics settings, indoors; axe on the game; the opening film on the audio clock |
 | `npm run test:controls` / `test:dog` / `audit:feet` | the camera with mouse, keys, on-screen buttons and touch (stick + look + pinch), the key hints; the dog's rest poses on the floor; every named place: walkers stand on the surface that is drawn |
+| `npm run test:start` | the start page: the six guides on every screen size and language, axe, a guide taken at once (the game does not open over it), the header's game button afterwards |
 
 ### Deployment
 
@@ -233,6 +234,7 @@ src/* + fonts/*（+ node_modules）  ──build.py──▶  dist/*
 | `npm run test:sim` / `test:sim:full` | 模擬器在手機／平板／桌機的合成觸控操作；五個模擬器每個階段都能完成 |
 | `npm run test:game` / `test:game:a11y` / `test:film` | 遊戲在桌機與手機的卡片與 HUD、碰撞、操控、畫質設定、室內；遊戲的 axe 檢查；開場影片的音訊時脈 |
 | `npm run test:controls` / `test:dog` / `audit:feet` | 滑鼠、鍵盤、螢幕按鈕與觸控（搖桿＋視角＋雙指縮放）的鏡頭操作與按鍵提示；狗的坐、趴姿貼地；每個具名地點：角色站在畫面上看得到的地面 |
+| `npm run test:start` | 起始頁：各種螢幕與三種語言都看得到 6 套施工指南、axe 檢查、一開啟就點選指南（遊戲不會蓋在指南上）、之後從頁首開啟遊戲 |
 
 ### 部署
 

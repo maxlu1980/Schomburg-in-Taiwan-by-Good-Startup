@@ -1233,6 +1233,50 @@ html[lang="de"] h1,html[lang="de"] h2,html[lang="de"] h3,html[lang="de"] h4,html
 .kload__dev{position:absolute;left:0;right:0;bottom:max(14px,env(safe-area-inset-bottom,0px));z-index:2;margin:0;padding:0 16px;text-align:center;font:400 12px/16px var(--font-sans);letter-spacing:.04em;color:rgba(212,239,252,.9);pointer-events:none}
 @media (max-width:720px){.kload__dev{bottom:max(68px,calc(env(safe-area-inset-bottom,0px) + 68px))}} /* (clear of the button in the corner) */
 @media (max-height:480px){.kload__dev{left:max(16px,env(safe-area-inset-left,0px));right:auto;padding:0;text-align:left;bottom:max(14px,env(safe-area-inset-bottom,0px))}} /* (a phone held sideways: the free corner, clear of the start button) */
+/* ===== (V88) the start page: the technical pages first — the six guides, one click each — and beside them the city game, loading.
+   (The plain loading screen of the game's own address keeps the layout above: the grid is transparent there.) ===== */
+.kload__grid{display:contents}
+.kload__tech[hidden],.kload__or[hidden],.kload__lang[hidden]{display:none}
+.kload.is-start{display:block;overflow-x:hidden;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+.kload.is-start .kload__grid{position:relative;z-index:1;display:grid;grid-template-columns:minmax(0,1.8fr) minmax(280px,1fr);align-items:center;gap:clamp(24px,4vw,64px);box-sizing:border-box;max-width:1200px;min-height:calc(100% - 44px);margin:0 auto;padding:max(76px,calc(env(safe-area-inset-top,0px) + 64px)) max(24px,env(safe-area-inset-right,0px)) 28px max(24px,env(safe-area-inset-left,0px))}
+.kload.is-start .kload__in{width:auto;min-width:0}
+.kload.is-start .kload__skip{display:none}
+.kload.is-start .kload__dev{position:relative;left:auto;right:auto;bottom:auto;padding:0 16px max(16px,env(safe-area-inset-bottom,0px))}
+.kload__tech{box-sizing:border-box;min-width:0;padding:clamp(20px,3vw,34px);background:#fff;color:#231f20;border-top:4px solid var(--red);text-align:left}
+.kload__tk{margin:0;font:700 12px/16px var(--font-sans);letter-spacing:.1em;text-transform:uppercase;color:#e3000f}
+.kload__th{margin:8px 0 0;font:700 clamp(26px,3.3vw,36px)/1.18 var(--font-sans);color:#231f20}
+.kload__ti{margin:10px 0 0;max-width:62ch;font:400 15px/1.6 var(--font-sans);color:#4a4a4a}
+.kload__guides{list-style:none;margin:20px 0 0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.kload__guides li{display:flex;min-width:0}
+.kload__g{flex:1;min-width:0;display:flex;align-items:center;gap:12px;min-height:72px;padding:10px 14px;box-sizing:border-box;background:#f2f2f2;border:1px solid #d0d0d0;color:#231f20;text-decoration:none;transition:border-color .15s,background-color .15s,box-shadow .15s}
+.kload__g:hover{background:#fff;border-color:var(--red);box-shadow:inset 3px 0 0 var(--red)}
+.kload__g:active{background:#fff5f5}
+.kload__g:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.kload__gi{flex:none;display:grid;place-items:center;width:42px;height:42px;background:#002f57;color:#fff}
+.kload__gi svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.kload__gt{flex:1;min-width:0;display:flex;flex-direction:column;gap:2px}
+.kload__gt small{font:700 11px/14px var(--font-sans);letter-spacing:.06em;text-transform:uppercase;color:#595959}
+.kload__gt b{font:700 16px/1.3 var(--font-sans);color:#231f20}
+.kload__gp{font:400 12px/1.4 var(--font-sans);color:#595959}
+.kload__pn{white-space:nowrap}
+.kload__ga{flex:none;width:20px;height:20px;fill:none;stroke:var(--red);stroke-width:2.2;stroke-linecap:square;transition:transform .15s}
+.kload__g:hover .kload__ga{transform:translateX(3px)}
+.kload__hint{margin:14px 0 0;font:400 13px/1.5 var(--font-sans);color:#595959}
+.kload__or{margin:0 0 6px;font:700 13px/18px var(--font-sans);letter-spacing:.1em;text-transform:uppercase;color:var(--ice)}
+.kload__lang{position:absolute;z-index:2;top:max(16px,env(safe-area-inset-top,0px));right:max(16px,env(safe-area-inset-right,0px));display:flex}
+.kload__lang button{appearance:none;min-height:36px;padding:0 12px;border:1px solid rgba(255,255,255,.7);background:transparent;color:#fff;font:400 13px/1 var(--font-sans);cursor:pointer}
+.kload__lang button+button{border-left:0}
+.kload__lang button:hover{background:rgba(255,255,255,.14)}
+.kload__lang button[aria-pressed="true"]{background:#fff;color:#231f20;font-weight:700}
+.kload__lang button:focus-visible{outline:2px solid #fff;outline-offset:2px}
+.kload.is-start .kload__btn--go{min-width:220px}
+@media (max-width:900px),(max-height:480px){.kload.is-start .kload__mark b{display:none}} /* (the small ring: its orbiting lights would reach over the words above it) */
+/* a tablet in portrait, a phone: one column, the guides first; the game below it, smaller */
+@media (max-width:900px){.kload.is-start .kload__grid{grid-template-columns:minmax(0,1fr);align-items:start;gap:28px;padding-top:max(64px,calc(env(safe-area-inset-top,0px) + 60px))}.kload.is-start .kload__in{padding-bottom:8px}.kload.is-start .kload__tips{display:none}.kload.is-start .kload__mark{width:72px;height:72px;margin-bottom:0}}
+@media (max-width:560px){.kload__guides{grid-template-columns:minmax(0,1fr);gap:8px}.kload__g{min-height:64px;padding:10px 12px;gap:10px}.kload__gi{width:36px;height:36px}.kload__gi svg{width:21px;height:21px}.kload__gt b{font-size:15px}.kload__gt small{display:none}.kload__ti{font-size:14px;line-height:1.55}.kload.is-start .kload__grid{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}.kload__tech{padding:20px 16px 18px}.kload__lang button{padding:0 9px;font-size:12px}}
+/* a phone held sideways: the guides and the game side by side again, the guides in two columns, the intro shorter */
+@media (max-height:480px) and (min-width:640px){.kload.is-start .kload__grid{grid-template-columns:minmax(0,2.3fr) minmax(200px,1fr);align-items:start;gap:20px;padding-top:max(58px,calc(env(safe-area-inset-top,0px) + 54px))}.kload__tech{padding:14px 16px 12px}.kload__tk{font-size:11px;line-height:14px}.kload__th{margin-top:4px;font-size:22px}.kload__ti,.kload__hint,.kload__gp,.kload__gt small,.kload.is-start .kload__note{display:none}.kload__guides{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:10px}.kload__g{min-height:54px;padding:6px 10px;gap:10px}.kload__gi{width:34px;height:34px}.kload__gi svg{width:20px;height:20px}.kload__gt b{font-size:14px}.kload.is-start .kload__mark{transform:none;margin:0;width:56px;height:56px}.kload.is-start .kload__h{font-size:20px}.kload.is-start .kload__in{gap:6px}}
+@media (prefers-reduced-motion:reduce){.kload__g,.kload__ga{transition:none}}
 /* (V84) red TEXT uses --red-ink (the signature red in the light theme, the lighter red of the night theme so small text keeps ≥ 4.5:1);
    white on the night theme's lighter blue would not, so the step tags take the surface colour there; muted text is a grey that passes on the grey-10 panels too */
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .tl-step__tag{color:var(--surface)}}
