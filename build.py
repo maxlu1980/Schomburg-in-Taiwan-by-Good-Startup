@@ -16,6 +16,7 @@ import json, base64, gzip, pathlib, shutil
 R = pathlib.Path(__file__).parent; src = R / 'src'; dist = R / 'dist'; fonts = R / 'fonts'
 rd = lambda p: p.read_text(encoding='utf-8')
 head, shead, style, body, boot, logo, app, hsim, hsaudio = [rd(src / f) for f in ['head.html', 'standalone-head.html', 'style.css', 'body.html', 'boot.js', 'logo-data.js', 'app.js', 'hsim.js', 'hsaudio.js']]
+hsite = '\n'.join(rd(src / f) for f in ['hsite.js', 'hsite_scenes.js', 'hsite_jobs.js', 'hsite_more.js', 'hsite_more2.js'] if (src / f).exists())  # (V89) the simulators as guided jobsites at true scale: the engine, the scenes, the jobs
 style = style + '\n' + rd(src / 'koeln' / 'isle.css')  # the Köln game's stylesheet (V61; the reference ISLE's look in SCHOMBURG red)
 de = rd(src / 'de.js') if (src / 'de.js').exists() else ''
 assert app.count('(function boot() {') == 1
@@ -24,7 +25,7 @@ app = app.replace('(function boot() {', de + '\n(function boot() {', 1)  # the G
 KOELN = ['lib/SimAudio.js', 'lib/KIT.js', 'lib/LUNA.js', 'lib/PROPS.js', 'lib/DOG.js', 'lib/MAX.js', 'lib/BOSSM.js', 'lib/TOKYO3D.js', 'lib/TPE3D.js', 'lib/SKY.js', 'kw.js', 'koeln3d.js', 'isle/k_stubs.js', 'score85.js', 'kisle.js']
 game = '\n'.join(rd(src / 'koeln' / f) for f in KOELN)
 app = app.replace("typeof JIB !== 'undefined') JIB.relabel()", "typeof ISLE !== 'undefined') ISLE.relabel()").replace("typeof JIB !== 'undefined') { try { JIB.boot()", "typeof ISLE !== 'undefined') { try { ISLE.boot()")  # Jobsite in Between (V58): core/i18n/input, sky+terrain, actors, audio, UI, world, main — before the site, after the simulators
-app = hsaudio + '\n' + hsim + '\n' + game + '\n' + app  # the jobsite sound (src/hsaudio.js), then the hands-on simulators (src/hsim.js), before the site runs its init  # the hands-on simulators (src/hsim.js) are defined before the site runs its init (the guides' shells insert the gates)
+app = hsaudio + '\n' + hsim + '\n' + hsite + '\n' + game + '\n' + app  # the jobsite sound (src/hsaudio.js), then the hands-on simulators (src/hsim.js), before the site runs its init  # the hands-on simulators (src/hsim.js) are defined before the site runs its init (the guides' shells insert the gates)
 THREE_CDN = '<script src="https://cdn.jsdelivr.net/npm/three@0.147.0/build/three.min.js"></script>'
 LIBS_CDN = {"pdfmake": ["https://cdn.jsdelivr.net/npm/pdfmake@0.3.11/build/pdfmake.min.js", "https://unpkg.com/pdfmake@0.3.11/build/pdfmake.min.js"], "docx": ["https://cdn.jsdelivr.net/npm/docx@9.11.0/dist/index.iife.js", "https://unpkg.com/docx@9.11.0/dist/index.iife.js"]}
 LIBS_LOCAL = {"pdfmake": ["lib/pdfmake.min.js"], "docx": ["lib/docx.iife.js"]}

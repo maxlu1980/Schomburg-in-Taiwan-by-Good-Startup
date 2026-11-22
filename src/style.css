@@ -1281,3 +1281,36 @@ html[lang="de"] h1,html[lang="de"] h2,html[lang="de"] h3,html[lang="de"] h4,html
    white on the night theme's lighter blue would not, so the step tags take the surface colour there; muted text is a grey that passes on the grey-10 panels too */
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .tl-step__tag{color:var(--surface)}}
 :root[data-theme="dark"] .tl-step__tag{color:var(--surface)}
+/* (V89) the simulators as guided jobsites: no tool bar, no aiming ring; one hold button at the bottom; the key details under the task; the marks on
+   the work; the section to scale in a card at the right (a sheet at the bottom on phones) */
+.hsim.is-site #hsTools,.hsim.is-site #hsRing,.hsim.is-site #hsTip,.hsim.is-site .sim__toolname{display:none!important}
+.hsim.is-site .hsim__viewbtns{right:auto;left:calc(var(--space-3) + env(safe-area-inset-left,0px));bottom:calc(var(--space-4) + env(safe-area-inset-bottom,0px));display:flex;flex-direction:row}
+.hsim.is-site .sim__snd{bottom:calc(var(--space-4) + env(safe-area-inset-bottom,0px))}
+.hsim.is-site .sim__feed{left:0;right:0;margin-inline:auto;width:min(560px,92vw);bottom:calc(118px + env(safe-area-inset-bottom,0px));justify-items:center;text-align:center}
+.hsim.is-site .sim__mix{bottom:calc(112px + env(safe-area-inset-bottom,0px))}
+.hs2__hold{position:absolute;z-index:3;left:50%;transform:translateX(-50%);bottom:calc(var(--space-4) + env(safe-area-inset-bottom,0px));display:flex;align-items:center;gap:12px;min-height:72px;padding:8px 26px 8px 8px;border:0;border-radius:999px;background:#c8102e;color:#fff;font:700 17px/20px var(--font-sans);box-shadow:0 6px 20px rgba(0,0,0,.35);cursor:pointer;touch-action:none;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}
+.hs2__hold svg{width:56px;height:56px;flex:none}.hs2__ring0{fill:rgba(0,0,0,.18);stroke:rgba(255,255,255,.38);stroke-width:5}.hs2__arc{fill:none;stroke:#fff;stroke-width:5;stroke-linecap:round}.hs2__play{fill:#fff}
+.hs2__holdTx{display:grid;text-align:left}.hs2__holdT{font:600 13px/16px var(--font-sans)}
+.hs2__hold.is-on{background:#9c0c24;box-shadow:0 2px 8px rgba(0,0,0,.35),inset 0 0 0 3px rgba(255,255,255,.55)}.hs2__hold.is-on .hs2__play{fill:#ffd24a}
+.hs2__hold:disabled{background:rgba(0,47,87,.92);cursor:not-allowed}.hs2__hold:disabled .hs2__arc,.hs2__hold:disabled .hs2__play{opacity:.45}
+.hs2__hold:focus-visible{outline:3px solid #ffd24a;outline-offset:3px}
+.hs2__keys{margin-top:10px;padding-top:8px;border-top:1px solid rgba(127,127,127,.4);font:400 14px/19px var(--font-sans)}
+.hs2__keys b{display:block;font:700 12px/16px var(--font-sans);letter-spacing:.06em;text-transform:uppercase;margin-bottom:4px}
+.hs2__keys ul{margin:0;padding-left:18px;display:grid;gap:3px}
+.hs2__marks{position:absolute;inset:0;z-index:1;pointer-events:none;overflow:hidden}
+.hs2__lead{position:absolute;inset:0;width:100%;height:100%;overflow:visible}.hs2__lead line{stroke:rgba(255,255,255,.92);stroke-width:1.6}.hs2__lead circle{fill:#fff;stroke:rgba(0,0,0,.45);stroke-width:1}
+.hs2__mark{position:absolute;left:0;top:0;background:rgba(255,255,255,.95);color:#1d2733;font:600 13px/17px var(--font-sans);padding:3px 8px;border-left:3px solid #002f57;white-space:nowrap;box-shadow:0 1px 6px rgba(0,0,0,.3);will-change:transform}
+.hs2__mark.is-warn{border-left-color:#c8102e;color:#8c0b20}.hs2__mark.is-dim{background:#ffd24a;border:0;font-variant-numeric:tabular-nums}
+.hs2__det{position:absolute;z-index:3;right:calc(var(--space-3) + env(safe-area-inset-right,0px));top:228px;width:min(400px,34vw);max-height:calc(100vh - 340px);max-height:calc(100dvh - 340px);overflow:auto;background:#f7f6f2;color:#1d2733;padding:10px 12px 12px;box-shadow:0 8px 24px rgba(0,0,0,.35);border-top:4px solid #002f57}
+.hs2__dethead{display:flex;align-items:center;justify-content:space-between;gap:8px;font:700 14px/18px var(--font-sans);margin-bottom:6px}
+.hs2__detx{width:36px;height:36px;border:0;background:transparent;font:400 24px/1 var(--font-sans);color:#1d2733;cursor:pointer}.hs2__detx:focus-visible{outline:2px solid #002f57}
+.hs2__svg{display:block;width:100%;height:auto}
+.hs2__detbtn[aria-expanded="true"]{background:#f7f6f2;color:#1d2733}
+.hs2__site{font:400 15px/22px var(--font-sans);margin-top:10px;padding-left:10px;border-left:3px solid #ffd24a}
+@media (max-width:900px),(max-height:560px){.hs2__det{left:6px;right:6px;width:auto;top:auto;bottom:calc(104px + env(safe-area-inset-bottom,0px));max-height:42vh;max-height:42dvh}}
+@media (max-width:640px){.hs2__hold{min-height:62px;padding:6px 20px 6px 6px;font-size:16px}.hs2__hold svg{width:48px;height:48px}.hs2__keys{font-size:13px;line-height:17px}.hs2__mark{font-size:12px;line-height:15px;padding:2px 6px}.hsim.is-site .sim__feed{bottom:calc(96px + env(safe-area-inset-bottom,0px))}.hsim.is-site .sim__mix{bottom:calc(92px + env(safe-area-inset-bottom,0px))}}
+.hs2__detbtn.is-new{animation:hs2pulse 1s ease-in-out 3}@keyframes hs2pulse{50%{box-shadow:0 0 0 4px #ffd24a}}
+.hsim__mix.hs2__go{width:min(420px,92vw)}
+@media (prefers-reduced-motion:reduce){.hs2__detbtn.is-new{animation:none;box-shadow:0 0 0 3px #ffd24a}}
+@media (max-width:640px){.hsim.is-site .hsim__viewbtns{left:auto;right:calc(6px + env(safe-area-inset-right,0px));bottom:calc(88px + env(safe-area-inset-bottom,0px));flex-direction:column}
+.hsim.is-site .hsim__hud:not(.is-open) .hs2__keys ul{display:none}.hsim.is-site .hsim__hud:not(.is-open) .hs2__keys{margin-top:4px;padding-top:4px}.hsim.is-site .hsim__hud:not(.is-open) .hs2__keys b::after{content:" ▾"}}

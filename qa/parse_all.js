@@ -1,6 +1,6 @@
 const acorn = require('acorn'), fs = require('fs'), path = require('path');
 const R = require('path').join(__dirname, '..', 'src') + '/';
-const files = ['boot.js','logo-data.js','de.js','hsaudio.js','hsim.js','app.js','koeln/kw.js','koeln/koeln3d.js','koeln/kisle.js','koeln/isle/k_stubs.js', ...fs.readdirSync(R + 'koeln/lib').map(f => 'koeln/lib/' + f)];
+const files = ['boot.js','logo-data.js','de.js','hsaudio.js','hsim.js','hsite.js','hsite_scenes.js','hsite_jobs.js','hsite_more.js','hsite_more2.js','app.js','koeln/kw.js','koeln/koeln3d.js','koeln/kisle.js','koeln/isle/k_stubs.js', ...fs.readdirSync(R + 'koeln/lib').map(f => 'koeln/lib/' + f)];
 let bad = 0;
 for (const f of files) {
   const t = fs.readFileSync(R + f, 'utf8');

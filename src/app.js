@@ -14723,7 +14723,7 @@ var DocCenter = (function () {
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && modalIdx >= 0) closeModal(); });
 
   // simulator
-  sim = new Simulator(); $('simOpen').addEventListener('click', function () { sim.open(); });
+  sim = new Simulator(); $('simOpen').addEventListener('click', function () { if (typeof HSITES !== 'undefined' && HSITES.inj && typeof HSIM !== 'undefined') HSIM.open('inj'); else sim.open(); }); /* (V89) the injection runs as a guided jobsite too; the older simulator stays as the fallback */
 
   // Products menu, category routing and the scroll spy of the section navigation
   Menu.boot();
